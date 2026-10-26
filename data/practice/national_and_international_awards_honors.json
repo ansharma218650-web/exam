@@ -1,0 +1,605 @@
+{
+  "subject": "National and International Awards & Honors",
+  "questions": [
+    {
+      "id": "53742e31",
+      "question": "Who was awarded the Bharat Ratna in 2024? / वर्ष 2024 में भारत रत्न से किसे सम्मानित किया गया?",
+      "options": [
+        "Sachin Tendulkar",
+        "Karpoori Thakur & L.K. Advani / कर्पूरी ठाकुर और एल.के. आडवाणी",
+        "Amartya Sen",
+        "Pranab Mukherjee"
+      ],
+      "answer": 1,
+      "explanation": "Awarded to prominent leaders / देश के दिग्गज नेताओं को सम्मानित किया गया।"
+    },
+    {
+      "id": "212292a3",
+      "question": "Which film won the Best Feature Film at the National Film Awards recently? / हाल ही में राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+      "options": [
+        "Rocketry: The Nambi Effect / रॉकेट्री: द नंबी इफेक्ट",
+        "RRR",
+        "12th Fail",
+        "Kantara"
+      ],
+      "answer": 0,
+      "explanation": "Rocketry won Best Feature Film / रॉकेट्री को सर्वश्रेष्ठ फिल्म का पुरस्कार मिला।"
+    },
+    {
+      "id": "eb3aaf50",
+      "question": "Who won the Nobel Peace Prize 2025/2026? / नोबेल शांति पुरस्कार किसने जीता?",
+      "options": [
+        "IPCC",
+        "UNICEF",
+        "WHO",
+        "A prominent human rights advocate / एक प्रमुख मानवाधिकार कार्यकर्ता"
+      ],
+      "answer": 3,
+      "explanation": "Recognized for peace efforts / शांति प्रयासों हेतु।"
+    },
+    {
+      "id": "b8bf814e",
+      "question": "Who won the Booker Prize for Fiction recently? / हाल ही में फिक्शन के लिए बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Shehan Karunatilaka",
+        "Samantha Harvey / सामंथा हार्वे",
+        "Shehan Karunatilaka",
+        "Paul Lynch"
+      ],
+      "answer": 1,
+      "explanation": "Samantha Harvey for 'Orbital' / सामंथा हार्वे।"
+    },
+    {
+      "id": "9cb99128",
+      "question": "Which Indian musician won multiple Grammy Awards recently? / किस भारतीय संगीतकार ने हाल ही में कई ग्रमी पुरस्कार जीते?",
+      "options": [
+        "A.R. Rahman",
+        "Zakir Hussain",
+        "Shankar Mahadevan",
+        "Ricky Kej / रिकी kej"
+      ],
+      "answer": 1,
+      "explanation": "Zakir Hussain & R. Kej won / जाकिर हुसैन और रिकी केज ने जीते।"
+    },
+    {
+      "id": "13eedf0c",
+      "question": "Who received the Dadasaheb Phalke Award in recent editions? / हाल के संस्करणों में दादा साहब फाल्के पुरस्कार किसे मिला?",
+      "options": [
+        "Asha Bhosle",
+        "Rajinikanth",
+        "Amitabh Bachchan",
+        "Mithun Chakraborty / मिथुन चक्रवर्ती"
+      ],
+      "answer": 3,
+      "explanation": "Mithun Chakraborty / मिथुन चक्रवर्ती।"
+    },
+    {
+      "id": "bf753cd0",
+      "question": "Which country awards the prestigious 'Abel Prize' in Mathematics? / गणित के क्षेत्र में प्रतिष्ठित 'एबेल पुरस्कार' किस देश द्वारा दिया जाता है?",
+      "options": [
+        "Norway / नॉर्वे",
+        "Sweden",
+        "UK",
+        "USA"
+      ],
+      "answer": 0,
+      "explanation": "Awarded by Norway / नॉर्वे द्वारा प्रदान किया जाता है।"
+    },
+    {
+      "id": "442d6a93",
+      "question": "Who won the Ramon Magsaysay Award from India for community leadership? / सामुदायिक नेतृत्व के लिए रमन मैग्सेसे पुरस्कार किसने जीता?",
+      "options": [
+        "Kailash Satyarthi",
+        "T.M. Krishna",
+        "Sonam Wangchuk",
+        "Dr. Ravi Kannan R / डॉ. रवि कन्नन आर"
+      ],
+      "answer": 3,
+      "explanation": "Dr. Ravi Kannan / डॉ. रवि कन्नन।"
+    },
+    {
+      "id": "bb59fae8",
+      "question": "Which prestigious sports award is the highest sporting honor in India? / भारत का सर्वोच्च खेल सम्मान कौन सा है?",
+      "options": [
+        "Major Dhyan Chand Khel Ratna Award / मेजर ध्यानचंद खेल रत्न पुरस्कार",
+        "Rajiv Gandhi Khel Ratna",
+        "Arjuna Award",
+        "Dronacharya Award"
+      ],
+      "answer": 0,
+      "explanation": "Highest sporting honor / सर्वोच्च खेल सम्मान।"
+    },
+    {
+      "id": "8da3493b",
+      "question": "Who won the 2025 Nobel Prize in Literature? / साहित्य में 2025 का नोबेल पुरस्कार किसने जीता?",
+      "options": [
+        "Annie Ernaux",
+        "Jon Fosse",
+        "Han Kang / हान कांग",
+        "Abdulrazak Gurnah"
+      ],
+      "answer": 2,
+      "explanation": "Han Kang won / हान कांग ने जीता।"
+    },
+    {
+      "id": "342b86e6",
+      "question": "Who was awarded the Bharat Ratna in 2024? / वर्ष 2024 में भारत रत्न से किसे सम्मानित किया गया?",
+      "options": [
+        "Amartya Sen",
+        "Pranab Mukherjee",
+        "Karpoori Thakur & L.K. Advani / कर्पूरी ठाकुर और एल.के. आडवाणी",
+        "Sachin Tendulkar"
+      ],
+      "answer": 2,
+      "explanation": "Awarded to prominent leaders / देश के दिग्गज नेताओं को सम्मानित किया गया।"
+    },
+    {
+      "id": "f3ec6249",
+      "question": "Which film won the Best Feature Film at the National Film Awards recently? / हाल ही में राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+      "options": [
+        "RRR",
+        "12th Fail",
+        "Kantara",
+        "Rocketry: The Nambi Effect / रॉकेट्री: द नंबी इफेक्ट"
+      ],
+      "answer": 3,
+      "explanation": "Rocketry won Best Feature Film / रॉकेट्री को सर्वश्रेष्ठ फिल्म का पुरस्कार मिला।"
+    },
+    {
+      "id": "b367889c",
+      "question": "Who won the Nobel Peace Prize 2025/2026? / नोबेल शांति पुरस्कार किसने जीता?",
+      "options": [
+        "UNICEF",
+        "IPCC",
+        "A prominent human rights advocate / एक प्रमुख मानवाधिकार कार्यकर्ता",
+        "WHO"
+      ],
+      "answer": 2,
+      "explanation": "Recognized for peace efforts / शांति प्रयासों हेतु।"
+    },
+    {
+      "id": "1978222e",
+      "question": "Who won the Booker Prize for Fiction recently? / हाल ही में फिक्शन के लिए बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Shehan Karunatilaka",
+        "Paul Lynch",
+        "Shehan Karunatilaka",
+        "Samantha Harvey / सामंथा हार्वे"
+      ],
+      "answer": 3,
+      "explanation": "Samantha Harvey for 'Orbital' / सामंथा हार्वे।"
+    },
+    {
+      "id": "cc844452",
+      "question": "Which Indian musician won multiple Grammy Awards recently? / किस भारतीय संगीतकार ने हाल ही में कई ग्रमी पुरस्कार जीते?",
+      "options": [
+        "Ricky Kej / रिकी kej",
+        "Zakir Hussain",
+        "A.R. Rahman",
+        "Shankar Mahadevan"
+      ],
+      "answer": 1,
+      "explanation": "Zakir Hussain & R. Kej won / जाकिर हुसैन और रिकी केज ने जीते।"
+    },
+    {
+      "id": "81665306",
+      "question": "Who received the Dadasaheb Phalke Award in recent editions? / हाल के संस्करणों में दादा साहब फाल्के पुरस्कार किसे मिला?",
+      "options": [
+        "Asha Bhosle",
+        "Amitabh Bachchan",
+        "Mithun Chakraborty / मिथुन चक्रवर्ती",
+        "Rajinikanth"
+      ],
+      "answer": 2,
+      "explanation": "Mithun Chakraborty / मिथुन चक्रवर्ती।"
+    },
+    {
+      "id": "3e703328",
+      "question": "Which country awards the prestigious 'Abel Prize' in Mathematics? / गणित के क्षेत्र में प्रतिष्ठित 'एबेल पुरस्कार' किस देश द्वारा दिया जाता है?",
+      "options": [
+        "UK",
+        "Norway / नॉर्वे",
+        "USA",
+        "Sweden"
+      ],
+      "answer": 1,
+      "explanation": "Awarded by Norway / नॉर्वे द्वारा प्रदान किया जाता है।"
+    },
+    {
+      "id": "54b3d6df",
+      "question": "Who won the Ramon Magsaysay Award from India for community leadership? / सामुदायिक नेतृत्व के लिए रमन मैग्सेसे पुरस्कार किसने जीता?",
+      "options": [
+        "Dr. Ravi Kannan R / डॉ. रवि कन्नन आर",
+        "T.M. Krishna",
+        "Sonam Wangchuk",
+        "Kailash Satyarthi"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Ravi Kannan / डॉ. रवि कन्नन।"
+    },
+    {
+      "id": "63119462",
+      "question": "Which prestigious sports award is the highest sporting honor in India? / भारत का सर्वोच्च खेल सम्मान कौन सा है?",
+      "options": [
+        "Arjuna Award",
+        "Rajiv Gandhi Khel Ratna",
+        "Dronacharya Award",
+        "Major Dhyan Chand Khel Ratna Award / मेजर ध्यानचंद खेल रत्न पुरस्कार"
+      ],
+      "answer": 3,
+      "explanation": "Highest sporting honor / सर्वोच्च खेल सम्मान।"
+    },
+    {
+      "id": "8decbe8d",
+      "question": "Who won the 2025 Nobel Prize in Literature? / साहित्य में 2025 का नोबेल पुरस्कार किसने जीता?",
+      "options": [
+        "Annie Ernaux",
+        "Han Kang / हान कांग",
+        "Abdulrazak Gurnah",
+        "Jon Fosse"
+      ],
+      "answer": 1,
+      "explanation": "Han Kang won / हान कांग ने जीता।"
+    },
+    {
+      "id": "d90ccf07",
+      "question": "Who was awarded the Bharat Ratna in 2024? / वर्ष 2024 में भारत रत्न से किसे सम्मानित किया गया?",
+      "options": [
+        "Amartya Sen",
+        "Karpoori Thakur & L.K. Advani / कर्पूरी ठाकुर और एल.के. आडवाणी",
+        "Pranab Mukherjee",
+        "Sachin Tendulkar"
+      ],
+      "answer": 1,
+      "explanation": "Awarded to prominent leaders / देश के दिग्गज नेताओं को सम्मानित किया गया।"
+    },
+    {
+      "id": "ffc4cc8d",
+      "question": "Which film won the Best Feature Film at the National Film Awards recently? / हाल ही में राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+      "options": [
+        "Rocketry: The Nambi Effect / रॉकेट्री: द नंबी इफेक्ट",
+        "12th Fail",
+        "Kantara",
+        "RRR"
+      ],
+      "answer": 0,
+      "explanation": "Rocketry won Best Feature Film / रॉकेट्री को सर्वश्रेष्ठ फिल्म का पुरस्कार मिला।"
+    },
+    {
+      "id": "f750d4ac",
+      "question": "Who won the Nobel Peace Prize 2025/2026? / नोबेल शांति पुरस्कार किसने जीता?",
+      "options": [
+        "A prominent human rights advocate / एक प्रमुख मानवाधिकार कार्यकर्ता",
+        "IPCC",
+        "WHO",
+        "UNICEF"
+      ],
+      "answer": 0,
+      "explanation": "Recognized for peace efforts / शांति प्रयासों हेतु।"
+    },
+    {
+      "id": "008f45ef",
+      "question": "Who won the Booker Prize for Fiction recently? / हाल ही में फिक्शन के लिए बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Shehan Karunatilaka",
+        "Paul Lynch",
+        "Samantha Harvey / सामंथा हार्वे",
+        "Shehan Karunatilaka"
+      ],
+      "answer": 2,
+      "explanation": "Samantha Harvey for 'Orbital' / सामंथा हार्वे।"
+    },
+    {
+      "id": "3ee935a7",
+      "question": "Which Indian musician won multiple Grammy Awards recently? / किस भारतीय संगीतकार ने हाल ही में कई ग्रमी पुरस्कार जीते?",
+      "options": [
+        "Ricky Kej / रिकी kej",
+        "Shankar Mahadevan",
+        "A.R. Rahman",
+        "Zakir Hussain"
+      ],
+      "answer": 3,
+      "explanation": "Zakir Hussain & R. Kej won / जाकिर हुसैन और रिकी केज ने जीते।"
+    },
+    {
+      "id": "c8a2c5f6",
+      "question": "Who received the Dadasaheb Phalke Award in recent editions? / हाल के संस्करणों में दादा साहब फाल्के पुरस्कार किसे मिला?",
+      "options": [
+        "Mithun Chakraborty / मिथुन चक्रवर्ती",
+        "Asha Bhosle",
+        "Rajinikanth",
+        "Amitabh Bachchan"
+      ],
+      "answer": 0,
+      "explanation": "Mithun Chakraborty / मिथुन चक्रवर्ती।"
+    },
+    {
+      "id": "4e7e247e",
+      "question": "Which country awards the prestigious 'Abel Prize' in Mathematics? / गणित के क्षेत्र में प्रतिष्ठित 'एबेल पुरस्कार' किस देश द्वारा दिया जाता है?",
+      "options": [
+        "USA",
+        "UK",
+        "Norway / नॉर्वे",
+        "Sweden"
+      ],
+      "answer": 2,
+      "explanation": "Awarded by Norway / नॉर्वे द्वारा प्रदान किया जाता है।"
+    },
+    {
+      "id": "af4d0b77",
+      "question": "Who won the Ramon Magsaysay Award from India for community leadership? / सामुदायिक नेतृत्व के लिए रमन मैग्सेसे पुरस्कार किसने जीता?",
+      "options": [
+        "Kailash Satyarthi",
+        "Dr. Ravi Kannan R / डॉ. रवि कन्नन आर",
+        "T.M. Krishna",
+        "Sonam Wangchuk"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Ravi Kannan / डॉ. रवि कन्नन।"
+    },
+    {
+      "id": "35bc46d7",
+      "question": "Which prestigious sports award is the highest sporting honor in India? / भारत का सर्वोच्च खेल सम्मान कौन सा है?",
+      "options": [
+        "Major Dhyan Chand Khel Ratna Award / मेजर ध्यानचंद खेल रत्न पुरस्कार",
+        "Arjuna Award",
+        "Rajiv Gandhi Khel Ratna",
+        "Dronacharya Award"
+      ],
+      "answer": 0,
+      "explanation": "Highest sporting honor / सर्वोच्च खेल सम्मान।"
+    },
+    {
+      "id": "3c444578",
+      "question": "Who won the 2025 Nobel Prize in Literature? / साहित्य में 2025 का नोबेल पुरस्कार किसने जीता?",
+      "options": [
+        "Jon Fosse",
+        "Abdulrazak Gurnah",
+        "Annie Ernaux",
+        "Han Kang / हान कांग"
+      ],
+      "answer": 3,
+      "explanation": "Han Kang won / हान कांग ने जीता।"
+    },
+    {
+      "id": "07999e3e",
+      "question": "Who was awarded the Bharat Ratna in 2024? / वर्ष 2024 में भारत रत्न से किसे सम्मानित किया गया?",
+      "options": [
+        "Amartya Sen",
+        "Pranab Mukherjee",
+        "Sachin Tendulkar",
+        "Karpoori Thakur & L.K. Advani / कर्पूरी ठाकुर और एल.के. आडवाणी"
+      ],
+      "answer": 3,
+      "explanation": "Awarded to prominent leaders / देश के दिग्गज नेताओं को सम्मानित किया गया।"
+    },
+    {
+      "id": "1cb4cfe9",
+      "question": "Which film won the Best Feature Film at the National Film Awards recently? / हाल ही में राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+      "options": [
+        "12th Fail",
+        "RRR",
+        "Rocketry: The Nambi Effect / रॉकेट्री: द नंबी इफेक्ट",
+        "Kantara"
+      ],
+      "answer": 2,
+      "explanation": "Rocketry won Best Feature Film / रॉकेट्री को सर्वश्रेष्ठ फिल्म का पुरस्कार मिला।"
+    },
+    {
+      "id": "8f180f28",
+      "question": "Who won the Nobel Peace Prize 2025/2026? / नोबेल शांति पुरस्कार किसने जीता?",
+      "options": [
+        "UNICEF",
+        "IPCC",
+        "WHO",
+        "A prominent human rights advocate / एक प्रमुख मानवाधिकार कार्यकर्ता"
+      ],
+      "answer": 3,
+      "explanation": "Recognized for peace efforts / शांति प्रयासों हेतु।"
+    },
+    {
+      "id": "92d287f7",
+      "question": "Who won the Booker Prize for Fiction recently? / हाल ही में फिक्शन के लिए बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Paul Lynch",
+        "Samantha Harvey / सामंथा हार्वे",
+        "Shehan Karunatilaka",
+        "Shehan Karunatilaka"
+      ],
+      "answer": 1,
+      "explanation": "Samantha Harvey for 'Orbital' / सामंथा हार्वे।"
+    },
+    {
+      "id": "cd193c94",
+      "question": "Which Indian musician won multiple Grammy Awards recently? / किस भारतीय संगीतकार ने हाल ही में कई ग्रमी पुरस्कार जीते?",
+      "options": [
+        "Zakir Hussain",
+        "Ricky Kej / रिकी kej",
+        "A.R. Rahman",
+        "Shankar Mahadevan"
+      ],
+      "answer": 0,
+      "explanation": "Zakir Hussain & R. Kej won / जाकिर हुसैन और रिकी केज ने जीते।"
+    },
+    {
+      "id": "268cdc0b",
+      "question": "Who received the Dadasaheb Phalke Award in recent editions? / हाल के संस्करणों में दादा साहब फाल्के पुरस्कार किसे मिला?",
+      "options": [
+        "Asha Bhosle",
+        "Rajinikanth",
+        "Amitabh Bachchan",
+        "Mithun Chakraborty / मिथुन चक्रवर्ती"
+      ],
+      "answer": 3,
+      "explanation": "Mithun Chakraborty / मिथुन चक्रवर्ती।"
+    },
+    {
+      "id": "262d4c9c",
+      "question": "Which country awards the prestigious 'Abel Prize' in Mathematics? / गणित के क्षेत्र में प्रतिष्ठित 'एबेल पुरस्कार' किस देश द्वारा दिया जाता है?",
+      "options": [
+        "Norway / नॉर्वे",
+        "USA",
+        "Sweden",
+        "UK"
+      ],
+      "answer": 0,
+      "explanation": "Awarded by Norway / नॉर्वे द्वारा प्रदान किया जाता है।"
+    },
+    {
+      "id": "020f1073",
+      "question": "Who won the Ramon Magsaysay Award from India for community leadership? / सामुदायिक नेतृत्व के लिए रमन मैग्सेसे पुरस्कार किसने जीता?",
+      "options": [
+        "Sonam Wangchuk",
+        "T.M. Krishna",
+        "Dr. Ravi Kannan R / डॉ. रवि कन्नन आर",
+        "Kailash Satyarthi"
+      ],
+      "answer": 2,
+      "explanation": "Dr. Ravi Kannan / डॉ. रवि कन्नन।"
+    },
+    {
+      "id": "22b3590a",
+      "question": "Which prestigious sports award is the highest sporting honor in India? / भारत का सर्वोच्च खेल सम्मान कौन सा है?",
+      "options": [
+        "Major Dhyan Chand Khel Ratna Award / मेजर ध्यानचंद खेल रत्न पुरस्कार",
+        "Dronacharya Award",
+        "Rajiv Gandhi Khel Ratna",
+        "Arjuna Award"
+      ],
+      "answer": 0,
+      "explanation": "Highest sporting honor / सर्वोच्च खेल सम्मान।"
+    },
+    {
+      "id": "fa5be9b1",
+      "question": "Who won the 2025 Nobel Prize in Literature? / साहित्य में 2025 का नोबेल पुरस्कार किसने जीता?",
+      "options": [
+        "Abdulrazak Gurnah",
+        "Han Kang / हान कांग",
+        "Jon Fosse",
+        "Annie Ernaux"
+      ],
+      "answer": 1,
+      "explanation": "Han Kang won / हान कांग ने जीता।"
+    },
+    {
+      "id": "f2309f84",
+      "question": "Who was awarded the Bharat Ratna in 2024? / वर्ष 2024 में भारत रत्न से किसे सम्मानित किया गया?",
+      "options": [
+        "Sachin Tendulkar",
+        "Pranab Mukherjee",
+        "Karpoori Thakur & L.K. Advani / कर्पूरी ठाकुर और एल.के. आडवाणी",
+        "Amartya Sen"
+      ],
+      "answer": 2,
+      "explanation": "Awarded to prominent leaders / देश के दिग्गज नेताओं को सम्मानित किया गया।"
+    },
+    {
+      "id": "36f7aaa7",
+      "question": "Which film won the Best Feature Film at the National Film Awards recently? / हाल ही में राष्ट्रीय फिल्म पुरस्कारों में किस फिल्म ने सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+      "options": [
+        "Rocketry: The Nambi Effect / रॉकेट्री: द नंबी इफेक्ट",
+        "Kantara",
+        "12th Fail",
+        "RRR"
+      ],
+      "answer": 0,
+      "explanation": "Rocketry won Best Feature Film / रॉकेट्री को सर्वश्रेष्ठ फिल्म का पुरस्कार मिला।"
+    },
+    {
+      "id": "c9d9d41e",
+      "question": "Who won the Nobel Peace Prize 2025/2026? / नोबेल शांति पुरस्कार किसने जीता?",
+      "options": [
+        "IPCC",
+        "A prominent human rights advocate / एक प्रमुख मानवाधिकार कार्यकर्ता",
+        "WHO",
+        "UNICEF"
+      ],
+      "answer": 1,
+      "explanation": "Recognized for peace efforts / शांति प्रयासों हेतु।"
+    },
+    {
+      "id": "2fcf8b54",
+      "question": "Who won the Booker Prize for Fiction recently? / हाल ही में फिक्शन के लिए बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Shehan Karunatilaka",
+        "Samantha Harvey / सामंथा हार्वे",
+        "Shehan Karunatilaka",
+        "Paul Lynch"
+      ],
+      "answer": 1,
+      "explanation": "Samantha Harvey for 'Orbital' / सामंथा हार्वे।"
+    },
+    {
+      "id": "bfdeb56f",
+      "question": "Which Indian musician won multiple Grammy Awards recently? / किस भारतीय संगीतकार ने हाल ही में कई ग्रमी पुरस्कार जीते?",
+      "options": [
+        "Shankar Mahadevan",
+        "Zakir Hussain",
+        "Ricky Kej / रिकी kej",
+        "A.R. Rahman"
+      ],
+      "answer": 1,
+      "explanation": "Zakir Hussain & R. Kej won / जाकिर हुसैन और रिकी केज ने जीते।"
+    },
+    {
+      "id": "af60c078",
+      "question": "Who received the Dadasaheb Phalke Award in recent editions? / हाल के संस्करणों में दादा साहब फाल्के पुरस्कार किसे मिला?",
+      "options": [
+        "Rajinikanth",
+        "Amitabh Bachchan",
+        "Asha Bhosle",
+        "Mithun Chakraborty / मिथुन चक्रवर्ती"
+      ],
+      "answer": 3,
+      "explanation": "Mithun Chakraborty / मिथुन चक्रवर्ती।"
+    },
+    {
+      "id": "ecbcd2b3",
+      "question": "Which country awards the prestigious 'Abel Prize' in Mathematics? / गणित के क्षेत्र में प्रतिष्ठित 'एबेल पुरस्कार' किस देश द्वारा दिया जाता है?",
+      "options": [
+        "UK",
+        "Norway / नॉर्वे",
+        "Sweden",
+        "USA"
+      ],
+      "answer": 1,
+      "explanation": "Awarded by Norway / नॉर्वे द्वारा प्रदान किया जाता है।"
+    },
+    {
+      "id": "947c13e0",
+      "question": "Who won the Ramon Magsaysay Award from India for community leadership? / सामुदायिक नेतृत्व के लिए रमन मैग्सेसे पुरस्कार किसने जीता?",
+      "options": [
+        "T.M. Krishna",
+        "Dr. Ravi Kannan R / डॉ. रवि कन्नन आर",
+        "Kailash Satyarthi",
+        "Sonam Wangchuk"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Ravi Kannan / डॉ. रवि कन्नन।"
+    },
+    {
+      "id": "3f7f9151",
+      "question": "Which prestigious sports award is the highest sporting honor in India? / भारत का सर्वोच्च खेल सम्मान कौन सा है?",
+      "options": [
+        "Dronacharya Award",
+        "Rajiv Gandhi Khel Ratna",
+        "Major Dhyan Chand Khel Ratna Award / मेजर ध्यानचंद खेल रत्न पुरस्कार",
+        "Arjuna Award"
+      ],
+      "answer": 2,
+      "explanation": "Highest sporting honor / सर्वोच्च खेल सम्मान।"
+    },
+    {
+      "id": "3d4bf2b4",
+      "question": "Who won the 2025 Nobel Prize in Literature? / साहित्य में 2025 का नोबेल पुरस्कार किसने जीता?",
+      "options": [
+        "Jon Fosse",
+        "Annie Ernaux",
+        "Han Kang / हान कांग",
+        "Abdulrazak Gurnah"
+      ],
+      "answer": 2,
+      "explanation": "Han Kang won / हान कांग ने जीता।"
+    }
+  ]
+}

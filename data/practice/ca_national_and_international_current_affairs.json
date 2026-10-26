@@ -1,0 +1,1205 @@
+{
+  "subject": "CA-National and International Current Affairs",
+  "questions": [
+    {
+      "id": "8f262d6e",
+      "question": "Who won the Nobel Peace Prize 2025? / वर्ष 2025 का नोबेल शांति पुरस्कार किसने जीता?",
+      "options": [
+        "A prominent human rights organization / एक प्रमुख मानवाधिकार संगठन",
+        "Leopold Kohr",
+        "Narges Mohammadi",
+        "Maria Ressa"
+      ],
+      "answer": 0,
+      "explanation": "Awarded for peace efforts / शांति प्रयासों हेतु प्रदान किया गया।"
+    },
+    {
+      "id": "b1da0efd",
+      "question": "Which country hosted the G20 Summit in 2025? / वर्ष 2025 का G20 शिखर सम्मेलन किस देश ने आयोजित किया?",
+      "options": [
+        "South Africa / दक्षिण अफ्रीका",
+        "USA / अमेरिका",
+        "India / भारत",
+        "Brazil / ब्राजील"
+      ],
+      "answer": 0,
+      "explanation": "South Africa hosted the 2025 G20 Summit / दक्षिण अफ्रीका ने 2025 शिखर सम्मेलन की मेजबानी की।"
+    },
+    {
+      "id": "94b07ca6",
+      "question": "Who is the current Secretary-General of the United Nations (as of 2026)? / संयुक्त राष्ट्र के वर्तमान महासचिव कौन हैं?",
+      "options": [
+        "António Guterres / एंटोनियो गुटेरेस",
+        "Ban Ki-moon",
+        "Tedros Adhanom",
+        "Mikyong Lee"
+      ],
+      "answer": 0,
+      "explanation": "António Guterres holds the post / एंटोनियो गुटेरेस इस पद पर हैं।"
+    },
+    {
+      "id": "57ebe2e9",
+      "question": "Which Indian city was declared India's cleanest city in Swachh Survekshan 2025? / स्वच्छ सर्वेक्षण 2025 में किस भारतीय शहर को भारत का सबसे स्वच्छ शहर घोषित किया गया?",
+      "options": [
+        "Bhopal / भोपाल",
+        "Navi Mumbai / नवी मुंबई",
+        "Indore / इंदौर",
+        "Surat / सूरत"
+      ],
+      "answer": 2,
+      "explanation": "Indore maintained its top ranking / इंदौर ने अपना शीर्ष स्थान बरकरार रखा।"
+    },
+    {
+      "id": "115efcb6",
+      "question": "Which country became the newest member of BRICS in recent expansions? / हाल के विस्तार में कौन सा देश ब्रिक्स (BRICS) का नया सदस्य बना?",
+      "options": [
+        "Indonesia / इंडोनेशिया",
+        "Nigeria / नाइजीरिया",
+        "Egypt / मिस्र",
+        "Argentina / अर्जेंटीना"
+      ],
+      "answer": 2,
+      "explanation": "Egypt officially joined BRICS / मिस्र आधिकारिक रूप से ब्रिक्स में शामिल हुआ।"
+    },
+    {
+      "id": "f161590f",
+      "question": "Who won the ICC Men's T20 World Cup 2026? / आईसीसी पुरुष टी20 विश्व कप 2026 किसने जीता?",
+      "options": [
+        "England / इंग्लैंड",
+        "Australia / ऑस्ट्रेलिया",
+        "India / भारत",
+        "South Africa / दक्षिण अफ्रीका"
+      ],
+      "answer": 2,
+      "explanation": "India won the T20 World Cup 2026 / भारत ने टी20 विश्व कप 2026 जीता।"
+    },
+    {
+      "id": "f872c3a9",
+      "question": "Where was the 2026 Winter Olympics held? / वर्ष 2026 के शीतकालीन ओलंपिक कहाँ आयोजित किए गए?",
+      "options": [
+        "Tokyo, Japan",
+        "Beijing, China",
+        "Milan-Cortina, Italy / मिलान-कोर्टिना, इटली",
+        "Paris, France"
+      ],
+      "answer": 2,
+      "explanation": "Milan-Cortina hosted the 2026 Winter Games / मिलान-कोर्टिना ने शीतकालीन खेलों की मेजबानी की।"
+    },
+    {
+      "id": "6deaddf7",
+      "question": "Who was appointed as the Chief Election Commissioner of India in 2025/2026? / वर्ष 2025/2026 में भारत के मुख्य चुनाव आयुक्त के रूप में किसे नियुक्त किया गया?",
+      "options": [
+        "Rajiv Kumar / राजीव कुमार",
+        "Sukhbir Singh",
+        "Gyanesh Kumar / ज्ञानेश कुमार",
+        "Sunil Arora"
+      ],
+      "answer": 2,
+      "explanation": "Gyanesh Kumar serves as CEC / ज्ञानेश कुमार मुख्य चुनाव आयुक्त हैं।"
+    },
+    {
+      "id": "fe1aa59f",
+      "question": "Which film won the Best Picture award at the Academy Awards (Oscars) 2025/2026? / ऑस्कर 2025/2026 में किस फिल्म ने सर्वश्रेष्ठ फिल्म का पुरस्कार जीता?",
+      "options": [
+        "Anora",
+        "Oppenheimer",
+        "Dune: Part Two",
+        "Poor Things"
+      ],
+      "answer": 0,
+      "explanation": "Anora won top honours / फिल्म 'Anora' ने शीर्ष सम्मान जीता।"
+    },
+    {
+      "id": "aaf68f1e",
+      "question": "Which country launched the 'Artemis II' lunar mission preparations? / किस देश ने 'आर्टेमिस II' चंद्र मिशन की तैयारियां शुरू कीं?",
+      "options": [
+        "India (ISRO) / भारत",
+        "China / चीन",
+        "USA (NASA) / अमेरिका",
+        "Russia / रूस"
+      ],
+      "answer": 2,
+      "explanation": "NASA's Artemis II is a crewed lunar flyby / नासा का यह मानवयुक्त चंद्र मिशन है।"
+    },
+    {
+      "id": "02b93385",
+      "question": "Who won the Men's Singles title at Wimbledon 2026? / विंबलडन 2026 का पुरुष एकल खिताब किसने जीता?",
+      "options": [
+        "Daniil Medvedev",
+        "Carlos Alcaraz / कार्लोस अल्कराज",
+        "Novak Djokovic / नोवाक जोкович",
+        "Jannik Sinner / यानिक सिन्नर"
+      ],
+      "answer": 1,
+      "explanation": "Carlos Alcaraz claimed the title / कार्लोस अल्कराज ने खिताब जीता।"
+    },
+    {
+      "id": "ace37401",
+      "question": "What is the theme of India's Independence Day celebrations / G20 discussions on sustainable development? / सतत विकास पर भारत की पहलों से जुड़ा प्रमुख विषय क्या रहा?",
+      "options": [
+        "Atmanirbhar Bharat / आत्मनिर्भर भारत",
+        "Green Future / हरित भविष्य",
+        "Vasudhaiva Kutumbakam / वसुधैव कुटुम्बकम्",
+        "Digital Growth / डिजिटल विकास"
+      ],
+      "answer": 2,
+      "explanation": "Vasudhaiva Kutumbakam (One Earth, One Family, One Future) / वसुधैव कुटुम्बकम्।"
+    },
+    {
+      "id": "3a795813",
+      "question": "Which Indian state launched the 'Mahalakshmi' free bus travel scheme for women? / किस भारतीय राज्य ने महिलाओं के लिए 'महालक्ष्मी' मुफ्त बस यात्रा योजना शुरू की?",
+      "options": [
+        "Karnataka / कर्नाटक",
+        "Kerala / केरल",
+        "Telangana / तेलंगाना",
+        "Tamil Nadu / तमिलनाडु"
+      ],
+      "answer": 2,
+      "explanation": "Telangana government launched it / तेलंगाना सरकार द्वारा शुरू की गई।"
+    },
+    {
+      "id": "3b01f3ed",
+      "question": "Who won the Booker Prize 2025? / वर्ष 2025 का बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Damian Galut",
+        "Shehan Karunatilaka",
+        "Samantha Harvey",
+        "Paul Lynch"
+      ],
+      "answer": 2,
+      "explanation": "Samantha Harvey won for 'Orbital' / सामंथा हार्वे ने 'ऑर्बिटल' के लिए जीता।"
+    },
+    {
+      "id": "d28f729c",
+      "question": "Which space agency successfully landed the Chandrayaan-4 mission concepts? / किस अंतरिक्ष एजेंसी ने चंद्रयान-4 मिशन की रूपरेखा तैयार की?",
+      "options": [
+        "JAXA (Japan)",
+        "ESA (Europe)",
+        "NASA (USA)",
+        "ISRO (India) / इसरो"
+      ],
+      "answer": 3,
+      "explanation": "ISRO is spearheading Chandrayaan-4 / इसरो चंद्रयान-4 का नेतृत्व कर रहा है।"
+    },
+    {
+      "id": "6d6cddf9",
+      "question": "Who is the current President of the World Bank (in 2026)? / विश्व बैंक के वर्तमान अध्यक्ष कौन हैं?",
+      "options": [
+        "Ajay Banga / अजय बंगा",
+        "David Malpass",
+        "Kristalina Georgieva",
+        "Ngozi Okonjo-Iweala"
+      ],
+      "answer": 0,
+      "explanation": "Ajay Banga leads the World Bank / अजय बंगा विश्व बैंक के अध्यक्ष हैं।"
+    },
+    {
+      "id": "b7d015f9",
+      "question": "Which country won the ICC Women's T20 World Cup 2026? / आईसीसी महिला टी20 विश्व कप 2026 किसने जीता?",
+      "options": [
+        "Australia / ऑस्ट्रेलिया",
+        "India / भारत",
+        "England / इंग्लैंड",
+        "New Zealand / न्यूजीलैंड"
+      ],
+      "answer": 0,
+      "explanation": "Australia won the tournament / ऑस्ट्रेलिया ने टूर्नामेंट जीता।"
+    },
+    {
+      "id": "4b7eed77",
+      "question": "Who won the French Open Men's Singles 2026? / फ्रेंच ओपन पुरुष एकल 2026 किसने जीता?",
+      "options": [
+        "Carlos Alcaraz",
+        "Casper Ruud",
+        "Rafael Nadal",
+        "Novak Djokovic"
+      ],
+      "answer": 0,
+      "explanation": "Carlos Alcaraz won Roland Garros / कार्लोस अल्कराज ने जीता।"
+    },
+    {
+      "id": "b93d31a3",
+      "question": "Which Indian institution was ranked top in NIRF Rankings 2025/2026 overall category? / NIRF रैंकिंग 2025/2026 में समग्र श्रेणी में किस भारतीय संस्थान को शीर्ष स्थान मिला?",
+      "options": [
+        "IIT Bombay / आईआईटी बॉम्बे",
+        "IIT Delhi / आईआईटी दिल्ली",
+        "IIT Madras / आईआईटी मद्रास",
+        "IISc Bangalore / आईआईएससी बैंगलोर"
+      ],
+      "answer": 2,
+      "explanation": "IIT Madras secured the top spot / आईआईटी मद्रास शीर्ष पर रहा।"
+    },
+    {
+      "id": "5d223d89",
+      "question": "Who was honored with the Dadasaheb Phalke Award recently? / हाल ही में दादा साहब फाल्के पुरस्कार से किसे सम्मानित किया गया?",
+      "options": [
+        "Asha Bhosle",
+        "Waheeda Rehman / वहीदा रहमान",
+        "Mithun Chakraborty / मिथुन चक्रवर्ती",
+        "Rajinikanth"
+      ],
+      "answer": 2,
+      "explanation": "Mithun Chakraborty received the prestigious award / मिथुन चक्रवर्ती को यह सम्मान मिला।"
+    },
+    {
+      "id": "43408ae8",
+      "question": "Which country became the 32nd member of NATO in 2024-2025? / कौन सा देश 2024-2025 में नाटो (NATO) का 32वां सदस्य बना?",
+      "options": [
+        "Finland / फिनलैंड",
+        "Ukraine / यूक्रेन",
+        "Sweden / स्वीडन",
+        "Austria / ऑस्ट्रिया"
+      ],
+      "answer": 2,
+      "explanation": "Sweden officially joined NATO / स्वीडन आधिकारिक रूप से नाटो में शामिल हुआ।"
+    },
+    {
+      "id": "d3dcc0ee",
+      "question": "Who won the Ramon Magsaysay Award from India in recent years? / हाल के वर्षों में भारत से रमन मैग्सेसे पुरस्कार किसने जीता?",
+      "options": [
+        "Dr. Ravi Kannan R / डॉ. रवि कन्नन आर",
+        "Sonam Wangchuk",
+        "Kailash Satyarthi",
+        "Bezwada Wilson"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Ravi Kannan won for oncological leadership / ऑन्कोलॉजी नेतृत्व हेतु डॉ. रवि कन्नन को मिला।"
+    },
+    {
+      "id": "a4bb9e1b",
+      "question": "Which city hosted the 33rd Olympic Games in 2024? / वर्ष 2024 में 33वें ओलंपिक खेलों की मेजबानी किस शहर ने की?",
+      "options": [
+        "Paris, France / पेरिस, फ्रांस",
+        "Los Angeles, USA",
+        "Tokyo, Japan",
+        "Brisbane, Australia"
+      ],
+      "answer": 0,
+      "explanation": "Paris hosted the 2024 Summer Olympics / पेरिस ने 2024 ग्रीष्मकालीन ओलंपिक की मेजबानी की।"
+    },
+    {
+      "id": "92669639",
+      "question": "Who is the Chairperson of the 16th Finance Commission of India? / भारत के 16वें वित्त आयोग के अध्यक्ष कौन हैं?",
+      "options": [
+        "Dr. Arvind Panagariya / डॉ. अरविंद पनगढ़िया",
+        "N.K. Singh",
+        "Shaktikanta Das",
+        "Y.V. Reddy"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Arvind Panagariya heads the 16th Finance Commission / डॉ. अरविंद पनगढ़िया 16वें वित्त आयोग के अध्यक्ष हैं।"
+    },
+    {
+      "id": "f28727b6",
+      "question": "Which Indian state inaugurated the country's first underwater metro tunnel? / किस भारतीय राज्य/शहर में देश की पहली अंडरवाटर मेट्रो सुरंग का उद्घाटन किया गया?",
+      "options": [
+        "Kochi, Kerala",
+        "Kolkata, West Bengal / कोलकाता, पश्चिम बंगाल",
+        "Mumbai, Maharashtra",
+        "Chennai, Tamil Nadu"
+      ],
+      "answer": 1,
+      "explanation": "Kolkata Metro's Howrah section / कोलकाता मेट्रो का हावड़ा खंड।"
+    },
+    {
+      "id": "9060b44a",
+      "question": "Who won the Miss Universe 2025/2026 title? / मिस यूनिवर्स 2025/2026 का खिताब किसने जीता?",
+      "options": [
+        "R'Bonney Gabriel",
+        "Sheynnis Palacios",
+        "Victoria Kjaer Theilvig / विक्टोरिया क्जेर थेилविग",
+        "Harnaaz Sandhu"
+      ],
+      "answer": 2,
+      "explanation": "Victoria Kjaer Theilvig won Miss Universe / विक्टोरिया क्जेर थेिल्विग ने खिताब जीता।"
+    },
+    {
+      "id": "f78cc3ed",
+      "question": "Which country successfully launched its first reusable rocket prototype in 2025/2026? / किस देश ने 2025/2026 में अपना पहला पुनर्चक्रणीय रॉकेट प्रोटोटाइप सफलतापूर्वक लॉन्च किया?",
+      "options": [
+        "Japan / जापान",
+        "China / चीन",
+        "France / फ्रांस",
+        "India (ISRO) / भारत"
+      ],
+      "answer": 1,
+      "explanation": "China achieved major reusable rocket milestones / चीन ने पुनर्चक्रणीय रॉकेट परीक्षण किए।"
+    },
+    {
+      "id": "f48a4f15",
+      "question": "Who won the Australian Open Men's Singles 2026? / ऑस्ट्रेलियन ओपन पुरुष एकल 2026 किसने जीता?",
+      "options": [
+        "Daniil Medvedev",
+        "Jannik Sinner / यानिक सिन्नर",
+        "Novak Djokovic",
+        "Carlos Alcaraz"
+      ],
+      "answer": 1,
+      "explanation": "Jannik Sinner clinched the title / यानिक सिन्नर ने खिताब जीता।"
+    },
+    {
+      "id": "66485792",
+      "question": "Which Indian scheme marked 10 years of successful implementation in 2024-2025? / किस भारतीय योजना ने 2024-2025 में अपने सफल क्रियान्वयन के 10 वर्ष पूरे किए?",
+      "options": [
+        "Pradhan Mantri Jan Dhan Yojana / प्रधानमंत्री जन धन योजना",
+        "Make in India / मेक इन इंडिया",
+        "Both A and C / A और C दोनों",
+        "Swachh Bharat Abhiyan / स्वच्छ भारत अभियान"
+      ],
+      "answer": 2,
+      "explanation": "Jan Dhan and Swachh Bharat completed 10 years / जन धन और स्वच्छ भारत दोनों ने 10 वर्ष पूरे किए।"
+    },
+    {
+      "id": "03f8c40d",
+      "question": "Who is the current Attorney General of India (as of 2026)? / भारत के वर्तमान महान्यायवादी (Attorney General) कौन हैं?",
+      "options": [
+        "R. Venkataramani / आर. वेंकटरमणी",
+        "K.K. Venugopal",
+        "Tushar Mehta",
+        "Mukul Rohatgi"
+      ],
+      "answer": 0,
+      "explanation": "R. Venkataramani serves as AG / आर. वेंकटरमणी महान्यायवादी हैं।"
+    },
+    {
+      "id": "d6575470",
+      "question": "Which country hosted the COP30 Climate Change Conference in 2025? / वर्ष 2025 का COP30 जलवायु परिवर्तन सम्मेलन किस देश में आयोजित हुआ?",
+      "options": [
+        "Azerbaijan (Baku)",
+        "Brazil (Belém) / ब्राजील",
+        "UAE (Dubai)",
+        "Egypt (Sharm el-Sheikh)"
+      ],
+      "answer": 1,
+      "explanation": "Brazil hosted COP30 / ब्राजील ने COP30 की मेजबानी की।"
+    },
+    {
+      "id": "d6db511a",
+      "question": "Who won the ICC Men's Cricket World Cup 2023? / आईसीसी पुरुष क्रिकेट विश्व कप 2023 किसने जीता?",
+      "options": [
+        "Australia / ऑस्ट्रेलिया",
+        "New Zealand / न्यूजीलैंड",
+        "India / भारत",
+        "England / इंग्लैंड"
+      ],
+      "answer": 0,
+      "explanation": "Australia won the 2023 World Cup / ऑस्ट्रेलिया ने 2023 विश्व कप जीता।"
+    },
+    {
+      "id": "56f285d4",
+      "question": "Which Indian scientist was awarded the Bharat Ratna posthumously in 2024? / वर्ष 2024 में किस भारतीय वैज्ञानिक को मरणोपरांत भारत रत्न से सम्मानित किया गया?",
+      "options": [
+        "Homi J. Bhabha",
+        "Prof. C.N.R. Rao",
+        "Dr. A.P.J. Abdul Kalam",
+        "Dr. M.S. Swaminathan / डॉ. एम.एस. स्वामीनाथन"
+      ],
+      "answer": 3,
+      "explanation": "Green Revolution pioneer Dr. M.S. Swaminathan / हरित क्रांति के जनक डॉ. एम.एस. स्वामीनाथन।"
+    },
+    {
+      "id": "a5ec7fea",
+      "question": "Who is the Governor of the Reserve Bank of India (RBI) in 2026? / 2026 में भारतीय रिजर्व बैंक (RBI) के गवर्नर कौन हैं?",
+      "options": [
+        "Raghuram Rajan",
+        "Urjit Patel",
+        "Shaktikanta Das / शक्तिकांत दास",
+        "Michael Patra"
+      ],
+      "answer": 2,
+      "explanation": "Shaktikanta Das continues as RBI Governor / शक्तिकांत दास गवर्नर हैं।"
+    },
+    {
+      "id": "5cb5e98b",
+      "question": "Which state launched the 'Ladli Behna Yojana' scheme? / किस राज्य ने 'लाडली बहना योजना' शुरू की है?",
+      "options": [
+        "Rajasthan / राजस्थान",
+        "Uttar Pradesh / उत्तर प्रदेश",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Chhattisgarh / छत्तीसगढ़"
+      ],
+      "answer": 2,
+      "explanation": "Madhya Pradesh government launched it / मध्य प्रदेश सरकार द्वारा शुरू की गई।"
+    },
+    {
+      "id": "fd0fbbec",
+      "question": "Who won the US Open Men's Singles 2025? / यूएस ओपन पुरुष एकल 2025 किसने जीता?",
+      "options": [
+        "Carlos Alcaraz",
+        "Jannik Sinner / यानिक सिन्नर",
+        "Novak Djokovic",
+        "Daniil Medvedev"
+      ],
+      "answer": 1,
+      "explanation": "Jannik Sinner won the US Open / यानिक सिन्नर ने यूएस ओपन जीता।"
+    },
+    {
+      "id": "f90a1845",
+      "question": "Which country became the first to land a spacecraft near the Moon's south pole? / चंद्रमा के दक्षिणी ध्रुव के पास अंतरिक्ष यान उतारने वाला पहला देश कौन सा बना?",
+      "options": [
+        "India (Chandrayaan-3) / भारत",
+        "Russia",
+        "China",
+        "USA"
+      ],
+      "answer": 0,
+      "explanation": "India achieved this historic feat / भारत ने यह ऐतिहासिक उपलब्धि हासिल की।"
+    },
+    {
+      "id": "00999296",
+      "question": "Who won the Sahitya Akademi Award 2025 (Hindi)? / हिंदी के लिए साहित्य अकादमी पुरस्कार 2025 किसने जीता?",
+      "options": [
+        "Neelakandan",
+        "Sanjeev / संजीव",
+        "Anuradha Roy",
+        "Badri Narayan"
+      ],
+      "answer": 1,
+      "explanation": "Sanjeev won for 'Mujhe Pehchano' / संजीव को 'मुझे पहचानो' उपन्यास हेतु मिला।"
+    },
+    {
+      "id": "68dc866b",
+      "question": "Which Indian airport was named the best in regional South Asia recently? / हाल ही में किस भारतीय हवाई अड्डे को दक्षिण एशिया में सर्वश्रेष्ठ क्षेत्रीय हवाई अड्डा घोषित किया गया?",
+      "options": [
+        "Chhatrapati Shivaji Maharaj Airport, Mumbai",
+        "IGI Airport, Delhi",
+        "Rajiv Gandhi Airport, Hyderabad",
+        "Kempegowda International Airport, Bengaluru / केम्पेगौड़ा अंतरराष्ट्रीय हवाई अड्डा, बेंगलुरु"
+      ],
+      "answer": 3,
+      "explanation": "Bengaluru airport won Skytrax award / बेंगलुरु हवाई अड्डे ने पुरस्कार जीता।"
+    },
+    {
+      "id": "36456079",
+      "question": "Who is the current Chief Justice of India (CJI) as of 2026? / 2026 में भारत के मुख्य न्यायाधीश (CJI) कौन हैं?",
+      "options": [
+        "Justice D.Y. Chandrachud",
+        "Justice Surya Kant",
+        "Justice B.R. Gavai",
+        "Justice Sanjiv Khanna / न्यायमूर्ति संजीव खन्ना"
+      ],
+      "answer": 3,
+      "explanation": "Justice Sanjiv Khanna holds the office / न्यायमूर्ति संजीव खन्ना मुख्य न्यायाधीश हैं।"
+    },
+    {
+      "id": "5ffa7b5e",
+      "question": "Which country hosted the Asian Games 2026? / एशियाई खेल 2026 की मेजबानी किस देश ने की?",
+      "options": [
+        "India (New Delhi)",
+        "Qatar (Doha)",
+        "Japan (Aichi-Nagoya) / जापान",
+        "China (Hangzhou)"
+      ],
+      "answer": 2,
+      "explanation": "Japan hosted the 2026 Asian Games / जापान ने 2026 एशियाई खेलों की मेजबानी की।"
+    },
+    {
+      "id": "3cb2bde7",
+      "question": "Who won the 2025 Nobel Prize in Literature? / वर्ष 2025 का साहित्य का नोबेल पुरस्कार किसने जीता?",
+      "options": [
+        "Jon Fosse",
+        "Han Kang / हान कांग",
+        "Abdulrazak Gurnah",
+        "Annie Ernaux"
+      ],
+      "answer": 1,
+      "explanation": "Han Kang won the Nobel Prize in Literature / हान कांग ने साहित्य का नोबेल जीता।"
+    },
+    {
+      "id": "d8e94ad6",
+      "question": "Which state won the best state award in National Water Awards 2025? / राष्ट्रीय जल पुरस्कार 2025 में किस राज्य को सर्वश्रेष्ठ राज्य का पुरस्कार मिला?",
+      "options": [
+        "Odisha / ओडिशा",
+        "Gujarat / गुजरात",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Uttar Pradesh / उत्तर प्रदेश"
+      ],
+      "answer": 3,
+      "explanation": "Uttar Pradesh secured the top position / उत्तर प्रदेश ने शीर्ष स्थान प्राप्त किया।"
+    },
+    {
+      "id": "3ddb3f2e",
+      "question": "Who was appointed as the Chief Minister of Maharashtra following recent elections? / हालिया चुनावों के बाद महाराष्ट्र के मुख्यमंत्री के रूप में किसे चुना गया?",
+      "options": [
+        "Eknath Shinde",
+        "Devendra Fadnavis / देवेंद्र फडणवीस",
+        "Ajit Pawar",
+        "Uddhav Thackeray"
+      ],
+      "answer": 1,
+      "explanation": "Devendra Fadnavis took charge / देवेंद्र फडणवीस ने कार्यभार संभाला।"
+    },
+    {
+      "id": "09600694",
+      "question": "Which Indian naval ship undertook major anti-piracy operations in the Gulf of Aden in 2024-2025? / किस भारतीय नौसेना के जहाज ने अदन की खाड़ी में प्रमुख एंटी-पायरेसी अभियान चलाए?",
+      "options": [
+        "INS Visakhapatnam",
+        "INS Kolkata / आईएनएस कोलकाता",
+        "INS Talwar",
+        "INS Vikrant"
+      ],
+      "answer": 1,
+      "explanation": "INS Kolkata led critical maritime security operations / आईएनएस कोलकाता ने समुद्री सुरक्षा अभियान चलाए।"
+    },
+    {
+      "id": "fa46a3e0",
+      "question": "Who won the 2025 Man Booker International Prize? / वर्ष 2025 का अंतर्राष्ट्रीय बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Paul Lynch",
+        "Georgi Gospodinov",
+        "Geetanjali Shree",
+        "Jenny Erpenbeck"
+      ],
+      "answer": 3,
+      "explanation": "Jenny Erpenbeck won for 'Kairos' / जेनी एर्पेनबेक को 'काइरोस' के लिए मिला।"
+    },
+    {
+      "id": "d01ac3ee",
+      "question": "Which country launched the world's first commercial wooden satellite 'LignoSat'? / दुनिया का पहला व्यावसायिक लकड़ी का उपग्रह 'लिग्नोसैट' किस देश ने लॉन्च किया?",
+      "options": [
+        "South Korea",
+        "Germany",
+        "Japan / जापान",
+        "USA"
+      ],
+      "answer": 2,
+      "explanation": "Japan Aerospace Exploration Agency / जापानी अंतरिक्ष एजेंसी द्वारा।"
+    },
+    {
+      "id": "7345efa8",
+      "question": "Who is the Chairman of ISRO in 2026? / 2026 में इसरो (ISRO) के अध्यक्ष कौन हैं?",
+      "options": [
+        "A. S. Kiran Kumar",
+        "S. Somanath / एस. सोमनाथ",
+        "K. Sivan",
+        "G. Madhavan Nair"
+      ],
+      "answer": 1,
+      "explanation": "S. Somanath leads ISRO / एस. सोमनाथ इसरो के अध्यक्ष हैं।"
+    },
+    {
+      "id": "43ebf1a6",
+      "question": "Which Indian city became India's first UNESCO 'City of Literature'? / कौन सा भारत का पहला यूनेस्को 'साहित्य का शहर' (City of Literature) बना?",
+      "options": [
+        "Varanasi, Uttar Pradesh",
+        "Kozhikode, Kerala / कोझिकोड, केरल",
+        "Shillong, Meghalaya",
+        "Jaipur, Rajasthan"
+      ],
+      "answer": 1,
+      "explanation": "Kozhikode earned the UNESCO tag / कोझिकोड को यूनेस्को टैग मिला।"
+    },
+    {
+      "id": "6b0092a9",
+      "question": "Who won the ICC Men's Cricketer of the Year (Sir Garfield Sobers Trophy) recently? / हाल ही में आईसीसी पुरुष क्रिकेटर ऑफ द ईयर (सर गारफील्ड सोबर्स ट्रॉफी) किसने जीती?",
+      "options": [
+        "Rohit Sharma",
+        "Travis Head",
+        "Virat Kohli",
+        "Pat Cummins / पैट कमिंस"
+      ],
+      "answer": 3,
+      "explanation": "Pat Cummins won the prestigious award / पैट कमिंस ने यह प्रतिष्ठित पुरस्कार जीता।"
+    },
+    {
+      "id": "9231c840",
+      "question": "Which country hosted the FIFA Men's World Cup 2022? / फीफा पुरुष विश्व कप 2022 की मेजबानी किस देश ने की थी?",
+      "options": [
+        "Germany",
+        "Brazil",
+        "Russia",
+        "Qatar / कतर"
+      ],
+      "answer": 3,
+      "explanation": "Qatar hosted the 2022 FIFA World Cup / कतर ने 2022 विश्व कप की मेजबानी की।"
+    },
+    {
+      "id": "dfba56ec",
+      "question": "Who is the Prime Minister of the United Kingdom as of 2026? / 2026 में यूनाइटेड किंगडम के प्रधानमंत्री कौन हैं?",
+      "options": [
+        "Boris Johnson",
+        "Rishi Sunak",
+        "Liz Truss",
+        "Keir Starmer / केयर स्टारर"
+      ],
+      "answer": 3,
+      "explanation": "Keir Starmer serves as UK PM / केयर स्टारर यूके के प्रधानमंत्री हैं।"
+    },
+    {
+      "id": "2184f32d",
+      "question": "Which state launched the 'Mukhya Mantri Majhi Ladki Bahin Yojana'? / किस राज्य ने 'मुख्यमंत्री माझी लाडकी बहीण योजना' शुरू की है?",
+      "options": [
+        "Maharashtra / महाराष्ट्र",
+        "Gujarat",
+        "Goa",
+        "Haryana"
+      ],
+      "answer": 0,
+      "explanation": "Maharashtra government launched it / महाराष्ट्र सरकार द्वारा शुरू की गई।"
+    },
+    {
+      "id": "9bb0075a",
+      "question": "Who won the 2025 Nobel Prize in Physics? / भौतिकी में 2025 का नोबेल पुरस्कार किसे मिला?",
+      "options": [
+        "Anton Zeilinger",
+        "John Hopfield & Geoffrey Hinton",
+        "Agostini, Krausz & L'Huillier",
+        "Alain Aspect"
+      ],
+      "answer": 1,
+      "explanation": "Awarded for foundational machine learning discoveries / मशीन लर्निंग में बुनियादी खोजों हेतु।"
+    },
+    {
+      "id": "03a2c326",
+      "question": "Which Indian organization developed the 'Netra' early warning system for space debris? / अंतरिक्ष मलबे के लिए किस भारतीय संगठन ने 'नेत्र' प्रारंभिक चेतावनी प्रणाली विकसित की?",
+      "options": [
+        "HAL / एचएएल",
+        "ISRO / इसरो",
+        "DRDO / डीआरडीओ",
+        "BHEL"
+      ],
+      "answer": 1,
+      "explanation": "ISRO developed NETRA / इसरो द्वारा विकसित।"
+    },
+    {
+      "id": "7d6c0341",
+      "question": "Who won the 2025 Nobel Prize in Chemistry? / रसायन विज्ञान में 2025 का नोबेल पुरस्कार किसे मिला?",
+      "options": [
+        "Benjamin List",
+        "Demis Hassabis, John Jumper & David Baker",
+        "Carolyn Bertozzi",
+        "Moungi Bawendi"
+      ],
+      "answer": 1,
+      "explanation": "Awarded for protein structure prediction / प्रोटीन संरचना भविष्यवाणी हेतु।"
+    },
+    {
+      "id": "01915c47",
+      "question": "Which country successfully conducted the test flight of its 'Gaganyaan' abort mission TV-D1? / किस देश ने अपने 'गगनयान' एबॉर्ट मिशन TV-D1 का सफल परीक्षण किया?",
+      "options": [
+        "India / भारत",
+        "Russia",
+        "USA",
+        "France"
+      ],
+      "answer": 0,
+      "explanation": "ISRO successfully tested Gaganyaan crew abort / इसरो ने क्रू एबॉर्ट का सफल परीक्षण किया।"
+    },
+    {
+      "id": "634a0cd7",
+      "question": "Who is the current President of the United States (as of 2026)? / 2026 में संयुक्त राज्य अमेरिका के राष्ट्रपति कौन हैं?",
+      "options": [
+        "Donald Trump / डोनाल्ड ट्रंप",
+        "Joe Biden / जो बाइडेन",
+        "Kamala Harris",
+        "Barack Obama"
+      ],
+      "answer": 0,
+      "explanation": "Donald Trump assumed office / डोनाल्ड ट्रंप राष्ट्रपति पद पर हैं।"
+    },
+    {
+      "id": "252e552e",
+      "question": "Which Indian monument was included in the UNESCO World Heritage list in 2024? / 2024 में किस भारतीय स्मारक को यूनेस्को की विश्व धरोहर सूची में शामिल किया गया?",
+      "options": [
+        "Ajanta Caves",
+        "Santiniketan & Hoysala Temples (Sacred Ensembles) / शांतिनिकेतन और होयसल मंदिर",
+        "Mahabalipuram",
+        "Moin-ud-Din Chisti Dargah"
+      ],
+      "answer": 1,
+      "explanation": "Hoysala temples and Santiniketan inscribed / शांतिनिकेतन और होयसल मंदिरों को शामिल किया गया।"
+    },
+    {
+      "id": "17ca3544",
+      "question": "Who won the 2025 Nobel Prize in Physiology or Medicine? / चिकित्सा में 2025 का नोबेल पुरस्कार किसे मिला?",
+      "options": [
+        "Katalin Karikó & Drew Weissman",
+        "Svante Pääbo",
+        "David Julius",
+        "Victor Ambros & Gary Ruvkun"
+      ],
+      "answer": 3,
+      "explanation": "Awarded for the discovery of microRNA / माइक्रोआरएनए की खोज हेतु।"
+    },
+    {
+      "id": "e87b5078",
+      "question": "Which city hosted the 2024 Summer Paralympic Games? / 2024 ग्रीष्मकालीन पैरालंपिक खेलों की मेजबानी किस शहर ने की?",
+      "options": [
+        "Tokyo, Japan",
+        "Rio de Janeiro, Brazil",
+        "London, UK",
+        "Paris, France / पेरिस, फ्रांस"
+      ],
+      "answer": 3,
+      "explanation": "Paris hosted the 2024 Paralympics / पेरिस ने पैरालंपिक खेलों की मेजबानी की।"
+    },
+    {
+      "id": "6eb1dc83",
+      "question": "Who is the Chief Minister of Uttar Pradesh in 2026? / 2026 में उत्तर प्रदेश के मुख्यमंत्री कौन हैं?",
+      "options": [
+        "Akhilesh Yadav",
+        "Yogi Adityanath / योगी आदित्यनाथ",
+        "Mayawati",
+        "Rajnath Singh"
+      ],
+      "answer": 1,
+      "explanation": "Yogi Adityanath is the Chief Minister / योगी आदित्यनाथ मुख्यमंत्री हैं।"
+    },
+    {
+      "id": "fa542e47",
+      "question": "Which country became the newest (10th) member of the Shanghai Cooperation Organisation (SCO)? / शियांग्हाई सहयोग संगठन (SCO) का नया (10वां) सदस्य देश कौन सा बना?",
+      "options": [
+        "Iran / ईरान",
+        "Belarus / बेलारूस",
+        "Kazakhstan",
+        "Uzbekistan"
+      ],
+      "answer": 1,
+      "explanation": "Belarus officially joined SCO / बेलारूस आधिकारिक रूप से एससीओ का सदस्य बना।"
+    },
+    {
+      "id": "17a3a586",
+      "question": "Who won the 2025 Dadasaheb Phalke International Film Festival Award for Best Actor? / दादा साहब फाल्के अंतरराष्ट्रीय फिल्म महोत्सव 2025 में सर्वश्रेष्ठ अभिनेता का पुरस्कार किसने जीता?",
+      "options": [
+        "Vicky Kaushal",
+        "Shah Rukh Khan / शाहरुख खान",
+        "Ranveer Singh",
+        "Ranbir Kapoor"
+      ],
+      "answer": 1,
+      "explanation": "Shah Rukh Khan won for 'Jawan' / शाहरुख खान को 'जवान' के लिए मिला।"
+    },
+    {
+      "id": "b3e65980",
+      "question": "Which Indian state launched the 'Amrit Mahotsav' forestation initiatives and Van Mahotsav drives? / किस भारतीय राज्य ने प्रमुख वनरोपण अभियान चलाए?",
+      "options": [
+        "Assam",
+        "Karnataka",
+        "Uttar Pradesh / उत्तर प्रदेश",
+        "Gujarat"
+      ],
+      "answer": 2,
+      "explanation": "Uttar Pradesh led massive tree-plantation drives / उत्तर प्रदेश बड़े पैमाने पर वृक्षारोपण अभियान चला रहा है।"
+    },
+    {
+      "id": "e3dde439",
+      "question": "Who won the 2025 Miss World title? / मिस वर्ल्ड 2025 का खिताब किसने जीता?",
+      "options": [
+        "Krystyna Pyszková",
+        "Manushi Chhillar",
+        "Karolina Bielawska",
+        "Opal Suchata"
+      ],
+      "answer": 0,
+      "explanation": "Krystyna Pyszková won Miss World / क्रिस्टिना पिस्जकोवा ने जीता।"
+    },
+    {
+      "id": "7ef38d2f",
+      "question": "Which country successfully launched the 'Aditya-L1' solar observatory mission? / किस देश ने 'आदित्य-L1' सौर वेधशाला मिशन सफलतापूर्वक लॉन्च किया?",
+      "options": [
+        "Japan (JAXA)",
+        "USA (NASA)",
+        "India (ISRO) / भारत",
+        "China (CNSA)"
+      ],
+      "answer": 2,
+      "explanation": "ISRO launched Aditya-L1 to study the Sun / इसरो ने सूर्य अध्ययन हेतु आदित्य-L1 लॉन्च किया।"
+    },
+    {
+      "id": "b39780aa",
+      "question": "Who is the Chairman of Defence Research and Development Organisation (DRDO) in 2026? / 2026 में डीआरडीओ (DRDO) के अध्यक्ष कौन हैं?",
+      "options": [
+        "V.K. Saraswat",
+        "G. Satheesh Reddy",
+        "Dr. Samir V. Kamat / डॉ. समीर वी. कामत",
+        "S. Christopher"
+      ],
+      "answer": 2,
+      "explanation": "Dr. Samir V. Kamat heads DRDO / डॉ. समीर वी. कामत डीआरडीओ प्रमुख हैं।"
+    },
+    {
+      "id": "482f4193",
+      "question": "Which Indian airport won the 'Best Airport in India and South Asia' award at Skytrax 2024-2025? / किस हवाई अड्डे को सर्वश्रेष्ठ हवाई अड्डे का पुरस्कार मिला?",
+      "options": [
+        "Kempegowda International Airport, Bengaluru / केम्पेगौड़ा अंतरराष्ट्रीय हवाई अड्डा",
+        "Mumbai Airport",
+        "Hyderabad Airport",
+        "Delhi Airport"
+      ],
+      "answer": 0,
+      "explanation": "Bengaluru airport won Skytrax honour / बेंगलुरु हवाई अड्डे को यह सम्मान मिला।"
+    },
+    {
+      "id": "ce49e392",
+      "question": "Who won the ICC Women's Cricket World Cup 2025? / आईसीसी महिला क्रिकेट विश्व कप 2025 किसने जीता?",
+      "options": [
+        "Australia / ऑस्ट्रेलिया",
+        "England / इंग्लैंड",
+        "India / भारत",
+        "South Africa / दक्षिण अफ्रीका"
+      ],
+      "answer": 0,
+      "explanation": "Australia won the tournament / ऑस्ट्रेलिया ने टूर्नामेंट जीता।"
+    },
+    {
+      "id": "eec8719d",
+      "question": "Which country hosted the 49th G7 Summit? / 49वें G7 शिखर सम्मेलन की मेजबानी किस देश ने की?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Japan (Hiroshima) / जापान",
+        "Canada"
+      ],
+      "answer": 2,
+      "explanation": "Japan hosted the Hiroshima G7 Summit / जापान ने हिरोशिमा G7 सम्मेलन की मेजबानी की।"
+    },
+    {
+      "id": "0f3a49a6",
+      "question": "Who is the Director-General of UNESCO in 2026? / 2026 में यूनेस्को के महानिदेशक कौन हैं?",
+      "options": [
+        "Tedros Adhanom",
+        "Audrey Azoulay / ऑड्रे एजोले",
+        "António Guterres",
+        "Kristalina Georgieva"
+      ],
+      "answer": 1,
+      "explanation": "Audrey Azoulay leads UNESCO / ऑड्रे एजोले यूनेस्को की महानिदेशक हैं।"
+    },
+    {
+      "id": "39de602a",
+      "question": "Which Indian state launched the 'Abua Awas Yojana' housing scheme? / किस भारतीय राज्य ने 'अबुआ आवास योजना' आवास योजना शुरू की?",
+      "options": [
+        "Chhattisgarh",
+        "Bihar",
+        "Jharkhand / झारखंड",
+        "Odisha"
+      ],
+      "answer": 2,
+      "explanation": "Jharkhand government launched it / झारखंड सरकार द्वारा शुरू की गई।"
+    },
+    {
+      "id": "f52733b7",
+      "question": "Who won the 2025 Laureus World Sportsman of the Year Award? / लॉरियस वर्ल्ड स्पोर्ट्समैन ऑफ द ईयर 2025 किसने जीता?",
+      "options": [
+        "Erling Haaland",
+        "Max Verstappen",
+        "Novak Djokovic / नोवाक जोкович",
+        "Lionel Messi"
+      ],
+      "answer": 2,
+      "explanation": "Novak Djokovic won the Laureus award / नोवाक जोкович ने लॉरियस पुरस्कार जीता।"
+    },
+    {
+      "id": "ea26c24a",
+      "question": "Which organization launched the 'Bharashodh' portal or financial transparency measures? / किस भारतीय संस्था ने वित्तीय पारदर्शिता हेतु पोर्टल लॉन्च किए?",
+      "options": [
+        "SEBI / सेबी",
+        "RBI / आरबीआई",
+        "NITI Aayog / नीति आयोग",
+        "Ministry of Finance / वित्त मंत्रालय"
+      ],
+      "answer": 1,
+      "explanation": "RBI implemented major digital oversight measures / आरबीआई ने डिजिटल निगरानी बढ़ाई।"
+    },
+    {
+      "id": "d733dba5",
+      "question": "Who is the current Chief Minister of Bihar in 2026? / 2026 में बिहार के मुख्यमंत्री कौन हैं?",
+      "options": [
+        "Tejashwi Yadav",
+        "Nitish Kumar / नीतीश कुमार",
+        "Lalu Prasad Yadav",
+        "Jitan Ram Manjhi"
+      ],
+      "answer": 1,
+      "explanation": "Nitish Kumar serves as Bihar CM / नीतीश कुमार बिहार के मुख्यमंत्री हैं।"
+    },
+    {
+      "id": "9cc6098a",
+      "question": "Which country launched the 'JUICE' mission to Jupiter's icy moons? / किस देश/अंतरिक्ष एजेंसी ने बृहस्पति के बर्फीले चंद्रमाओं के लिए 'JUICE' मिशन लॉन्च किया?",
+      "options": [
+        "ISRO",
+        "Roscosmos",
+        "NASA",
+        "European Space Agency (ESA) / यूरोपीय अंतरिक्ष एजेंसी"
+      ],
+      "answer": 3,
+      "explanation": "ESA launched JUICE mission / ईएसए (ESA) ने जूस मिशन लॉन्च किया।"
+    },
+    {
+      "id": "7990a306",
+      "question": "Who won the 2025 Wimbledon Women's Singles title? / विंबलडन महिला एकल 2025 किसने जीता?",
+      "options": [
+        "Elena Rybakina",
+        "Barbora Krejčíková / बारबोरा क्रेज्चिकोवा",
+        "Aryna Sabalenka",
+        "Iga Świątek"
+      ],
+      "answer": 1,
+      "explanation": "Barbora Krejčíková claimed the Wimbledon title / बारबोरा क्रेज्चिकोवा ने खिताब जीता।"
+    },
+    {
+      "id": "63273afc",
+      "question": "Which Indian state introduced the country's first AI-powered school in Thiruvananthapuram? / किस राज्य ने देश का पहला AI-संचालित स्कूल शुरू किया?",
+      "options": [
+        "Maharashtra",
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala / केरल"
+      ],
+      "answer": 3,
+      "explanation": "Kerala launched India's first AI school / केरल ने देश का पहला एआई स्कूल शुरू किया।"
+    },
+    {
+      "id": "d261f1aa",
+      "question": "Who won the 2025 Australian Open Women's Singles title? / ऑस्ट्रेलियन ओपन महिला एकल 2025 किसने जीता?",
+      "options": [
+        "Aryna Sabalenka / आर्यना सबालेंका",
+        "Elena Rybakina",
+        "Coco Gauff",
+        "Iga Świątek"
+      ],
+      "answer": 0,
+      "explanation": "Aryna Sabalenka defended her title / आर्यना सबालेंका ने खिताब जीता।"
+    },
+    {
+      "id": "91f9152a",
+      "question": "Which country hosted the ICC Men's Champions Trophy 2025? / आईसीसी पुरुष चैंपियंस ट्रॉफी 2025 की मेजबानी किस देश ने की?",
+      "options": [
+        "India",
+        "Pakistan / पाकिस्तान",
+        "Sri Lanka",
+        "UAE"
+      ],
+      "answer": 1,
+      "explanation": "Pakistan hosted the Champions Trophy / पाकिस्तान ने चैंपियंस ट्रॉफी की मेजबानी की।"
+    },
+    {
+      "id": "95cf4654",
+      "question": "Who is the Comptroller and Auditor General (CAG) of India in 2026? / 2026 में भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) कौन हैं?",
+      "options": [
+        "Sunil Arora",
+        "Atanu Chakraborty",
+        "Rajiv Mehrishi",
+        "Girish Chandra Murmu / गिरीश चंद्र मुर्मू"
+      ],
+      "answer": 3,
+      "explanation": "Girish Chandra Murmu serves as CAG / गिरीश चंद्र मुर्मू सीएजी हैं।"
+    },
+    {
+      "id": "095d0854",
+      "question": "Which Indian state launched the 'Gruha Jyothi' free electricity scheme? / किस राज्य ने 'गृह ज्योति' मुफ्त बिजली योजना शुरू की?",
+      "options": [
+        "Telangana",
+        "Delhi",
+        "Karnataka / कर्नाटक",
+        "Punjab"
+      ],
+      "answer": 2,
+      "explanation": "Karnataka government launched Gruha Jyothi / कर्नाटक सरकार ने शुरू की।"
+    },
+    {
+      "id": "ac2d7bd6",
+      "question": "Who won the 2025 French Open Women's Singles? / फ्रेंच ओपन महिला एकल 2025 किसने जीता?",
+      "options": [
+        "Jasmine Paolini",
+        "Coco Gauff",
+        "Aryna Sabalenka",
+        "Iga Świątek / इगा स्वियातेक"
+      ],
+      "answer": 3,
+      "explanation": "Iga Świątek won Roland Garros again / इगा स्वियातेक ने फ्रेंच ओपन जीता।"
+    },
+    {
+      "id": "c8767682",
+      "question": "Which Indian city was named India's first 'City of Music' by UNESCO? / यूनेस्को द्वारा भारत का पहला 'संगीत का शहर' (City of Music) किसे घोषित किया गया?",
+      "options": [
+        "Chennai",
+        "Varanasi",
+        "Lucknow",
+        "Gwalior, Madhya Pradesh / ग्वालियर, मध्य प्रदेश"
+      ],
+      "answer": 3,
+      "explanation": "Gwalior earned UNESCO Music City status / ग्वालियर को यूनेस्को संगीत शहर का दर्जा मिला।"
+    },
+    {
+      "id": "ccfd2fdc",
+      "question": "Who is the Chairman of the Union Public Service Commission (UPSC) in 2026? / 2026 में संघ लोक सेवा आयोग (UPSC) के अध्यक्ष कौन हैं?",
+      "options": [
+        "Manoj Soni",
+        "Preeti Sudan / प्रीति सूडान",
+        "Arvind Saxena",
+        "Pradeep Kumar Joshi"
+      ],
+      "answer": 1,
+      "explanation": "Preeti Sudan serves as UPSC Chairperson / प्रीति सूडान यूपीएससी अध्यक्ष हैं।"
+    },
+    {
+      "id": "2942f5b5",
+      "question": "Which country launched the 'Hohhot' space satellite program advancements? / किस देश ने अंतरिक्ष क्षेत्र में नई उपलब्धियां हासिल कीं?",
+      "options": [
+        "Israel",
+        "China / चीन",
+        "Japan",
+        "South Korea"
+      ],
+      "answer": 1,
+      "explanation": "China continues rapid space advancements / चीन ने अंतरिक्ष में तेजी से प्रगति की।"
+    },
+    {
+      "id": "62ef3e58",
+      "question": "Who won the 2025 US Open Women's Singles? / यूएस ओपन महिला एकल 2025 किसने जीता?",
+      "options": [
+        "Iga Świątek",
+        "Aryna Sabalenka / आर्यना सबालेंका",
+        "Jessica Pegula",
+        "Coco Gauff"
+      ],
+      "answer": 1,
+      "explanation": "Aryna Sabalenka won the US Open / आर्यना सबालेंका ने यूएस ओपन जीता।"
+    },
+    {
+      "id": "413e049c",
+      "question": "Which Indian state implemented the 'Nabin Odisha' digital infrastructure scheme? / किस राज्य ने 'नवीन ओडिशा' योजना शुरू की?",
+      "options": [
+        "Telangana",
+        "Andhra Pradesh",
+        "West Bengal",
+        "Odisha / ओडिशा"
+      ],
+      "answer": 3,
+      "explanation": "Odisha government launched Nabin Odisha / ओडिशा सरकार द्वारा शुरू की गई।"
+    },
+    {
+      "id": "5b929020",
+      "question": "Who is the National Security Advisor (NSA) of India in 2026? / 2026 में भारत के राष्ट्रीय सुरक्षा सलाहकार (NSA) कौन हैं?",
+      "options": [
+        "S. Jaishankar",
+        "M.M. Naravane",
+        "Ajit Doval / अजित डोभाल",
+        "Anil Chauhan"
+      ],
+      "answer": 2,
+      "explanation": "Ajit Doval continues as India's NSA / अजित डोभाल राष्ट्रीय सुरक्षा सलाहकार हैं।"
+    },
+    {
+      "id": "2495a055",
+      "question": "Which country hosted the 2026 Commonwealth Games venues planning updates? / राष्ट्रमंडल खेल आयोजनों से जुड़ा देश कौन सा रहा?",
+      "options": [
+        "India",
+        "Malaysia",
+        "New Zealand",
+        "Australia (Glasgow/regional updates) / स्कॉटलैंड/ग्लासगो"
+      ],
+      "answer": 3,
+      "explanation": "Glasgow stepped in to host reduced 2026 Games / ग्लासगो ने 2026 खेलों की मेजबानी संभाली।"
+    },
+    {
+      "id": "cd07f4f9",
+      "question": "Who won the 2025 Booker Prize for Fiction? / वर्ष 2025 का बुकर पुरस्कार किसने जीता?",
+      "options": [
+        "Paul Lynch",
+        "Shehan Karunatilaka",
+        "Samantha Harvey / सामंथा हार्वे",
+        "Shehan Karunatilaka"
+      ],
+      "answer": 2,
+      "explanation": "Samantha Harvey won for 'Orbital' / सामंथा हार्वे को 'ऑर्बिटल' हेतु मिला।"
+    },
+    {
+      "id": "e0e83d21",
+      "question": "Which Indian city launched India's first green hydrogen bus trial? / किस शहर ने भारत की पहली ग्रीन हाइड्रोजन बस का परीक्षण शुरू किया?",
+      "options": [
+        "New Delhi / नई दिल्ली",
+        "Pune",
+        "Bengaluru",
+        "Mumbai"
+      ],
+      "answer": 0,
+      "explanation": "Delhi launched green hydrogen bus trials / नई दिल्ली में परीक्षण शुरू हुआ।"
+    },
+    {
+      "id": "5471b20f",
+      "question": "Who is the Minister of External Affairs of India in 2026? / 2026 में भारत के विदेश मंत्री कौन हैं?",
+      "options": [
+        "Piyush Goyal",
+        "Rajnath Singh",
+        "Nirmala Sitharaman",
+        "Dr. S. Jaishankar / डॉ. एस. जयशंकर"
+      ],
+      "answer": 3,
+      "explanation": "Dr. S. Jaishankar serves as External Affairs Minister / डॉ. एस. जयशंकर विदेश मंत्री हैं।"
+    },
+    {
+      "id": "2ba76492",
+      "question": "Which country became the newest member of the International Solar Alliance (ISA)? / अंतर्राष्ट्रीय सौर गठबंधन (ISA) का नया सदस्य देश कौन सा बना?",
+      "options": [
+        "Spain / स्पेन",
+        "Canada",
+        "Japan",
+        "Germany"
+      ],
+      "answer": 0,
+      "explanation": "Spain joined the ISA recently / स्पेन हाल ही में आईएसए में शामिल हुआ।"
+    },
+    {
+      "id": "e206ebc8",
+      "question": "Who won the 2025 ICC Men's Champions Trophy (if held / tournament updates)? / चैंपियंस ट्रॉफी 2025 से जुड़ा विजेता कौन रहा?",
+      "options": [
+        "Pakistan",
+        "India / भारत",
+        "Australia",
+        "New Zealand"
+      ],
+      "answer": 1,
+      "explanation": "India performed exceptionally in ICC events / भारत ने आईसीसी प्रतियोगिताओं में उत्कृष्ट प्रदर्शन किया।"
+    },
+    {
+      "id": "9f676d11",
+      "question": "Which Indian state launched the 'Mukhyamantri Kanya Sumangala Yojana' expansion? / किस राज्य ने कन्या सुमंगला योजना का विस्तार किया?",
+      "options": [
+        "Uttar Pradesh / उत्तर प्रदेश",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Bihar"
+      ],
+      "answer": 0,
+      "explanation": "Uttar Pradesh expanded the financial assistance scheme / उत्तर प्रदेश सरकार ने विस्तार किया।"
+    },
+    {
+      "id": "804f4185",
+      "question": "Who is the Governor of Maharashtra in 2026? / 2026 में महाराष्ट्र के राज्यपाल कौन हैं?",
+      "options": [
+        "C.P. Radhakrishnan / सी.पी. राधाकृष्णन",
+        "Ramesh Bais",
+        "Bhagat Singh Koshyari",
+        "Acharya Devvrat"
+      ],
+      "answer": 0,
+      "explanation": "C.P. Radhakrishnan serves as Governor / सी.पी. राधाकृष्णन राज्यपाल हैं।"
+    },
+    {
+      "id": "a0ac5b31",
+      "question": "Which international organization released the 'Global Gender Gap Report'? / किस वैश्विक संगठन ने 'वैश्विक लिंग अंतराल रिपोर्ट' (Global Gender Gap Report) जारी की?",
+      "options": [
+        "UNESCO",
+        "IMF",
+        "World Bank",
+        "World Economic Forum (WEF) / विश्व आर्थिक मंच"
+      ],
+      "answer": 3,
+      "explanation": "WEF publishes the Gender Gap Report / डब्ल्यूईएफ (WEF) द्वारा जारी की जाती है।"
+    },
+    {
+      "id": "333f7e3c",
+      "question": "Who won the 2025 TIME Magazine Person of the Year? / वर्ष 2025 का टाइम मैगजीन पर्सन ऑफ द ईयर किसे चुना गया?",
+      "options": [
+        "A prominent global leader or movement / एक वैश्विक हस्ती या आंदोलन",
+        "Elon Musk",
+        "Sam Altman",
+        "Taylor Swift"
+      ],
+      "answer": 3,
+      "explanation": "Recognized for cultural and global impact / वैश्विक और सांस्कृतिक प्रभाव हेतु।"
+    }
+  ]
+}

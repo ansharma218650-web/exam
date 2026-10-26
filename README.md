@@ -28,6 +28,15 @@ Password: `.streamlit/secrets.toml` (default `admin123` - change it).
 - **Notes** tab: upload a PDF (or type a short Markdown note) for any subject, and delete old ones.
 - **Students** tab: every student's tests, average score, accuracy and streak, plus a full ZIP backup.
 
+## Duplicates
+Bulk upload shows how many questions are new and which are duplicates *before* you import, and discards the
+duplicates. Matching ignores capitals, extra spaces and punctuation, and also catches repeats inside the file.
+Tick the box to compare against every subject and test, not just the selected one.
+
+## One file
+The whole app is a single `app.py` (storage helpers are embedded inside it), so there is no separate
+`utils.py` to forget to upload. After updating, check the sidebar footer: it should say **App version 2.3**.
+
 ## Your data
 Everything lives in `data/` (questions, `results.csv`, `students/<name>/...`).
 Copy your existing `data/` folder over before first run. Demo content is in `sample_data/`

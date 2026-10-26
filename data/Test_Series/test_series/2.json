@@ -1,0 +1,1448 @@
+{
+  "title": "2",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "e1161c67",
+      "question": "'दशानन' में कौन सा समास है? / Which Samas is present in 'Dashanan'?",
+      "options": [
+        "बहुव्रीहि समास",
+        "द्विगु समास",
+        "तत्पुरुष समास",
+        "द्वंद्व समास"
+      ],
+      "answer": 0,
+      "explanation": "'दशानन' (दस हैं आनन जिसके अर्थात् रावण) अन्य पद प्रधान होने के कारण बहुव्रीहि समास है।"
+    },
+    {
+      "id": "c0d0c61c",
+      "question": "निम्नलिखित में से 'अमृत' का पर्यायवाची शब्द कौन सा है? / Which is a synonym of 'Amrit'?",
+      "options": [
+        "पीयूष",
+        "पावक",
+        "वारि",
+        "व्योम"
+      ],
+      "answer": 0,
+      "explanation": "'पीयूष', सुधा, सोम, अमिय आदि अमृत के पर्यायवाची हैं।"
+    },
+    {
+      "id": "d8d7a720",
+      "question": "'इत्यादि' का सही संधि-विच्छेद क्या होगा? / Correct sandhi-viched of 'Ityadi':",
+      "options": [
+        "इति + आदि",
+        "इत + आदि",
+        "इत्या + दि",
+        "इत् + आदि"
+      ],
+      "answer": 0,
+      "explanation": "'इति + आदि = इत्यादि' (यण् स्वर संधि: इ/ई + भिन्न स्वर = य्)।"
+    },
+    {
+      "id": "adae9d72",
+      "question": "'जंगम' शब्द का सही विलोम क्या होगा? / Antonym of 'Jangam':",
+      "options": [
+        "स्थावर",
+        "चंचल",
+        "दुर्गम",
+        "अगम"
+      ],
+      "answer": 0,
+      "explanation": "'जंगम' (चलने-फिरने वाला) का विलोम 'स्थावर' (स्थिर रहने वाला) होता है।"
+    },
+    {
+      "id": "cbaddb1a",
+      "question": "निम्नलिखित में से शुद्ध वर्तनी वाला शब्द कौन सा है? / Choose the correctly spelt word:",
+      "options": [
+        "कवयित्री",
+        "श्रृंगार",
+        "आशीर्वाद",
+        "कवियत्री"
+      ],
+      "answer": 2,
+      "explanation": "'आशीर्वाद' शुद्ध वर्तनी है (शृंगार में 'ऋ' की मात्रा होती है, न कि '्र')।"
+    },
+    {
+      "id": "2e6e3d30",
+      "question": "'घुटने टेकना' मुहावरे का सही अर्थ क्या है? / Meaning of idiom 'Ghutne Tekna':",
+      "options": [
+        "हार मानना / आत्मसमर्पण करना",
+        "घुटने टूटना",
+        "बैठ जाना",
+        "दौड़ना बंद करना"
+      ],
+      "answer": 0,
+      "explanation": "'घुटने टेकना' का अर्थ पराजय स्वीकार करना या आत्मसमर्पण करना है।"
+    },
+    {
+      "id": "e074121d",
+      "question": "हिंदी भाषा किस लिपि में लिखी जाती है? / Hindi language is written in which script?",
+      "options": [
+        "देवनागरी लिपि",
+        "ब्राह्मी लिपि",
+        "रोमन लिपि",
+        "गुरुमुखी लिपि"
+      ],
+      "answer": 0,
+      "explanation": "भारतीय संविधान के अनुच्छेद 343 के अनुसार संघ की राजभाषा हिंदी और लिपि देवनागरी है।"
+    },
+    {
+      "id": "0555c0e7",
+      "question": "'जो सब कुछ जानता हो' को 'सर्वज्ञ' कहते हैं, तो 'जो बहुत कम जानता हो' उसे क्या कहेंगे? / One who knows very little:",
+      "options": [
+        "अल्पज्ञ",
+        "अज्ञ",
+        "विज्ञ",
+        "सर्वज्ञ"
+      ],
+      "answer": 0,
+      "explanation": "कम जानने वाले को 'अल्पज्ञ' तथा जो कुछ न जानता हो उसे 'अज्ञ' कहते हैं।"
+    },
+    {
+      "id": "3ef8b373",
+      "question": "'राम ने रावण को बाण से मारा' - इस वाक्य में 'बाण से' में कौन सा कारक है? / Karak in 'Baan se':",
+      "options": [
+        "करण कारक",
+        "अपादान कारक",
+        "कर्म कारक",
+        "कर्ता कारक"
+      ],
+      "answer": 0,
+      "explanation": "क्रिया के साधन या माध्यम के रूप में 'से' चिन्ह करण कारक (तृतीया) को व्यक्त करता है।"
+    },
+    {
+      "id": "dd6d0cc0",
+      "question": "'चरण कमल बन्दौ हरि राई' - में कौन सा अलंकार है? / Identify the Alankar:",
+      "options": [
+        "रूपक अलंकार",
+        "उपमा अलंकार",
+        "उत्प्रेक्षा अलंकार",
+        "यमक अलंकार"
+      ],
+      "answer": 0,
+      "explanation": "जहाँ उपमेय (चरण) पर उपमान (कमल) का अभेद आरोप हो, वहाँ रूपक अलंकार होता है।"
+    },
+    {
+      "id": "47be9368",
+      "question": "'गोदान' और 'गबन' उपन्यासों के लेखक कौन हैं? / Author of 'Godan' and 'Gaban':",
+      "options": [
+        "मुंशी प्रेमचंद",
+        "जयशंकर प्रसाद",
+        "सूर्यकांत त्रिपाठी निराला",
+        "महादेवी वर्मा"
+      ],
+      "answer": 0,
+      "explanation": "उपन्यास सम्राट मुंशी प्रेमचंद ने कृषक जीवन की त्रासदियों पर 'गोदान' की रचना की।"
+    },
+    {
+      "id": "cd7f836f",
+      "question": "वर्णमाला में 'क्ष', 'त्र', 'ज्ञ' और 'श्र' किस प्रकार के व्यंजन हैं? / Types of consonants:",
+      "options": [
+        "संयुक्त व्यंजन",
+        "स्पर्श व्यंजन",
+        "अंतःस्थ व्यंजन",
+        "ऊष्म व्यंजन"
+      ],
+      "answer": 0,
+      "explanation": "दो भिन्न व्यंजनों के मेल से बनने वाले व्यंजन संयुक्त व्यंजन कहलाते हैं (क्+ष् = क्ष)।"
+    },
+    {
+      "id": "df757fa1",
+      "question": "'रामेण' रूप किस विभक्ति एवं वचन का है? / 'Ramen' belongs to which Vibhakti and Vachan?",
+      "options": [
+        "तृतीया, एकवचन",
+        "द्वितीया, एकवचन",
+        "चतुर्थी, एकवचन",
+        "प्रथमा, बहुवचन"
+      ],
+      "answer": 0,
+      "explanation": "'राम' (अकारान्त पुल्लिंग) शब्द का तृतीया विभक्ति एकवचन रूप 'रामेण' होता है।"
+    },
+    {
+      "id": "69b03824",
+      "question": "'पावकः' पद का सही संधि-विच्छेद क्या होगा? / Correct sandhi-viched of 'Pavakah':",
+      "options": [
+        "पौ + अकः",
+        "पो + अकः",
+        "पाव + कः",
+        "प + आवकः"
+      ],
+      "answer": 0,
+      "explanation": "अयादि स्वर संधि ('एचोऽयवायावः') से पौ + अकः = पावकः (औ का आव्)।"
+    },
+    {
+      "id": "8cced4ab",
+      "question": "संस्कृत में स्वरों को किस प्रत्याहार के अंतर्गत गिना जाता है? / Vowels belong to which Pratyahara in Sanskrit?",
+      "options": [
+        "अच् (Ach)",
+        "हल् (Hal)",
+        "अल् (Al)",
+        "झश् (Jhash)"
+      ],
+      "answer": 0,
+      "explanation": "माहेश्वर सूत्रों के प्रथम चार सूत्रों (अइउण् से ऐऔच्) में सभी स्वर 'अच्' प्रत्याहार में आते हैं।"
+    },
+    {
+      "id": "79756e87",
+      "question": "'चत्वारिंशत्' संख्या का हिंदी में मान क्या होगा? / Meaning of 'Chatvarimshat':",
+      "options": [
+        "40",
+        "14",
+        "24",
+        "34"
+      ],
+      "answer": 0,
+      "explanation": "संस्कृत में 'चत्वारिंशत्' का अर्थ 40 होता है (चतुर्दश = 14, चतुर्विंशति = 24)।"
+    },
+    {
+      "id": "4e41ba90",
+      "question": "'भू' (होना) धातु का लट् लकार प्रथम पुरुष बहुवचन रूप क्या है? / 'Bhoo' dhatu Lat Lakara Pratham Purusha Bahuvachana:",
+      "options": [
+        "भवन्ति",
+        "भवति",
+        "भवतः",
+        "भविष्यन्ति"
+      ],
+      "answer": 0,
+      "explanation": "लट् लकार में 'भवति, भवतः, भवन्ति' रूप चलता है।"
+    },
+    {
+      "id": "6f0a8d67",
+      "question": "'येनाङ्गविकारः' सूत्र किस विभक्ति का विधान करता है? / 'Yenangavikaraha' prescribes which Vibhakti?",
+      "options": [
+        "तृतीया विभक्ति",
+        "द्वितीया विभक्ति",
+        "चतुर्थी विभक्ति",
+        "पंचमी विभक्ति"
+      ],
+      "answer": 0,
+      "explanation": "जिस विकृत अंग से विकार लक्षित हो, उस अंगवाची शब्द में तृतीया विभक्ति होती है (उदा. पादेन खञ्जः)।"
+    },
+    {
+      "id": "0b313c22",
+      "question": "'पञ्चगङ्गम्' पद में कौन सा समास है? / Which Samas is present in 'Panchagangam'?",
+      "options": [
+        "अव्ययीभाव समास",
+        "द्विगु समास",
+        "द्वंद्व समास",
+        "तत्पुरुष समास"
+      ],
+      "answer": 0,
+      "explanation": "'नदीभिश्च' सूत्र से नदीवाचक शब्दों के साथ संख्यावाची शब्द आने पर अव्ययीभाव समास होता है।"
+    },
+    {
+      "id": "07af883c",
+      "question": "संस्कृत भाषा में कुल कितने माहेश्वर सूत्र हैं? / Total number of Maheshwar Sutras:",
+      "options": [
+        "14",
+        "12",
+        "16",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "महर्षि पाणिनि की अष्टाध्यायी में वर्ण समाम्नाय के 14 माहेश्वर सूत्र हैं।"
+    },
+    {
+      "id": "1ad7a6e8",
+      "question": "What is the feminine gender of 'Bachelor'?",
+      "options": [
+        "Spinster",
+        "Widow",
+        "Dame",
+        "Bachelorette"
+      ],
+      "answer": 0,
+      "explanation": "The traditional feminine counterpart of 'bachelor' is 'spinster' (or bachelorette)."
+    },
+    {
+      "id": "31c9e041",
+      "question": "Fill in the blank: 'He prevented me ____ going there.'",
+      "options": [
+        "from",
+        "to",
+        "for",
+        "with"
+      ],
+      "answer": 0,
+      "explanation": "The verb 'prevent' takes the fixed preposition 'from' followed by a gerund (-ing form)."
+    },
+    {
+      "id": "6b1ac3ea",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Lieutenant",
+        "Leutenant",
+        "Lieutenaunt",
+        "Lientenant"
+      ],
+      "answer": 0,
+      "explanation": "The correct military rank spelling is 'Lieutenant'."
+    },
+    {
+      "id": "3c788beb",
+      "question": "Fill in the blank: 'Bread and butter ____ a wholesome breakfast.'",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have been"
+      ],
+      "answer": 0,
+      "explanation": "When two singular nouns jointly express a single collective concept/dish, a singular verb ('is') is used."
+    },
+    {
+      "id": "2caf8412",
+      "question": "Change into Passive Voice: 'Who wrote the Ramayana?'",
+      "options": [
+        "By whom was the Ramayana written?",
+        "Who was written the Ramayana?",
+        "By whom the Ramayana was written?",
+        "By whom had the Ramayana written?"
+      ],
+      "answer": 0,
+      "explanation": "'Who' changes to 'By whom', followed by auxiliary verb 'was' + subject + past participle 'written'."
+    },
+    {
+      "id": "0c80c669",
+      "question": "What is the synonym of 'Meticulous'?",
+      "options": [
+        "Careful and thorough",
+        "Careless",
+        "Lazy",
+        "Hasty"
+      ],
+      "answer": 0,
+      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise."
+    },
+    {
+      "id": "97db83db",
+      "question": "Choose the antonym of 'Ambiguous':",
+      "options": [
+        "Clear / Unambiguous",
+        "Vague",
+        "Obscure",
+        "Complicated"
+      ],
+      "answer": 0,
+      "explanation": "'Ambiguous' means open to multiple interpretations or unclear; its antonym is 'Clear'."
+    },
+    {
+      "id": "8b849b5d",
+      "question": "One who does not believe in the existence of God is called:",
+      "options": [
+        "An Atheist",
+        "A Theist",
+        "An Agnostic",
+        "A Fatalist"
+      ],
+      "answer": 0,
+      "explanation": "An 'Atheist' lacks belief in God; a 'Theist' believes in God; an 'Agnostic' is unsure."
+    },
+    {
+      "id": "be92ad18",
+      "question": "What is the meaning of the idiom 'To break the ice'?",
+      "options": [
+        "To start a conversation in a social setting",
+        "To freeze water",
+        "To pick a fight",
+        "To feel shivering cold"
+      ],
+      "answer": 0,
+      "explanation": "'To break the ice' means to overcome initial social awkwardness and initiate conversation."
+    },
+    {
+      "id": "75bbc686",
+      "question": "Fill in the blank: 'He is ____ European professor.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "'European' starts with the consonant glide sound (/jʊərəˈpiːən/), hence it takes 'a', not 'an'."
+    },
+    {
+      "id": "aaff7f12",
+      "question": "उत्तर प्रदेश का राजकीय पशु (State Animal) कौन सा है? / What is the State Animal of UP?",
+      "options": [
+        "बारहसिंगा (Swamp Deer)",
+        "बाघ",
+        "हाथी",
+        "एक सींग वाला गैंडा"
+      ],
+      "answer": 0,
+      "explanation": "उत्तर प्रदेश का राजकीय पशु बारहसिंगा (Swamp Deer) है, जबकि राजकीय पक्षी सारस है।"
+    },
+    {
+      "id": "58eca06f",
+      "question": "भारत में प्रतिवर्ष 'राष्ट्रीय शिक्षक दिवस' किसकी जयंती पर 5 सितंबर को मनाया जाता है? / National Teachers' Day commemorates:",
+      "options": [
+        "डॉ. सर्वपल्ली राधाकृष्णन",
+        "डॉ. एपीजे अब्दुल कलाम",
+        "मौलाना अबुल कलाम आजाद",
+        "जवाहरलाल नेहरू"
+      ],
+      "answer": 0,
+      "explanation": "भारत के प्रथम उपराष्ट्रपति और द्वितीय राष्ट्रपति डॉ. राधाकृष्णन की जयंती 5 सितंबर को शिक्षक दिवस के रूप में मनाई जाती है।"
+    },
+    {
+      "id": "e76f4310",
+      "question": "विश्व का सबसे बड़ा लोकतांत्रिक लिखित संविधान किस देश का है? / World's largest written constitution belongs to:",
+      "options": [
+        "भारत (India)",
+        "संयुक्त राज्य अमेरिका",
+        "ब्रिटेन",
+        "कनाडा"
+      ],
+      "answer": 0,
+      "explanation": "भारत का संविधान विश्व का सबसे बड़ा और विस्तृत हस्तलिखित संविधान है।"
+    },
+    {
+      "id": "f5bfa649",
+      "question": "उत्तर प्रदेश का कौन सा शहर इत्र (Perfume) उद्योग के लिए विश्वविख्यात है? / Which UP city is famous for perfumes?",
+      "options": [
+        "कन्नौज",
+        "मुरादाबाद",
+        "वाराणसी",
+        "आगरा"
+      ],
+      "answer": 0,
+      "explanation": "कन्नौज को 'इत्र नगरी' (Perfume City of India) कहा जाता है जहाँ प्राचीन काल से गुलाब व केवड़ा इत्र बनता है।"
+    },
+    {
+      "id": "5a723693",
+      "question": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय कहाँ स्थित है? / Headquarters of ISRO is in:",
+      "options": [
+        "बेंगलुरु (कर्नाटक)",
+        "हैदराबाद",
+        "तिरुवनंतपुरम",
+        "नई दिल्ली"
+      ],
+      "answer": 0,
+      "explanation": "15 अगस्त 1969 को स्थापित इसरो का मुख्यालय बेंगलुरु में स्थित है।"
+    },
+    {
+      "id": "b20de603",
+      "question": "सूर्य के सबसे निकट स्थित ग्रह कौन सा है? / Which planet is closest to the Sun?",
+      "options": [
+        "बुध (Mercury)",
+        "शुक्र",
+        "मंगल",
+        "पृथ्वी"
+      ],
+      "answer": 0,
+      "explanation": "बुध सूर्य के सबसे निकट का ग्रह है जो केवल 88 दिनों में सूर्य की परिक्रमा पूरी करता है।"
+    },
+    {
+      "id": "80a595db",
+      "question": "विटामिन 'सी' का रासायनिक नाम क्या है? / Chemical name of Vitamin C:",
+      "options": [
+        "एस्कॉर्बिक एसिड (Ascorbic Acid)",
+        "रेटिनॉल",
+        "थायमिन",
+        "कैल्सीफेरॉल"
+      ],
+      "answer": 0,
+      "explanation": "विटामिन सी का रासायनिक नाम एस्कॉर्बिक एसिड है; इसकी कमी से स्कर्वी रोग होता है।"
+    },
+    {
+      "id": "049e783f",
+      "question": "भारत का सर्वोच्च नागरिक सम्मान कौन सा है? / Highest civilian award of India:",
+      "options": [
+        "भारत रत्न (Bharat Ratna)",
+        "पद्म विभूषण",
+        "पद्म भूषण",
+        "परमवीर चक्र"
+      ],
+      "answer": 0,
+      "explanation": "1954 से प्रारंभ 'भारत रत्न' भारत का सर्वोच्च नागरिक पुरस्कार है।"
+    },
+    {
+      "id": "36ca7ef6",
+      "question": "उत्तर प्रदेश में कुल कितने मंडल (Divisions) और जनपद (Districts) हैं? / Total divisions and districts in UP:",
+      "options": [
+        "18 मंडल एवं 75 जनपद",
+        "20 मंडल एवं 70 जनपद",
+        "16 मंडल एवं 80 जनपद",
+        "18 मंडल एवं 70 जनपद"
+      ],
+      "answer": 0,
+      "explanation": "प्रशासनिक दृष्टि से उत्तर प्रदेश में 18 मंडल और 75 जिले हैं।"
+    },
+    {
+      "id": "7c8d67e9",
+      "question": "'वेदों की ओर लौटो' का नारा किस महान समाज सुधारक ने दिया था? / 'Go back to Vedas' slogan by:",
+      "options": [
+        "स्वामी दयानंद सरस्वती",
+        "स्वामी विवेकानंद",
+        "राजा राममोहन राय",
+        "ईश्वरचंद्र विद्यासागर"
+      ],
+      "answer": 0,
+      "explanation": "1875 में मुंबई में आर्य समाज के संस्थापक स्वामी दयानंद सरस्वती ने यह नारा दिया था।"
+    },
+    {
+      "id": "78fa46e0",
+      "question": "काजीरंगा राष्ट्रीय उद्यान (असम) किस विशिष्ट जीव के संरक्षण हेतु प्रसिद्ध है? / Kaziranga is famous for:",
+      "options": [
+        "एक सींग वाला गैंडा (One-horned Rhino)",
+        "एशियाई शेर",
+        "सफेद बाघ",
+        "जंगली गधा"
+      ],
+      "answer": 0,
+      "explanation": "असम का काजीरंगा राष्ट्रीय उद्यान विश्व के दो-तिहाई एक सींग वाले गैंडों का प्राकृतिक आवास है।"
+    },
+    {
+      "id": "274df562",
+      "question": "भारत में 'हरित क्रांति' (Green Revolution) का जनक किसे माना जाता है? / Father of Green Revolution in India:",
+      "options": [
+        "डॉ. एम.एस. स्वामीनाथन",
+        "डॉ. वर्गीज कुरियन",
+        "डॉ. नॉर्मन बोरलॉग",
+        "प्रो. अमर्त्य सेन"
+      ],
+      "answer": 0,
+      "explanation": "भारत में 1960 के दशक में उच्च उपज बीजों (HYV) से खाद्यान्न क्रांति लाने का श्रेय स्वामीनाथन जी को जाता है।"
+    },
+    {
+      "id": "76412740",
+      "question": "विश्व की सबसे लंबी पर्वत श्रृंखला कौन सी है? / World's longest mountain range:",
+      "options": [
+        "एंडीज पर्वतमाला (दक्षिण अमेरिका)",
+        "हिमालय पर्वतमाला",
+        "रॉकी पर्वतमाला",
+        "आल्प्स"
+      ],
+      "answer": 0,
+      "explanation": "दक्षिण अमेरिका की एंडीज पर्वत श्रृंखला लगभग 7,000 किमी लंबाई के साथ सबसे लंबी है।"
+    },
+    {
+      "id": "41102354",
+      "question": "भारत का कौन सा राज्य तीन ओर से बांग्लादेश से घिरा हुआ है? / Indian state surrounded by Bangladesh on 3 sides:",
+      "options": [
+        "त्रिपुरा",
+        "मेघालय",
+        "असम",
+        "मिजोरम"
+      ],
+      "answer": 0,
+      "explanation": "त्रिपुरा उत्तर, दक्षिण और पश्चिम तीनों दिशाओं से बांग्लादेश की अंतरराष्ट्रीय सीमा से घिरा है।"
+    },
+    {
+      "id": "9d010ccd",
+      "question": "संविधान के प्रारूप समिति (Drafting Committee) के अध्यक्ष कौन थे? / Chairman of Drafting Committee:",
+      "options": [
+        "डॉ. भीमराव अंबेडकर",
+        "डॉ. राजेंद्र प्रसाद",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "answer": 0,
+      "explanation": "29 अगस्त 1947 को गठित संविधान प्रारूप समिति के अध्यक्ष बाबासाहेब डॉ. अंबेडकर थे।"
+    },
+    {
+      "id": "4bb7a11f",
+      "question": "भारत में योजना आयोग के स्थान पर 'नीति आयोग' किस तिथि को अस्तित्व में आया? / NITI Aayog came into effect on:",
+      "options": [
+        "1 जनवरी 2015",
+        "15 अगस्त 2014",
+        "26 जनवरी 2015",
+        "1 अप्रैल 2015"
+      ],
+      "answer": 0,
+      "explanation": "1 जनवरी 2015 को केंद्रीय मंत्रिमंडल के प्रस्ताव से नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया (NITI) बना।"
+    },
+    {
+      "id": "f3ee1dff",
+      "question": "उत्तर प्रदेश में बहने वाली 'गोमती नदी' के तट पर कौन सा प्रमुख शहर स्थित है? / City located on banks of Gomti:",
+      "options": [
+        "लखनऊ (राजधानी)",
+        "वाराणसी",
+        "प्रयागराज",
+        "कानपुर"
+      ],
+      "answer": 0,
+      "explanation": "उत्तर प्रदेश की राजधानी लखनऊ पीलीभीत से निकलने वाली गोमती नदी के तट पर स्थित है।"
+    },
+    {
+      "id": "b799bc37",
+      "question": "भारत के किस राज्य में विश्व का सबसे बड़ा नदी द्वीप 'माजुली' स्थित है? / Majuli river island is in which state?",
+      "options": [
+        "असम (ब्रह्मपुत्र नदी)",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "ओडिशा"
+      ],
+      "answer": 0,
+      "explanation": "असम में ब्रह्मपुत्र नदी के मध्य स्थित माजुली विश्व का सबसे विशाल नदीय द्वीप और पहला द्वीपीय जिला है।"
+    },
+    {
+      "id": "569872d7",
+      "question": "भारतीय संविधान में मौलिक कर्तव्यों (Fundamental Duties) की कुल संख्या कितनी है? / Total Fundamental Duties in Indian Constitution:",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "42वें संशोधन 1976 द्वारा 10 तथा 86वें संशोधन 2002 द्वारा 11वां मौलिक कर्तव्य जोड़ा गया।"
+    },
+    {
+      "id": "a031cf45",
+      "question": "गौतम बुद्ध ने अपना प्रथम धर्मोपदेश (धर्मचक्रप्रवर्तन) कहाँ दिया था? / Buddha gave his first sermon at:",
+      "options": [
+        "सारनाथ (वाराणसी के निकट)",
+        "बोधगया",
+        "कुशीनगर",
+        "लुंबिनी"
+      ],
+      "answer": 0,
+      "explanation": "ज्ञान प्राप्ति के पश्चात महात्मा बुद्ध ने सारनाथ के मृगदाव में पाँच संन्यासियों को पहला उपदेश दिया।"
+    },
+    {
+      "id": "90a2d9f6",
+      "question": "भारत की सबसे बड़ी मीठे पानी की प्राकृतिक झील कौन सी है? / Largest freshwater natural lake in India:",
+      "options": [
+        "वुलर झील (जम्मू और कश्मीर)",
+        "चिल्का झील",
+        "डल झील",
+        "सांभर झील"
+      ],
+      "answer": 0,
+      "explanation": "झेलम नदी पर निर्मित वुलर झील भारत की सबसे बड़ी मीठे पानी की प्राकृतिक गोखुर झील है।"
+    },
+    {
+      "id": "9cfa5f8c",
+      "question": "ध्वनि की तीव्रता मापने की मानक इकाई क्या है? / Standard unit to measure sound intensity:",
+      "options": [
+        "डेसिबल (dB)",
+        "हर्ट्ज (Hz)",
+        "पास्कल",
+        "कैंडेला"
+      ],
+      "answer": 0,
+      "explanation": "ध्वनि प्रदूषण और ध्वनि की प्रबलता को डेसिबल (Decibel) में मापा जाता है।"
+    },
+    {
+      "id": "2f84d9a5",
+      "question": "भारत छोड़ो आंदोलन (Quit India Movement) किस वर्ष प्रारंभ हुआ था? / In which year was Quit India Movement launched?",
+      "options": [
+        "1942 (8 अगस्त)",
+        "1920",
+        "1930",
+        "1919"
+      ],
+      "answer": 0,
+      "explanation": "8 अगस्त 1942 को बंबई के ग्वालिया टैंक मैदान से गांधीजी ने 'करो या मरो' नारे के साथ आंदोलन शुरू किया।"
+    },
+    {
+      "id": "6df3437a",
+      "question": "भारत की सिलिकॉन वैली (Silicon Valley of India) किस शहर को कहा जाता है? / Which city is 'Silicon Valley of India'?",
+      "options": [
+        "बेंगलुरु (कर्नाटक)",
+        "हैदराबाद",
+        "पुणे",
+        "नोएडा"
+      ],
+      "answer": 0,
+      "explanation": "सूचना प्रौद्योगिकी (IT) उद्योग के विशाल केंद्र होने के कारण बेंगलुरु को भारत की सिलिकॉन वैली कहते हैं।"
+    },
+    {
+      "id": "a3d0007d",
+      "question": "विश्व मानवाधिकार दिवस (Human Rights Day) प्रतिवर्ष किस तिथि को मनाया जाता है? / Human Rights Day is observed on:",
+      "options": [
+        "10 दिसंबर",
+        "24 अक्टूबर",
+        "5 जून",
+        "1 दिसंबर"
+      ],
+      "answer": 0,
+      "explanation": "10 दिसंबर 1948 को संयुक्त राष्ट्र द्वारा मानवाधिकारों की सार्वभौमिक घोषणा की स्मृति में यह दिन मनाया जाता है।"
+    },
+    {
+      "id": "b1d62009",
+      "question": "प्रथम 20 विषम प्राकृतिक संख्याओं का योग क्या होगा? / Sum of first 20 odd natural numbers:",
+      "options": [
+        "400",
+        "420",
+        "380",
+        "200"
+      ],
+      "answer": 0,
+      "explanation": "प्रथम n विषम संख्याओं का योग n^2 होता है, अतः 20^2 = 400."
+    },
+    {
+      "id": "fe9b4252",
+      "question": "सरल कीजिए: 100 × 10 - 100 + 2000 ÷ 100 = ? / Simplify: 100 × 10 - 100 + 2000 ÷ 100",
+      "options": [
+        "920",
+        "900",
+        "910",
+        "930"
+      ],
+      "answer": 0,
+      "explanation": "1000 - 100 + 20 = 920."
+    },
+    {
+      "id": "1dd2e310",
+      "question": "0.375 को साधारण भिन्न के न्यूनतम रूप में व्यक्त कीजिए: / Convert 0.375 into simplest fraction:",
+      "options": [
+        "3/8",
+        "3/4",
+        "5/8",
+        "7/16"
+      ],
+      "answer": 0,
+      "explanation": "375 / 1000 = 3 / 8 (125 से काटने पर)।"
+    },
+    {
+      "id": "53ae7d32",
+      "question": "संख्या 54726 में 7 का स्थानीय मान क्या है? / What is the place value of 7 in 54726?",
+      "options": [
+        "700",
+        "70",
+        "7000",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "7 सैकड़ा के स्थान पर है, अतः इसका स्थानीय मान 7 × 100 = 700 है।"
+    },
+    {
+      "id": "7229ec39",
+      "question": "भिन्नों 3/4, 5/6, 7/9, 11/12 में सबसे छोटी भिन्न कौन सी है? / Smallest fraction among 3/4, 5/6, 7/9, 11/12:",
+      "options": [
+        "3/4",
+        "5/6",
+        "7/9",
+        "11/12"
+      ],
+      "answer": 0,
+      "explanation": "3/4 = 0.75, 5/6 ≈ 0.833, 7/9 ≈ 0.777, 11/12 ≈ 0.916; अतः 3/4 सबसे छोटी है।"
+    },
+    {
+      "id": "a4a51d53",
+      "question": "कितने वर्षों में ₹2000 की राशि 5% साधारण ब्याज की दर से ₹2600 हो जाएगी? / In how many years will ₹2000 yield ₹600 interest at 5% p.a.?",
+      "options": [
+        "6 वर्ष",
+        "5 वर्ष",
+        "4 वर्ष",
+        "8 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "ब्याज = 600; T = (600 × 100) / (2000 × 5) = 6 वर्ष।"
+    },
+    {
+      "id": "c953b3c4",
+      "question": "कोई राशि साधारण ब्याज पर 10 वर्षों में दोगुनी हो जाती है। ब्याज की वार्षिक दर क्या है? / Money doubles in 10 yrs at SI. Rate p.a.:",
+      "options": [
+        "10%",
+        "12%",
+        "8%",
+        "15%"
+      ],
+      "answer": 0,
+      "explanation": "R = [(n - 1) × 100] / T = [(2 - 1) × 100] / 10 = 10%."
+    },
+    {
+      "id": "722c1dd2",
+      "question": "एक वस्तु को ₹450 में बेचने पर 10% की हानि होती है। 20% लाभ पाने हेतु विक्रय मूल्य क्या होगा? / Article sold at ₹450 suffers 10% loss. Selling price for 20% profit:",
+      "options": [
+        "₹600",
+        "₹540",
+        "₹550",
+        "₹650"
+      ],
+      "answer": 0,
+      "explanation": "CP = 450 / 0.9 = 500; 20% लाभ पर SP = 500 × 1.2 = ₹600."
+    },
+    {
+      "id": "ff383438",
+      "question": "यदि A की आय B की आय से 25% अधिक है, तो B की आय A से कितने प्रतिशत कम है? / If A is 25% more than B, B is less than A by:",
+      "options": [
+        "20%",
+        "25%",
+        "16.66%",
+        "30%"
+      ],
+      "answer": 0,
+      "explanation": "कमी % = [25 / (100 + 25)] × 100 = 25/125 × 100 = 20%."
+    },
+    {
+      "id": "bbaa2790",
+      "question": "संख्या 72 के कुल कितने गुणनखण्ड (Factors) होंगे? / Total number of factors of 72:",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "answer": 0,
+      "explanation": "72 = 2^3 × 3^2; गुणनखण्डों की संख्या = (3 + 1)(2 + 1) = 4 × 3 = 12."
+    },
+    {
+      "id": "2c843b61",
+      "question": "A किसी काम को 10 दिन में तथा B 15 दिन में पूरा करता है। दोनों मिलकर कितने दिन में करेंगे? / A in 10 days, B in 15 days. Together in:",
+      "options": [
+        "6 दिन",
+        "5 दिन",
+        "8 दिन",
+        "7 दिन"
+      ],
+      "answer": 0,
+      "explanation": "समय = (10 × 15) / (10 + 15) = 150 / 25 = 6 दिन।"
+    },
+    {
+      "id": "0c97fbf3",
+      "question": "यदि x + 1/x = 3 हो, तो x^3 + 1/x^3 का मान क्या होगा? / If x + 1/x = 3, then x^3 + 1/x^3 is:",
+      "options": [
+        "18",
+        "27",
+        "21",
+        "24"
+      ],
+      "answer": 0,
+      "explanation": "x^3 + 1/x^3 = 3^3 - 3(3) = 27 - 9 = 18."
+    },
+    {
+      "id": "25c83e89",
+      "question": "एक वर्ग का क्षेत्रफल 144 वर्ग सेमी है। इसका परिमाप क्या होगा? / Area of square is 144 cm^2. Perimeter is:",
+      "options": [
+        "48 सेमी",
+        "36 सेमी",
+        "24 सेमी",
+        "64 सेमी"
+      ],
+      "answer": 0,
+      "explanation": "भुजा = √144 = 12 सेमी; परिमाप = 4 × 12 = 48 सेमी।"
+    },
+    {
+      "id": "1326998e",
+      "question": "प्रथम 10 अभाज्य संख्याओं का औसत क्या होगा? / Average of first 10 prime numbers:",
+      "options": [
+        "12.9",
+        "11.5",
+        "13.2",
+        "12.5"
+      ],
+      "answer": 0,
+      "explanation": "अभाज्य संख्याएँ: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29; योग = 129; औसत = 129/10 = 12.9."
+    },
+    {
+      "id": "eabd53aa",
+      "question": "एक बेलन के आधार की त्रिज्या 7 सेमी और ऊँचाई 10 सेमी है। इसका आयतन क्या होगा? / Volume of cylinder (r=7cm, h=10cm):",
+      "options": [
+        "1540 सेमी^3",
+        "1440 सेमी^3",
+        "770 सेमी^3",
+        "1500 सेमी^3"
+      ],
+      "answer": 0,
+      "explanation": "V = π r^2 h = (22/7) × 49 × 10 = 1540 सेमी^3."
+    },
+    {
+      "id": "a0c61e34",
+      "question": "4 और 16 का मध्यानुपाती (Mean Proportional) क्या होगा? / Mean proportional between 4 and 16:",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "मध्यानुपाती = √(4 × 16) = √64 = 8."
+    },
+    {
+      "id": "b34b226f",
+      "question": "कोशिका का 'विद्युत गृह' (Powerhouse of the Cell) किसे कहा जाता है? / Powerhouse of the cell is:",
+      "options": [
+        "माइटोकॉन्ड्रिया (Mitochondria)",
+        "राइबोसोम",
+        "लाइसोसोम",
+        "गॉल्जीकाय"
+      ],
+      "answer": 0,
+      "explanation": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन द्वारा ATP के रूप में ऊर्जा उत्पन्न होती है।"
+    },
+    {
+      "id": "ab1f2ed1",
+      "question": "सामान्य मानव शरीर का सामान्य तापमान सेल्सियस और फारेनहाइट में कितना होता है? / Normal human body temperature:",
+      "options": [
+        "37°C या 98.6°F",
+        "35°C या 96.4°F",
+        "40°C या 104°F",
+        "36°C या 97.2°F"
+      ],
+      "answer": 0,
+      "explanation": "मानव शरीर का मानक तापमान 37 डिग्री सेल्सियस या 98.6 डिग्री फारेनहाइट होता है।"
+    },
+    {
+      "id": "2265681b",
+      "question": "कार्य (Work) और ऊर्जा (Energy) का SI मात्रक क्या है? / SI unit of Work and Energy:",
+      "options": [
+        "जूल (Joule)",
+        "न्यूटन",
+        "वाट",
+        "पास्कल"
+      ],
+      "answer": 0,
+      "explanation": "कार्य तथा सभी प्रकार की ऊर्जा का मानक अंतरराष्ट्रीय (SI) मात्रक जूल होता है।"
+    },
+    {
+      "id": "8520576e",
+      "question": "हवा में लोहे में जंग लगना (Rusting of Iron) किस प्रकार का परिवर्तन है? / Rusting of iron is a:",
+      "options": [
+        "रासायनिक परिवर्तन (Chemical Change)",
+        "भौतिक परिवर्तन",
+        "उत्क्रमणीय परिवर्तन",
+        "जैविक परिवर्तन"
+      ],
+      "answer": 0,
+      "explanation": "ऑक्सीजन और नमी से आयरन ऑक्साइड बनना एक अनुत्क्रमणीय रासायनिक परिवर्तन है।"
+    },
+    {
+      "id": "57387079",
+      "question": "पौधों में पत्तियों का हरा रंग किस वर्णक की उपस्थिति के कारण होता है? / Green color in plant leaves is due to:",
+      "options": [
+        "क्लोरोफिल (पर्णहरित)",
+        "कैरोटीन",
+        "एंथोसायनिन",
+        "ल्यूकोप्लास्ट"
+      ],
+      "answer": 0,
+      "explanation": "क्लोरोफिल सूर्य के प्रकाश को अवशोषित कर प्रकाश संश्लेषण में मदद करता है।"
+    },
+    {
+      "id": "0c788949",
+      "question": "मनुष्य में लाल रक्त कणिकाओं (RBC) का जीवनकाल लगभग कितने दिन होता है? / Lifespan of human RBC:",
+      "options": [
+        "120 दिन",
+        "60 दिन",
+        "180 दिन",
+        "30 दिन"
+      ],
+      "answer": 0,
+      "explanation": "अस्थिमज्जा में निर्मित RBC का औसत जीवनकाल 100 से 120 दिन होता है (प्लीहा में नष्ट होती हैं)।"
+    },
+    {
+      "id": "ebd574a2",
+      "question": "पृथ्वी पर किसी वस्तु का पलायन वेग (Escape Velocity) लगभग कितना होता है? / Escape velocity from Earth:",
+      "options": [
+        "11.2 किमी/सेकंड",
+        "9.8 मी/सेकंड",
+        "2.4 किमी/सेकंड",
+        "42 किमी/सेकंड"
+      ],
+      "answer": 0,
+      "explanation": "11.2 किमी/सेकंड के वेग से फेंकी गई वस्तु पृथ्वी के गुरुत्वाकर्षण को पार कर जाती है।"
+    },
+    {
+      "id": "9a0e0a8e",
+      "question": "नींबू के रस में कौन सा प्राकृतिक अम्ल पाया जाता है? / Which natural acid is found in lemon juice?",
+      "options": [
+        "साइट्रिक अम्ल (Citric Acid)",
+        "एसिटिक अम्ल",
+        "टार्टरिक अम्ल",
+        "ऑक्सालिक अम्ल"
+      ],
+      "answer": 0,
+      "explanation": "खट्टे रसीले फलों (नींबू, संतरा) में साइट्रिक अम्ल पाया जाता है।"
+    },
+    {
+      "id": "f5b8f551",
+      "question": "विश्व की सबसे गहरी मीठे पानी की प्राकृतिक झील कौन सी है? / World's deepest freshwater lake:",
+      "options": [
+        "बैकाल झील (रूस)",
+        "सुपीरियर झील",
+        "विक्टोरिया झील",
+        "कैस्पियन सागर"
+      ],
+      "answer": 0,
+      "explanation": "रूस के साइबेरिया में स्थित बैकाल झील (1,642 मीटर गहरी) विश्व की सबसे गहरी झील है।"
+    },
+    {
+      "id": "5b9872b3",
+      "question": "कर्क रेखा (Tropic of Cancer) भारत के कुल कितने राज्यों से होकर गुजरती है? / Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "8 राज्यों से",
+        "7 राज्यों से",
+        "9 राज्यों से",
+        "6 राज्यों से"
+      ],
+      "answer": 0,
+      "explanation": "गुजरात, राजस्थान, म.प्र., छत्तीसगढ़, झारखंड, प. बंगाल, त्रिपुरा और मिजोरम।"
+    },
+    {
+      "id": "6fd3269d",
+      "question": "विश्व में सर्वाधिक जैव विविधता से संपन्न 'ग्रेट बैरियर रीफ' किस देश के तट पर स्थित है? / Great Barrier Reef is off the coast of:",
+      "options": [
+        "ऑस्ट्रेलिया (पूर्वोत्तर तट)",
+        "इंडोनेशिया",
+        "ब्राजील",
+        "दक्षिण अफ्रीका"
+      ],
+      "answer": 0,
+      "explanation": "ऑस्ट्रेलिया के क्वींसलैंड तट पर प्रशांत महासागर में विश्व की सबसे बड़ी प्रवाल भित्ति स्थित है।"
+    },
+    {
+      "id": "bf7081fd",
+      "question": "प्रायद्वीपीय (दक्षिण) भारत की सबसे लंबी नदी कौन सी है जिसे 'वृद्ध गंगा' भी कहते हैं? / Longest river of Peninsular India:",
+      "options": [
+        "गोदावरी नदी",
+        "कावेरी नदी",
+        "कृष्णा नदी",
+        "महानदी"
+      ],
+      "answer": 0,
+      "explanation": "गोदावरी (1,465 किमी) दक्षिण भारत की सबसे बड़ी नदी प्रणाली है।"
+    },
+    {
+      "id": "8ed507e2",
+      "question": "1857 के प्रथम स्वतंत्रता संग्राम की प्रथम चिंगारी बैरकपुर में किसने जलाई थी? / Who fired the first shot of 1857 revolt at Barrackpore?",
+      "options": [
+        "मंगल पांडे",
+        "भगत सिंह",
+        "तात्या टोपे",
+        "कुंवर सिंह"
+      ],
+      "answer": 0,
+      "explanation": "29 मार्च 1857 को 34वीं बंगाल नेटिव इन्फैंट्री के सिपाही मंगल पांडे ने चर्बी वाले कारतूसों के विरोध में विद्रोह किया।"
+    },
+    {
+      "id": "4b4a0b07",
+      "question": "1829 में सती प्रथा का पूर्ण उन्मूलन कराने में किस भारतीय समाज सुधारक का मुख्य योगदान था? / Social reformer behind abolition of Sati in 1829:",
+      "options": [
+        "राजा राममोहन राय",
+        "ईश्वरचंद्र विद्यासागर",
+        "स्वामी विवेकानंद",
+        "दयानंद सरस्वती"
+      ],
+      "answer": 0,
+      "explanation": "राजा राममोहन राय के प्रयासों से लॉर्ड विलियम बेंटिक ने 1829 में सती प्रथा पर प्रतिबंध लगाया।"
+    },
+    {
+      "id": "d3de7075",
+      "question": "भारत में पंचायती राज व्यवस्था को संवैधानिक दर्जा किस संविधान संशोधन द्वारा मिला? / Constitutional status to Panchayati Raj was given by:",
+      "options": [
+        "73वां संविधान संशोधन 1992",
+        "74वां संशोधन",
+        "42वां संशोधन",
+        "86वां संशोधन"
+      ],
+      "answer": 0,
+      "explanation": "73वें संशोधन द्वारा संविधान में 11वीं अनुसूची और भाग-9 जोड़कर पंचायतों को 29 विषय सौंपे गए।"
+    },
+    {
+      "id": "e904a56b",
+      "question": "सड़क दुर्घटना में घायल व्यक्ति की तुरंत निःस्वार्थ सहायता करने वाले नागरिक को क्या कहा जाता है? / Citizen helping accident victim is termed as:",
+      "options": [
+        "नेक व्यक्ति (Good Samaritan)",
+        "ट्रैफिक वार्डन",
+        "फर्स्ट एडर",
+        "सिविल डिफेंस"
+      ],
+      "answer": 0,
+      "explanation": "मोटर वाहन कानून के तहत 'गुड सेमेरिटन' को पुलिस या अस्पताल द्वारा परेशान नहीं किया जा सकता।"
+    },
+    {
+      "id": "3df20d65",
+      "question": "सूक्ष्म शिक्षण (Micro-teaching) तकनीक के मूल प्रतिपादक कौन थे? / Pioneer of Micro-teaching:",
+      "options": [
+        "ड्वाइट डब्ल्यू. एलेन (Dwight W. Allen, 1963)",
+        "बी.एफ. स्किनर",
+        "थार्नडाइक",
+        "जॉन डीवी"
+      ],
+      "answer": 0,
+      "explanation": "स्टैनफोर्ड विश्वविद्यालय में 1963 में ड्वाइट एलेन ने शिक्षण कौशलों के विकास हेतु यह तकनीक विकसित की।"
+    },
+    {
+      "id": "7fee189c",
+      "question": "कक्षा में शिक्षक द्वारा सिर हिलाकर मुस्कुराना या पीठ थपथपाना किस प्रकार का पुनर्बलन है? / Nodding and smiling is what type of reinforcement?",
+      "options": [
+        "धनात्मक अशाब्दिक पुनर्बलन (Positive Non-verbal)",
+        "धनात्मक शाब्दिक पुनर्बलन",
+        "ऋणात्मक अशाब्दिक",
+        "शाब्दिक दंड"
+      ],
+      "answer": 0,
+      "explanation": "बिना शब्दों के हाव-भाव और शारीरिक स्वीकृति देना धनात्मक अशाब्दिक पुनर्बलन कहलाता है।"
+    },
+    {
+      "id": "7491d19d",
+      "question": "प्रोजेक्ट विधि (परियोजना विधि / Project Method) के प्रवर्तक कौन हैं? / Proponent of Project Method:",
+      "options": [
+        "विलियम एच. किलपैट्रिक",
+        "जॉन डीवी",
+        "सुकरात",
+        "फ्रोबेल"
+      ],
+      "answer": 0,
+      "explanation": "जॉन डीवी के प्रयोजनवादी दर्शन के आधार पर किलपैट्रिक ने प्रोजेक्ट विधि का प्रतिपादन किया।"
+    },
+    {
+      "id": "089f6a3b",
+      "question": "'मूर्त से अमूर्त की ओर' शिक्षण सूत्र का क्या तात्पर्य है? / Meaning of 'From Concrete to Abstract' maxim:",
+      "options": [
+        "पहले प्रत्यक्ष स्थूल वस्तुएं दिखाकर फिर अमूर्त संप्रत्यय समझाना",
+        "पहले नियम रटाना",
+        "केवल व्याख्यान देना",
+        "काल्पनिक कहानियां सुनाना"
+      ],
+      "answer": 0,
+      "explanation": "बालक पहले प्रत्यक्ष ठोस वस्तुओं को आसानी से समझता है, तत्पश्चात अमूर्त सिद्धांतों को।"
+    },
+    {
+      "id": "35040e3b",
+      "question": "हर्बर्ट की पंचपदीय पाठ योजना प्रणाली का प्रथम पद कौन सा है? / First step of Herbartian five-step plan:",
+      "options": [
+        "प्रस्तावना (Preparation / Introduction)",
+        "प्रस्तुतीकरण",
+        "तुलना",
+        "सामान्यीकरण"
+      ],
+      "answer": 0,
+      "explanation": "हर्बर्ट के पांच पद: 1. प्रस्तावना, 2. प्रस्तुतीकरण, 3. तुलना, 4. सामान्यीकरण, 5. प्रयोग।"
+    },
+    {
+      "id": "b75e66af",
+      "question": "रचनात्मक / निर्माणात्मक आकलन (Formative Assessment) का मुख्य उद्देश्य क्या है? / Main purpose of Formative Assessment:",
+      "options": [
+        "सीखने की प्रक्रिया के दौरान अधिगम कमियों को पहचानकर सुधार करना",
+        "सत्र के अंत में पास-फेल करना",
+        "केवल ग्रेड तय करना",
+        "छात्रों को दंडित करना"
+      ],
+      "answer": 0,
+      "explanation": "फॉर्मेटिव असेसमेंट 'अधिगम के लिए आकलन' (Assessment for Learning) है जो सीखने के दौरान सुधारात्मक फीडबैक देता है।"
+    },
+    {
+      "id": "d1e3d4bd",
+      "question": "भाषा के चार आधारभूत कौशलों (LSRW) का सही मनोवैज्ञानिक क्रम क्या है? / Correct natural order of language skills:",
+      "options": [
+        "सुनना -> बोलना -> पढ़ना -> लिखना (LSRW)",
+        "लिखना -> पढ़ना -> बोलना -> सुनना",
+        "पढ़ना -> लिखना -> सुनना -> बोलना",
+        "बोलना -> सुनना -> पढ़ना -> लिखना"
+      ],
+      "answer": 0,
+      "explanation": "भाषा अर्जन का स्वाभाविक क्रम: Listening, Speaking, Reading, Writing (LSRW) है।"
+    },
+    {
+      "id": "830174b2",
+      "question": "प्रबंधन के 14 सार्वभौमिक सिद्धांतों (14 Principles of Management) के जनक कौन हैं? / Father of 14 principles of management:",
+      "options": [
+        "हेनरी फेयोल (Henri Fayol)",
+        "एफ.डब्ल्यू. टेलर",
+        "लूथर गुलिक",
+        "पीटर ड्रकर"
+      ],
+      "answer": 0,
+      "explanation": "हेनरी फेयोल को आधुनिक प्रशासनिक प्रबंधन का जनक माना जाता है जिन्होंने 14 सिद्धांत दिए।"
+    },
+    {
+      "id": "496d8909",
+      "question": "टर्मन के अनुसार 'प्रतिभाशाली बालक' (Gifted Child) की बुद्धि लब्धि (IQ) कितनी होती है? / IQ of a gifted child according to Terman:",
+      "options": [
+        "140 या उससे अधिक",
+        "90 से 110",
+        "120 से 130",
+        "70 से कम"
+      ],
+      "answer": 0,
+      "explanation": "लुईस टर्मन के अनुसार 140 या अधिक IQ वाले बालक प्रतिभाशाली (Genius/Gifted) श्रेणी में आते हैं।"
+    },
+    {
+      "id": "fb7df232",
+      "question": "सृजनात्मक बालकों (Creative Children) का सबसे विशिष्ट लक्षण क्या होता है? / Primary hallmark of creative children:",
+      "options": [
+        "अपसारी चिंतन (Divergent Thinking) एवं मौलिकता",
+        "अभिसारी चिंतन",
+        "दूसरों की नकल करना",
+        "कक्षा में मूक रहना"
+      ],
+      "answer": 0,
+      "explanation": "सृजनात्मकता का संबंध लीक से हटकर नए, बहुआयामी और मौलिक विचारों के उत्पादन (Divergent thinking) से है।"
+    },
+    {
+      "id": "86eb5164",
+      "question": "बाल्यावस्था को 'जीवन का अनोखा काल' (Unique Period of Life) किसने कहा है? / 'Childhood is a unique period of life' by:",
+      "options": [
+        "कोल एवं ब्रूस (Cole and Bruce)",
+        "स्टेनली हॉल",
+        "किलपैट्रिक",
+        "रॉस"
+      ],
+      "answer": 0,
+      "explanation": "संवेगात्मक विकास के जटिल परिवर्तनों के कारण कोल और ब्रूस ने बाल्यावस्था को अनोखा काल कहा।"
+    },
+    {
+      "id": "33e2c2dd",
+      "question": "मास्लो के आवश्यकता पदानुक्रम सिद्धांत में सबसे आधारभूत (प्रथम) आवश्यकता कौन सी है? / First baseline need in Maslow's hierarchy:",
+      "options": [
+        "शारीरिक / जैविक आवश्यकताएं (Physiological Needs)",
+        "सुरक्षा की आवश्यकता",
+        "आत्म-सम्मान की आवश्यकता",
+        "आत्म-सिद्धि की आवश्यकता"
+      ],
+      "answer": 0,
+      "explanation": "जीवित रहने हेतु भोजन, जल, वायु और नींद की शारीरिक आवश्यकताएं सबसे बुनियादी पायदान हैं।"
+    },
+    {
+      "id": "74802cc6",
+      "question": "कुत्ते पर लार स्राव का प्रयोग कर 'शास्त्रीय अनुबंधन सिद्धांत' किसने प्रतिपादित किया? / Classical Conditioning on dogs by:",
+      "options": [
+        "इवान पेत्रोविच पावलोव (Ivan Pavlov)",
+        "बी.एफ. स्किनर",
+        "थार्नडाइक",
+        "कोहलर"
+      ],
+      "answer": 0,
+      "explanation": "1904 में नोबेल विजेता रूसी वैज्ञानिक पावलोव ने स्वाभाविक व अस्वाभाविक उद्दीपक का अनुबंधन समझाया।"
+    },
+    {
+      "id": "abc59d45",
+      "question": "सुलतान नामक चिम्पांजी पर बक्से और छड़ी का प्रयोग कर 'अंतर्दृष्टि सिद्धांत' किसने दिया? / Insight learning on 'Sultan' chimpanzee by:",
+      "options": [
+        "वुल्फगैंग कोहलर (Wolfgang Kohler)",
+        "थार्नडाइक",
+        "पावलोव",
+        "स्किनर"
+      ],
+      "answer": 0,
+      "explanation": "गेस्टाल्टवादी कोहलर ने सिद्ध किया कि समस्या का समाधान यांत्रिक नहीं, बल्कि समग्र सूझ से अचानक कौंधता है।"
+    },
+    {
+      "id": "4c21f341",
+      "question": "गणितीय गणना संबंधी विकार (Math Learning Disability) को क्या कहा जाता है? / Math calculation disability is known as:",
+      "options": [
+        "डिस्कैलकुलिया (Dyscalculia)",
+        "डिस्लेक्सिया",
+        "डिस्ग्राफिया",
+        "अफेजिया"
+      ],
+      "answer": 0,
+      "explanation": "संख्याओं, सूत्रों और अंकगणितीय संक्रियाओं को समझने व गणना करने की कठिनाई डिस्कैलकुलिया है।"
+    },
+    {
+      "id": "7abd7828",
+      "question": "दिव्यांगजन अधिकार अधिनियम 2016 (RPwD Act 2016) में कुल कितनी दिव्यांगताओं को मान्यता दी गई है? / Disabilities recognized in RPwD Act 2016:",
+      "options": [
+        "21 दिव्यांगताएं",
+        "7 दिव्यांगताएं",
+        "14 दिव्यांगताएं",
+        "18 दिव्यांगताएं"
+      ],
+      "answer": 0,
+      "explanation": "1995 के पुराने कानून की 7 श्रेणियों को बढ़ाकर 2016 के कानून में 21 श्रेणियों तक विस्तारित किया गया।"
+    },
+    {
+      "id": "fbdc5fa1",
+      "question": "दी गई श्रृंखला में लुप्त पद ज्ञात कीजिए: 3, 9, 27, 81, ? / Find the missing term in: 3, 9, 27, 81, ?",
+      "options": [
+        "243",
+        "162",
+        "216",
+        "324"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक पद 3 का गुणज है: 3×3=9, 9×3=27, 27×3=81, 81×3 = 243 (अर्थात् 3^5 = 243)."
+    },
+    {
+      "id": "74f8288d",
+      "question": "जिस प्रकार 'चिकित्सक' का संबंध 'अस्पताल' से है, उसी प्रकार 'शिक्षक' का संबंध किससे होगा? / As Doctor is to Hospital, Teacher is to:",
+      "options": [
+        "विद्यालय (School)",
+        "कक्षा",
+        "विद्यार्थी",
+        "पुस्तकालय"
+      ],
+      "answer": 0,
+      "explanation": "चिकित्सक का कार्यस्थल अस्पताल है, उसी प्रकार शिक्षक का मुख्य कार्यस्थल विद्यालय होता है।"
+    },
+    {
+      "id": "46b6e603",
+      "question": "यदि किसी कूट भाषा में 'CAT' को '3120' लिखा जाता है, तो 'DOG' को क्या लिखा जाएगा? / If CAT = 3120, then DOG = ?",
+      "options": [
+        "4157",
+        "4147",
+        "3157",
+        "4158"
+      ],
+      "answer": 0,
+      "explanation": "वर्णमाला के वर्ण क्रम: C=3, A=1, T=20 -> 3120; D=4, O=15, G=7 -> 4157."
+    },
+    {
+      "id": "36b88dae",
+      "question": "एक तस्वीर की ओर इशारा करते हुए रमेश ने कहा, 'वह मेरे पिता के एकमात्र पुत्र की पुत्री है।' वह लड़की रमेश से किस प्रकार संबंधित है? / 'She is the daughter of the only son of my father.' Relation to Ramesh:",
+      "options": [
+        "पुत्री (Daughter)",
+        "बहन",
+        "माता",
+        "भतीजी"
+      ],
+      "answer": 0,
+      "explanation": "रमेश के पिता का एकमात्र पुत्र स्वयं रमेश है; अतः वह लड़की रमेश की पुत्री है।"
+    },
+    {
+      "id": "5a364ccc",
+      "question": "निम्नलिखित चार विकल्पों में से विषम (Odd one out) को चुनिए: / Find the odd one out:",
+      "options": [
+        "गाजर (Carrot)",
+        "आलू (Potato)",
+        "अदरक (Ginger)",
+        "हल्दी (Turmeric)"
+      ],
+      "answer": 0,
+      "explanation": "आलू, अदरक और हल्दी भूमिगत तने (Stem) हैं, जबकि गाजर एक रूपांतरित जड़ (Root) है।"
+    },
+    {
+      "id": "b35ac729",
+      "question": "स्कूली शिक्षा हेतु एनसीईआरटी की पाठ्यपुस्तकों को डिजिटल ई-बुक्स के रूप में उपलब्ध कराने वाला पोर्टल कौन सा है? / Portal offering digital NCERT textbooks:",
+      "options": [
+        "ई-पाठशाला (e-Pathshala)",
+        "स्वयं",
+        "उमंग",
+        "शाला दर्पण"
+      ],
+      "answer": 0,
+      "explanation": "e-Pathshala शिक्षा मंत्रालय और एनसीईआरटी का आधिकारिक मंच है जहाँ कक्षा 1-12 की ई-बुक्स मुफ्त मिलती हैं।"
+    },
+    {
+      "id": "f6e59af8",
+      "question": "कम्प्यूटर में किसी कार्य को पूर्ववत (Undo) करने के लिए किस शॉर्टकट कुंजी का उपयोग होता है? / Shortcut to Undo in computer:",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + Y",
+        "Ctrl + X",
+        "Ctrl + U"
+      ],
+      "answer": 0,
+      "explanation": "Ctrl + Z दबाने से अंतिम की गई क्रिया पूर्ववत (Undo) हो जाती है।"
+    },
+    {
+      "id": "f5637b7f",
+      "question": "कंप्यूटर नेटवर्क में 'LAN' का पूर्ण रूप क्या होता है? / Full form of LAN in computer networking:",
+      "options": [
+        "लोकल एरिया नेटवर्क (Local Area Network)",
+        "लार्ज एरिया नेटवर्क",
+        "लाइन एरिया नेटवर्क",
+        "लिंक एरिया नेटवर्क"
+      ],
+      "answer": 0,
+      "explanation": "LAN किसी एक कमरे, विद्यालय भवन या छोटे परिसर के कंप्यूटरों को आपस में जोड़ने वाला निजी नेटवर्क है।"
+    },
+    {
+      "id": "72ea3b7d",
+      "question": "प्राथमिक बच्चों में हिंदी व अंग्रेजी पठन प्रवाह सुधारने हेतु गूगल द्वारा विकसित लोकप्रिय ऐप कौन सा है? / Google reading assistant app:",
+      "options": [
+        "रीड अलॉन्ग / बोलो ऐप (Read Along)",
+        "गूगल मीट",
+        "गूगल क्लासरूम",
+        "यूट्यूब किड्स"
+      ],
+      "answer": 0,
+      "explanation": "Read Along ऐप में 'दिया' नामक स्पीच असिस्टेंट बच्चों के उच्चारण को सुनकर तत्काल सुधार और प्रोत्साहन देती है।"
+    },
+    {
+      "id": "f4950c19",
+      "question": "जीवन कौशल विकास में 'स्व-जागरूकता' (Self-Awareness) का क्या अर्थ है? / Meaning of Self-Awareness in life skills:",
+      "options": [
+        "अपनी स्वयं की शक्तियों, कमजोरियों, संवेगों और मूल्यों का यथार्थवादी ज्ञान होना",
+        "दूसरों की कमियां निकालना",
+        "अहंकारी बन जाना",
+        "अपने को सर्वज्ञानी मानना"
+      ],
+      "answer": 0,
+      "explanation": "स्व-जागरूकता आत्म-विकास का पहला सोपान है, जिससे व्यक्ति अपने व्यवहार का आत्म-नियमन कर पाता है।"
+    },
+    {
+      "id": "48588e75",
+      "question": "'किसी कार्य को आरंभ करने, जारी रखने और नियमित करने की प्रक्रिया ही प्रेरणा है' - यह परिभाषा किसकी है? / Definition by:",
+      "options": [
+        "सी.वी. गुड (C.V. Good)",
+        "बी.एफ. स्किनर",
+        "गेट्स",
+        "थार्नडाइक"
+      ],
+      "answer": 0,
+      "explanation": "सी.वी. गुड की यह क्लासिक परिभाषा प्रेरणा के तीन आयामों: आरंभ, निरंतरता और नियमन को रेखांकित करती है।"
+    },
+    {
+      "id": "f8382bb2",
+      "question": "एक 'परामर्शदाता' (Counselor) के रूप में शिक्षक छात्र की सहायता कैसे करता है? / How teacher helps as counselor:",
+      "options": [
+        "छात्र की समस्याओं को धैर्यपूर्वक सुनकर स्वयं निर्णय लेने योग्य बनाकर",
+        "छात्र पर अपने निर्णय थोपकर",
+        "छात्र की कमजोरी का उपहास उड़ाकर",
+        "माता-पिता से झगड़ा करके"
+      ],
+      "answer": 0,
+      "explanation": "परामर्श में समाधान थोपा नहीं जाता, बल्कि छात्र को अपनी शक्ति पहचानकर समस्या सुलझाने में सक्षम बनाया जाता है।"
+    },
+    {
+      "id": "d5965e7a",
+      "question": "अस्पृश्यता (छुआछूत) का पूर्ण उन्मूलन संविधान के किस अनुच्छेद में दंडनीय अपराध घोषित किया गया है? / Abolition of Untouchability Article:",
+      "options": [
+        "अनुच्छेद 17",
+        "अनुच्छेद 14",
+        "अनुच्छेद 18",
+        "अनुच्छेद 21"
+      ],
+      "answer": 0,
+      "explanation": "अनुच्छेद 17 सामाजिक समानता की गारंटी देता है और छुआछूत के किसी भी रूप में आचरण को गैरकानूनी घोषित करता है।"
+    },
+    {
+      "id": "f457498b",
+      "question": "कक्षा शिक्षण में शिक्षक द्वारा 'समानुभूति' (Empathy) का प्रदर्शन क्यों आवश्यक है? / Why is Empathy essential for teachers?",
+      "options": [
+        "ताकि वह छात्र की स्थिति और पीड़ा को उसके दृष्टिकोण से समझकर आत्मीय मार्गदर्शन दे सके",
+        "ताकि वह छात्र पर दया दिखा सके",
+        "ताकि वह परीक्षा रद्द कर सके",
+        "इसका कोई लाभ नहीं है"
+      ],
+      "answer": 0,
+      "explanation": "समानुभूति में शिक्षक स्वयं को छात्र के स्थान पर रखकर उसकी कठिनाई को गहराई से समझता है।"
+    },
+    {
+      "id": "71bdd392",
+      "question": "बी.एफ. स्किनर के अनुसार 'धनात्मक पुनर्बलन' (Positive Reinforcement) का क्या अर्थ है? / Meaning of Positive Reinforcement:",
+      "options": [
+        "ऐसी सुखद वस्तु/प्रशंसा प्रस्तुत करना जिससे वांछित व्यवहार के दोहराए जाने की संभावना बढ़ जाए",
+        "छात्र से उसकी पसंदीदा वस्तु छीनना",
+        "छात्र को कमरे में बंद करना",
+        "छात्र पर जुर्माना लगाना"
+      ],
+      "answer": 0,
+      "explanation": "वांछित कार्य के बाद प्रशंसा, पुरस्कार या प्रोत्साहन देना धनात्मक पुनर्बलन है।"
+    },
+    {
+      "id": "d86a93f5",
+      "question": "कक्षा में अनुशासन बनाए रखने हेतु रूसो ने किस प्रकार के अनुशासन पर बल दिया था? / Rousseau advocated discipline by:",
+      "options": [
+        "प्राकृतिक परिणामों द्वारा अनुशासन (Discipline by Natural Consequences)",
+        "शारीरिक दण्ड द्वारा",
+        "कठोर जेल जैसी सजा द्वारा",
+        "पुरस्कार के लालच द्वारा"
+      ],
+      "answer": 0,
+      "explanation": "रूसो के अनुसार बच्चे को कोई कृत्रिम सजा न दी जाए; प्रकृति स्वयं उसके गलत कार्यों का स्वाभाविक परिणाम भुगता देती है।"
+    },
+    {
+      "id": "76e3e810",
+      "question": "एक शिक्षक के रूप में आपका अंतिम और सर्वोच्च लक्ष्य क्या होना चाहिए? / Ultimate goal of a teacher:",
+      "options": [
+        "प्रत्येक बच्चे को एक संवेदनशील, नैतिक, आत्मनिर्भर और संपूर्ण मानवीय नागरिक बनाना",
+        "केवल 100% परीक्षा परिणाम दिखाना",
+        "केवल अपना वेतन बढ़ाना",
+        "केवल कक्षा में शांति रखना"
+      ],
+      "answer": 0,
+      "explanation": "शिक्षा का वास्तविक ध्येय मानव को 'अच्छा इंसान' बनाना है; बाकी सब उपलब्धियां इसके बाद आती हैं।"
+    }
+  ]
+}

@@ -1,0 +1,1205 @@
+{
+  "subject": "Information Technology (सूचना तकनीकी)",
+  "questions": [
+    {
+      "id": "7d07419e",
+      "question": "कम्प्यूटर का जनक किसे कहा जाता है? / Who is known as the 'Father of Computer'?",
+      "options": [
+        "एलन ट्यूरिंग / Alan Turing",
+        "ब्लेज पास्कल / Blaise Pascal",
+        "चार्ल्स बैबेज / Charles Babbage",
+        "जॉन वॉन न्यूमैन / John von Neumann"
+      ],
+      "answer": 2,
+      "explanation": "चार्ल्स बैबेज ने 19वीं सदी में एनालिटिकल इंजन की रूपरेखा तैयार की थी। / Charles Babbage designed the Analytical Engine in the 19th century, laying the foundation of modern computing."
+    },
+    {
+      "id": "57b3babb",
+      "question": "आधुनिक कम्प्यूटर विज्ञान का जनक किसे माना जाता है? / Who is regarded as the 'Father of Modern Computer Science'?",
+      "options": [
+        "एलन ट्यूरिंग / Alan Turing",
+        "बिल गेट्स / Bill Gates",
+        "चार्ल्स बैबेज / Charles Babbage",
+        "टिम बर्नर्स-ली / Tim Berners-Lee"
+      ],
+      "answer": 0,
+      "explanation": "एलन ट्यूरिंग ने ट्यूरिंग मशीन और सैद्धांतिक कंप्यूटर विज्ञान की नींव रखी। / Alan Turing formulated the Turing machine and fundamental principles of computer science and AI."
+    },
+    {
+      "id": "43b956ea",
+      "question": "विश्व का प्रथम सामान्य प्रयोजन इलेक्ट्रॉनिक डिजिटल कम्प्यूटर कौन सा था? / Which was the world's first general-purpose electronic digital computer?",
+      "options": [
+        "PARAM 8000 / PARAM 8000",
+        "EDVAC / EDVAC",
+        "ENIAC (एनियाक) / ENIAC",
+        "UNIVAC / UNIVAC"
+      ],
+      "answer": 2,
+      "explanation": "ENIAC का निर्माण 1946 में मौचली और एकर्ट द्वारा किया गया था। / ENIAC was built in 1946 by John Mauchly and J. Presper Eckert."
+    },
+    {
+      "id": "33eb2e5f",
+      "question": "कम्प्यूटर का 'मस्तिष्क' (Brain of Computer) किसे कहा जाता है? / Which part is known as the 'Brain of the Computer'?",
+      "options": [
+        "हार्ड डिस्क / Hard Disk",
+        "रैम (RAM) / RAM",
+        "मॉनिटर / Monitor",
+        "CPU (सेंट्रल प्रोसेसिंग यूनिट) / CPU (Central Processing Unit)"
+      ],
+      "answer": 3,
+      "explanation": "CPU कंप्यूटर के समस्त निर्देशों का निष्पादन व प्रसंस्करण करता है। / CPU executes all instructions and controls data processing in a computer."
+    },
+    {
+      "id": "9271d258",
+      "question": "CPU के तीन प्रमुख घटक कौन से होते हैं? / What are the three primary components of a CPU?",
+      "options": [
+        "ALU, CU और रजिस्टर / ALU, CU and Registers",
+        "माउस, कीबोर्ड और प्रिंटर / Mouse, Keyboard and Printer",
+        "हार्ड डिस्क, डीवीडी और मॉनिटर / Hard Disk, DVD and Monitor",
+        "RAM, ROM और CD / RAM, ROM and CD"
+      ],
+      "answer": 0,
+      "explanation": "CPU में अरिथमेटिक लॉजिक यूनिट, कंट्रोल यूनिट और आंतरिक रजिस्टर्स होते हैं। / CPU comprises the Arithmetic Logic Unit (ALU), Control Unit (CU), and internal registers."
+    },
+    {
+      "id": "f374a810",
+      "question": "निम्नलिखित में से कौन सी एक अस्थिर / वाष्पशील (Volatile) मेमोरी है? / Which of the following is a Volatile Memory?",
+      "options": [
+        "रोम (ROM) / ROM (Read Only Memory)",
+        "हार्ड डिस्क / Hard Disk",
+        "पेन ड्राइव / Pen Drive",
+        "रैम (RAM) / RAM (Random Access Memory)"
+      ],
+      "answer": 3,
+      "explanation": "RAM में विद्युत आपूर्ति बंद होते ही संग्रहीत डेटा नष्ट हो जाता है। / RAM loses its stored data immediately when power is turned off."
+    },
+    {
+      "id": "b51d0799",
+      "question": "कम्प्यूटर बूटिंग के आवश्यक निर्देश (BIOS) किस मेमोरी में स्थायी रूप से संचित रहते हैं? / In which memory are essential booting instructions (BIOS) permanently stored?",
+      "options": [
+        "कैश मेमोरी / Cache Memory",
+        "वर्चुअल मेमोरी / Virtual Memory",
+        "रोम (ROM) / ROM (Read Only Memory)",
+        "रैम (RAM) / RAM"
+      ],
+      "answer": 2,
+      "explanation": "ROM एक गैर-वाष्पशील (Non-volatile) मेमोरी है जिसमें मदरबोर्ड का BIOS संचित रहता है। / ROM is non-volatile memory holding the Basic Input/Output System (BIOS) code."
+    },
+    {
+      "id": "8fc162d9",
+      "question": "1 किलोबाइट (1 KB) में कुल कितने बाइट्स होते हैं? / How many bytes are there in 1 Kilobyte (1 KB)?",
+      "options": [
+        "1000 बाइट्स / 1000 Bytes",
+        "512 बाइट्स / 512 Bytes",
+        "2048 बाइट्स / 2048 Bytes",
+        "1024 बाइट्स / 1024 Bytes"
+      ],
+      "answer": 3,
+      "explanation": "बाइनरी प्रणाली (2^10) के अनुसार 1 KB = 1024 Bytes होते हैं। / According to binary measurement (2^10), 1 KB equals 1024 Bytes."
+    },
+    {
+      "id": "3328c8d9",
+      "question": "1 निबल (Nibble) कितने बिट्स (Bits) के बराबर होता है? / One Nibble is equal to how many bits?",
+      "options": [
+        "2 बिट्स / 2 Bits",
+        "4 बिट्स / 4 Bits",
+        "16 बिट्स / 16 Bits",
+        "8 बिट्स / 8 Bits"
+      ],
+      "answer": 1,
+      "explanation": "4 बिट्स का समूह 1 निबल कहलाता है। (8 बिट्स = 1 बाइट) / A group of 4 bits is called one nibble (half of a byte)."
+    },
+    {
+      "id": "c98e8727",
+      "question": "प्रतियोगी परीक्षाओं की उत्तर पुस्तिकाओं की त्वरित जांच हेतु किस इनपुट डिवाइस का उपयोग होता है? / Which input device is used for evaluating objective multiple-choice answer sheets?",
+      "options": [
+        "बारकोड रीडर / Barcode Reader",
+        "OMR (ऑप्टिकल मार्क रिकॉग्निशन) / OMR (Optical Mark Recognition)",
+        "MICR / MICR",
+        "OCR / OCR"
+      ],
+      "answer": 1,
+      "explanation": "OMR तकनीक पेन या पेंसिल के निशानों को स्कैन कर उत्तर जांचती है। / OMR detects the presence of pencil or pen marks on pre-printed forms."
+    },
+    {
+      "id": "f1991a22",
+      "question": "बैंक चेकों पर नीचे मुद्रित विशेष अंकों को पढ़ने के लिए किस तकनीक का प्रयोग किया जाता है? / Which technology is used to read magnetic numbers printed on bank cheques?",
+      "options": [
+        "RFID / RFID",
+        "OMR / OMR",
+        "MICR (मैग्नेटिक इंक कैरेक्टर रिकॉग्निशन) / MICR (Magnetic Ink Character Recognition)",
+        "OCR / OCR"
+      ],
+      "answer": 2,
+      "explanation": "MICR चेक के तल पर चुंबकीय स्याही से लिखे कोड को तीव्रता से पहचानता है। / MICR reads bank codes and account numbers printed with magnetic ink."
+    },
+    {
+      "id": "a1951d76",
+      "question": "बड़े मानचित्र, ब्लूप्रिंट और इंजीनियरिंग ड्राइंग प्रिंट करने के लिए किस आउटपुट डिवाइस का उपयोग किया जाता है? / Which output device is used to print architectural blueprints and large vector graphics?",
+      "options": [
+        "प्लॉटर (Plotter) / Plotter",
+        "लेजर प्रिंटर / Laser Printer",
+        "डॉट मैट्रिक्स प्रिंटर / Dot Matrix Printer",
+        "इंकजेट प्रिंटर / Inkjet Printer"
+      ],
+      "answer": 0,
+      "explanation": "प्लॉटर बड़े आकारों पर उच्च-गुणवत्ता वाले वेक्टर रेखाचित्र खींचता है। / A plotter produces high-precision vector graphics and large-scale architectural designs."
+    },
+    {
+      "id": "a102cc87",
+      "question": "निम्नलिखित में से कौन सा एक ओपन-सोर्स (Open-Source) ऑपरेटिंग सिस्टम है? / Which of the following is an Open-Source Operating System?",
+      "options": [
+        "लिनक्स (Linux) / Linux",
+        "मैक ओएस (macOS) / macOS",
+        "विंडोज (Windows) / Microsoft Windows",
+        "आईओएस (iOS) / iOS"
+      ],
+      "answer": 0,
+      "explanation": "लिनक्स का सोर्स कोड निःशुल्क व सार्वजनिक रूप से उपलब्ध होता है। / Linux source code is freely available and modifiable by anyone globally."
+    },
+    {
+      "id": "b352e7fb",
+      "question": "विंडोज में किसी चयनित फाइल का नाम बदलने (Rename) की शॉर्टकट की क्या है? / What is the shortcut key to rename a selected file or folder in Windows?",
+      "options": [
+        "F2 / F2",
+        "F5 / F5",
+        "F7 / F7",
+        "F1 / F1"
+      ],
+      "answer": 0,
+      "explanation": "F2 कुंजी से फाइल या फोल्डर का नाम तुरंत बदला जा सकता है। / F2 is the standard Windows function key to rename selected files or folders."
+    },
+    {
+      "id": "11ca6c82",
+      "question": "एमएस वर्ड में 'स्पेलिंग एवं ग्रामर' की जांच करने की शॉर्टकट कुंजी कौन सी है? / Which shortcut key checks Spelling and Grammar in MS Word?",
+      "options": [
+        "F12 / F12",
+        "F7 / F7",
+        "F5 / F5",
+        "F2 / F2"
+      ],
+      "answer": 1,
+      "explanation": "F7 दबाने से वर्तनी व व्याकरण सुधार विंडो खुलती है। / Pressing F7 launches the Spelling and Grammar check dialog box."
+    },
+    {
+      "id": "444155d1",
+      "question": "किसी फाइल को बिना रीसायकल बिन में भेजे स्थायी रूप से हटाने का शॉर्टकट क्या है? / What is the shortcut to permanently delete a file without sending it to the Recycle Bin?",
+      "options": [
+        "Alt + Delete / Alt + Delete",
+        "Shift + Delete / Shift + Delete",
+        "Ctrl + Delete / Ctrl + Delete",
+        "केवल Delete / Delete only"
+      ],
+      "answer": 1,
+      "explanation": "Shift + Delete फाइल को स्थायी रूप से मिटा देता है। / Shift + Delete bypasses the Recycle Bin and deletes the file permanently."
+    },
+    {
+      "id": "28e6e948",
+      "question": "इंटरनेट का मूल आधार माना जाने वाला पहला नेटवर्क कौन सा था? / Which was the first operational packet-switching network that laid the foundation of the Internet?",
+      "options": [
+        "ARPANET (अर्पानेट) / ARPANET",
+        "INTRANET / INTRANET",
+        "ETHERNET / ETHERNET",
+        "NSFNET / NSFNET"
+      ],
+      "answer": 0,
+      "explanation": "1969 में अमेरिकी रक्षा विभाग द्वारा ARPANET विकसित किया गया था। / ARPANET was launched in 1969 by the US Department of Defense."
+    },
+    {
+      "id": "83adf17d",
+      "question": "WWW (वर्ल्ड वाइड वेब) का आविष्कार 1989 में किसने किया था? / Who invented the World Wide Web (WWW) in 1989?",
+      "options": [
+        "विंट सर्फ / Vint Cerf",
+        "मार्क जुकरबर्ग / Mark Zuckerberg",
+        "टिम बर्नर्स-ली / Tim Berners-Lee",
+        "बिल गेट्स / Bill Gates"
+      ],
+      "answer": 2,
+      "explanation": "टिम बर्नर्स-ली ने CERN में HTML, HTTP और WWW का आविष्कार किया। / Sir Tim Berners-Lee invented the World Wide Web while working at CERN."
+    },
+    {
+      "id": "80201350",
+      "question": "'इंटरनेट का जनक' (Father of the Internet) किसे कहा जाता है? / Who is credited as the 'Father of the Internet'?",
+      "options": [
+        "विंटन सर्फ और रॉबर्ट कान / Vint Cerf and Bob Kahn",
+        "चार्ल्स बैबेज / Charles Babbage",
+        "टिम बर्नर्स-ली / Tim Berners-Lee",
+        "डेनिस रिची / Dennis Ritchie"
+      ],
+      "answer": 0,
+      "explanation": "विंट सर्फ और बॉब कान ने TCP/IP प्रोटोकॉल सूट का विकास किया। / Vint Cerf and Bob Kahn co-designed the TCP/IP networking protocols."
+    },
+    {
+      "id": "cac4ea2d",
+      "question": "URL का पूर्ण रूप क्या होता है? / What is the full form of URL?",
+      "options": [
+        "यूनिफॉर्म रजिस्टर लिंक / Uniform Register Link",
+        "यूनिवर्सल रिसोर्स लिंक / Universal Resource Link",
+        "यूनिफॉर्म रिसोर्स लोकेटर / Uniform Resource Locator",
+        "यूनाइटेड रिसोर्स लोकेटर / United Resource Locator"
+      ],
+      "answer": 2,
+      "explanation": "URL वेब पर किसी विशिष्ट फ़ाइल या वेब पेज का वैश्विक पता होता है। / A URL is the global address of documents and other resources on the World Wide Web."
+    },
+    {
+      "id": "046c8015",
+      "question": "सुरक्षित वेबसाइटों में प्रयुक्त HTTPS में 'S' का क्या अर्थ होता है? / In secure websites (HTTPS), what does the letter 'S' stand for?",
+      "options": [
+        "सर्वर (Server) / Server",
+        "सॉफ्टवेयर (Software) / Software",
+        "सिक्योर (Secure / SSL-TLS) / Secure (SSL/TLS Encryption)",
+        "सिस्टम (System) / System"
+      ],
+      "answer": 2,
+      "explanation": "HTTPS वेब ब्राउज़र और सर्वर के मध्य एन्क्रिप्टेड सुरक्षित संचार प्रदान करता है। / HTTPS encrypts communications between the browser and website for data privacy."
+    },
+    {
+      "id": "3fff0442",
+      "question": "IPv4 पते (IP Address) की लंबाई कुल कितने बिट्स होती है? / What is the total bit length of an IPv4 address?",
+      "options": [
+        "32 बिट्स / 32 Bits",
+        "64 बिट्स / 64 Bits",
+        "128 बिट्स / 128 Bits",
+        "16 बिट्स / 16 Bits"
+      ],
+      "answer": 0,
+      "explanation": "IPv4 32-बिट (4 बाइट्स) का संख्यात्मक पता होता है (जैसे 192.168.1.1)। / An IPv4 address consists of 32 bits divided into four octets."
+    },
+    {
+      "id": "c32593b0",
+      "question": "ई-मेल में 'BCC' का पूर्ण रूप क्या होता है? / What does 'BCC' stand for in an email?",
+      "options": [
+        "बैक कार्बन कॉपी / Back Carbon Copy",
+        "ब्लैक कार्बन कॉपी / Black Carbon Copy",
+        "ब्लाइंड कार्बन कॉपी / Blind Carbon Copy",
+        "बेसिक कार्बन कॉपी / Basic Carbon Copy"
+      ],
+      "answer": 2,
+      "explanation": "BCC में रखे गए पते अन्य किसी भी ईमेल प्राप्तकर्ता को दिखाई नहीं देते। / Recipients in the BCC field cannot be seen by other recipients."
+    },
+    {
+      "id": "f4af8c39",
+      "question": "इंटरनेट पर थोक में भेजे जाने वाले अवांछित विज्ञापनी ई-मेल को क्या कहते हैं? / What are unsolicited commercial bulk emails commonly called?",
+      "options": [
+        "स्पैम (Spam / जंक मेल) / Spam (Junk Email)",
+        "स्पूफिंग / Spoofing",
+        "मैलवेयर / Malware",
+        "फिशिंग / Phishing"
+      ],
+      "answer": 0,
+      "explanation": "स्पैम अवांछित प्रचार ईमेल होते हैं जो मेलबॉक्स को भर देते हैं। / Spam refers to unrequested electronic messages sent in bulk for promotional purposes."
+    },
+    {
+      "id": "942ae59e",
+      "question": "फर्जी वेबसाइट या ईमेल द्वारा पासवर्ड व बैंक विवरण चुराने के साइबर अपराध को क्या कहते हैं? / What cybercrime involves stealing passwords and credit card info via deceptive fake links?",
+      "options": [
+        "रैनसमवेयर / Ransomware",
+        "ट्रोजन / Trojan",
+        "स्पूलिंग / Spooling",
+        "फिशिंग (Phishing) / Phishing"
+      ],
+      "answer": 3,
+      "explanation": "फिशिंग में प्रामाणिक संस्था का भ्रामक रूप बनाकर गोपनीय डेटा हड़पा जाता है। / Phishing attempts to fraudulently acquire sensitive credentials through disguised web links."
+    },
+    {
+      "id": "ae41f55b",
+      "question": "अनधिकृत नेटवर्क पहुंच को रोकने और आंतरिक नेटवर्क की सुरक्षा करने वाली दीवार क्या कहलाती है? / What hardware/software system monitors and blocks unauthorized network traffic?",
+      "options": [
+        "मॉडेम / Modem",
+        "राउटर / Router",
+        "फ़ायरवॉल (Firewall) / Firewall",
+        "एंटीवायरस / Antivirus"
+      ],
+      "answer": 2,
+      "explanation": "फ़ायरवॉल पूर्व-निर्धारित सुरक्षा नियमों के आधार पर नेटवर्क ट्रैफिक की निगरानी करता है। / A firewall acts as a security barrier filtering incoming and outgoing network packets."
+    },
+    {
+      "id": "a1cc5882",
+      "question": "उपयोगकर्ता के कंप्यूटर की फाइलों को लॉक (एन्क्रिप्ट) कर फिरौती मांगने वाला दुर्भावनापूर्ण सॉफ्टवेयर क्या कहलाता है? / Which malicious software encrypts user files and demands payment to restore access?",
+      "options": [
+        "स्पायवेयर / Spyware",
+        "वर्म / Worm",
+        "एडवेयर / Adware",
+        "रैनसमवेयर (Ransomware) / Ransomware"
+      ],
+      "answer": 3,
+      "explanation": "रैनसमवेयर डेटा को बंधक बनाकर क्रिप्टोकरेंसी में फिरौती की मांग करता है। / Ransomware locks system files and coerces victims into paying ransom for decryption keys."
+    },
+    {
+      "id": "a2aeba7e",
+      "question": "कक्षा-शिक्षण में 'स्मार्ट क्लास' (Smart Class) का सबसे महत्वपूर्ण लाभ क्या है? / What is the primary pedagogical benefit of a Smart Classroom?",
+      "options": [
+        "कक्षा में शिक्षक की आवश्यकता समाप्त करना / Completely replacing the need for a teacher",
+        "कठिन अमूर्त अवधारणाओं को दृश्य-श्रव्य एनीमेशन द्वारा जीवंत बनाना / Making abstract concepts tangible and vivid through multimedia animations",
+        "केवल बिजली की खपत बढ़ाना / Increasing electrical power consumption",
+        "केवल परीक्षा के अंक बढ़ाना / Restricting learning to memorization"
+      ],
+      "answer": 1,
+      "explanation": "स्मार्ट क्लास दृश्य-श्रव्य माध्यमों से बहु-संवेदी अधिगम को बढ़ावा देती है। / Smart classrooms engage multiple senses, enhancing long-term conceptual retention."
+    },
+    {
+      "id": "772b3dc9",
+      "question": "विद्यालय प्रबंधन में प्रयुक्त 'UDISE+' का पूर्ण रूप क्या है? / What is the full form of 'UDISE+' in school education management?",
+      "options": [
+        "यूनिफाइड डिस्ट्रिक्ट इंफॉर्मेशन सिस्टम फॉर एजुकेशन प्लस / Unified District Information System for Education Plus",
+        "यूनिवर्सल डिस्ट्रिक्ट इंफॉर्मेशन सिस्टम / Universal District Information System",
+        "यूनियन डेटा फॉर इंडियन स्कूल एजुकेशन / Union Data for Indian School Education",
+        "यूनाइटेड डिपार्टमेंट ऑफ इंफॉर्मेशन सिस्टम / United Department of Information System"
+      ],
+      "answer": 0,
+      "explanation": "UDISE+ भारत सरकार के शिक्षा मंत्रालय का देशव्यापी ऑनलाइन स्कूल डेटाबेस है। / UDISE+ is the official nationwide school data management system run by the Ministry of Education."
+    },
+    {
+      "id": "b5e5d108",
+      "question": "उत्तर प्रदेश बेसिक शिक्षा विभाग में शिक्षकों के ऑनलाइन अवकाश व सेवा विवरण हेतु कौन सा पोर्टल कार्यरत है? / Which portal manages online leaves and service records for UP Basic Education teachers?",
+      "options": [
+        "शांति पोर्टल / Shanti Portal",
+        "दीक्षा पोर्टल / DIKSHA Portal",
+        "मानव संपदा पोर्टल (e-HRMS) / Manav Sampada Portal (e-HRMS)",
+        "ई-पाठशाला / e-Pathshala"
+      ],
+      "answer": 2,
+      "explanation": "मानव संपदा (ehrms.upsdc.gov.in) पर अवकाश आवेदन, स्थानांतरण व वेतन डेटा प्रबंधित होता है। / Manav Sampada automates service books, transfers, and online leave management for educators."
+    },
+    {
+      "id": "f75dde24",
+      "question": "उत्तर प्रदेश में प्राथमिक विद्यालयों की शैक्षणिक गुणवत्ता निगरानी हेतु कौन सा ऐप संचालित है? / Which mobile application is used for monitoring academic outcomes in UP primary schools?",
+      "options": [
+        "दीक्षा ऐप / DIKSHA App",
+        "उमंग ऐप / UMANG App",
+        "प्रेरणा ऐप / प्रेरणा पोर्टल / Prerna App / Prerna Portal",
+        "रीड अलॉन्ग / Read Along"
+      ],
+      "answer": 2,
+      "explanation": "मिशन प्रेरणा के तहत विद्यालयों के निरीक्षण व लर्निंग आउटकम की ट्रैकिंग प्रेरणा ऐप से होती है। / Prerna App tracks learning outcomes, NIPUN goals, and school inspections under Mission Prerna."
+    },
+    {
+      "id": "8a45fa04",
+      "question": "उत्तर प्रदेश में आउट-ऑफ-स्कूल (शाला त्यागी) बच्चों के चिन्हांकन व ट्रैकिंग हेतु कौन सा ऐप प्रयुक्त होता है? / Which dedicated app tracks and enrolls out-of-school dropout children in Uttar Pradesh?",
+      "options": [
+        "सरल ऐप / SARAL App",
+        "शारदा ऐप (SHARDA App) / SHARDA App",
+        "प्रेरणा ऐप / Prerna App",
+        "दीक्षा ऐप / DIKSHA App"
+      ],
+      "answer": 1,
+      "explanation": "शारदा (School Har Din Aayen) ऐप ड्रॉपआउट बच्चों को मुख्यधारा से जोड़ने में सहायक है। / SHARDA app identifies and facilitates mainstream enrollment of out-of-school children."
+    },
+    {
+      "id": "10413841",
+      "question": "उत्तर प्रदेश में छात्रों की OMR शीट को स्कैन कर त्वरित आकलन करने वाला ऐप कौन सा है? / Which app scans student OMR sheets for rapid assessment in UP basic schools?",
+      "options": [
+        "दीक्षा ऐप / DIKSHA App",
+        "सरल ऐप (SARAL App) / SARAL App",
+        "रीड अलॉन्ग / Read Along",
+        "उमंग / UMANG"
+      ],
+      "answer": 1,
+      "explanation": "SARAL ऐप OMR शीट्स को कैमरा स्कैनिंग द्वारा आर्टिफिशियल इंटेलिजेंस से जांचता है। / SARAL (Smart Assessment for Readiness in Learning) evaluates OMR sheets using phone cameras."
+    },
+    {
+      "id": "5fd96db7",
+      "question": "पारंपरिक प्रत्यक्ष कक्षा शिक्षण और ऑनलाइन डिजिटल शिक्षण के प्रभावी संयोजन को क्या कहते हैं? / What is the blended combination of traditional in-person classroom and online digital learning called?",
+      "options": [
+        "दूरस्थ शिक्षा / Distance Education",
+        "मिश्रित अधिगम (Blended Learning) / Blended Learning",
+        "पूर्ण ऑनलाइन शिक्षा / Pure Online Learning",
+        "पारंपरिक शिक्षा / Traditional Rote Learning"
+      ],
+      "answer": 1,
+      "explanation": "ब्लेंडेड लर्निंग में ऑफलाइन कक्षा अंतःक्रिया के साथ ऑनलाइन डिजिटल संसाधनों का समन्वय होता है। / Blended learning combines traditional face-to-face classroom teaching with digital web tools."
+    },
+    {
+      "id": "65a405ca",
+      "question": "डिजिटल शिक्षण में 'फ्लिप्ड क्लासरूम' (Flipped Classroom) का क्या अभिप्राय है? / What does 'Flipped Classroom' mean in digital pedagogy?",
+      "options": [
+        "घर पर वीडियो द्वारा पूर्व-अध्ययन और कक्षा में आकर चर्चा व अभ्यास करना / Studying video lessons at home and doing active practice/discussions in class",
+        "केवल शिक्षक का मौन रहना / Teacher remaining completely silent",
+        "कक्षा में बच्चों का उल्टा बैठना / Students sitting upside down in class",
+        "केवल ऑनलाइन परीक्षा देना / Taking only online examinations"
+      ],
+      "answer": 0,
+      "explanation": "पारंपरिक कक्षा संरचना को पलटकर पाठ्य सामग्री घर पर समझाई जाती है और स्कूल में शंका समाधान होता है। / Instructional content is reviewed at home, freeing up classroom time for active problem-solving."
+    },
+    {
+      "id": "31c0f356",
+      "question": "शिक्षा के क्षेत्र में 'एम-लर्निंग' (M-Learning) का पूर्ण रूप क्या है? / What does 'M-Learning' stand for in modern education?",
+      "options": [
+        "मशीन लर्निंग / Machine Learning",
+        "मल्टीमीडिया लर्निंग / Multimedia Learning",
+        "मॉडर्न लर्निंग / Modern Learning",
+        "मोबाइल लर्निंग (Mobile Learning) / Mobile Learning"
+      ],
+      "answer": 3,
+      "explanation": "स्मार्टफोन और टैबलेट के माध्यम से किसी भी स्थान व समय पर सीखना एम-लर्निंग है। / M-Learning refers to education via handheld portable mobile devices anywhere, anytime."
+    },
+    {
+      "id": "628cd4ca",
+      "question": "स्मार्टफोन में प्रयुक्त 'SIM' का पूर्ण रूप क्या होता है? / What is the full form of 'SIM' used in mobile phones?",
+      "options": [
+        "सिस्टम इंफॉर्मेशन मेमोरी / System Information Memory",
+        "स्मार्ट इंटरनेट मीडिया / Smart Internet Media",
+        "सिक्योर आइडेंटिटी मैकेनिज्म / Secure Identity Mechanism",
+        "सब्सक्राइबर आइडेंटिटी मॉड्यूल / Subscriber Identity Module"
+      ],
+      "answer": 3,
+      "explanation": "SIM कार्ड उपयोगकर्ता की विशिष्ट पहचान और नेटवर्क ऑपरेटर डेटा को सुरक्षित रखता है। / A SIM card securely stores network authentication keys and subscriber identity information."
+    },
+    {
+      "id": "dce8acd2",
+      "question": "प्रत्येक मोबाइल फोन का 15 अंकों का अद्वितीय पहचान कोड क्या कहलाता है? / What is the 15-digit unique international identification code of a mobile phone called?",
+      "options": [
+        "PIN कोड / PIN Code",
+        "IP एड्रेस / IP Address",
+        "MAC एड्रेस / MAC Address",
+        "IMEI नंबर / IMEI Number"
+      ],
+      "answer": 3,
+      "explanation": "IMEI (International Mobile Equipment Identity) उपकरण की वैश्विक विशिष्ट पहचान है। / IMEI uniquely identifies valid GSM and mobile phone devices globally."
+    },
+    {
+      "id": "18526ee3",
+      "question": "ओ०ई०आर० (OER) का पूर्ण रूप क्या है? / What is the full form of OER in educational technology?",
+      "options": [
+        "ओपन एंट्रेंस रिसोर्स / Open Entrance Resource",
+        "ऑफलाइन एजुकेशन रिकॉर्ड / Offline Education Record",
+        "ओपन एजुकेशनल रिसोर्सेज / Open Educational Resources",
+        "ऑनलाइन एजुकेशन रजिस्टर / Online Education Register"
+      ],
+      "answer": 2,
+      "explanation": "OER वे शिक्षण व अधिगम सामग्री हैं जो सार्वजनिक उपयोग हेतु कानूनी रूप से मुक्त होती हैं। / OER are teaching, learning, and research materials in the public domain released under an open license."
+    },
+    {
+      "id": "8fd37981",
+      "question": "मुक्त शैक्षिक संसाधनों (OER) पर रचनाकारों को लचीले अधिकार देने वाला अंतरराष्ट्रीय लाइसेंस कौन सा है? / Which open intellectual property licensing system is universally used for OER?",
+      "options": [
+        "पेटेंट / Patent",
+        "क्रिएटिव कॉमन्स लाइसेंस (Creative Commons - CC) / Creative Commons License (CC)",
+        "कॉपीराइट पूर्ण प्रतिबंध / Strict Copyright",
+        "ट्रेडमार्क / Trademark"
+      ],
+      "answer": 1,
+      "explanation": "क्रिएटिव कॉमन्स लाइसेंस सामग्री को निःशुल्क साझा, अनुकूलित और पुनः उपयोग करने की अनुमति देता है। / Creative Commons licenses grant the public legal permission to share, remix, and reuse educational works."
+    },
+    {
+      "id": "5e9030b8",
+      "question": "स्कूली शिक्षा हेतु एनसीईआरटी (NCERT) द्वारा संचालित भारत का प्रमुख राष्ट्रीय मुक्त डिजिटल रिपॉजिटरी पोर्टल कौन सा है? / Which is India's premier open digital educational repository for school education managed by NCERT?",
+      "options": [
+        "ई-ज्ञानकोश / eGyanKosh",
+        "कौरसेरा / Coursera",
+        "NROER (नेशनल रिपॉजिटरी ऑफ ओपन एजुकेशनल रिसोर्सेज) / NROER (National Repository of Open Educational Resources)",
+        "विकिपीडिया / Wikipedia"
+      ],
+      "answer": 2,
+      "explanation": "NROER स्कूली छात्रों व शिक्षकों हेतु बहुभाषी डिजिटल वीडियो, ऑडियो और ई-बुक्स का खुला खजाना है। / NROER hosts digital resources including videos, concept maps, and audiobooks across Indian languages."
+    },
+    {
+      "id": "753de5cb",
+      "question": "भारत सरकार द्वारा कक्षा 1 से 12 तक की पाठ्यपुस्तकों को डिजिटल ई-बुक्स रूप में उपलब्ध कराने वाला आधिकारिक ऐप कौन सा है? / Which official platform provides digital textbooks (e-books) for Grades 1 to 12 in India?",
+      "options": [
+        "उमंग / UMANG",
+        "ई-पाठशाला (e-Pathshala) / e-Pathshala",
+        "स्वयं / SWAYAM",
+        "शाला दर्पण / Shala Darpan"
+      ],
+      "answer": 1,
+      "explanation": "e-Pathshala एनसीईआरटी और शिक्षा मंत्रालय का मंच है जहाँ मुफ्त डिजिटल पाठ्यपुस्तकें उपलब्ध हैं। / e-Pathshala offers free digital access to NCERT textbooks, audio, and educational periodicals."
+    },
+    {
+      "id": "e430b98c",
+      "question": "भारत सरकार के मुफ्त ऑनलाइन पाठ्यक्रमों (MOOCs) के राष्ट्रीय मंच 'SWAYAM' का पूर्ण रूप क्या है? / What is the full form of India's national MOOCs learning platform 'SWAYAM'?",
+      "options": [
+        "स्टेट वेब फॉर यंग अचीवर्स / State Web for Young Achievers",
+        "स्टडी वेब्स ऑफ एक्टिव-लर्निंग फॉर यंग एस्पायरिंग माइंड्स / Study Webs of Active-Learning for Young Aspiring Minds",
+        "स्टूडेंट वेब फॉर ऑल यूथ एंड मैन / Student Web for All Youth and Men",
+        "स्कूल वेब फॉर एडवांसमेंट ऑफ यूथ / School Web for Advancement of Youth"
+      ],
+      "answer": 1,
+      "explanation": "SWAYAM कक्षा 9 से स्नातकोत्तर स्तर तक के उच्च गुणवत्ता वाले ऑनलाइन पाठ्यक्रम निःशुल्क प्रस्तुत करता है। / SWAYAM is an indigenous IT platform offering integrated interactive college courses free of cost."
+    },
+    {
+      "id": "86b99c10",
+      "question": "24x7 उच्च गुणवत्ता वाले डीटीएच (DTH) टीवी चैनलों से शैक्षिक सामग्री प्रसारित करने वाले भारत सरकार के चैनल नेटवर्क का नाम क्या है? / What is the name of India's 24x7 educational DTH television channel network?",
+      "options": [
+        "ज्ञान दर्शन / Gyan Darshan",
+        "शिक्षा टीवी / Shiksha TV",
+        "स्वयं प्रभा (SWAYAM PRABHA) / SWAYAM PRABHA",
+        "डीडी भारती / DD Bharati"
+      ],
+      "answer": 2,
+      "explanation": "स्वयं प्रभा जीसैट-15 उपग्रह के माध्यम से देश भर में गुणवत्तापूर्ण शैक्षिक प्रसारण करता है। / SWAYAM PRABHA is a consortium of DTH educational TV channels telecasting 24x7 learning content."
+    },
+    {
+      "id": "753875e2",
+      "question": "स्कूली शिक्षा हेतु भारत का राष्ट्रीय डिजिटल मंच 'दीक्षा' (DIKSHA) का पूर्ण रूप क्या है? / What is the full form of India's national school education platform 'DIKSHA'?",
+      "options": [
+        "डिजिटल इंस्टीट्यूट फॉर नॉलेज शेयरिंग / Digital Institute for Knowledge Sharing",
+        "डिपार्टमेंट ऑफ इंफॉर्मेशन एंड नॉलेज / Department of Information and Knowledge",
+        "डिजिटल इंफ्रास्ट्रक्चर फॉर नॉलेज शेयरिंग / Digital Infrastructure for Knowledge Sharing",
+        "डिजिटल इंडिया फॉर नॉलेज एंड स्किल्स / Digital India for Knowledge and Skills"
+      ],
+      "answer": 2,
+      "explanation": "DIKSHA शिक्षकों के व्यावसायिक विकास और छात्रों के स्व-अध्ययन का राष्ट्रीय पोर्टल है। / DIKSHA provides state-curated learning material linked to energized QR-coded textbooks."
+    },
+    {
+      "id": "97690b6c",
+      "question": "दीक्षा (DIKSHA) पोर्टल पर पाठ्यपुस्तकों पर मुद्रित किस कोड को स्कैन कर डिजिटल सामग्री तुरंत खुलती है? / Which scannable code printed on textbooks immediately launches digital content on the DIKSHA app?",
+      "options": [
+        "पिन कोड / PIN Code",
+        "ओटीपी / OTP",
+        "QR कोड (Quick Response Code) / QR Code (Quick Response Code)",
+        "बारकोड / Barcode"
+      ],
+      "answer": 2,
+      "explanation": "QR कोड स्कैन करने पर छात्र सीधे पाठ से संबंधित व्याख्यात्मक वीडियो व अभ्यास तक पहुंच जाते हैं। / QR codes connect printed textbook pages directly to online interactive audiovisual explainers."
+    },
+    {
+      "id": "b1c9704c",
+      "question": "प्राथमिक स्तर के बच्चों में हिंदी व अंग्रेजी पठन प्रवाह सुधारने हेतु गूगल द्वारा विकसित लोकप्रिय ऐप कौन सा है? / Which app developed by Google improves reading fluency in Hindi and English using a speech assistant?",
+      "options": [
+        "गूगल क्लासरूम / Google Classroom",
+        "गूगल मीट / Google Meet",
+        "यूट्यूब किड्स / YouTube Kids",
+        "रीड अलॉन्ग (Read Along / बोलो ऐप) / Read Along (Bolo App)"
+      ],
+      "answer": 3,
+      "explanation": "Read Along ऐप में 'दिया' (Diya) नामक स्पीच असिस्टेंट बच्चों के पठन को सुनकर तुरंत सहायता करती है। / Read Along uses Google's speech recognition to assist and encourage primary school readers."
+    },
+    {
+      "id": "883d4e9b",
+      "question": "शिक्षकों द्वारा ऑनलाइन असाइनमेंट वितरित करने, ग्रेड देने और कक्षा संचालित करने वाला गूगल का मुफ्त टूल कौन सा है? / Which Google tool enables educators to create paperless assignments, track grades, and share files?",
+      "options": [
+        "गूगल क्लासरूम (Google Classroom) / Google Classroom",
+        "गूगल फॉर्म्स / Google Forms",
+        "गूगल शीट्स / Google Sheets",
+        "गूगल ड्राइव / Google Drive"
+      ],
+      "answer": 0,
+      "explanation": "Google Classroom एक आभासी कक्षा वातावरण बनाकर डिजिटल शिक्षण और कार्य-प्रबंधन को सुगम बनाता है। / Google Classroom simplifies distributing, grading, and collecting student schoolwork digitally."
+    },
+    {
+      "id": "708dad01",
+      "question": "कक्षा में छात्रों के साथ खेल-आधारित (गेमिफाइड) इंटरएक्टिव क्विज़ आयोजित करने वाला प्रसिद्ध ऐप कौन सा है? / Which popular game-based learning platform allows teachers to host live interactive multiple-choice quizzes?",
+      "options": [
+        "वीएलसी प्लेयर / VLC Player",
+        "काहूट (Kahoot!) / क्विज़िज़ (Quizizz) / Kahoot! / Quizizz",
+        "एडोब रीडर / Adobe Reader",
+        "एमएस वर्ड / MS Word"
+      ],
+      "answer": 1,
+      "explanation": "Kahoot! और Quizizz छात्रों में प्रतिस्पर्धी उत्साह के साथ तत्काल प्रश्नोत्तर खेलने की सुविधा देते हैं। / Kahoot! transforms classroom review sessions into lively, real-time multiplayer educational games."
+    },
+    {
+      "id": "498369f2",
+      "question": "गणित शिक्षण में ज्यामिति और बीजगणित को 2D/3D दृश्य रूप में प्रदर्शित करने वाला लोकप्रिय फ्री सॉफ्टवेयर कौन सा है? / Which open-source interactive mathematics software visually demonstrates geometry and algebra?",
+      "options": [
+        "जियोजेब्रा (GeoGebra) / GeoGebra",
+        "नोटपैड / Notepad",
+        "टक्स पेंट / Tux Paint",
+        "ऑडेसिटी / Audacity"
+      ],
+      "answer": 0,
+      "explanation": "GeoGebra गणितीय आकृतियों, वक्रों और फलनों के दृश्य अन्वेषण हेतु विश्वभर में प्रयुक्त होता है। / GeoGebra dynamically connects geometric construction, algebraic formulas, and spreadsheet charting."
+    },
+    {
+      "id": "9a5393fe",
+      "question": "प्राथमिक बच्चों को विजुअल ब्लॉक-बेस्ड कोडिंग और एनीमेशन सिखाने वाला प्रसिद्ध शैक्षणिक सॉफ्टवेयर कौन सा है? / Which visual block-based coding software developed by MIT teaches animation and logic to school children?",
+      "options": [
+        "सी++ / C++",
+        "जावा / Java",
+        "स्क्रैच (Scratch) / Scratch",
+        "ओरेकल / Oracle"
+      ],
+      "answer": 2,
+      "explanation": "Scratch में बच्चे रंगीन ब्लॉक्स जोड़कर बिना जटिल सिंटैक्स सीखे कहानियां और खेल बना सकते हैं। / Scratch lets young learners drag and drop graphical blocks to program interactive stories and games."
+    },
+    {
+      "id": "0f4d3a69",
+      "question": "छात्रों के शैक्षणिक प्रमाण पत्रों और अंकपत्रों को ऑनलाइन डिजिटल रूप में सुरक्षित रखने वाला सरकारी लॉकर कौन सा है? / Which Government of India cloud platform securely stores digital academic certificates and degrees?",
+      "options": [
+        "गूगल ड्राइव / Google Drive",
+        "ड्रॉपबॉक्स / Dropbox",
+        "पेटीएम / Paytm",
+        "डिजीलॉकर (DigiLocker) / DigiLocker"
+      ],
+      "answer": 3,
+      "explanation": "DigiLocker पर जारी डिजिटल दस्तावेज आईटी अधिनियम के तहत मूल भौतिक दस्तावेजों के समान कानूनी मान्यता रखते हैं। / DigiLocker provides secure electronic storage for issuing and verifying official government documents."
+    },
+    {
+      "id": "49224b86",
+      "question": "कंप्यूटर में किसी कार्य को पूर्ववत करने (Undo) की मानक शॉर्टकट कुंजी कौन सी है? / What is the standard shortcut key to Undo an action in a computer?",
+      "options": [
+        "Ctrl + Z / Ctrl + Z",
+        "Ctrl + Y / Ctrl + Y",
+        "Ctrl + U / Ctrl + U",
+        "Ctrl + X / Ctrl + X"
+      ],
+      "answer": 0,
+      "explanation": "Ctrl + Z अंतिम की गई क्रिया को पूर्ववत करता है। / Ctrl + Z reverts the most recent action executed by the user."
+    },
+    {
+      "id": "e1303f9d",
+      "question": "कंप्यूटर में पूर्ववत क्रिया को पुनः लागू करने (Redo) की शॉर्टकट की क्या है? / What is the shortcut key to Redo an action in a computer?",
+      "options": [
+        "Ctrl + K / Ctrl + K",
+        "Ctrl + R / Ctrl + R",
+        "Ctrl + Z / Ctrl + Z",
+        "Ctrl + Y / Ctrl + Y"
+      ],
+      "answer": 3,
+      "explanation": "Ctrl + Y अंतिम अनडू की गई क्रिया को पुनः लागू करता है। / Ctrl + Y reverses an undo action, restoring the altered state."
+    },
+    {
+      "id": "f1829e45",
+      "question": "माइक्रोसॉफ्ट पावरपॉइंट में पहली स्लाइड से 'स्लाइड शो' आरंभ करने की फंक्शन की क्या है? / Which function key starts a Slide Show from the beginning in MS PowerPoint?",
+      "options": [
+        "F2 / F2",
+        "F7 / F7",
+        "F5 / F5",
+        "Shift + F5 / Shift + F5"
+      ],
+      "answer": 2,
+      "explanation": "F5 दबाने पर प्रेजेंटेशन आरंभिक स्लाइड से फुल स्क्रीन में शुरू होती है। / F5 initiates full-screen presentation playback from slide one."
+    },
+    {
+      "id": "892be82b",
+      "question": "कंप्यूटर की किस पीढ़ी में मुख्य इलेक्ट्रॉनिक घटक के रूप में वैक्यूम ट्यूब का प्रयोग होता था? / Which generation of computers used vacuum tubes as their main electronic component?",
+      "options": [
+        "तृतीय पीढ़ी / Third Generation",
+        "चौथी पीढ़ी / Fourth Generation",
+        "प्रथम पीढ़ी (First Generation) / First Generation",
+        "द्वितीय पीढ़ी / Second Generation"
+      ],
+      "answer": 2,
+      "explanation": "प्रथम पीढ़ी (1940-1956) के कंप्यूटरों में निर्वात नलिकाएं (वैक्यूम ट्यूब) उपयोग होती थीं। / First-generation computers relied on glass vacuum tubes for circuitry."
+    },
+    {
+      "id": "db9963ef",
+      "question": "द्वितीय पीढ़ी के कंप्यूटरों में वैक्यूम ट्यूब के स्थान पर किसका प्रयोग किया गया? / What replaced vacuum tubes in second-generation computers?",
+      "options": [
+        "वैक्यूम वाल्व / Vacuum Valves",
+        "माइक्रोप्रोसेसर / Microprocessors",
+        "सिलिकॉन चिप्स / Silicon Chips",
+        "ट्रांजिस्टर (Transistors) / Transistors"
+      ],
+      "answer": 3,
+      "explanation": "1950 के दशक में ट्रांजिस्टर ने कंप्यूटर को अधिक तेज और छोटा बनाया। / Transistors dramatically improved energy efficiency, reliability, and computational speed."
+    },
+    {
+      "id": "c3a4c195",
+      "question": "तृतीय पीढ़ी के कंप्यूटरों में किस महत्वपूर्ण तकनीक का सूत्रपात हुआ था? / Which key technology was introduced in third-generation computers?",
+      "options": [
+        "वैक्यूम ट्यूब / Vacuum Tubes",
+        "ट्रांजिस्टर / Transistors",
+        "इंटीग्रेटेड सर्किट (IC चिप्स) / Integrated Circuits (IC Chips)",
+        "आर्टिफिशियल इंटेलिजेंस / Artificial Intelligence"
+      ],
+      "answer": 2,
+      "explanation": "जैक किल्बी द्वारा विकसित IC चिप्स ने कंप्यूटरों को कॉम्पैक्ट बनाया। / Integrated circuits consolidated multiple transistors onto single semiconductor chips."
+    },
+    {
+      "id": "8396283d",
+      "question": "माइक्रोप्रोसेसर का आविष्कार कंप्यूटर की किस पीढ़ी में हुआ था? / In which generation of computers was the microprocessor invented?",
+      "options": [
+        "चौथी पीढ़ी (Fourth Generation) / Fourth Generation",
+        "द्वितीय पीढ़ी / Second Generation",
+        "पांचवीं पीढ़ी / Fifth Generation",
+        "तृतीय पीढ़ी / Third Generation"
+      ],
+      "answer": 0,
+      "explanation": "चौथी पीढ़ी (1971 से) में इंटेल 4004 के साथ माइक्रोप्रोसेसर क्रांति शुरू हुई। / The microprocessor emerged in the 1970s fourth generation with VLSI technology."
+    },
+    {
+      "id": "2530059d",
+      "question": "कंप्यूटर में प्रयुक्त होने वाली 'IC चिप' सामान्यतः किस तत्व से बनती है? / Integrated Circuit (IC) chips used in computers are primarily made of which element?",
+      "options": [
+        "लोहा (Iron) / Iron",
+        "सिलिकॉन (Silicon) / Silicon",
+        "सोना (Gold) / Gold",
+        "तांबा (Copper) / Copper"
+      ],
+      "answer": 1,
+      "explanation": "सिलिकॉन एक अर्धचालक पदार्थ है जिस पर इलेक्ट्रॉनिक सर्किट बनाए जाते हैं। / Silicon is a semiconductor ideal for manufacturing microscopic integrated circuits."
+    },
+    {
+      "id": "509a5d1d",
+      "question": "भारत में निर्मित प्रथम स्वदेशी सुपरकंप्यूटर का नाम क्या था? / What was the name of India's first indigenously built supercomputer?",
+      "options": [
+        "आर्यभट्ट / Aryabhata",
+        "परम 8000 (PARAM 8000) / PARAM 8000",
+        "परम सिद्धि / PARAM Siddhi",
+        "अनुपम / Anupam"
+      ],
+      "answer": 1,
+      "explanation": "C-DAC पुणे द्वारा 1991 में डॉ. विजय भटकर के नेतृत्व में परम 8000 बना। / PARAM 8000 was developed in 1991 by C-DAC Pune under Dr. Vijay Bhatkar."
+    },
+    {
+      "id": "f27246d3",
+      "question": "सुपरकंप्यूटर की प्रसंस्करण गति को मापने की मानक इकाई क्या है? / What is the standard unit used to measure the processing speed of supercomputers?",
+      "options": [
+        "एमआईपीएस (MIPS) / MIPS",
+        "फ्लॉप्स (FLOPS) / FLOPS (Floating-point Operations Per Second)",
+        "बाइट्स / Bytes",
+        "हर्ट्ज (Hz) / Hertz (Hz)"
+      ],
+      "answer": 1,
+      "explanation": "सुपरकंप्यूटरों की गति पेटाफ्लॉप्स या एक्सफ्लॉप्स में आंकी जाती है। / FLOPS measures floating-point mathematical calculations executed per second."
+    },
+    {
+      "id": "a5e14def",
+      "question": "कंप्यूटर स्क्रीन पर दिखने वाले सबसे छोटे बिंदु (डॉट) को क्या कहा जाता है? / What is the smallest controllable element of a picture represented on a computer screen?",
+      "options": [
+        "पिक्सेल (Pixel) / Pixel (Picture Element)",
+        "इंच (Inch) / Inch",
+        "बाइट (Byte) / Byte",
+        "बिट (Bit) / Bit"
+      ],
+      "answer": 0,
+      "explanation": "हजारों पिक्सेल मिलकर स्क्रीन पर संपूर्ण छवि का निर्माण करते हैं। / A pixel is the smallest physical point of illumination in a digital display device."
+    },
+    {
+      "id": "62fe2b3f",
+      "question": "माइक्रोसॉफ्ट एक्सेल में सूत्र (Formulas) सदैव किस चिन्ह से प्रारंभ होते हैं? / In Microsoft Excel, formulas must always begin with which character?",
+      "options": [
+        "प्लस चिन्ह (+) / Plus sign (+)",
+        "एट-द-रेट (@) / At-sign (@)",
+        "बराबर का चिन्ह (=) / Equal sign (=)",
+        "हैश चिन्ह (#) / Hash sign (#)"
+      ],
+      "answer": 2,
+      "explanation": "एक्सेल में गणना का कोई भी फंक्शन या सूत्र '=' से आरंभ होता है। / Formulas in Excel spreadsheets must be prefixed with '=' to initiate calculation."
+    },
+    {
+      "id": "c7c58e91",
+      "question": "एक्सेल स्प्रेडशीट में एक पंक्ति (Row) और स्तंभ (Column) के प्रतिच्छेदन को क्या कहते हैं? / What is the intersection point of a row and a column in a spreadsheet called?",
+      "options": [
+        "ग्रिड (Grid) / Grid",
+        "ब्लॉक (Block) / Block",
+        "सेल (Cell) / Cell",
+        "टेबल (Table) / Table"
+      ],
+      "answer": 2,
+      "explanation": "सेल डेटा प्रविष्टि की मूलभूत इकाई है, जिसका नाम जैसे A1 या C5 होता है। / A cell is an individual container in a spreadsheet identified by column letter and row number."
+    },
+    {
+      "id": "622014a0",
+      "question": "लोकल एरिया नेटवर्क (LAN) का सामान्य भौगोलिक विस्तार कितना होता है? / What is the typical geographic span of a Local Area Network (LAN)?",
+      "options": [
+        "संपूर्ण महाद्वीप / An entire continent",
+        "एक कमरा, विद्यालय भवन या एक छोटा परिसर / A single room, school building, or small campus",
+        "एक बड़ा देश / An entire nation",
+        "वैश्विक समुद्र / Global oceans"
+      ],
+      "answer": 1,
+      "explanation": "LAN सीमित परिसर में कंप्यूटरों और प्रिंटरों को जोड़ने वाला निजी नेटवर्क है। / A LAN connects computers and peripheral equipment within a localized limited area."
+    },
+    {
+      "id": "5a764679",
+      "question": "विश्वभर के विभिन्न नेटवर्कों को आपस में जोड़ने वाला विशालतम नेटवर्क क्या है? / Which vast global interconnection of computer networks spans the entire world?",
+      "options": [
+        "लोकल एरिया नेटवर्क (LAN) / LAN",
+        "इंट्रानेट / Intranet",
+        "इंटरनेट / वाइड एरिया नेटवर्क (WAN) / Internet / Wide Area Network (WAN)",
+        "पर्सनल एरिया नेटवर्क (PAN) / PAN"
+      ],
+      "answer": 2,
+      "explanation": "इंटरनेट दुनिया का सबसे बड़ा सार्वजनिक नेटवर्क है जो सूचनाओं का संचरण करता है। / The Internet is the global system of interconnected computer networks utilizing TCP/IP."
+    },
+    {
+      "id": "d7e6de81",
+      "question": "वाई-फाई (Wi-Fi) का पूर्ण रूप क्या होता है? / What is the full form of Wi-Fi?",
+      "options": [
+        "वाइड फिडेलिटी / Wide Fidelity",
+        "वायरलेस फिडेलिटी / Wireless Fidelity",
+        "वायर्ड इंटरनेट / Wired Internet",
+        "वायरलेस फाइल / Wireless File"
+      ],
+      "answer": 1,
+      "explanation": "Wi-Fi रेडियो तरंगों द्वारा हाई-स्पीड वायरलेस लोकल नेटवर्किंग प्रदान करता है। / Wi-Fi is the trademarked term for wireless local area network communication protocols."
+    },
+    {
+      "id": "e81d3616",
+      "question": "प्रकाश तरंगों (LED बल्ब) के माध्यम से अति-तीव्र गति से डेटा संचारित करने वाली तकनीक कौन सी है? / Which cutting-edge optical technology transmits data using light rays from LED bulbs?",
+      "options": [
+        "इन्फ्रारेड / Infrared",
+        "ब्लूटूथ / Bluetooth",
+        "लाई-फाई (Li-Fi) / Li-Fi (Light Fidelity)",
+        "वाई-फाई / Wi-Fi"
+      ],
+      "answer": 2,
+      "explanation": "Li-Fi प्रकाश स्पेक्ट्रम का उपयोग कर वाई-फाई से कहीं अधिक तीव्र डेटा ट्रांसफर करती है। / Li-Fi is a visible light communications system capable of transmitting data at high speeds."
+    },
+    {
+      "id": "bd1c1d7c",
+      "question": "स्मार्टफोन में लोकेशन और मानचित्र नेविगेशन हेतु प्रयुक्त 'GPS' का पूर्ण रूप क्या है? / What is the full form of 'GPS' used for location navigation in smartphones?",
+      "options": [
+        "जनरल पब्लिक सिस्टम / General Public System",
+        "जियोग्राफिक पोजिशन सर्विस / Geographic Position Service",
+        "ग्लोबल पाथ सिस्टम / Global Path System",
+        "ग्लोबल पोजिशनिंग सिस्टम / Global Positioning System"
+      ],
+      "answer": 3,
+      "explanation": "GPS उपग्रहों के माध्यम से पृथ्वी पर किसी भी उपकरण की सटीक स्थिति बताता है। / GPS is a satellite-based radionavigation system providing precise geolocational data."
+    },
+    {
+      "id": "f790965a",
+      "question": "इंटरनेट पर वेब पेजों को देखने और सर्फ करने वाले सॉफ्टवेयर को क्या कहते हैं? / What software application is used for retrieving and viewing web pages on the Internet?",
+      "options": [
+        "ऑपरेटिंग सिस्टम / Operating System",
+        "वेब सर्वर / Web Server",
+        "सर्च इंजन (Search Engine) / Search Engine",
+        "वेब ब्राउज़र (Web Browser) / Web Browser"
+      ],
+      "answer": 3,
+      "explanation": "गूगल क्रोम, मोज़िला फ़ायरफ़ॉक्स आदि वेब ब्राउज़र के लोकप्रिय उदाहरण हैं। / Web browsers interpret HTML code to render graphical web pages for user interaction."
+    },
+    {
+      "id": "00de4c06",
+      "question": "इंटरनेट पर सूचनाओं को कीवर्ड्स के आधार पर खोजने वाली सेवा क्या कहलाती है? / What software service helps users locate web pages based on query keywords?",
+      "options": [
+        "सर्च इंजन (जैसे Google, Bing, Yahoo) / Search Engine (e.g., Google, Bing, Yahoo)",
+        "एंटीवायरस / Antivirus",
+        "टेक्स्ट एडिटर / Text Editor",
+        "वेब ब्राउज़र / Web Browser"
+      ],
+      "answer": 0,
+      "explanation": "सर्च इंजन वेब इंडेक्स को स्कैन कर प्रासंगिक पृष्ठों की सूची प्रस्तुत करता है। / Search engines index the web to deliver relevant links matching entered queries."
+    },
+    {
+      "id": "4da6c1ed",
+      "question": "वेब पेजों का निर्माण और संरचना तैयार करने वाली मानक मार्कअप भाषा कौन सी है? / Which standard markup language is used to construct and structure web pages?",
+      "options": [
+        "जावा (Java) / Java",
+        "C++ / C++",
+        "पायथन (Python) / Python",
+        "HTML (हाइपरटेक्स्ट मार्कअप लैंग्वेज) / HTML (Hypertext Markup Language)"
+      ],
+      "answer": 3,
+      "explanation": "HTML विभिन्न टैग्स के माध्यम से टेक्स्ट, लिंक और चित्रों को वेब पर व्यवस्थित करती है। / HTML defines the foundational layout and elements of documents on the web."
+    },
+    {
+      "id": "7fa5c79c",
+      "question": "किसी वेबसाइट के प्रथम / मुख्य पृष्ठ (Front Page) को क्या कहा जाता है? / What is the primary or introductory page of a website generally called?",
+      "options": [
+        "इंडेक्स कोड / Index Code",
+        "मास्टर पेज / Master Page",
+        "होम पेज (Home Page) / Home Page",
+        "बैक पेज / Back Page"
+      ],
+      "answer": 2,
+      "explanation": "होम पेज वेबसाइट का मुख्य द्वार होता है जहाँ से अन्य पृष्ठ जुड़े होते हैं। / The home page serves as the starting point and navigation hub of a website."
+    },
+    {
+      "id": "364d8906",
+      "question": "इंटरनेट से किसी फ़ाइल को अपने निजी कंप्यूटर में सुरक्षित रूप से लाना क्या कहलाता है? / What is the process of receiving data or files from a remote server to a local device called?",
+      "options": [
+        "ब्राउजिंग / Browsing",
+        "डाउनलोडिंग (Downloading) / Downloading",
+        "सर्फिंग / Surfing",
+        "अपलोडिंग (Uploading) / Uploading"
+      ],
+      "answer": 1,
+      "explanation": "रिमोट सर्वर से फाइल प्राप्त करना डाउनलोडिंग तथा फाइल भेजना अपलोडिंग है। / Downloading transfers data from a central internet host into local storage."
+    },
+    {
+      "id": "c60fbbab",
+      "question": "नेटवर्क पर फाइलों के त्वरित और विश्वसनीय आदान-प्रदान हेतु प्रयुक्त मानक प्रोटोकॉल कौन सा है? / Which standard network protocol is used specifically for transferring computer files?",
+      "options": [
+        "FTP (फाइल ट्रांसफर प्रोटोकॉल) / FTP (File Transfer Protocol)",
+        "DNS / DNS",
+        "HTTP / HTTP",
+        "SMTP / SMTP"
+      ],
+      "answer": 0,
+      "explanation": "FTP का उपयोग क्लाइंट और सर्वर के मध्य फाइलों के स्थानांतरण में होता है। / FTP facilitates bidirectional file transfer between clients and servers across TCP/IP."
+    },
+    {
+      "id": "553e73d7",
+      "question": "ई-मेल भेजने (Outgoing Mail) के लिए मुख्य रूप से कौन सा प्रोटोकॉल प्रयुक्त होता है? / Which protocol is primarily used for sending outgoing email messages?",
+      "options": [
+        "SMTP (सिंपल मेल ट्रांसफर प्रोटोकॉल) / SMTP (Simple Mail Transfer Protocol)",
+        "HTTP / HTTP",
+        "IMAP / IMAP",
+        "POP3 / POP3"
+      ],
+      "answer": 0,
+      "explanation": "SMTP क्लाइंट से मेल सर्वर या सर्वर-से-सर्वर मेल प्रेषित करता है। / SMTP delivers outgoing mail from sender clients to destination mail servers."
+    },
+    {
+      "id": "9b5aaa44",
+      "question": "ई-मेल संदेशों को सर्वर से इनबॉक्स में डाउनलोड/प्राप्त करने हेतु कौन सा प्रोटोकॉल उपयोग होता है? / Which protocol retrieves and downloads incoming emails from a mail server?",
+      "options": [
+        "FTP / FTP",
+        "POP3 (पोस्ट ऑफिस प्रोटोकॉल) / IMAP / POP3 / IMAP",
+        "SMTP / SMTP",
+        "SNMP / SNMP"
+      ],
+      "answer": 1,
+      "explanation": "POP3 और IMAP इनबॉक्स में ई-मेल प्राप्त करने वाले मानक प्रोटोकॉल हैं। / POP3 and IMAP retrieve stored email messages onto client devices."
+    },
+    {
+      "id": "457df2ef",
+      "question": "भारत में साइबर अपराधों पर नियंत्रण हेतु 'सूचना प्रौद्योगिकी अधिनियम' (IT Act) किस वर्ष लागू हुआ? / In which year was the Information Technology Act (IT Act) enacted in India?",
+      "options": [
+        "वर्ष 2000 में (Year 2000) / Year 2000",
+        "वर्ष 2005 में / Year 2005",
+        "वर्ष 2010 में / Year 2010",
+        "वर्ष 1995 में / Year 1995"
+      ],
+      "answer": 0,
+      "explanation": "IT Act 2000 भारत का प्रमुख कानून है जो साइबर अपराध व डिजिटल लेन-देन को नियंत्रित करता है। / The IT Act 2000 provides legal recognition for electronic transactions and penalizes cyber offenses."
+    },
+    {
+      "id": "1d5b7e22",
+      "question": "इंटरनेट पर किसी व्यक्ति को डराना, धमकाना या मानसिक रूप से प्रताड़ित करना क्या कहलाता है? / What is the act of harassing, threatening, or humiliating someone online called?",
+      "options": [
+        "नेटवर्किंग / Networking",
+        "एथिकल हैकिंग / Ethical Hacking",
+        "सॉफ्टवेयर पाइरेसी / Software Piracy",
+        "साइबर बुलिंग (Cyber Bullying) / Cyber Bullying"
+      ],
+      "answer": 3,
+      "explanation": "डिजिटल माध्यमों द्वारा किसी को बदनाम या परेशान करना साइबर बुलिंग है। / Cyberbullying uses digital communication tools to intimidate, harass, or demean targets."
+    },
+    {
+      "id": "7608859f",
+      "question": "दूसरों के साहित्यिक या शोध कार्य को बिना श्रेय दिए चोरी कर अपना बताना क्या कहलाता है? / What is the unauthorized use and passing off another person's creative/academic work as one's own called?",
+      "options": [
+        "ओपन एक्सेस / Open Access",
+        "कॉपीराइट छूट / Copyright Exemption",
+        "साहित्यिक चोरी (Plagiarism) / Plagiarism",
+        "क्रिएटिव कॉमन्स / Creative Commons"
+      ],
+      "answer": 2,
+      "explanation": "प्लेगिएरिज्म अकादमिक नैतिकता का गंभीर उल्लंघन माना जाता है। / Plagiarism involves appropriating someone else's intellectual ideas without due attribution."
+    },
+    {
+      "id": "7ec19b4e",
+      "question": "इंटरनेट पर ऑनलाइन कक्षाओं और चर्चाओं में शालीन व नैतिक आचरण के नियमों को क्या कहते हैं? / What is the etiquette and respectful communication code observed on the Internet called?",
+      "options": [
+        "प्रोटोकॉल / Protocol",
+        "साइबर लॉ / Cyber Law",
+        "फ़ायरवॉल / Firewall",
+        "नेटिकेट (Netiquette) / Netiquette (Network Etiquette)"
+      ],
+      "answer": 3,
+      "explanation": "नेटिकेट डिजिटल समुदाय में सम्मानजनक व सौम्य संवाद के शिष्टाचार नियम हैं। / Netiquette outlines social conventions and courteous behavior for online interactions."
+    },
+    {
+      "id": "fa2695da",
+      "question": "गूगल ड्राइव प्रत्येक निःशुल्क व्यक्तिगत खाते को कितना फ्री क्लाउड स्टोरेज देती है? / How much free cloud storage does Google Drive provide to each individual personal Google account?",
+      "options": [
+        "50 GB / 50 GB",
+        "5 GB / 5 GB",
+        "15 GB / 15 GB",
+        "25 GB / 25 GB"
+      ],
+      "answer": 2,
+      "explanation": "गूगल ड्राइव जीमेल और गूगल फोटोज सहित कुल 15 GB का मुफ्त क्लाउड स्पेस प्रदान करती है। / Google provides 15 GB of shared cloud storage across Drive, Gmail, and Google Photos."
+    },
+    {
+      "id": "1c4cd211",
+      "question": "गणित शिक्षण में ज्यामिति और बीजगणित के दृश्य निरूपण हेतु प्रयुक्त लोकप्रिय फ्री टूल कौन सा है? / Which dynamic mathematics software is globally popular for teaching geometry and algebra?",
+      "options": [
+        "टक्स पेंट / Tux Paint",
+        "जियोजेब्रा (GeoGebra) / GeoGebra",
+        "ऑडेसिटी / Audacity",
+        "नोटपैड / Notepad"
+      ],
+      "answer": 1,
+      "explanation": "GeoGebra गणितीय आकृतियों और सूत्रों को परस्पर गतिशील रूप से जोड़ता है। / GeoGebra dynamically couples interactive geometric constructions with algebraic graphing."
+    },
+    {
+      "id": "276810ad",
+      "question": "ऑडियो व्याख्यान रिकॉर्ड करने और ध्वनि संपादन हेतु प्रयुक्त प्रसिद्ध ओपन-सोर्स सॉफ्टवेयर कौन सा है? / Which popular free, open-source software is used for recording and editing audio files?",
+      "options": [
+        "ऑडेसिटी (Audacity) / Audacity",
+        "एक्सेल / Excel",
+        "फोटोशॉप / Photoshop",
+        "जियोजेब्रा / GeoGebra"
+      ],
+      "answer": 0,
+      "explanation": "शिक्षक शैक्षिक पॉडकास्ट और वॉयस नोट्स संपादित करने हेतु Audacity का प्रयोग करते हैं। / Audacity is a multi-track audio editor widely utilized to produce educational podcasts."
+    },
+    {
+      "id": "1842745b",
+      "question": "प्राथमिक स्तर के बच्चों को विजुअल ब्लॉक-कोडिंग सिखाने वाला विख्यात सॉफ्टवेयर कौन सा है? / Which visual block-based programming environment developed by MIT teaches coding to children?",
+      "options": [
+        "जावा (Java) / Java",
+        "स्क्रैच (Scratch) / Scratch",
+        "सी++ (C++) / C++",
+        "ओरेकल / Oracle"
+      ],
+      "answer": 1,
+      "explanation": "Scratch में रंग-बिरंगे ब्लॉक्स जोड़कर बच्चे आसानी से एनिमेशन व खेल बना सकते हैं। / Scratch allows young students to snap together code blocks to create animations and stories."
+    },
+    {
+      "id": "1a6311b8",
+      "question": "सौरमण्डल, तारों और खगोल विज्ञान का सजीव 3D सिमुलेशन दिखाने वाला फ्री सॉफ्टवेयर कौन सा है? / Which free open-source planetarium software simulates realistic 3D night skies and celestial bodies?",
+      "options": [
+        "स्क्रैच / Scratch",
+        "स्टेलेरियम (Stellarium) / Stellarium",
+        "टक्स पेंट / Tux Paint",
+        "जियोजेब्रा / GeoGebra"
+      ],
+      "answer": 1,
+      "explanation": "Stellarium कंप्यूटर स्क्रीन पर वास्तविक समय में आकाशीय पिंडों की स्थिति दिखाता है। / Stellarium generates photo-realistic 3D representations of stars, constellations, and planetary orbits."
+    },
+    {
+      "id": "2d804e57",
+      "question": "ऑनलाइन शिक्षण में सहयोगी वर्चुअल वाइटबोर्ड और विचार मंथन का लोकप्रिय साधन कौन सा है? / Which digital collaborative sticky-note wall tool is popular for virtual brainstorming in classrooms?",
+      "options": [
+        "पैडलेट (Padlet) / Padlet",
+        "कैलकुलेटर / Calculator",
+        "वीएलसी प्लेयर / VLC Player",
+        "नोटपैड / Notepad"
+      ],
+      "answer": 0,
+      "explanation": "Padlet पर शिक्षक व विद्यार्थी एक साथ टेक्स्ट, लिंक, चित्र और वीडियो पोस्ट कर सकते हैं। / Padlet allows users to post text, documents, and media onto an interactive collaborative digital bulletin board."
+    },
+    {
+      "id": "01031ad2",
+      "question": "कक्षा में छात्रों के साथ लाइव पोलिंग और वर्ड-क्लाउड बनाने वाला प्रसिद्ध वेब ऐप कौन सा है? / Which presentation tool allows educators to engage audiences with live polls and interactive word clouds?",
+      "options": [
+        "एमएस वर्ड / MS Word",
+        "विंडोज मीडिया प्लेयर / Windows Media Player",
+        "मेंटीमीटर (Mentimeter) / Mentimeter",
+        "फोटोशॉप / Photoshop"
+      ],
+      "answer": 2,
+      "explanation": "Mentimeter छात्रों के मोबाइल इनपुट से तुरंत स्क्रीन पर सुंदर दृश्य परिणाम दिखाता है। / Mentimeter collects student poll responses in real-time and visualizes them on screen."
+    },
+    {
+      "id": "f73f11f0",
+      "question": "ऑनलाइन परीक्षा, क्विज़ और सर्वेक्षण फॉर्म बनाने के लिए गूगल का कौन सा टूल सर्वाधिक लोकप्रिय है? / Which Google cloud tool is extensively used to build online self-grading quizzes and survey forms?",
+      "options": [
+        "गूगल डॉक्स / Google Docs",
+        "गूगल फॉर्म्स (Google Forms) / Google Forms",
+        "गूगल अर्थ / Google Earth",
+        "गूगल शीट्स / Google Sheets"
+      ],
+      "answer": 1,
+      "explanation": "Google Forms से बहुविकल्पीय टेस्ट बनाकर स्वचालित रूप से अंक प्रदान किए जा सकते हैं। / Google Forms enables automated grading, instant assessment creation, and seamless data compilation."
+    },
+    {
+      "id": "aeb5e1c6",
+      "question": "भूगोल और सामाजिक अध्ययन शिक्षण में 3D सैटेलाइट इमेजरी और स्थल भ्रमण का श्रेष्ठ साधन क्या है? / Which virtual globe application offers 3D satellite imagery for teaching geography and earth sciences?",
+      "options": [
+        "गूगल मीट / Google Meet",
+        "गूगल कीप / Google Keep",
+        "गूगल अर्थ (Google Earth) / Google Earth",
+        "गूगल लेंस / Google Lens"
+      ],
+      "answer": 2,
+      "explanation": "Google Earth से विश्व के किसी भी ऐतिहासिक स्थल का 360° त्रिआयामी दृश्य देखा जा सकता है। / Google Earth renders a high-definition 3D representation of Earth's topography and cultural landmarks."
+    },
+    {
+      "id": "2156582f",
+      "question": "कैमरे की सहायता से किसी मुद्रित पाठ को स्कैन कर तुरंत अनुवाद या व्याख्या खोजने वाला AI टूल कौन सा है? / Which visual recognition AI app translates printed text and identifies objects using smartphone cameras?",
+      "options": [
+        "गूगल मैप्स / Google Maps",
+        "गूगल लेंस (Google Lens) / Google Lens",
+        "गूगल क्रोम / Google Chrome",
+        "यूट्यूब / YouTube"
+      ],
+      "answer": 1,
+      "explanation": "Google Lens इमेज रिकॉग्निशन तकनीक से पाठ्यपुस्तकों के प्रश्नों को हल करने में सहायता करता है। / Google Lens uses machine vision algorithms to scan text, translate languages, and search queries instantly."
+    },
+    {
+      "id": "fab15624",
+      "question": "कंप्यूटर स्क्रीन की दृश्य गतिविधियों को ऑडियो सहित रिकॉर्ड कर वीडियो बनाने की प्रक्रिया क्या कहलाती है? / What is the digital recording of computer screen output often combined with voice narration called?",
+      "options": [
+        "वॉलपेपर / Wallpaper",
+        "थंबनेल / Thumbnail",
+        "स्क्रीनकास्ट (Screencast) / Screencast",
+        "स्क्रीनशॉट (Screenshot) / Screenshot"
+      ],
+      "answer": 2,
+      "explanation": "स्क्रीनकास्ट द्वारा शिक्षक सॉफ्टवेयर ट्यूटोरियल और पीपीटी पाठ्य वीडियो बनाते हैं। / A screencast captures on-screen computer actions alongside audio commentary for digital video lessons."
+    },
+    {
+      "id": "97735ce9",
+      "question": "शिक्षा में 'VR' का पूर्ण रूप क्या है, जो शिक्षार्थी को 3D आभासी दुनिया का सजीव अनुभव कराता है? / What does 'VR' stand for in modern educational technology?",
+      "options": [
+        "वर्चुअल रियलिटी (Virtual Reality) / Virtual Reality",
+        "वेरिफाइड रिसोर्स / Verified Resource",
+        "वायरलेस रेडियो / Wireless Radio",
+        "विजुअल रिकॉर्ड / Visual Record"
+      ],
+      "answer": 0,
+      "explanation": "VR हेडसेट पहनकर विद्यार्थी सौरमण्डल या मानव शरीर की संरचना का सजीव अनुभव करते हैं। / Virtual Reality immerses learners into fully simulated interactive computer-generated environments."
+    },
+    {
+      "id": "adfed6aa",
+      "question": "शिक्षा में 'AR' (ऑगमेंटेड रियलिटी / Augmented Reality) का क्या तात्पर्य है? / What does 'AR' (Augmented Reality) mean in interactive education?",
+      "options": [
+        "पूरी तरह काल्पनिक दुनिया में जाना / Entering a purely fictional digital world",
+        "केवल श्वेत-श्याम चित्र देखना / Viewing black-and-white printouts",
+        "केवल रेडियो सुनना / Listening to radio broadcasts",
+        "वास्तविक भौतिक दुनिया के ऊपर डिजिटल 3D सूचनाओं व मॉडलों का सुपरइम्पोजिशन / Superimposing digital 3D elements and graphics onto real-world camera views"
+      ],
+      "answer": 3,
+      "explanation": "AR में मोबाइल कैमरा किसी चित्र पर केंद्रित करने पर 3D मॉडल सजीव होकर तैरने लगता है। / Augmented Reality overlays computer-generated visual enhancement onto the physical environment."
+    },
+    {
+      "id": "24b849d7",
+      "question": "ऑनलाइन कक्षाओं में 'सिंक्रोनस अधिगम' (Synchronous Learning) का क्या अर्थ है? / What does 'Synchronous Learning' signify in digital online education?",
+      "options": [
+        "केवल ईमेल भेजना / Exchanging messages through email",
+        "वास्तविक समय (Real-time) में शिक्षक और छात्रों का एक साथ लाइव संवाद / Real-time, live interaction between teachers and students concurrently",
+        "रिकॉर्डेड वीडियो को बाद में अपनी सुविधानुसार देखना / Watching pre-recorded video lectures asynchronously",
+        "केवल पाठ्यपुस्तक पढ़ना / Reading printed physical books"
+      ],
+      "answer": 1,
+      "explanation": "Zoom या Google Meet पर लाइव व्याख्यान व तत्काल शंका समाधान सिंक्रोनस अधिगम है। / Synchronous learning happens when students learn together concurrently at a scheduled time."
+    },
+    {
+      "id": "4efd47ff",
+      "question": "ऑनलाइन शिक्षा में 'असिंक्रोनस अधिगम' (Asynchronous Learning) का क्या अभिप्राय है? / What is the definition of 'Asynchronous Learning' in e-learning environments?",
+      "options": [
+        "लाइव वीडियो कॉल में उपस्थित रहना / Attending mandatory live video meetings",
+        "कक्षा में एक साथ बोलना / Speaking simultaneously in a classroom",
+        "समय सारिणी का कड़ा बंधन होना / Adhering to rigid real-time clocks",
+        "अपनी सुविधानुसार अलग-अलग समय पर पूर्व-रिकॉर्डेड सामग्री या वीडियो से सीखना / Learning independently using recorded lectures and digital resources on flexible schedules"
+      ],
+      "answer": 3,
+      "explanation": "YouTube या दीक्षा ऐप पर छात्र अपनी गति व उपलब्ध समय में कभी भी अध्ययन कर सकते हैं। / Asynchronous e-learning allows students to access content, quizzes, and videos at self-directed intervals."
+    },
+    {
+      "id": "62da0fed",
+      "question": "कंप्यूटर कीबोर्ड की सबसे लंबी कुंजी (Longest Key) कौन सी होती है? / Which is the longest key on a standard computer keyboard?",
+      "options": [
+        "शिफ्ट (Shift) / Shift",
+        "एंटर (Enter) / Enter",
+        "स्पेसबार (Spacebar) / Spacebar",
+        "बैकस्पेस (Backspace) / Backspace"
+      ],
+      "answer": 2,
+      "explanation": "कीबोर्ड के सबसे निचले भाग में स्थित स्पेसबार दो शब्दों के बीच रिक्त स्थान देता है। / The spacebar is positioned at the bottom row and is the physically longest key on keyboards."
+    },
+    {
+      "id": "811896d4",
+      "question": "कंप्यूटर स्क्रीन पर कर्सर के ठीक बाईं (Left) ओर के अक्षर को मिटाने हेतु कौन सी कुंजी दबाई जाती है? / Which keyboard key removes characters positioned immediately to the left of the text cursor?",
+      "options": [
+        "बैकस्पेस (Backspace) / Backspace",
+        "एस्केप (Esc) / Escape (Esc)",
+        "डिलीट (Delete) / Delete",
+        "स्पेसबार / Spacebar"
+      ],
+      "answer": 0,
+      "explanation": "Backspace कर्सर के बाएं अक्षर को मिटाता है, जबकि Delete कर्सर के दाएं ओर के अक्षर को मिटाता है। / The Backspace key deletes the preceding character located to the left of the cursor."
+    },
+    {
+      "id": "bcacdc09",
+      "question": "कंप्यूटर में किसी चल रहे डायलॉग बॉक्स, मेनू या सक्रिय कमांड को रद्द करने की कुंजी कौन सी है? / Which key terminates, aborts, or cancels an active pop-up menu or ongoing software dialog?",
+      "options": [
+        "Enter / Enter",
+        "Tab / Tab",
+        "Shift / Shift",
+        "Esc (एस्केप कुंजी) / Escape (Esc) Key"
+      ],
+      "answer": 3,
+      "explanation": "Escape कुंजी किसी अनपेक्षित विंडो या मेनू को तत्काल बंद करने हेतु प्रयुक्त होती है। / The Esc key halts running operations and dismisses open menus or modal dialog windows."
+    }
+  ]
+}

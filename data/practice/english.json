@@ -1,0 +1,2645 @@
+{
+  "subject": "English",
+  "questions": [
+    {
+      "id": "8a8472f7",
+      "question": "Which of the following is a collective noun?",
+      "options": [
+        "Beauty",
+        "Flock",
+        "Honesty",
+        "Bravely"
+      ],
+      "answer": 1,
+      "explanation": "'Flock' is a collective noun used for a group of birds or sheep. 'Beauty' and 'Honesty' are abstract nouns."
+    },
+    {
+      "id": "c84dc64b",
+      "question": "Identify the plural form of the noun 'Ox':",
+      "options": [
+        "Oxies",
+        "Oxen",
+        "Oxes",
+        "Oxens"
+      ],
+      "answer": 1,
+      "explanation": "The correct irregular plural form of 'ox' is 'oxen'."
+    },
+    {
+      "id": "e4d6571f",
+      "question": "What is the feminine gender of 'Colt'?",
+      "options": [
+        "Filly",
+        "Mare",
+        "Doe",
+        "Ewe"
+      ],
+      "answer": 0,
+      "explanation": "'Filly' is a young female horse, whereas 'colt' is a young male horse."
+    },
+    {
+      "id": "362e2da8",
+      "question": "Select the correct plural form of 'Crisis':",
+      "options": [
+        "Crisis",
+        "Crises",
+        "Crisees",
+        "Crisises"
+      ],
+      "answer": 1,
+      "explanation": "Nouns ending in '-is' derived from Greek change to '-es' in plural, hence 'crises'."
+    },
+    {
+      "id": "e211bfb8",
+      "question": "Which of the following words is always used as a singular noun?",
+      "options": [
+        "Scissors",
+        "Furniture",
+        "Trousers",
+        "Spectacles"
+      ],
+      "answer": 1,
+      "explanation": "'Furniture' is an uncountable noun and takes a singular verb. 'Trousers', 'scissors', and 'spectacles' are plural."
+    },
+    {
+      "id": "b064846b",
+      "question": "Choose the correct pronoun: 'Between you and ____, I don't trust him.'",
+      "options": [
+        "myself",
+        "me",
+        "mine",
+        "I"
+      ],
+      "answer": 1,
+      "explanation": "Prepositions ('between') take objective case pronouns ('me')."
+    },
+    {
+      "id": "09788c38",
+      "question": "Identify the relative pronoun in the sentence: 'The boy who won the first prize is my cousin.'",
+      "options": [
+        "The",
+        "who",
+        "first",
+        "is"
+      ],
+      "answer": 1,
+      "explanation": "'Who' functions as a relative pronoun connecting the dependent clause to 'the boy'."
+    },
+    {
+      "id": "01f01c62",
+      "question": "Fill in the blank with the appropriate pronoun: 'Every student must submit ____ assignment on time.'",
+      "options": [
+        "its",
+        "our",
+        "his or her",
+        "their"
+      ],
+      "answer": 2,
+      "explanation": "Singular indefinite pronouns like 'every' take singular distributive pronouns ('his or her')."
+    },
+    {
+      "id": "e8c0f7c2",
+      "question": "Which sentence contains a reflexive pronoun?",
+      "options": [
+        "She dressed herself before going to school.",
+        "Who is standing there?",
+        "This book is mine.",
+        "She herself told me this story."
+      ],
+      "answer": 0,
+      "explanation": "'Herself' acts as a reflexive pronoun when the subject and object are the same person."
+    },
+    {
+      "id": "a3e753ef",
+      "question": "What type of noun is the underlined word? 'Laughter is the best medicine.'",
+      "options": [
+        "Material Noun",
+        "Collective Noun",
+        "Proper Noun",
+        "Abstract Noun"
+      ],
+      "answer": 3,
+      "explanation": "'Laughter' is an abstract noun representing a state or action."
+    },
+    {
+      "id": "f03431d8",
+      "question": "Choose the correct comparative degree: 'Gold is ____ than silver.'",
+      "options": [
+        "as precious",
+        "preciouser",
+        "most precious",
+        "more precious"
+      ],
+      "answer": 3,
+      "explanation": "For polysyllabic adjectives like 'precious', the comparative degree is formed by adding 'more'."
+    },
+    {
+      "id": "0aaa1cd6",
+      "question": "Fill in the blank: 'He is junior ____ me in service.'",
+      "options": [
+        "than",
+        "from",
+        "with",
+        "to"
+      ],
+      "answer": 3,
+      "explanation": "Latin adjectives ending in '-ior' (junior, senior, superior, inferior) are followed by 'to', not 'than'."
+    },
+    {
+      "id": "4dd50ae6",
+      "question": "Identify the superlative degree of 'Little':",
+      "options": [
+        "Littlest",
+        "Least",
+        "Less",
+        "Lesser"
+      ],
+      "answer": 1,
+      "explanation": "Degrees of 'little' are: little (positive), less/lesser (comparative), and least (superlative)."
+    },
+    {
+      "id": "1d1c02de",
+      "question": "Fill in the blank: 'There is ____ milk left in the jug to make tea.' (Negative sense)",
+      "options": [
+        "a little",
+        "the little",
+        "little",
+        "few"
+      ],
+      "answer": 2,
+      "explanation": "'Little' means hardly any (negative sense), used with uncountable nouns like milk."
+    },
+    {
+      "id": "7f237a74",
+      "question": "Complete the sentence: 'Of the two brothers, he is the ____.'",
+      "options": [
+        "more tall",
+        "tallest",
+        "taller",
+        "most tall"
+      ],
+      "answer": 2,
+      "explanation": "When comparing two persons or things, the comparative degree preceded by 'the' is used."
+    },
+    {
+      "id": "557e56eb",
+      "question": "Identify the adjective in the sentence: 'She bought a woolen sweater.'",
+      "options": [
+        "sweater",
+        "bought",
+        "She",
+        "woolen"
+      ],
+      "answer": 3,
+      "explanation": "'Woolen' describes the noun 'sweater' and functions as an adjective."
+    },
+    {
+      "id": "fe09bd68",
+      "question": "Choose the correct order of adjectives: 'She has a ____ cat.'",
+      "options": [
+        "small beautiful black",
+        "black small beautiful",
+        "beautiful small black",
+        "beautiful black small"
+      ],
+      "answer": 2,
+      "explanation": "Order of adjectives generally follows: Opinion (beautiful) + Size (small) + Color (black)."
+    },
+    {
+      "id": "0d844187",
+      "question": "Fill in the blank: 'Mumbai is ____ from Delhi than Jaipur.'",
+      "options": [
+        "farther",
+        "further",
+        "furthest",
+        "farthest"
+      ],
+      "answer": 0,
+      "explanation": "'Farther' refers to physical distance, while 'further' means additional."
+    },
+    {
+      "id": "ebf9496e",
+      "question": "Neither the principal nor the teachers ____ present in the meeting.",
+      "options": [
+        "has been",
+        "is",
+        "were",
+        "was"
+      ],
+      "answer": 2,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb agrees with the nearer subject ('teachers' -> plural -> 'were')."
+    },
+    {
+      "id": "c671f92f",
+      "question": "Bread and butter ____ his daily breakfast.",
+      "options": [
+        "are",
+        "have been",
+        "is",
+        "were"
+      ],
+      "answer": 2,
+      "explanation": "When two singular nouns together express a single collective idea or dish, they take a singular verb ('is')."
+    },
+    {
+      "id": "73fd7d53",
+      "question": "Fifty thousand rupees ____ a large sum for him.",
+      "options": [
+        "is",
+        "were",
+        "have been",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "A specific quantity, amount, or distance taken as a whole unit requires a singular verb ('is')."
+    },
+    {
+      "id": "9a78f6dc",
+      "question": "The quality of these mangoes ____ not good.",
+      "options": [
+        "is",
+        "were",
+        "have",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "The true subject of the sentence is 'quality' (singular), not 'mangoes', so it takes 'is'."
+    },
+    {
+      "id": "a56e2b6f",
+      "question": "Either of the two candidates ____ suitable for the job.",
+      "options": [
+        "are",
+        "were",
+        "have",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "'Either of' refers to one of two and takes a singular verb ('is')."
+    },
+    {
+      "id": "c2b2cbd3",
+      "question": "The committee ____ divided in their opinions.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "has"
+      ],
+      "answer": 2,
+      "explanation": "When members of a collective noun act individually or disagree, a plural verb ('were') is used."
+    },
+    {
+      "id": "dbff8d4a",
+      "question": "Ten miles ____ a long distance to walk.",
+      "options": [
+        "were",
+        "have been",
+        "is",
+        "are"
+      ],
+      "answer": 2,
+      "explanation": "Plural expressions of distance, time, or weight considered as a single unit take a singular verb ('is')."
+    },
+    {
+      "id": "0a8afb10",
+      "question": "Identify the finite verb in the sentence: 'He wants to play cricket.'",
+      "options": [
+        "He",
+        "wants",
+        "cricket",
+        "to play"
+      ],
+      "answer": 1,
+      "explanation": "'Wants' changes with tense and subject person, making it a finite verb; 'to play' is a non-finite infinitive."
+    },
+    {
+      "id": "a8087c9d",
+      "question": "She walked fast lest she ____ miss the train.",
+      "options": [
+        "would",
+        "should",
+        "may",
+        "might"
+      ],
+      "answer": 1,
+      "explanation": "The conjunction 'lest' is always followed by the modal auxiliary 'should'."
+    },
+    {
+      "id": "b2acd867",
+      "question": "The teacher, as well as his students, ____ felicitated yesterday.",
+      "options": [
+        "have been",
+        "were",
+        "are",
+        "was"
+      ],
+      "answer": 3,
+      "explanation": "When subjects are joined by 'as well as', the verb agrees with the first subject ('The teacher' -> singular -> 'was')."
+    },
+    {
+      "id": "5ddc04b2",
+      "question": "I wish I ____ a bird.",
+      "options": [
+        "were",
+        "was",
+        "would be",
+        "am"
+      ],
+      "answer": 0,
+      "explanation": "In unreal or subjunctive conditional wishes, 'were' is used with all persons."
+    },
+    {
+      "id": "ec2525f5",
+      "question": "The news ____ true.",
+      "options": [
+        "were",
+        "is",
+        "have been",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "'News' is singular in form and meaning and takes a singular verb ('is')."
+    },
+    {
+      "id": "37aa2131",
+      "question": "Fill in the blank: 'He ____ in this school since 2015.'",
+      "options": [
+        "taught",
+        "was teaching",
+        "has been teaching",
+        "is teaching"
+      ],
+      "answer": 2,
+      "explanation": "An action starting in the past and continuing into the present with 'since' requires Present Perfect Continuous tense."
+    },
+    {
+      "id": "34c2adbe",
+      "question": "Choose the correct tense: 'When the doctor arrived, the patient ____.'",
+      "options": [
+        "has died",
+        "had died",
+        "was died",
+        "died"
+      ],
+      "answer": 1,
+      "explanation": "When two past actions occur, the earlier completed action takes Past Perfect ('had died')."
+    },
+    {
+      "id": "bf813578",
+      "question": "Identify the tense of the sentence: 'By next June, he will have completed his degree.'",
+      "options": [
+        "Future Perfect Continuous",
+        "Simple Future",
+        "Future Perfect",
+        "Future Continuous"
+      ],
+      "answer": 2,
+      "explanation": "'Will have + V3' signifies the Future Perfect tense."
+    },
+    {
+      "id": "c9472cf9",
+      "question": "Water ____ at 100 degrees Celsius.",
+      "options": [
+        "is boiling",
+        "will boil",
+        "boils",
+        "boiled"
+      ],
+      "answer": 2,
+      "explanation": "Universal truths, scientific facts, and general principles are expressed in the Simple Present tense."
+    },
+    {
+      "id": "de7935d3",
+      "question": "The train ____ before we reached the station.",
+      "options": [
+        "departed",
+        "has departed",
+        "was departed",
+        "had departed"
+      ],
+      "answer": 3,
+      "explanation": "The earlier action in the past requires Past Perfect ('had departed')."
+    },
+    {
+      "id": "f65fd4ac",
+      "question": "Look! The child ____ with a ball.",
+      "options": [
+        "plays",
+        "played",
+        "is playing",
+        "was playing"
+      ],
+      "answer": 2,
+      "explanation": "Words like 'Look!' or 'Listen!' indicate an ongoing action in the Present Continuous tense."
+    },
+    {
+      "id": "db91db5b",
+      "question": "If you work hard, you ____ pass the examination.",
+      "options": [
+        "will",
+        "would",
+        "had",
+        "would have"
+      ],
+      "answer": 0,
+      "explanation": "First conditional: 'If + Simple Present' takes 'will + base verb' in the main clause."
+    },
+    {
+      "id": "d9ee73e0",
+      "question": "If he had invited me, I ____ attended the party.",
+      "options": [
+        "had",
+        "would",
+        "will have",
+        "would have"
+      ],
+      "answer": 3,
+      "explanation": "Third conditional: 'If + Past Perfect' is followed by 'would have + V3' in the main clause."
+    },
+    {
+      "id": "1b994fcc",
+      "question": "He was prevented ____ entering the room.",
+      "options": [
+        "for",
+        "by",
+        "from",
+        "to"
+      ],
+      "answer": 2,
+      "explanation": "'Prevent' is followed by the preposition 'from' and a gerund."
+    },
+    {
+      "id": "d87f4e76",
+      "question": "The dog jumped ____ the table.",
+      "options": [
+        "with",
+        "in",
+        "at",
+        "upon"
+      ],
+      "answer": 3,
+      "explanation": "'Upon' is used to denote motion upwards or on top of a surface."
+    },
+    {
+      "id": "acae628a",
+      "question": "The police officer congratulated him ____ his success.",
+      "options": [
+        "at",
+        "on",
+        "with",
+        "for"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'congratulate' takes the fixed preposition 'on'."
+    },
+    {
+      "id": "2690a214",
+      "question": "She has been suffering from fever ____ Monday.",
+      "options": [
+        "in",
+        "since",
+        "from",
+        "for"
+      ],
+      "answer": 1,
+      "explanation": "'Since' is used to denote a specific point of time in perfect tenses."
+    },
+    {
+      "id": "db416a2f",
+      "question": "Distribute these mangoes ____ the five children.",
+      "options": [
+        "among",
+        "between",
+        "with",
+        "in"
+      ],
+      "answer": 0,
+      "explanation": "'Between' is used for two entities, while 'among' is used for more than two."
+    },
+    {
+      "id": "d3a8f5b7",
+      "question": "He is addicted ____ smoking.",
+      "options": [
+        "with",
+        "in",
+        "to",
+        "of"
+      ],
+      "answer": 2,
+      "explanation": "'Addicted' takes the fixed preposition 'to'."
+    },
+    {
+      "id": "8552a7e9",
+      "question": "She died ____ cholera.",
+      "options": [
+        "from",
+        "of",
+        "with",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "When someone dies of a specific disease, the preposition 'of' is used ('died of cholera')."
+    },
+    {
+      "id": "c87085a6",
+      "question": "He is good ____ mathematics.",
+      "options": [
+        "on",
+        "at",
+        "with",
+        "in"
+      ],
+      "answer": 1,
+      "explanation": "'Good at' is the correct idiom to express competence in a subject or skill."
+    },
+    {
+      "id": "88b0633b",
+      "question": "The thief entered the house ____ the window.",
+      "options": [
+        "through",
+        "by",
+        "into",
+        "from"
+      ],
+      "answer": 0,
+      "explanation": "'Through' denotes movement across a three-dimensional space or opening."
+    },
+    {
+      "id": "9bf5fdb2",
+      "question": "Do not laugh ____ the poor.",
+      "options": [
+        "with",
+        "at",
+        "for",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'laugh' takes the preposition 'at' when directed at someone."
+    },
+    {
+      "id": "93abd6ae",
+      "question": "Scarcely had he gone out ____ it began to rain.",
+      "options": [
+        "that",
+        "when",
+        "than",
+        "then"
+      ],
+      "answer": 1,
+      "explanation": "Correlative conjunctions: 'Scarcely / Hardly' are paired with 'when', while 'No sooner' takes 'than'."
+    },
+    {
+      "id": "4a3c0ad9",
+      "question": "No sooner did the bell ring ____ the students ran out.",
+      "options": [
+        "when",
+        "than",
+        "that",
+        "then"
+      ],
+      "answer": 1,
+      "explanation": "'No sooner... than' is the correct correlative pair."
+    },
+    {
+      "id": "c24e7a2e",
+      "question": "Although he is poor, ____ he is honest.",
+      "options": [
+        "so",
+        "but",
+        "and",
+        "yet"
+      ],
+      "answer": 3,
+      "explanation": "'Although / Even though' is followed by 'yet' or a comma, not 'but'."
+    },
+    {
+      "id": "b230b3c7",
+      "question": "Identify the type of sentence: 'What a beautiful painting it is!'",
+      "options": [
+        "Interrogative Sentence",
+        "Imperative Sentence",
+        "Assertive Sentence",
+        "Exclamatory Sentence"
+      ],
+      "answer": 3,
+      "explanation": "A sentence expressing strong emotion ending with an exclamation mark is an Exclamatory sentence."
+    },
+    {
+      "id": "75d35dc5",
+      "question": "Identify the sentence type: 'Please close the door.'",
+      "options": [
+        "Imperative Sentence",
+        "Exclamatory Sentence",
+        "Declarative Sentence",
+        "Optative Sentence"
+      ],
+      "answer": 0,
+      "explanation": "A sentence that gives an order, request, or advice is an Imperative sentence."
+    },
+    {
+      "id": "23449172",
+      "question": "What kind of sentence is: 'Though he worked hard, he failed the exam.'",
+      "options": [
+        "Complex Sentence",
+        "Simple Sentence",
+        "Compound Sentence",
+        "Compound-Complex Sentence"
+      ],
+      "answer": 0,
+      "explanation": "A sentence with one independent clause and one dependent subordinate clause ('Though...') is a Complex sentence."
+    },
+    {
+      "id": "19b5a383",
+      "question": "Change into passive: 'The teacher praised the boy.'",
+      "options": [
+        "The boy was praised by the teacher.",
+        "The boy is praised by the teacher.",
+        "The boy was praising the teacher.",
+        "The boy had praised by the teacher."
+      ],
+      "answer": 0,
+      "explanation": "Simple past active ('praised') changes to 'was/were + V3' ('was praised')."
+    },
+    {
+      "id": "bb214b3f",
+      "question": "Change into passive: 'Who wrote this letter?'",
+      "options": [
+        "By whom this letter was written?",
+        "Who was written this letter?",
+        "By whom was this letter written?",
+        "By whom had this letter written?"
+      ],
+      "answer": 2,
+      "explanation": "'Who' changes to 'By whom', followed by auxiliary verb 'was' + subject + V3."
+    },
+    {
+      "id": "d224e12f",
+      "question": "Change into passive: 'Open the door.'",
+      "options": [
+        "You should open door.",
+        "The door may be opened.",
+        "Let the door be opened.",
+        "Let door open."
+      ],
+      "answer": 2,
+      "explanation": "Imperative commands are converted using 'Let + object + be + V3'."
+    },
+    {
+      "id": "52fc310f",
+      "question": "Change into active: 'A song is being sung by Sita.'",
+      "options": [
+        "Sita sings a song.",
+        "Sita has sung a song.",
+        "Sita is singing a song.",
+        "Sita sang a song."
+      ],
+      "answer": 2,
+      "explanation": "'Is being sung' in passive indicates Present Continuous active ('is singing')."
+    },
+    {
+      "id": "b3cd3e8d",
+      "question": "Change into passive: 'They have completed the project.'",
+      "options": [
+        "The project have been completed by them.",
+        "The project was completed by them.",
+        "The project had completed by them.",
+        "The project has been completed by them."
+      ],
+      "answer": 3,
+      "explanation": "Present perfect passive takes 'has/have + been + V3'."
+    },
+    {
+      "id": "5bc41e2f",
+      "question": "Change into passive: 'People speak English all over the world.'",
+      "options": [
+        "English is spoken all over the world.",
+        "English has spoken all over the world.",
+        "English is being spoken all over the world.",
+        "English was spoken all over the world."
+      ],
+      "answer": 0,
+      "explanation": "Indefinite agents like 'people' are omitted in passive; simple present becomes 'is spoken'."
+    },
+    {
+      "id": "e52fe68f",
+      "question": "Change into passive: 'He gave me a pen.'",
+      "options": [
+        "I was given a pen by him.",
+        "I am given a pen by him.",
+        "A pen had given to me by him.",
+        "A pen gave me by him."
+      ],
+      "answer": 0,
+      "explanation": "When there are two objects, the indirect object ('me' -> 'I') typically becomes the subject in passive."
+    },
+    {
+      "id": "d6ebc580",
+      "question": "Change into active: 'The car was washed by Ram.'",
+      "options": [
+        "Ram washed the car.",
+        "Ram is washing the car.",
+        "Ram had washed the car.",
+        "Ram washes the car."
+      ],
+      "answer": 0,
+      "explanation": "Past simple passive ('was washed') converts to past simple active ('washed')."
+    },
+    {
+      "id": "643cdb43",
+      "question": "Change into indirect: He said, 'I am reading a book.'",
+      "options": [
+        "He said that I was reading a book.",
+        "He said that he is reading a book.",
+        "He said that he was reading a book.",
+        "He told that he read a book."
+      ],
+      "answer": 2,
+      "explanation": "Present Continuous ('am reading') changes to Past Continuous ('was reading'), and 'I' changes to 'he'."
+    },
+    {
+      "id": "ed088caf",
+      "question": "Change into indirect: Ram said to me, 'Where do you live?'",
+      "options": [
+        "Ram asked me where I had lived.",
+        "Ram asked me where did I live.",
+        "Ram asked me where I lived.",
+        "Ram said where I live."
+      ],
+      "answer": 2,
+      "explanation": "In wh-questions, the reporting verb becomes 'asked', wh-word serves as connector, and word order becomes assertive."
+    },
+    {
+      "id": "ef6673e7",
+      "question": "Change into indirect: The teacher said, 'The sun rises in the east.'",
+      "options": [
+        "The teacher said that the sun has risen in the east.",
+        "The teacher told the sun rises in east.",
+        "The teacher said that the sun rises in the east.",
+        "The teacher said that the sun rose in the east."
+      ],
+      "answer": 2,
+      "explanation": "Universal truths and scientific facts do not change tense in indirect speech."
+    },
+    {
+      "id": "219d1842",
+      "question": "Change into indirect: He said to me, 'Please help me.'",
+      "options": [
+        "He told me that I help him.",
+        "He requested me to help him.",
+        "He asked me that please help him.",
+        "He ordered me to help him."
+      ],
+      "answer": 1,
+      "explanation": "Imperative requests use reporting verb 'requested' followed by 'to + base verb'."
+    },
+    {
+      "id": "776dda4e",
+      "question": "Change into indirect: She said, 'Alas! I have lost my purse.'",
+      "options": [
+        "She exclaimed with joy that she had lost her purse.",
+        "She exclaimed with sorrow that she had lost her purse.",
+        "She said with sorrow that I lost my purse.",
+        "She exclaimed that she lost purse."
+      ],
+      "answer": 1,
+      "explanation": "'Alas!' denotes grief, so the reporting verb becomes 'exclaimed with sorrow' and present perfect becomes past perfect."
+    },
+    {
+      "id": "ef2eaecc",
+      "question": "Change into indirect: He said, 'I will go to Delhi tomorrow.'",
+      "options": [
+        "He said that he will go to Delhi tomorrow.",
+        "He said that he would go to Delhi tomorrow.",
+        "He told that he will go to Delhi the following day.",
+        "He said that he would go to Delhi the next day."
+      ],
+      "answer": 3,
+      "explanation": "'Will' changes to 'would', and time expression 'tomorrow' changes to 'the next day'."
+    },
+    {
+      "id": "5088eb2a",
+      "question": "Change into indirect: Father said to his son, 'Do not waste your time.'",
+      "options": [
+        "Father ordered his son that don't waste time.",
+        "Father forbade his son not to waste his time.",
+        "Father told his son to not waste your time.",
+        "Father advised his son not to waste his time."
+      ],
+      "answer": 3,
+      "explanation": "'Forbade' already contains negative, or use 'advised ... not to waste'."
+    },
+    {
+      "id": "4f3d368b",
+      "question": "Change into indirect: She said to him, 'Are you coming with us?'",
+      "options": [
+        "She asked him that if he was coming with us.",
+        "She inquired him are you coming with them.",
+        "She asked him if he was coming with them.",
+        "She told him if he is coming with them."
+      ],
+      "answer": 2,
+      "explanation": "Yes/No questions use 'if' or 'whether', and pronouns shift accordingly."
+    },
+    {
+      "id": "a0273b38",
+      "question": "Fill in the blank: 'He is ____ honest officer.'",
+      "options": [
+        "the",
+        "no article",
+        "a",
+        "an"
+      ],
+      "answer": 3,
+      "explanation": "'Honest' begins with a vowel sound (/ɒ/), so the indefinite article 'an' is used."
+    },
+    {
+      "id": "6bbec364",
+      "question": "Fill in the blank: 'Copper is ____ useful metal.'",
+      "options": [
+        "a",
+        "the",
+        "no article",
+        "an"
+      ],
+      "answer": 0,
+      "explanation": "'Useful' begins with a consonant sound (/j/), hence it takes 'a', not 'an'."
+    },
+    {
+      "id": "14fc8119",
+      "question": "Fill in the blank: 'He is ____ European.'",
+      "options": [
+        "a",
+        "no article",
+        "the",
+        "an"
+      ],
+      "answer": 0,
+      "explanation": "'European' starts with the consonant sound of 'y' (/j/), taking the article 'a'."
+    },
+    {
+      "id": "592142da",
+      "question": "Choose the correct article: '____ Ganga is a sacred river.'",
+      "options": [
+        "A",
+        "An",
+        "No article",
+        "The"
+      ],
+      "answer": 3,
+      "explanation": "Names of holy rivers take the definite article 'The'."
+    },
+    {
+      "id": "0f34da75",
+      "question": "Fill in the blank: 'He is ____ tallest boy in the class.'",
+      "options": [
+        "the",
+        "no article",
+        "an",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "Superlative degree adjectives ('tallest') take the definite article 'the'."
+    },
+    {
+      "id": "882d9f10",
+      "question": "Fill in the blank: 'Do you have ____ money in your wallet?'",
+      "options": [
+        "some",
+        "few",
+        "many",
+        "any"
+      ],
+      "answer": 3,
+      "explanation": "In interrogative and negative sentences, 'any' is commonly used with uncountable nouns."
+    },
+    {
+      "id": "36a78169",
+      "question": "Complete the sentence: '____ student was given a certificate.'",
+      "options": [
+        "All",
+        "Each",
+        "Many",
+        "Both"
+      ],
+      "answer": 1,
+      "explanation": "'Each' is distributive, refers to individuals singly, and takes a singular noun and verb."
+    },
+    {
+      "id": "ffbfaa27",
+      "question": "Fill in the blank: 'I bought ____ umbrella yesterday.'",
+      "options": [
+        "an",
+        "the",
+        "a",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "'Umbrella' begins with a short vowel sound (/ʌ/), so it takes 'an'."
+    },
+    {
+      "id": "fd10e26c",
+      "question": "What is the synonym of 'Candid'?",
+      "options": [
+        "Shy",
+        "Arrogant",
+        "Deceitful",
+        "Frank"
+      ],
+      "answer": 3,
+      "explanation": "'Candid' means truthful, straightforward, and frank."
+    },
+    {
+      "id": "fc4e263b",
+      "question": "What is the synonym of 'Meticulous'?",
+      "options": [
+        "Lazy",
+        "Careful",
+        "Careless",
+        "Hasty"
+      ],
+      "answer": 1,
+      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise."
+    },
+    {
+      "id": "cce526a4",
+      "question": "Find the synonym of 'Obsolete':",
+      "options": [
+        "Outdated",
+        "Fashionable",
+        "Modern",
+        "Recent"
+      ],
+      "answer": 0,
+      "explanation": "'Obsolete' means no longer produced or used; out of date."
+    },
+    {
+      "id": "e0866035",
+      "question": "Select the synonym of 'Prudent':",
+      "options": [
+        "Rude",
+        "Reckless",
+        "Foolish",
+        "Wise"
+      ],
+      "answer": 3,
+      "explanation": "'Prudent' means acting with or showing care and thought for the future; wise."
+    },
+    {
+      "id": "0fc21b30",
+      "question": "What is the antonym of 'Ambiguous'?",
+      "options": [
+        "Obscure",
+        "Clear",
+        "Vague",
+        "Doubtful"
+      ],
+      "answer": 1,
+      "explanation": "'Ambiguous' means open to more than one interpretation; its antonym is 'Clear'."
+    },
+    {
+      "id": "aaa4e9b1",
+      "question": "What is the antonym of 'Benevolent'?",
+      "options": [
+        "Kind",
+        "Malevolent",
+        "Generous",
+        "Friendly"
+      ],
+      "answer": 1,
+      "explanation": "'Benevolent' means well-meaning and kindly; 'Malevolent' means having a wish to do evil."
+    },
+    {
+      "id": "58ffde43",
+      "question": "Find the antonym of 'Frugal'?",
+      "options": [
+        "Economical",
+        "Careful",
+        "Miserly",
+        "Extravagant"
+      ],
+      "answer": 3,
+      "explanation": "'Frugal' means sparing or economical with money; its opposite is 'Extravagant'."
+    },
+    {
+      "id": "80f54dd2",
+      "question": "Choose the antonym of 'Zenith':",
+      "options": [
+        "Peak",
+        "Apex",
+        "Summit",
+        "Nadir"
+      ],
+      "answer": 3,
+      "explanation": "'Zenith' is the highest point; 'Nadir' is the lowest point."
+    },
+    {
+      "id": "0cfcd750",
+      "question": "What is the synonym of 'Adversity'?",
+      "options": [
+        "Wealth",
+        "Prosperity",
+        "Happiness",
+        "Misfortune"
+      ],
+      "answer": 3,
+      "explanation": "'Adversity' means difficulties or misfortune."
+    },
+    {
+      "id": "e4056fc4",
+      "question": "What is the antonym of 'Hostile'?",
+      "options": [
+        "Bitter",
+        "Friendly",
+        "Aggressive",
+        "Enemy"
+      ],
+      "answer": 1,
+      "explanation": "'Hostile' means unfriendly or antagonistic; its antonym is 'Friendly'."
+    },
+    {
+      "id": "9f6143c7",
+      "question": "Select the synonym of 'Diligent':",
+      "options": [
+        "Hardworking",
+        "Slow",
+        "Lazy",
+        "Proud"
+      ],
+      "answer": 0,
+      "explanation": "'Diligent' means having or showing care and conscientiousness in one's work; hardworking."
+    },
+    {
+      "id": "bcea56d6",
+      "question": "What is the antonym of 'Transient'?",
+      "options": [
+        "Brief",
+        "Short",
+        "Temporary",
+        "Permanent"
+      ],
+      "answer": 3,
+      "explanation": "'Transient' means lasting only for a short time; its opposite is 'Permanent'."
+    },
+    {
+      "id": "2cce7b6c",
+      "question": "A person who loves mankind is called a:",
+      "options": [
+        "Misogynist",
+        "Philanthropist",
+        "Cannibal",
+        "Misanthrope"
+      ],
+      "answer": 1,
+      "explanation": "A 'Philanthropist' is someone who seeks to promote the welfare of others, especially by donating money."
+    },
+    {
+      "id": "75f865b1",
+      "question": "One who does not believe in the existence of God is an:",
+      "options": [
+        "Theist",
+        "Atheist",
+        "Agnostic",
+        "Fanatic"
+      ],
+      "answer": 1,
+      "explanation": "An 'Atheist' lacks belief in the existence of God, whereas a 'Theist' believes in God."
+    },
+    {
+      "id": "e1290dd1",
+      "question": "A remedy for all diseases is called a:",
+      "options": [
+        "Antibiotic",
+        "Analgesic",
+        "Panacea",
+        "Antidote"
+      ],
+      "answer": 2,
+      "explanation": "A 'Panacea' is a universal remedy or cure-all."
+    },
+    {
+      "id": "c9dca825",
+      "question": "A handwriting that cannot be easily read is:",
+      "options": [
+        "Ineligible",
+        "Legible",
+        "Illegible",
+        "Eligible"
+      ],
+      "answer": 2,
+      "explanation": "'Illegible' means not clear enough to be read."
+    },
+    {
+      "id": "79a1c0ed",
+      "question": "One who speaks many languages is called a:",
+      "options": [
+        "Bilingual",
+        "Monoglot",
+        "Linguist",
+        "Polyglot"
+      ],
+      "answer": 3,
+      "explanation": "A 'Polyglot' is a person who knows and is able to use several languages."
+    },
+    {
+      "id": "74d19745",
+      "question": "The study of birds is known as:",
+      "options": [
+        "Entomology",
+        "Anthropology",
+        "Archaeology",
+        "Ornithology"
+      ],
+      "answer": 3,
+      "explanation": "'Ornithology' is the scientific study of birds; 'Entomology' is the study of insects."
+    },
+    {
+      "id": "e405350b",
+      "question": "A person who looks at the bright side of things is an:",
+      "options": [
+        "Pacifist",
+        "Fatalist",
+        "Pessimist",
+        "Optimist"
+      ],
+      "answer": 3,
+      "explanation": "An 'Optimist' tends to be hopeful and confident about the future."
+    },
+    {
+      "id": "db03d28c",
+      "question": "Something that cannot be heard is:",
+      "options": [
+        "Invisible",
+        "Inaudible",
+        "Incredible",
+        "Audible"
+      ],
+      "answer": 1,
+      "explanation": "'Inaudible' means unable to be heard."
+    },
+    {
+      "id": "cfdf0c1a",
+      "question": "What is the meaning of the idiom 'To bite the dust'?",
+      "options": [
+        "To suffer defeat or die",
+        "To eat eagerly",
+        "To clean thoroughly",
+        "To make a mistake"
+      ],
+      "answer": 0,
+      "explanation": "'To bite the dust' is an idiom meaning to fall dead, be defeated, or fail."
+    },
+    {
+      "id": "41de8140",
+      "question": "The idiom 'Once in a blue moon' means:",
+      "options": [
+        "Frequently",
+        "Very rarely",
+        "On full moon night",
+        "Never"
+      ],
+      "answer": 1,
+      "explanation": "'Once in a blue moon' refers to an event that happens extremely rarely."
+    },
+    {
+      "id": "9bf3311c",
+      "question": "Passage: 'Education is not merely the acquisition of knowledge or technical skills; it is the harmonious development of the physical, mental, and spiritual faculties of an individual. A truly educated person is not just one who can recite facts or earn a livelihood, but one who possesses empathy, moral integrity, and social responsibility. In modern times, the excessive emphasis on competitive examinations and commercial success has undermined the intrinsic purpose of learning, transforming schools into factories of mechanical memorization rather than cradles of creative inquiry.' -- According to the passage, what is true education?",
+      "options": [
+        "Harmonious development of physical, mental, and spiritual faculties",
+        "Securing top ranks in competitive examinations",
+        "Only preparing students to earn a high livelihood",
+        "Mere acquisition of facts and figures"
+      ],
+      "answer": 0,
+      "explanation": "The passage explicitly states that education is the 'harmonious development of the physical, mental, and spiritual faculties of an individual'."
+    },
+    {
+      "id": "2a392b75",
+      "question": "Passage: [Refer to Education passage] -- According to the author, a truly educated person must possess:",
+      "options": [
+        "A competitive attitude towards peers",
+        "The ability to memorize entire textbooks",
+        "A prestigious commercial job",
+        "Empathy, moral integrity, and social responsibility"
+      ],
+      "answer": 3,
+      "explanation": "The passage highlights that a truly educated person possesses 'empathy, moral integrity, and social responsibility'."
+    },
+    {
+      "id": "0b90d58a",
+      "question": "Passage: [Refer to Education passage] -- What has undermined the intrinsic purpose of learning in modern times?",
+      "options": [
+        "Lack of skilled teachers in rural areas",
+        "Excessive emphasis on competitive examinations and commercial success",
+        "Overemphasis on physical education",
+        "Introduction of digital classrooms"
+      ],
+      "answer": 1,
+      "explanation": "The passage states: 'excessive emphasis on competitive examinations and commercial success has undermined the intrinsic purpose of learning'."
+    },
+    {
+      "id": "b4381883",
+      "question": "Passage: [Refer to Education passage] -- What does the word 'intrinsic' mean in the context of the passage?",
+      "options": [
+        "Essential or inherent",
+        "Commercial",
+        "Unnecessary",
+        "External or superficial"
+      ],
+      "answer": 0,
+      "explanation": "'Intrinsic' means belonging naturally; essential or inherent."
+    },
+    {
+      "id": "5fc67bc4",
+      "question": "Passage: [Refer to Education passage] -- Which metaphor does the author use to describe modern schools?",
+      "options": [
+        "Temples of spiritual learning",
+        "Gardens of blossoming talent",
+        "Cradles of creative inquiry",
+        "Factories of mechanical memorization"
+      ],
+      "answer": 3,
+      "explanation": "The author criticizes modern schools as having become 'factories of mechanical memorization'."
+    },
+    {
+      "id": "4d8a2d66",
+      "question": "Passage: 'Trees are nature's most silent benefactors. They absorb carbon dioxide and release life-giving oxygen, acting as the lungs of our planet. Their roots bind the soil, preventing erosion during torrential rains, while their canopies moderate regional temperatures and foster rich biodiversity. Despite their indispensable services, unabated deforestation driven by urbanization and agricultural expansion threatens global ecological balance. Preserving forests is therefore not an act of charity towards nature, but an imperative necessity for human survival.' -- Why are trees called the 'lungs of our planet'?",
+      "options": [
+        "They absorb carbon dioxide and release life-giving oxygen",
+        "They pump water into the atmosphere",
+        "They filter toxic chemicals from the soil",
+        "They create loud wind sounds in forests"
+      ],
+      "answer": 0,
+      "explanation": "The passage states: 'They absorb carbon dioxide and release life-giving oxygen, acting as the lungs of our planet'."
+    },
+    {
+      "id": "df59248e",
+      "question": "Passage: [Refer to Trees passage] -- How do tree roots help prevent soil erosion?",
+      "options": [
+        "By absorbing sunlight completely",
+        "By drying out the riverbeds",
+        "By binding the soil firmly during heavy rains",
+        "By turning soil into hard rocks"
+      ],
+      "answer": 2,
+      "explanation": "The text states that 'their roots bind the soil, preventing erosion during torrential rains'."
+    },
+    {
+      "id": "4691e014",
+      "question": "Passage: [Refer to Trees passage] -- What are the primary drivers of unabated deforestation according to the text?",
+      "options": [
+        "Forest fires and lightning",
+        "Excessive rainfall in tropical zones",
+        "Overpopulation of wild herbivores",
+        "Urbanization and agricultural expansion"
+      ],
+      "answer": 3,
+      "explanation": "The passage directly attributes deforestation to 'urbanization and agricultural expansion'."
+    },
+    {
+      "id": "e962e460",
+      "question": "Passage: [Refer to Trees passage] -- Give the synonym of the word 'benefactor' as used in the passage:",
+      "options": [
+        "Destructor",
+        "Helper or patron",
+        "Spectator",
+        "Oppressor"
+      ],
+      "answer": 1,
+      "explanation": "A 'benefactor' is someone who provides help, advantage, or a gift; a supporter or patron."
+    },
+    {
+      "id": "7401d3c5",
+      "question": "Passage: [Refer to Trees passage] -- The author concludes that preserving forests is an:",
+      "options": [
+        "Unprofitable economic activity",
+        "Impossible environmental challenge",
+        "Imperative necessity for human survival",
+        "Optional charitable endeavor"
+      ],
+      "answer": 2,
+      "explanation": "The final sentence states: 'Preserving forests is therefore not an act of charity towards nature, but an imperative necessity for human survival'."
+    },
+    {
+      "id": "03e48747",
+      "question": "What is the plural form of the noun 'Hypothesis'?",
+      "options": [
+        "Hypothesises",
+        "Hypotheses",
+        "Hypothesas",
+        "Hypothesis"
+      ],
+      "answer": 1,
+      "explanation": "Words of Greek origin ending in '-is' change to '-es' in plural ('hypothesis' -> 'hypotheses')."
+    },
+    {
+      "id": "a6f2e5fd",
+      "question": "Identify the feminine form of 'Wizard':",
+      "options": [
+        "Enchantress",
+        "Dame",
+        "Witch",
+        "Sorcerer"
+      ],
+      "answer": 2,
+      "explanation": "The feminine equivalent of 'wizard' is 'witch'."
+    },
+    {
+      "id": "e8dc8426",
+      "question": "Which of the following nouns is always singular?",
+      "options": [
+        "Scissors",
+        "Riches",
+        "Alms",
+        "Information"
+      ],
+      "answer": 3,
+      "explanation": "'Information' is an uncountable noun and never takes a plural form or plural verb."
+    },
+    {
+      "id": "9a84a945",
+      "question": "What is the plural of 'Passer-by'?",
+      "options": [
+        "Passers-bys",
+        "Passer-byes",
+        "Passer-bys",
+        "Passers-by"
+      ],
+      "answer": 3,
+      "explanation": "In compound nouns made of a noun and an adverb/preposition, the plural is added to the principal word ('passers-by')."
+    },
+    {
+      "id": "8cb86b1d",
+      "question": "Identify the type of pronoun in the sentence: 'These are the gifts sent by my uncle.'",
+      "options": [
+        "Distributive Pronoun",
+        "Relative Pronoun",
+        "Reflexive Pronoun",
+        "Demonstrative Pronoun"
+      ],
+      "answer": 3,
+      "explanation": "'These' points out specific items and functions as a Demonstrative Pronoun."
+    },
+    {
+      "id": "05da1af9",
+      "question": "Fill in the blank: 'One should be honest in keeping ____ promises.'",
+      "options": [
+        "his",
+        "her",
+        "one's",
+        "their"
+      ],
+      "answer": 2,
+      "explanation": "The pronoun 'one' is followed by 'one's' in the possessive case."
+    },
+    {
+      "id": "cd1a7011",
+      "question": "Which sentence contains an emphatic pronoun?",
+      "options": [
+        "She washed herself thoroughly.",
+        "He taught himself Spanish.",
+        "I myself solved the difficult puzzle.",
+        "I hurt myself while playing."
+      ],
+      "answer": 2,
+      "explanation": "When compound personal pronouns are used immediately after a noun/pronoun for emphasis, they are Emphatic."
+    },
+    {
+      "id": "c218213e",
+      "question": "Identify the material noun in the sentence: 'The ring is made of platinum.'",
+      "options": [
+        "Made",
+        "The",
+        "Ring",
+        "Platinum"
+      ],
+      "answer": 3,
+      "explanation": "'Platinum' is a substance/matter from which things are made, hence a Material Noun."
+    },
+    {
+      "id": "a0eb49a1",
+      "question": "What is the masculine counterpart of 'Vixen'?",
+      "options": [
+        "Wolf",
+        "Hound",
+        "Fox",
+        "Boar"
+      ],
+      "answer": 2,
+      "explanation": "A female fox is called a 'vixen', and the male is called a 'fox'."
+    },
+    {
+      "id": "090a5e40",
+      "question": "Fill in the blank: 'None of the students completed ____ project.'",
+      "options": [
+        "his or her",
+        "our",
+        "their",
+        "its"
+      ],
+      "answer": 0,
+      "explanation": "'None' historically takes a singular pronoun ('his or her') in formal written grammar."
+    },
+    {
+      "id": "3536b1c9",
+      "question": "Fill in the blank: 'He does not have ____ friends in this city.'",
+      "options": [
+        "many",
+        "none",
+        "much",
+        "little"
+      ],
+      "answer": 0,
+      "explanation": "'Many' is used with countable plural nouns ('friends') in negative sentences."
+    },
+    {
+      "id": "69aa04c6",
+      "question": "Choose the correct adjective: 'Solomon was the ____ king of Israel.'",
+      "options": [
+        "wisest",
+        "most wisest",
+        "wiser",
+        "more wise"
+      ],
+      "answer": 0,
+      "explanation": "The superlative degree 'wisest' is used with the definite article 'the' when comparing among all."
+    },
+    {
+      "id": "11020e80",
+      "question": "Fill in the blank: 'He ate the ____ apple.'",
+      "options": [
+        "whole",
+        "all",
+        "every",
+        "each"
+      ],
+      "answer": 0,
+      "explanation": "'Whole' is preceded by 'the' and followed by a singular countable noun ('the whole apple')."
+    },
+    {
+      "id": "da846fd9",
+      "question": "Which of the following is a quantitative adjective?",
+      "options": [
+        "Honest",
+        "These",
+        "First",
+        "Much"
+      ],
+      "answer": 3,
+      "explanation": "'Much' denotes quantity (amount) rather than number or quality."
+    },
+    {
+      "id": "6a16879f",
+      "question": "Complete the sentence: 'Of iron and gold, the ____ is more precious.'",
+      "options": [
+        "latest",
+        "latter",
+        "later",
+        "last"
+      ],
+      "answer": 1,
+      "explanation": "'Latter' refers to the second of two things mentioned; 'later' refers to time."
+    },
+    {
+      "id": "5d3855c3",
+      "question": "Fill in the blank: '____ boy was punished by the headmaster.'",
+      "options": [
+        "Both",
+        "Every",
+        "Many",
+        "All"
+      ],
+      "answer": 1,
+      "explanation": "'Every' precedes a singular countable noun and singular verb."
+    },
+    {
+      "id": "7d068e4d",
+      "question": "Identify the positive degree of the adjective 'Worse':",
+      "options": [
+        "Iller",
+        "Worst",
+        "Evil",
+        "Bad"
+      ],
+      "answer": 3,
+      "explanation": "The degrees are: Bad/Ill (positive), Worse (comparative), Worst (superlative)."
+    },
+    {
+      "id": "8bf605d6",
+      "question": "Fill in the blank: 'She has ____ knowledge of German; she can barely introduce herself.'",
+      "options": [
+        "few",
+        "the little",
+        "little",
+        "a little"
+      ],
+      "answer": 2,
+      "explanation": "'Little' conveys a negative sense (hardly any), suitable for the context."
+    },
+    {
+      "id": "202b95ba",
+      "question": "Mathematics ____ an interesting subject.",
+      "options": [
+        "have been",
+        "were",
+        "are",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "Names of sciences or subjects ending in '-s' (Mathematics, Physics) take a singular verb ('is')."
+    },
+    {
+      "id": "fc0710a4",
+      "question": "A pair of shoes ____ kept in the corner.",
+      "options": [
+        "was",
+        "have been",
+        "were",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "When referring to 'a pair of', the subject is 'pair' (singular), requiring 'was'."
+    },
+    {
+      "id": "05e8f776",
+      "question": "Many a man ____ lost his life in the war.",
+      "options": [
+        "have",
+        "were",
+        "are",
+        "has"
+      ],
+      "answer": 3,
+      "explanation": "'Many a' is always followed by a singular countable noun and a singular verb ('has')."
+    },
+    {
+      "id": "a0d4b284",
+      "question": "The Arabian Nights ____ still a popular story collection.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "Titles of books, even if plural in appearance, take a singular verb ('is')."
+    },
+    {
+      "id": "ccb6d023",
+      "question": "Gulliver's Travels ____ written by Jonathan Swift.",
+      "options": [
+        "have been",
+        "are",
+        "was",
+        "were"
+      ],
+      "answer": 2,
+      "explanation": "The title of a book is treated as a singular subject, taking 'was'."
+    },
+    {
+      "id": "89d8f4d6",
+      "question": "Neither he nor his friends ____ ready to go.",
+      "options": [
+        "has been",
+        "were",
+        "is",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "With 'neither... nor', the verb agrees with the closer subject ('his friends' -> plural -> 'were')."
+    },
+    {
+      "id": "ded9a9e0",
+      "question": "The horse and carriage ____ at the gate.",
+      "options": [
+        "were",
+        "are",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "Two singular nouns joined by 'and' expressing a single composite idea take a singular verb ('is')."
+    },
+    {
+      "id": "ced85d6e",
+      "question": "Not only the doctor but also the nurses ____ praised for their dedication.",
+      "options": [
+        "has been",
+        "was",
+        "is",
+        "were"
+      ],
+      "answer": 3,
+      "explanation": "With 'not only... but also', the verb agrees with the subject closest to it ('nurses' -> plural -> 'were')."
+    },
+    {
+      "id": "c8c810de",
+      "question": "The number of accidents on this highway ____ increasing day by day.",
+      "options": [
+        "were",
+        "is",
+        "have been",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "'The number of' takes a singular verb, whereas 'A number of' takes a plural verb."
+    },
+    {
+      "id": "1160c97b",
+      "question": "A number of students ____ absent today.",
+      "options": [
+        "has been",
+        "are",
+        "was",
+        "is"
+      ],
+      "answer": 1,
+      "explanation": "'A number of' indicates a plural quantity and takes a plural verb ('are')."
+    },
+    {
+      "id": "e588a041",
+      "question": "Slow and steady ____ the race.",
+      "options": [
+        "are winning",
+        "have won",
+        "win",
+        "wins"
+      ],
+      "answer": 3,
+      "explanation": "The proverb refers to two qualities forming a unified concept, taking singular 'wins'."
+    },
+    {
+      "id": "a593ee01",
+      "question": "Politics ____ a dirty game in some people's eyes.",
+      "options": [
+        "is",
+        "have been",
+        "were",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "'Politics' as a field or concept takes a singular verb ('is')."
+    },
+    {
+      "id": "47dd2bd1",
+      "question": "By the time the fire brigade arrived, the building ____ down.",
+      "options": [
+        "burnt",
+        "had burnt",
+        "was burning",
+        "has burnt"
+      ],
+      "answer": 1,
+      "explanation": "The action completed prior to another past event takes Past Perfect ('had burnt')."
+    },
+    {
+      "id": "27287715",
+      "question": "She usually ____ coffee in the morning.",
+      "options": [
+        "is drinking",
+        "drank",
+        "drinks",
+        "has drunk"
+      ],
+      "answer": 2,
+      "explanation": "Habitual actions are expressed using Simple Present tense ('drinks')."
+    },
+    {
+      "id": "14cba9cb",
+      "question": "I have not seen him ____ last Monday.",
+      "options": [
+        "for",
+        "from",
+        "by",
+        "since"
+      ],
+      "answer": 3,
+      "explanation": "'Since' is used to denote a specific starting point of time in perfect tenses."
+    },
+    {
+      "id": "8a25dd63",
+      "question": "He has been playing cricket ____ three hours.",
+      "options": [
+        "at",
+        "since",
+        "for",
+        "from"
+      ],
+      "answer": 2,
+      "explanation": "'For' is used to indicate a duration or period of time ('three hours')."
+    },
+    {
+      "id": "884f02b8",
+      "question": "You ____ obey your parents.",
+      "options": [
+        "can",
+        "ought to",
+        "might",
+        "may"
+      ],
+      "answer": 1,
+      "explanation": "'Ought to' expresses moral duty, obligation, or righteousness."
+    },
+    {
+      "id": "4bfd95c4",
+      "question": "He said that honesty ____ the best policy.",
+      "options": [
+        "was",
+        "is",
+        "has been",
+        "had been"
+      ],
+      "answer": 1,
+      "explanation": "Universal truths or proverbs do not shift into the past tense in reported speech."
+    },
+    {
+      "id": "95fa86fb",
+      "question": "If I ____ you, I would not accept the bribe.",
+      "options": [
+        "were",
+        "am",
+        "had been",
+        "was"
+      ],
+      "answer": 0,
+      "explanation": "In hypothetical or contrary-to-fact conditional clauses, 'were' is used for all persons."
+    },
+    {
+      "id": "f3006841",
+      "question": "When I reached home, my mother ____ dinner.",
+      "options": [
+        "cooks",
+        "was cooking",
+        "is cooking",
+        "has cooked"
+      ],
+      "answer": 1,
+      "explanation": "An action continuing in the past when another event occurred takes Past Continuous ('was cooking')."
+    },
+    {
+      "id": "cf082f5b",
+      "question": "The bell ____ before I reached school.",
+      "options": [
+        "rang",
+        "has rung",
+        "was ringing",
+        "had rung"
+      ],
+      "answer": 3,
+      "explanation": "The earlier of two past actions requires the Past Perfect tense ('had rung')."
+    },
+    {
+      "id": "166bdfcc",
+      "question": "We ____ finish this project by tomorrow evening.",
+      "options": [
+        "could",
+        "may",
+        "might",
+        "must"
+      ],
+      "answer": 3,
+      "explanation": "'Must' indicates strong necessity or compulsion to meet a deadline."
+    },
+    {
+      "id": "1ff26cc6",
+      "question": "He is blind ____ his son's shortcomings.",
+      "options": [
+        "in",
+        "with",
+        "to",
+        "of"
+      ],
+      "answer": 2,
+      "explanation": "'Blind to' is an idiomatic prepositional phrase meaning unwilling to notice or acknowledge."
+    },
+    {
+      "id": "d33fdf2b",
+      "question": "He is blind ____ the left eye.",
+      "options": [
+        "at",
+        "in",
+        "with",
+        "to"
+      ],
+      "answer": 1,
+      "explanation": "Physical blindness in an eye is expressed using 'blind in'."
+    },
+    {
+      "id": "90fc30b2",
+      "question": "You must adhere ____ the rules of the institution.",
+      "options": [
+        "with",
+        "to",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "'Adhere' takes the fixed preposition 'to'."
+    },
+    {
+      "id": "17436290",
+      "question": "He was accused ____ theft.",
+      "options": [
+        "with",
+        "for",
+        "of",
+        "in"
+      ],
+      "answer": 2,
+      "explanation": "'Accused' takes the fixed preposition 'of'."
+    },
+    {
+      "id": "050bf051",
+      "question": "She is proficient ____ spoken English.",
+      "options": [
+        "in",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "'Proficient' is followed by the preposition 'in'."
+    },
+    {
+      "id": "c0d85438",
+      "question": "The teacher was angry ____ the misbehaving student.",
+      "options": [
+        "on",
+        "against",
+        "at",
+        "with"
+      ],
+      "answer": 3,
+      "explanation": "One is 'angry with' a person and 'angry at' a situation or action."
+    },
+    {
+      "id": "e9273135",
+      "question": "He is envious ____ his neighbor's prosperity.",
+      "options": [
+        "of",
+        "with",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "'Envious' takes the fixed preposition 'of'."
+    },
+    {
+      "id": "055edbb8",
+      "question": "The river flows ____ the bridge.",
+      "options": [
+        "down",
+        "below",
+        "beneath",
+        "under"
+      ],
+      "answer": 3,
+      "explanation": "'Under' expresses position directly below something that arches or covers."
+    },
+    {
+      "id": "3294e4cf",
+      "question": "The cat hid ____ the sofa.",
+      "options": [
+        "through",
+        "into",
+        "behind",
+        "upon"
+      ],
+      "answer": 2,
+      "explanation": "'Behind' indicates at the back of an object."
+    },
+    {
+      "id": "e2093794",
+      "question": "Beware ____ pickpockets in crowded markets.",
+      "options": [
+        "to",
+        "against",
+        "of",
+        "from"
+      ],
+      "answer": 2,
+      "explanation": "The verb 'beware' takes the fixed preposition 'of'."
+    },
+    {
+      "id": "c2a4e68c",
+      "question": "Change into passive: 'The cat killed the mouse.'",
+      "options": [
+        "The mouse has been killed by the cat.",
+        "The mouse is killed by the cat.",
+        "The mouse was being killed by the cat.",
+        "The mouse was killed by the cat."
+      ],
+      "answer": 3,
+      "explanation": "Simple past active ('killed') converts to 'was + V3' ('was killed')."
+    },
+    {
+      "id": "80cd9981",
+      "question": "Change into passive: 'She is writing a novel.'",
+      "options": [
+        "A novel is being written by her.",
+        "A novel is written by her.",
+        "A novel has been written by her.",
+        "A novel was written by her."
+      ],
+      "answer": 0,
+      "explanation": "Present Continuous passive uses 'is/am/are + being + V3'."
+    },
+    {
+      "id": "5440bde6",
+      "question": "Change into passive: 'Shut the window.'",
+      "options": [
+        "You are requested to shut window.",
+        "Let window shut.",
+        "Let the window be shut.",
+        "The window should shut."
+      ],
+      "answer": 2,
+      "explanation": "Imperative command structure in passive is: 'Let + object + be + V3'."
+    },
+    {
+      "id": "7715fce0",
+      "question": "Change into active: 'The thief was arrested by the police.'",
+      "options": [
+        "The police was arresting the thief.",
+        "The police had arrested the thief.",
+        "The police arrested the thief.",
+        "The police arrests the thief."
+      ],
+      "answer": 2,
+      "explanation": "Past simple passive ('was arrested') changes to active simple past ('arrested')."
+    },
+    {
+      "id": "65e1a23d",
+      "question": "Change into passive: 'They will announce the results tomorrow.'",
+      "options": [
+        "The results are announced tomorrow.",
+        "The results will have announced tomorrow.",
+        "The results will be announced tomorrow.",
+        "The results would be announced tomorrow."
+      ],
+      "answer": 2,
+      "explanation": "Simple future passive takes 'will be + V3'."
+    },
+    {
+      "id": "1a06fe7f",
+      "question": "Change into passive: 'Someone has stolen my watch.'",
+      "options": [
+        "My watch has been stolen.",
+        "My watch had been stolen.",
+        "My watch is stolen.",
+        "My watch was stolen by someone."
+      ],
+      "answer": 0,
+      "explanation": "Indefinite pronoun agents like 'someone' are omitted in passive."
+    },
+    {
+      "id": "be69412c",
+      "question": "Change into active: 'He was seen picking a pocket by me.'",
+      "options": [
+        "I was seeing him pick pocket.",
+        "I have seen him pick pocket.",
+        "I saw him picking a pocket.",
+        "I had seen him pick pocket."
+      ],
+      "answer": 2,
+      "explanation": "Passive 'was seen' converts to simple past active 'saw'."
+    },
+    {
+      "id": "1bdd02c6",
+      "question": "Change into passive: 'Can you solve this puzzle?'",
+      "options": [
+        "Could this puzzle be solved by you?",
+        "Can this puzzle be solved by you?",
+        "Can this puzzle solved by you?",
+        "May this puzzle be solved by you?"
+      ],
+      "answer": 1,
+      "explanation": "Modal question passive keeps the modal: 'Modal + Object + be + V3'."
+    },
+    {
+      "id": "58d8cad8",
+      "question": "Change into indirect: He said to me, 'I do not believe you.'",
+      "options": [
+        "He told me that he did not believe me.",
+        "He told me that I did not believe him.",
+        "He said me that he did not believe me.",
+        "He told me that he does not believe me."
+      ],
+      "answer": 0,
+      "explanation": "Simple Present negative ('do not believe') shifts to Simple Past ('did not believe')."
+    },
+    {
+      "id": "33963c7c",
+      "question": "Change into indirect: She said, 'I wrote a letter yesterday.'",
+      "options": [
+        "She said that she wrote a letter yesterday.",
+        "She said that she has written a letter the day before.",
+        "She said that she had written a letter the previous day.",
+        "She said that she had written a letter yesterday."
+      ],
+      "answer": 2,
+      "explanation": "Simple Past shifts to Past Perfect ('had written') and 'yesterday' to 'the previous day'."
+    },
+    {
+      "id": "135331cf",
+      "question": "Change into indirect: The captain said to the soldiers, 'Attack the enemy!'",
+      "options": [
+        "The captain asked the soldiers attack the enemy.",
+        "The captain commanded the soldiers to attack the enemy.",
+        "The captain told the soldiers that attack enemy.",
+        "The captain requested the soldiers to attack the enemy."
+      ],
+      "answer": 1,
+      "explanation": "Military orders use the reporting verb 'commanded' followed by an infinitive."
+    },
+    {
+      "id": "5442dce8",
+      "question": "Change into indirect: He said, 'Hurrah! We have won the match.'",
+      "options": [
+        "He told that they had won the match.",
+        "He exclaimed with joy that they had won the match.",
+        "He exclaimed with sorrow that they won match.",
+        "He said with joy that we have won match."
+      ],
+      "answer": 1,
+      "explanation": "'Hurrah!' indicates celebration, changing to 'exclaimed with joy'."
+    },
+    {
+      "id": "9018f08a",
+      "question": "Change into indirect: She said to her mother, 'Can I go to the cinema tonight?'",
+      "options": [
+        "She told her mother if can she go to cinema tonight.",
+        "She asked her mother that could she go to cinema tonight.",
+        "She asked her mother if she could go to the cinema that night.",
+        "She requested her mother that can I go to cinema that night."
+      ],
+      "answer": 2,
+      "explanation": "'Can' changes to 'could', 'tonight' to 'that night', with 'if' as connector."
+    },
+    {
+      "id": "790b3e47",
+      "question": "Change into indirect: The doctor said to the patient, 'Take your medicines regularly.'",
+      "options": [
+        "The doctor told the patient that take your medicines.",
+        "The doctor suggested the patient for taking medicines.",
+        "The doctor advised the patient to take his medicines regularly.",
+        "The doctor ordered the patient take medicines regularly."
+      ],
+      "answer": 2,
+      "explanation": "Medical advice takes the reporting verb 'advised'."
+    },
+    {
+      "id": "f6e817e2",
+      "question": "Change into indirect: He said, 'What a pity!'",
+      "options": [
+        "He exclaimed with sorrow what a pity.",
+        "He exclaimed that it was a great pity.",
+        "He said that what a pity.",
+        "He told that it is a pity."
+      ],
+      "answer": 1,
+      "explanation": "Exclamatory expressions of regret are converted into assertive clauses in the past tense."
+    },
+    {
+      "id": "f65a2df9",
+      "question": "Change into indirect: The teacher said to the boy, 'Why are you laughing?'",
+      "options": [
+        "The teacher inquired the boy that why he was laughing.",
+        "The teacher asked why you are laughing.",
+        "The teacher asked the boy why he was laughing.",
+        "The teacher asked the boy why was he laughing."
+      ],
+      "answer": 2,
+      "explanation": "Wh-interrogatives become assertive clauses without inversion ('why he was laughing')."
+    },
+    {
+      "id": "978a8285",
+      "question": "What is the synonym of 'Fiasco'?",
+      "options": [
+        "Failure",
+        "Achievement",
+        "Success",
+        "Celebration"
+      ],
+      "answer": 0,
+      "explanation": "'Fiasco' means a complete and ignominious failure."
+    },
+    {
+      "id": "7f2b78f8",
+      "question": "Choose the synonym of 'Lethargic'?",
+      "options": [
+        "Alert",
+        "Sluggish",
+        "Active",
+        "Energetic"
+      ],
+      "answer": 1,
+      "explanation": "'Lethargic' means sluggish, dull, or lacking energy."
+    },
+    {
+      "id": "5ddf59d9",
+      "question": "Select the synonym of 'Ephemeral'?",
+      "options": [
+        "Permanent",
+        "Enduring",
+        "Short-lived",
+        "Eternal"
+      ],
+      "answer": 2,
+      "explanation": "'Ephemeral' means lasting for a very short time; transient."
+    },
+    {
+      "id": "45a6bfb6",
+      "question": "What is the synonym of 'Resilient'?",
+      "options": [
+        "Weak",
+        "Rigid",
+        "Elastic / Adaptable",
+        "Fragile"
+      ],
+      "answer": 2,
+      "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions."
+    },
+    {
+      "id": "baf4ca4f",
+      "question": "Choose the antonym of 'Arrogant'?",
+      "options": [
+        "Humble",
+        "Conceited",
+        "Haughty",
+        "Proud"
+      ],
+      "answer": 0,
+      "explanation": "'Arrogant' means having an exaggerated sense of one's abilities; its antonym is 'Humble'."
+    },
+    {
+      "id": "a2e55d74",
+      "question": "What is the antonym of 'Clandestine'?",
+      "options": [
+        "Covert",
+        "Secret",
+        "Hidden",
+        "Open"
+      ],
+      "answer": 3,
+      "explanation": "'Clandestine' means kept secret or done secretly; its opposite is 'Open'."
+    },
+    {
+      "id": "ccd5d6da",
+      "question": "Select the antonym of 'Vindicate'?",
+      "options": [
+        "Pardon",
+        "Acquit",
+        "Blame / Condemn",
+        "Justify"
+      ],
+      "answer": 2,
+      "explanation": "'Vindicate' means to clear someone of blame; its antonym is 'Condemn' or 'Blame'."
+    },
+    {
+      "id": "e9b61146",
+      "question": "What is the antonym of 'Euphoria'?",
+      "options": [
+        "Dysphoria / Despair",
+        "Elation",
+        "Delight",
+        "Joy"
+      ],
+      "answer": 0,
+      "explanation": "'Euphoria' is an intense feeling of well-being; its opposite is despair or dysphoria."
+    },
+    {
+      "id": "87f03372",
+      "question": "Find the synonym of 'Colossal'?",
+      "options": [
+        "Minor",
+        "Fragile",
+        "Gigantic",
+        "Tiny"
+      ],
+      "answer": 2,
+      "explanation": "'Colossal' means extremely large or huge; gigantic."
+    },
+    {
+      "id": "8d66397d",
+      "question": "Choose the antonym of 'Mundane'?",
+      "options": [
+        "Commonplace",
+        "Boring",
+        "Ordinary",
+        "Extraordinary"
+      ],
+      "answer": 3,
+      "explanation": "'Mundane' means lacking interest or excitement; dull. Its opposite is 'Extraordinary'."
+    },
+    {
+      "id": "e3283236",
+      "question": "What is the synonym of 'Alleviate'?",
+      "options": [
+        "Increase",
+        "Aggravate",
+        "Worsen",
+        "Relieve"
+      ],
+      "answer": 3,
+      "explanation": "'Alleviate' means to make suffering or a problem less severe; to relieve."
+    },
+    {
+      "id": "226cad4d",
+      "question": "What is the antonym of 'Paucity'?",
+      "options": [
+        "Lack",
+        "Deficiency",
+        "Abundance",
+        "Scarcity"
+      ],
+      "answer": 2,
+      "explanation": "'Paucity' means the presence of something only in small or insufficient quantities; opposite is 'Abundance'."
+    },
+    {
+      "id": "488b0a87",
+      "question": "A person who compiles a dictionary is called a:",
+      "options": [
+        "Bibliophile",
+        "Cartographer",
+        "Calligrapher",
+        "Lexicographer"
+      ],
+      "answer": 3,
+      "explanation": "A 'Lexicographer' compiles dictionaries; a 'Cartographer' makes maps."
+    },
+    {
+      "id": "7c0a8faa",
+      "question": "A person who draws or produces maps is known as a:",
+      "options": [
+        "Lithographer",
+        "Choreographer",
+        "Cartographer",
+        "Calligrapher"
+      ],
+      "answer": 2,
+      "explanation": "A 'Cartographer' is a specialist in the science or art of drawing maps."
+    },
+    {
+      "id": "1500f2f9",
+      "question": "One who eats human flesh is a:",
+      "options": [
+        "Herbivore",
+        "Cannibal",
+        "Omnivore",
+        "Carnivore"
+      ],
+      "answer": 1,
+      "explanation": "A 'Cannibal' is an individual that eats the flesh of its own species."
+    },
+    {
+      "id": "4e9c0d5c",
+      "question": "A sound that cannot be heard is:",
+      "options": [
+        "Audible",
+        "Inaudible",
+        "Indelible",
+        "Imperceptible"
+      ],
+      "answer": 1,
+      "explanation": "'Inaudible' describes sounds that cannot be heard."
+    },
+    {
+      "id": "124aaac0",
+      "question": "A mark or stain that cannot be erased or removed is:",
+      "options": [
+        "Incorrigible",
+        "Infallible",
+        "Indelible",
+        "Illegible"
+      ],
+      "answer": 2,
+      "explanation": "'Indelible' means making marks that cannot be removed or forgotten."
+    },
+    {
+      "id": "d9bc6da6",
+      "question": "What is the meaning of the idiom 'To see eye to eye'?",
+      "options": [
+        "To glare angrily",
+        "To look carefully",
+        "To agree fully",
+        "To argue fiercely"
+      ],
+      "answer": 2,
+      "explanation": "'To see eye to eye' means to be in complete agreement with someone."
+    },
+    {
+      "id": "ca110532",
+      "question": "The idiom 'A dark horse' refers to:",
+      "options": [
+        "A dishonest person",
+        "An unexpected winner",
+        "A black horse",
+        "A wild animal"
+      ],
+      "answer": 1,
+      "explanation": "'A dark horse' is a candidate or competitor about whom little is known but who unexpectedly wins."
+    },
+    {
+      "id": "7aafb720",
+      "question": "What is the meaning of 'To cry over spilt milk'?",
+      "options": [
+        "To lament over an unrecoverable past loss",
+        "To waste precious milk",
+        "To shed false tears",
+        "To celebrate a failure"
+      ],
+      "answer": 0,
+      "explanation": "'To cry over spilt milk' means worrying about an accident or misfortune that has already happened and cannot be reversed."
+    },
+    {
+      "id": "73f7425d",
+      "question": "The idiom 'Apple of one's eye' means:",
+      "options": [
+        "A favorite fruit",
+        "Someone very dear or cherished",
+        "An envious person",
+        "An optical illusion"
+      ],
+      "answer": 1,
+      "explanation": "'Apple of one's eye' refers to someone who is cherished above all others."
+    },
+    {
+      "id": "6c92ad3b",
+      "question": "What does the phrasal verb 'Put up with' mean?",
+      "options": [
+        "To postpone",
+        "To tolerate or endure",
+        "To build a structure",
+        "To extinguish a flame"
+      ],
+      "answer": 1,
+      "explanation": "'Put up with' is a phrasal verb meaning to tolerate, endure, or accept an unpleasant situation."
+    },
+    {
+      "id": "30b7cfcc",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Beurocracy",
+        "Bureaucrasy",
+        "Burocracy",
+        "Bureaucracy"
+      ],
+      "answer": 3,
+      "explanation": "The correct spelling is 'Bureaucracy' (b-u-r-e-a-u-c-r-a-c-y)."
+    },
+    {
+      "id": "c87f9975",
+      "question": "Select the correctly spelt word:",
+      "options": [
+        "Maintenance",
+        "Maintainance",
+        "Mantenance",
+        "Maintinance"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is 'Maintenance' (m-a-i-n-t-e-n-a-n-c-e)."
+    },
+    {
+      "id": "92fda069",
+      "question": "[Passage 1: True Meaning of Education]\n\nRead the passage given below carefully:\n\"Education is not merely the accumulation of facts, figures, or technical expertise; it is the harmonious cultivation of the intellectual, emotional, and moral faculties of a human being. A genuinely educated individual is not solely characterized by their capacity to earn a prestigious livelihood, but by their profound empathy, ethical integrity, and sense of civic responsibility. In contemporary society, an obsessive preoccupation with competitive scores and commercial profitability has obscured the noble purpose of learning. Consequently, modern academic institutions risk degenerating into mechanized assembly lines prioritizing rote memorization over critical inquiry, intellectual curiosity, and humane compassion.\"\n\nQuestion: According to the author, what constitutes true education?",
+      "options": [
+        "Harmonious cultivation of intellectual, emotional, and moral faculties",
+        "The ability to secure a high-paying prestigious job",
+        "Mastering competitive examination techniques and scoring high",
+        "Mere accumulation of technical expertise and academic facts"
+      ],
+      "answer": 0,
+      "explanation": "The passage states in the first sentence that education is 'the harmonious cultivation of the intellectual, emotional, and moral faculties of a human being'."
+    },
+    {
+      "id": "7d003519",
+      "question": "[Passage 1: True Meaning of Education]\n\nRead the passage given below carefully:\n\"Education is not merely the accumulation of facts, figures, or technical expertise; it is the harmonious cultivation of the intellectual, emotional, and moral faculties of a human being. A genuinely educated individual is not solely characterized by their capacity to earn a prestigious livelihood, but by their profound empathy, ethical integrity, and sense of civic responsibility. In contemporary society, an obsessive preoccupation with competitive scores and commercial profitability has obscured the noble purpose of learning. Consequently, modern academic institutions risk degenerating into mechanized assembly lines prioritizing rote memorization over critical inquiry, intellectual curiosity, and humane compassion.\"\n\nQuestion: What distinctive qualities define a genuinely educated person according to the text?",
+      "options": [
+        "Superior memorization and data recall skills",
+        "Competitive dominance over academic peers",
+        "High earning potential and commercial profitability",
+        "Profound empathy, ethical integrity, and civic responsibility"
+      ],
+      "answer": 3,
+      "explanation": "The author writes that a genuinely educated person is characterized by 'profound empathy, ethical integrity, and sense of civic responsibility'."
+    },
+    {
+      "id": "d1016c75",
+      "question": "[Passage 1: True Meaning of Education]\n\nRead the passage given below carefully:\n\"Education is not merely the accumulation of facts, figures, or technical expertise; it is the harmonious cultivation of the intellectual, emotional, and moral faculties of a human being. A genuinely educated individual is not solely characterized by their capacity to earn a prestigious livelihood, but by their profound empathy, ethical integrity, and sense of civic responsibility. In contemporary society, an obsessive preoccupation with competitive scores and commercial profitability has obscured the noble purpose of learning. Consequently, modern academic institutions risk degenerating into mechanized assembly lines prioritizing rote memorization over critical inquiry, intellectual curiosity, and humane compassion.\"\n\nQuestion: What has obscured the noble purpose of learning in contemporary society?",
+      "options": [
+        "Obsessive preoccupation with competitive scores and commercial profitability",
+        "Excessive focus on sports and co-curricular pursuits",
+        "Lack of technological infrastructure in classrooms",
+        "Shortage of skilled teachers in rural schools"
+      ],
+      "answer": 0,
+      "explanation": "The passage highlights that 'an obsessive preoccupation with competitive scores and commercial profitability has obscured the noble purpose of learning'."
+    },
+    {
+      "id": "2fb8c0df",
+      "question": "[Passage 1: True Meaning of Education]\n\nRead the passage given below carefully:\n\"Education is not merely the accumulation of facts, figures, or technical expertise; it is the harmonious cultivation of the intellectual, emotional, and moral faculties of a human being. A genuinely educated individual is not solely characterized by their capacity to earn a prestigious livelihood, but by their profound empathy, ethical integrity, and sense of civic responsibility. In contemporary society, an obsessive preoccupation with competitive scores and commercial profitability has obscured the noble purpose of learning. Consequently, modern academic institutions risk degenerating into mechanized assembly lines prioritizing rote memorization over critical inquiry, intellectual curiosity, and humane compassion.\"\n\nQuestion: What danger do modern academic institutions face if they neglect critical inquiry?",
+      "options": [
+        "Degenerating into mechanized assembly lines prioritizing rote memorization",
+        "Becoming entirely digital and paperless",
+        "Losing government accreditation and funding",
+        "Failing to attract international students"
+      ],
+      "answer": 0,
+      "explanation": "The passage states that schools 'risk degenerating into mechanized assembly lines prioritizing rote memorization over critical inquiry'."
+    },
+    {
+      "id": "f9998f05",
+      "question": "[Passage 1: True Meaning of Education]\n\nRead the passage given below carefully:\n\"Education is not merely the accumulation of facts, figures, or technical expertise; it is the harmonious cultivation of the intellectual, emotional, and moral faculties of a human being. A genuinely educated individual is not solely characterized by their capacity to earn a prestigious livelihood, but by their profound empathy, ethical integrity, and sense of civic responsibility. In contemporary society, an obsessive preoccupation with competitive scores and commercial profitability has obscured the noble purpose of learning. Consequently, modern academic institutions risk degenerating into mechanized assembly lines prioritizing rote memorization over critical inquiry, intellectual curiosity, and humane compassion.\"\n\nQuestion: What is the synonym of the word 'cultivation' as used in the passage?",
+      "options": [
+        "Neglect",
+        "Abandonment",
+        "Development or nurturing",
+        "Destruction"
+      ],
+      "answer": 2,
+      "explanation": "In this context, 'cultivation' means fostering, nurturing, or purposeful development of faculties."
+    },
+    {
+      "id": "c687626e",
+      "question": "[Passage 2: The Indispensable Role of Forests]\n\nRead the passage given below carefully:\n\"Forests represent the planet's primary ecological lifeline. By sequestering atmospheric carbon dioxide and liberating copious volumes of oxygen through photosynthesis, they effectively function as the terrestrial lungs of the earth. Furthermore, the extensive subterranean root networks of trees anchor topsoil firmly, mitigating catastrophic erosion during seasonal deluges, while their dense canopies temper microclimates and shelter an intricate web of biodiversity. Nevertheless, relentless anthropogenic encroachments—spearheaded by rampant urbanization and commercial logging—continue to decimate pristine forest cover. Preserving our remaining arboreal heritage is thus not an altruistic gesture toward nature, but an existential imperative indispensable to humanity's own survival.\"\n\nQuestion: Why are forests referred to as the 'terrestrial lungs of the earth'?",
+      "options": [
+        "Because they filter chemical pesticides from industrial wastewater",
+        "Because they sequester carbon dioxide and liberate copious oxygen",
+        "Because they pump rainwater through their root systems",
+        "Because they generate atmospheric ozone directly"
+      ],
+      "answer": 1,
+      "explanation": "The author explicitly notes that by sequestering carbon dioxide and liberating oxygen through photosynthesis, forests function as the terrestrial lungs of the earth."
+    },
+    {
+      "id": "3d773e9b",
+      "question": "[Passage 2: The Indispensable Role of Forests]\n\nRead the passage given below carefully:\n\"Forests represent the planet's primary ecological lifeline. By sequestering atmospheric carbon dioxide and liberating copious volumes of oxygen through photosynthesis, they effectively function as the terrestrial lungs of the earth. Furthermore, the extensive subterranean root networks of trees anchor topsoil firmly, mitigating catastrophic erosion during seasonal deluges, while their dense canopies temper microclimates and shelter an intricate web of biodiversity. Nevertheless, relentless anthropogenic encroachments—spearheaded by rampant urbanization and commercial logging—continue to decimate pristine forest cover. Preserving our remaining arboreal heritage is thus not an altruistic gesture toward nature, but an existential imperative indispensable to humanity's own survival.\"\n\nQuestion: How do the subterranean root networks of trees safeguard the environment?",
+      "options": [
+        "By preventing earthquakes and seismic tremors",
+        "By absorbing industrial radioactive waste",
+        "By anchoring topsoil firmly and mitigating soil erosion",
+        "By heating the underground water table"
+      ],
+      "answer": 2,
+      "explanation": "The text states that root networks 'anchor topsoil firmly, mitigating catastrophic erosion during seasonal deluges'."
+    },
+    {
+      "id": "fca69326",
+      "question": "[Passage 2: The Indispensable Role of Forests]\n\nRead the passage given below carefully:\n\"Forests represent the planet's primary ecological lifeline. By sequestering atmospheric carbon dioxide and liberating copious volumes of oxygen through photosynthesis, they effectively function as the terrestrial lungs of the earth. Furthermore, the extensive subterranean root networks of trees anchor topsoil firmly, mitigating catastrophic erosion during seasonal deluges, while their dense canopies temper microclimates and shelter an intricate web of biodiversity. Nevertheless, relentless anthropogenic encroachments—spearheaded by rampant urbanization and commercial logging—continue to decimate pristine forest cover. Preserving our remaining arboreal heritage is thus not an altruistic gesture toward nature, but an existential imperative indispensable to humanity's own survival.\"\n\nQuestion: What are the major human activities driving the destruction of pristine forests?",
+      "options": [
+        "Rampant urbanization and commercial logging",
+        "Establishment of botanical gardens",
+        "Eco-tourism and wildlife photography",
+        "Scientific research expeditions"
+      ],
+      "answer": 0,
+      "explanation": "The author points out 'relentless anthropogenic encroachments—spearheaded by rampant urbanization and commercial logging'."
+    },
+    {
+      "id": "0bc5baf4",
+      "question": "[Passage 2: The Indispensable Role of Forests]\n\nRead the passage given below carefully:\n\"Forests represent the planet's primary ecological lifeline. By sequestering atmospheric carbon dioxide and liberating copious volumes of oxygen through photosynthesis, they effectively function as the terrestrial lungs of the earth. Furthermore, the extensive subterranean root networks of trees anchor topsoil firmly, mitigating catastrophic erosion during seasonal deluges, while their dense canopies temper microclimates and shelter an intricate web of biodiversity. Nevertheless, relentless anthropogenic encroachments—spearheaded by rampant urbanization and commercial logging—continue to decimate pristine forest cover. Preserving our remaining arboreal heritage is thus not an altruistic gesture toward nature, but an existential imperative indispensable to humanity's own survival.\"\n\nQuestion: What does the word 'altruistic' mean in the context of the passage?",
+      "options": [
+        "Compulsory",
+        "Destructive",
+        "Profitable",
+        "Unselfish or charitable"
+      ],
+      "answer": 3,
+      "explanation": "'Altruistic' means showing a selfless concern for the well-being of others; unselfish or benevolent."
+    },
+    {
+      "id": "421a2748",
+      "question": "[Passage 2: The Indispensable Role of Forests]\n\nRead the passage given below carefully:\n\"Forests represent the planet's primary ecological lifeline. By sequestering atmospheric carbon dioxide and liberating copious volumes of oxygen through photosynthesis, they effectively function as the terrestrial lungs of the earth. Furthermore, the extensive subterranean root networks of trees anchor topsoil firmly, mitigating catastrophic erosion during seasonal deluges, while their dense canopies temper microclimates and shelter an intricate web of biodiversity. Nevertheless, relentless anthropogenic encroachments—spearheaded by rampant urbanization and commercial logging—continue to decimate pristine forest cover. Preserving our remaining arboreal heritage is thus not an altruistic gesture toward nature, but an existential imperative indispensable to humanity's own survival.\"\n\nQuestion: The author concludes that conserving forests is:",
+      "options": [
+        "An economically wasteful public enterprise",
+        "An existential imperative indispensable to human survival",
+        "A matter relevant only to forest-dwelling tribes",
+        "An optional and luxury environmental hobby"
+      ],
+      "answer": 1,
+      "explanation": "The author concludes that preserving forests is 'an existential imperative indispensable to humanity\\'s own survival'."
+    },
+    {
+      "id": "7f89470a",
+      "question": "[Passage 3: The Enduring Value of Reading]\n\nRead the passage given below carefully:\n\"Reading is not a passive pastime; it is an active dialogue between the reader and the writer across the corridors of time. A person who cultivates the habit of reading good literature gains access to the wisdom of centuries and encounters perspectives that shatter parochial biases. In contrast to ephemeral digital stimuli, which foster fragmented attention and superficial skimming, deep immersion in a profound book demands disciplined contemplation. It enriches vocabulary, sharpens analytical acuity, and kindles creative imagination. To read widely is to live multiple lives, for a non-reader experiences only one solitary existence confined to their immediate physical horizon.\"\n\nQuestion: Why does the author consider reading an 'active dialogue' rather than a passive hobby?",
+      "options": [
+        "Because authors always answer letters written by readers",
+        "Because it engages the reader in thoughtful communication with the author across time",
+        "Because readers must read aloud to understand the words",
+        "Because reading requires physical exercise and stamina"
+      ],
+      "answer": 1,
+      "explanation": "The passage states that reading is 'an active dialogue between the reader and the writer across the corridors of time'."
+    },
+    {
+      "id": "7214bedb",
+      "question": "[Passage 3: The Enduring Value of Reading]\n\nRead the passage given below carefully:\n\"Reading is not a passive pastime; it is an active dialogue between the reader and the writer across the corridors of time. A person who cultivates the habit of reading good literature gains access to the wisdom of centuries and encounters perspectives that shatter parochial biases. In contrast to ephemeral digital stimuli, which foster fragmented attention and superficial skimming, deep immersion in a profound book demands disciplined contemplation. It enriches vocabulary, sharpens analytical acuity, and kindles creative imagination. To read widely is to live multiple lives, for a non-reader experiences only one solitary existence confined to their immediate physical horizon.\"\n\nQuestion: What negative effect of digital media does the author contrast with reading books?",
+      "options": [
+        "Excessive development of physical fitness",
+        "Fragmented attention and superficial skimming",
+        "Complete elimination of curiosity",
+        "Inability to purchase printed literature"
+      ],
+      "answer": 1,
+      "explanation": "The author remarks that 'ephemeral digital stimuli... foster fragmented attention and superficial skimming'."
+    },
+    {
+      "id": "58f7afd7",
+      "question": "[Passage 3: The Enduring Value of Reading]\n\nRead the passage given below carefully:\n\"Reading is not a passive pastime; it is an active dialogue between the reader and the writer across the corridors of time. A person who cultivates the habit of reading good literature gains access to the wisdom of centuries and encounters perspectives that shatter parochial biases. In contrast to ephemeral digital stimuli, which foster fragmented attention and superficial skimming, deep immersion in a profound book demands disciplined contemplation. It enriches vocabulary, sharpens analytical acuity, and kindles creative imagination. To read widely is to live multiple lives, for a non-reader experiences only one solitary existence confined to their immediate physical horizon.\"\n\nQuestion: What is the meaning of the word 'parochial' as used in the passage?",
+      "options": [
+        "Generous",
+        "Narrow-minded or provincial",
+        "Scientific",
+        "Universal and broad"
+      ],
+      "answer": 1,
+      "explanation": "'Parochial' means having a limited or narrow outlook or scope; narrow-minded."
+    },
+    {
+      "id": "ebfc7aee",
+      "question": "[Passage 3: The Enduring Value of Reading]\n\nRead the passage given below carefully:\n\"Reading is not a passive pastime; it is an active dialogue between the reader and the writer across the corridors of time. A person who cultivates the habit of reading good literature gains access to the wisdom of centuries and encounters perspectives that shatter parochial biases. In contrast to ephemeral digital stimuli, which foster fragmented attention and superficial skimming, deep immersion in a profound book demands disciplined contemplation. It enriches vocabulary, sharpens analytical acuity, and kindles creative imagination. To read widely is to live multiple lives, for a non-reader experiences only one solitary existence confined to their immediate physical horizon.\"\n\nQuestion: According to the passage, how does reading enrich an individual's mental capabilities?",
+      "options": [
+        "By enriching vocabulary, sharpening analytical acuity, and kindling imagination",
+        "By replacing the need for social relationships",
+        "By enabling photographic memorization of all texts",
+        "By guaranteeing rapid financial wealth"
+      ],
+      "answer": 0,
+      "explanation": "The text mentions that immersion in books 'enriches vocabulary, sharpens analytical acuity, and kindles creative imagination'."
+    },
+    {
+      "id": "ecf075a0",
+      "question": "[Passage 3: The Enduring Value of Reading]\n\nRead the passage given below carefully:\n\"Reading is not a passive pastime; it is an active dialogue between the reader and the writer across the corridors of time. A person who cultivates the habit of reading good literature gains access to the wisdom of centuries and encounters perspectives that shatter parochial biases. In contrast to ephemeral digital stimuli, which foster fragmented attention and superficial skimming, deep immersion in a profound book demands disciplined contemplation. It enriches vocabulary, sharpens analytical acuity, and kindles creative imagination. To read widely is to live multiple lives, for a non-reader experiences only one solitary existence confined to their immediate physical horizon.\"\n\nQuestion: What does the author imply by saying 'To read widely is to live multiple lives'?",
+      "options": [
+        "Reading causes psychological split personalities",
+        "Readers reincarnate physically into different bodies",
+        "Readers live longer chronological years than non-readers",
+        "Readers experience diverse human emotions, eras, and perspectives beyond their own physical realm"
+      ],
+      "answer": 3,
+      "explanation": "It signifies that reading allows an individual to vicariously experience countless viewpoints, lives, and centuries beyond their solitary existence."
+    },
+    {
+      "id": "615ac5cd",
+      "question": "[Passage 4: Time Management and Discipline]\n\nRead the passage given below carefully:\n\"Time is the most impartial and democratic asset bestowed upon humanity. Regardless of wealth, station, or nationality, every mortal receives an identical allotment of twenty-four hours each day. Yet, the chasm between triumphant achievers and chronic underperformers lies precisely in their stewardship of these fleeting hours. Procrastination—the subtle thief of time—lures individuals into the tranquil illusion that opportunities will perpetual linger. Effective time management is not about cramming frantic activities into every minute; rather, it entails the judicious prioritization of meaningful goals over trivial distractions. Discipline is the bridge that transmutes amorphous aspirations into enduring realities.\"\n\nQuestion: Why is time described as the most 'impartial and democratic asset'?",
+      "options": [
+        "Because time moves slower for hardworking people",
+        "Because time can be purchased in equal amounts by everyone",
+        "Because governments distribute time equally through legislation",
+        "Because every individual receives an identical allotment of twenty-four hours daily"
+      ],
+      "answer": 3,
+      "explanation": "The passage states that regardless of wealth or status, 'every mortal receives an identical allotment of twenty-four hours each day'."
+    },
+    {
+      "id": "62601ba8",
+      "question": "[Passage 4: Time Management and Discipline]\n\nRead the passage given below carefully:\n\"Time is the most impartial and democratic asset bestowed upon humanity. Regardless of wealth, station, or nationality, every mortal receives an identical allotment of twenty-four hours each day. Yet, the chasm between triumphant achievers and chronic underperformers lies precisely in their stewardship of these fleeting hours. Procrastination—the subtle thief of time—lures individuals into the tranquil illusion that opportunities will perpetual linger. Effective time management is not about cramming frantic activities into every minute; rather, it entails the judicious prioritization of meaningful goals over trivial distractions. Discipline is the bridge that transmutes amorphous aspirations into enduring realities.\"\n\nQuestion: What metaphor does the author employ to characterize 'procrastination'?",
+      "options": [
+        "The architect of ambition",
+        "The master of success",
+        "The subtle thief of time",
+        "The guardian of relaxation"
+      ],
+      "answer": 2,
+      "explanation": "The author refers directly to 'Procrastination—the subtle thief of time'."
+    },
+    {
+      "id": "b3f19b51",
+      "question": "[Passage 4: Time Management and Discipline]\n\nRead the passage given below carefully:\n\"Time is the most impartial and democratic asset bestowed upon humanity. Regardless of wealth, station, or nationality, every mortal receives an identical allotment of twenty-four hours each day. Yet, the chasm between triumphant achievers and chronic underperformers lies precisely in their stewardship of these fleeting hours. Procrastination—the subtle thief of time—lures individuals into the tranquil illusion that opportunities will perpetual linger. Effective time management is not about cramming frantic activities into every minute; rather, it entails the judicious prioritization of meaningful goals over trivial distractions. Discipline is the bridge that transmutes amorphous aspirations into enduring realities.\"\n\nQuestion: What does effective time management actually entail according to the author?",
+      "options": [
+        "Judicious prioritization of meaningful goals over trivial distractions",
+        "Working exclusively at nighttime to avoid people",
+        "Delegating all responsibilities to subordinates",
+        "Cramming frantic activity into every single minute without rest"
+      ],
+      "answer": 0,
+      "explanation": "The text explains: 'it entails the judicious prioritization of meaningful goals over trivial distractions'."
+    },
+    {
+      "id": "f15c7ea7",
+      "question": "[Passage 4: Time Management and Discipline]\n\nRead the passage given below carefully:\n\"Time is the most impartial and democratic asset bestowed upon humanity. Regardless of wealth, station, or nationality, every mortal receives an identical allotment of twenty-four hours each day. Yet, the chasm between triumphant achievers and chronic underperformers lies precisely in their stewardship of these fleeting hours. Procrastination—the subtle thief of time—lures individuals into the tranquil illusion that opportunities will perpetual linger. Effective time management is not about cramming frantic activities into every minute; rather, it entails the judicious prioritization of meaningful goals over trivial distractions. Discipline is the bridge that transmutes amorphous aspirations into enduring realities.\"\n\nQuestion: What role does 'discipline' play according to the final sentence?",
+      "options": [
+        "It causes emotional rigidity and unhappiness",
+        "It guarantees wealth without effort",
+        "It limits an individual's creative potential",
+        "It acts as the bridge that transmutes amorphous aspirations into enduring realities"
+      ],
+      "answer": 3,
+      "explanation": "The final sentence states: 'Discipline is the bridge that transmutes amorphous aspirations into enduring realities'."
+    },
+    {
+      "id": "72f1b02f",
+      "question": "[Passage 4: Time Management and Discipline]\n\nRead the passage given below carefully:\n\"Time is the most impartial and democratic asset bestowed upon humanity. Regardless of wealth, station, or nationality, every mortal receives an identical allotment of twenty-four hours each day. Yet, the chasm between triumphant achievers and chronic underperformers lies precisely in their stewardship of these fleeting hours. Procrastination—the subtle thief of time—lures individuals into the tranquil illusion that opportunities will perpetual linger. Effective time management is not about cramming frantic activities into every minute; rather, it entails the judicious prioritization of meaningful goals over trivial distractions. Discipline is the bridge that transmutes amorphous aspirations into enduring realities.\"\n\nQuestion: Give the antonym of the word 'triumphant' as used in the passage:",
+      "options": [
+        "Glorious",
+        "Victorious",
+        "Defeated or unsuccessful",
+        "Proud"
+      ],
+      "answer": 2,
+      "explanation": "'Triumphant' means victorious or successful; its antonym is 'Defeated' or 'Unsuccessful'."
+    }
+  ]
+}

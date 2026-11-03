@@ -1,0 +1,1448 @@
+{
+  "title": "5",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "3d01ad27",
+      "question": "भारत का संविधान कब लागू हुआ? / When did the Constitution of India come into force?",
+      "options": [
+        "26 जनवरी 1950 / 26 January 1950",
+        "2 अक्टूबर 1950 / 2 October 1950",
+        "15 अगस्त 1947 / 15 August 1947",
+        "26 नवंबर 1949 / 26 November 1949"
+      ],
+      "answer": 0,
+      "explanation": "संविधान 26 जनवरी 1950 को लागू हुआ। / The Constitution came into force on 26 January 1950."
+    },
+    {
+      "id": "ad950598",
+      "question": "भारत के राष्ट्रपति का चुनाव कौन करता है? / Who elects the President of India?",
+      "options": [
+        "जनता सीधे / Direct popular vote",
+        "केवल राज्यसभा / Rajya Sabha alone",
+        "केवल लोकसभा / Lok Sabha alone",
+        "निर्वाचक मंडल / Electoral College"
+      ],
+      "answer": 3,
+      "explanation": "निर्वाचक मंडल में संसद के निर्वाचित सदस्य तथा राज्यों/निर्धारित केंद्रशासित प्रदेशों की विधानसभाओं के निर्वाचित सदस्य शामिल होते हैं। / The Electoral College comprises elected MPs and elected MLAs of states and specified UTs."
+    },
+    {
+      "id": "c9b42c65",
+      "question": "उत्तर प्रदेश की राजधानी क्या है? / What is the capital of Uttar Pradesh?",
+      "options": [
+        "कानपुर / Kanpur",
+        "वाराणसी / Varanasi",
+        "प्रयागराज / Prayagraj",
+        "लखनऊ / Lucknow"
+      ],
+      "answer": 3,
+      "explanation": "लखनऊ उत्तर प्रदेश की राजधानी है। / Lucknow is the capital of Uttar Pradesh."
+    },
+    {
+      "id": "0609fce8",
+      "question": "भारतीय संसद के कितने सदन हैं? / How many Houses does the Indian Parliament have?",
+      "options": [
+        "दो / Two",
+        "एक / One",
+        "तीन / Three",
+        "चार / Four"
+      ],
+      "answer": 0,
+      "explanation": "संसद राष्ट्रपति तथा लोकसभा और राज्यसभा से मिलकर बनती है; इसके दो सदन हैं। / Parliament consists of the President and two Houses: Lok Sabha and Rajya Sabha."
+    },
+    {
+      "id": "c4dd1c1c",
+      "question": "मौलिक कर्तव्य किस संविधान संशोधन द्वारा जोड़े गए? / Which Constitutional Amendment added Fundamental Duties?",
+      "options": [
+        "61वाँ / 61st",
+        "52वाँ / 52nd",
+        "44वाँ / 44th",
+        "42वाँ / 42nd"
+      ],
+      "answer": 3,
+      "explanation": "42वें संशोधन अधिनियम, 1976 द्वारा भाग IVA में मौलिक कर्तव्य जोड़े गए। / The 42nd Amendment Act, 1976 added Fundamental Duties in Part IVA."
+    },
+    {
+      "id": "63f72c26",
+      "question": "भारत का राष्ट्रीय जलीय जीव कौन है? / What is India's national aquatic animal?",
+      "options": [
+        "मगरमच्छ / Crocodile",
+        "नीली व्हेल / Blue whale",
+        "कछुआ / Turtle",
+        "गंगा नदी डॉल्फिन / Ganges river dolphin"
+      ],
+      "answer": 3,
+      "explanation": "गंगा नदी डॉल्फिन भारत का राष्ट्रीय जलीय जीव है। / The Ganges river dolphin is India's national aquatic animal."
+    },
+    {
+      "id": "049aca8a",
+      "question": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन से मिला? / Which Amendment gave constitutional status to Panchayati Raj institutions?",
+      "options": [
+        "42वाँ / 42nd",
+        "73वाँ / 73rd",
+        "86वाँ / 86th",
+        "74वाँ / 74th"
+      ],
+      "answer": 1,
+      "explanation": "73वें संशोधन ने संविधान में भाग IX जोड़ा। / The 73rd Amendment added Part IX to the Constitution."
+    },
+    {
+      "id": "7946f5cf",
+      "question": "भारत में हरित क्रांति का प्रमुख संबंध किससे है? / The Green Revolution in India is primarily associated with what?",
+      "options": [
+        "मत्स्य उत्पादन / Fish production",
+        "दुग्ध उत्पादन / Milk production",
+        "खाद्यान्न उत्पादन / Food-grain production",
+        "रेशम उत्पादन / Silk production"
+      ],
+      "answer": 2,
+      "explanation": "हरित क्रांति ने विशेषकर गेहूँ और चावल के उत्पादन में वृद्धि की। / The Green Revolution notably increased wheat and rice production."
+    },
+    {
+      "id": "befe4240",
+      "question": "भारतीय रिजर्व बैंक की स्थापना किस वर्ष हुई? / In which year was the Reserve Bank of India established?",
+      "options": [
+        "1921",
+        "1950",
+        "1935",
+        "1947"
+      ],
+      "answer": 2,
+      "explanation": "RBI ने 1 अप्रैल 1935 को कार्य शुरू किया। / The RBI commenced operations on 1 April 1935."
+    },
+    {
+      "id": "95dd14cf",
+      "question": "भारत का सर्वोच्च न्यायालय कहाँ स्थित है? / Where is the Supreme Court of India located?",
+      "options": [
+        "नई दिल्ली / New Delhi",
+        "मुंबई / Mumbai",
+        "प्रयागराज / Prayagraj",
+        "कोलकाता / Kolkata"
+      ],
+      "answer": 0,
+      "explanation": "भारत का सर्वोच्च न्यायालय नई दिल्ली में स्थित है। / The Supreme Court of India is located in New Delhi."
+    },
+    {
+      "id": "4d833900",
+      "question": "नवंबर 2025 में भारतीय दल ने 25वें ग्रीष्मकालीन डेफलिम्पिक्स में कुल कितने पदक जीते? / How many total medals did the Indian contingent win at the 25th Summer Deaflympics in November 2025?",
+      "options": [
+        "20 पदक / 20 medals",
+        "12 पदक / 12 medals",
+        "25 पदक / 25 medals",
+        "15 पदक / 15 medals"
+      ],
+      "answer": 0,
+      "explanation": "भारत ने 25वें ग्रीष्मकालीन डेफलिम्पिक्स 2025 में 9 स्वर्ण, 7 रजत और 4 कांस्य सहित कुल 20 पदक जीते। / India won 20 medals: 9 gold, 7 silver and 4 bronze at the 25th Summer Deaflympics 2025."
+    },
+    {
+      "id": "0ef8c11c",
+      "question": "2025 में G20 शिखर सम्मेलन किस शहर में हुआ? / Which city hosted the 2025 G20 Summit?",
+      "options": [
+        "जोहान्सबर्ग / Johannesburg",
+        "रियो डी जेनेरियो / Rio de Janeiro",
+        "ओसाका / Osaka",
+        "नई दिल्ली / New Delhi"
+      ],
+      "answer": 0,
+      "explanation": "2025 G20 शिखर सम्मेलन जोहान्सबर्ग, दक्षिण अफ्रीका में हुआ; यह अफ्रीकी धरती पर पहला G20 शिखर सम्मेलन था। / The 2025 G20 Summit was held in Johannesburg, the first on African soil."
+    },
+    {
+      "id": "b3895640",
+      "question": "नवंबर 2025 में लागू चार श्रम संहिताओं ने कितने केंद्रीय श्रम कानूनों को समेकित किया? / The four Labour Codes brought into force in November 2025 consolidated how many central labour laws?",
+      "options": [
+        "12",
+        "52",
+        "29",
+        "44"
+      ],
+      "answer": 2,
+      "explanation": "चार श्रम संहिताओं ने 29 केंद्रीय श्रम कानूनों को समेकित किया। / The four Labour Codes consolidated 29 central labour laws."
+    },
+    {
+      "id": "028a9ad4",
+      "question": "YUVA AI for ALL पहल का मुख्य उद्देश्य क्या है? / What is the main aim of the YUVA AI for ALL initiative?",
+      "options": [
+        "कृषि ऋण देना / Provide farm loans",
+        "खेल प्रशिक्षण / Sports training",
+        "अंतरिक्ष पर्यटन / Space tourism",
+        "AI साक्षरता बढ़ाना / Improve AI literacy"
+      ],
+      "answer": 3,
+      "explanation": "यह पहल आम लोगों में कृत्रिम बुद्धिमत्ता की बुनियादी समझ और साक्षरता बढ़ाने के लिए है। / It aims to build foundational artificial-intelligence literacy."
+    },
+    {
+      "id": "3fb173d0",
+      "question": "16वें वित्त आयोग की सिफारिशों के संदर्भ में राज्यों का ऊर्ध्वाधर कर-वितरण हिस्सा कितना बरकरार रखा गया? / What vertical tax-devolution share for states was retained in the 16th Finance Commission context?",
+      "options": [
+        "50 प्रतिशत / 50 percent",
+        "32 प्रतिशत / 32 percent",
+        "35 प्रतिशत / 35 percent",
+        "41 प्रतिशत / 41 percent"
+      ],
+      "answer": 3,
+      "explanation": "2026-27 के बजट संदर्भ में राज्यों का हिस्सा 41% बनाए रखा गया। / The states' vertical devolution share was retained at 41% in the 2026-27 Budget context."
+    },
+    {
+      "id": "ceef71c7",
+      "question": "नवंबर 2025 में भारत के 53वें मुख्य न्यायाधीश के रूप में किसने पदभार ग्रहण किया? / Who assumed office as the 53rd Chief Justice of India in November 2025?",
+      "options": [
+        "न्यायमूर्ति सूर्यकांत / Justice Surya Kant",
+        "न्यायमूर्ति संजीव खन्ना / Justice Sanjiv Khanna",
+        "न्यायमूर्ति बी. आर. गवई / Justice B. R. Gavai",
+        "न्यायमूर्ति डी. वाई. चंद्रचूड़ / Justice D. Y. Chandrachud"
+      ],
+      "answer": 0,
+      "explanation": "न्यायमूर्ति सूर्यकांत ने 24 नवंबर 2025 को 53वें CJI के रूप में शपथ ली। / Justice Surya Kant took oath as the 53rd CJI on 24 November 2025."
+    },
+    {
+      "id": "1126f604",
+      "question": "COP30 जलवायु सम्मेलन 2025 किस देश में आयोजित हुआ? / In which country was the COP30 climate conference held in 2025?",
+      "options": [
+        "ब्राज़ील / Brazil",
+        "जापान / Japan",
+        "भारत / India",
+        "केन्या / Kenya"
+      ],
+      "answer": 0,
+      "explanation": "COP30 ब्राज़ील के बेलेम शहर में आयोजित हुआ। / COP30 was held in Belém, Brazil."
+    },
+    {
+      "id": "bf0025fe",
+      "question": "नवंबर 2026 में भारत के वायुसेना प्रमुख के रूप में किसने कार्यभार संभाला? / Who assumed charge as India's Chief of the Air Staff in November 2026?",
+      "options": [
+        "एयर चीफ मार्शल वी. आर. चौधरी / Air Chief Marshal V. R. Chaudhari",
+        "एयर चीफ मार्शल आर. के. एस. भदौरिया / Air Chief Marshal R. K. S. Bhadauria",
+        "एयर चीफ मार्शल अशुतोष दीक्षित / Air Chief Marshal Ashutosh Dixit",
+        "एयर चीफ मार्शल बी. एस. धनोआ / Air Chief Marshal B. S. Dhanoa"
+      ],
+      "answer": 2,
+      "explanation": "2 नवंबर 2026 तक उपलब्ध समसामयिक रिपोर्ट के अनुसार अशुतोष दीक्षित ने 1 नवंबर 2026 को 29वें वायुसेना प्रमुख का पद संभाला। / Current-affairs reporting dated 2 November 2026 states that Ashutosh Dixit assumed charge on 1 November 2026."
+    },
+    {
+      "id": "c6bbcc93",
+      "question": "नवंबर 2026 में भारत के किस आयोजन का उद्घाटन भारत मंडपम में हुआ? / Which Indian event was inaugurated at Bharat Mandapam in November 2026?",
+      "options": [
+        "राष्ट्रीय विज्ञान कांग्रेस / National Science Congress",
+        "विश्व पुस्तक मेला / World Book Fair",
+        "खेलो इंडिया युवा खेल / Khelo India Youth Games",
+        "भारत नवीकरणीय ऊर्जा शिखर सम्मेलन एवं एक्सपो / Bharat Renewable Energy Summit and Expo"
+      ],
+      "answer": 3,
+      "explanation": "नवीकरणीय ऊर्जा शिखर सम्मेलन एवं एक्सपो 2 नवंबर 2026 को भारत मंडपम में शुरू हुआ। / The Bharat Renewable Energy Summit and Expo opened at Bharat Mandapam on 2 November 2026."
+    },
+    {
+      "id": "b2694466",
+      "question": "भारत का राष्ट्रीय पशु कौन है? / What is India's national animal?",
+      "options": [
+        "एशियाई सिंह / Asiatic lion",
+        "हिम तेंदुआ / Snow leopard",
+        "बाघ / Tiger",
+        "हाथी / Elephant"
+      ],
+      "answer": 2,
+      "explanation": "बाघ भारत का राष्ट्रीय पशु है। / The tiger is India's national animal."
+    },
+    {
+      "id": "92a3c213",
+      "question": "लोकसभा का सामान्य कार्यकाल कितना होता है? / What is the normal term of the Lok Sabha?",
+      "options": [
+        "4 वर्ष / 4 years",
+        "5 वर्ष / 5 years",
+        "7 वर्ष / 7 years",
+        "6 वर्ष / 6 years"
+      ],
+      "answer": 1,
+      "explanation": "लोकसभा का सामान्य कार्यकाल पहली बैठक से पाँच वर्ष है, जब तक पहले भंग न हो। / The Lok Sabha normally lasts five years from its first sitting unless dissolved earlier."
+    },
+    {
+      "id": "788b5e5b",
+      "question": "भारत में राष्ट्रीय मतदाता दिवस कब मनाया जाता है? / When is National Voters' Day observed in India?",
+      "options": [
+        "25 जनवरी / 25 January",
+        "15 अगस्त / 15 August",
+        "2 अक्टूबर / 2 October",
+        "26 जनवरी / 26 January"
+      ],
+      "answer": 0,
+      "explanation": "राष्ट्रीय मतदाता दिवस 25 जनवरी को मनाया जाता है। / National Voters' Day is observed on 25 January."
+    },
+    {
+      "id": "cec5a8c2",
+      "question": "उत्तर प्रदेश का राजकीय पक्षी कौन है? / What is the state bird of Uttar Pradesh?",
+      "options": [
+        "हंस / Swan",
+        "सारस क्रेन / Sarus crane",
+        "मोर / Peacock",
+        "तोता / Parrot"
+      ],
+      "answer": 1,
+      "explanation": "सारस क्रेन उत्तर प्रदेश का राजकीय पक्षी है। / The Sarus crane is the state bird of Uttar Pradesh."
+    },
+    {
+      "id": "41d776ad",
+      "question": "विश्व पर्यावरण दिवस कब मनाया जाता है? / When is World Environment Day observed?",
+      "options": [
+        "5 जून / 5 June",
+        "16 सितंबर / 16 September",
+        "22 अप्रैल / 22 April",
+        "21 मार्च / 21 March"
+      ],
+      "answer": 0,
+      "explanation": "विश्व पर्यावरण दिवस हर वर्ष 5 जून को मनाया जाता है। / World Environment Day is observed every year on 5 June."
+    },
+    {
+      "id": "4bf33c98",
+      "question": "भारत का निर्वाचन आयोग किस अनुच्छेद के अंतर्गत स्थापित है? / Under which Article is the Election Commission of India provided?",
+      "options": [
+        "अनुच्छेद 324 / Article 324",
+        "अनुच्छेद 280 / Article 280",
+        "अनुच्छेद 356 / Article 356",
+        "अनुच्छेद 368 / Article 368"
+      ],
+      "answer": 0,
+      "explanation": "अनुच्छेद 324 चुनावों के अधीक्षण, निर्देशन और नियंत्रण का अधिकार निर्वाचन आयोग को देता है। / Article 324 vests superintendence, direction and control of elections in the Election Commission."
+    },
+    {
+      "id": "ac6ba1b1",
+      "question": "‘विद्यालय’ शब्द में कौन-सा समास है? / Which compound is used in ‘विद्यालय’?",
+      "options": [
+        "अव्ययीभाव / Avyayibhava",
+        "द्वंद्व / Dvandva",
+        "तत्पुरुष / Tatpurusha",
+        "बहुव्रीहि / Bahuvrihi"
+      ],
+      "answer": 2,
+      "explanation": "‘विद्या का आलय’ में संबंध तत्पुरुष समास है। / It means abode of knowledge, a Tatpurusha compound."
+    },
+    {
+      "id": "4a5979cd",
+      "question": "‘अंधकार’ का विलोम शब्द क्या है? / What is the antonym of ‘अंधकार’?",
+      "options": [
+        "तम / Darkness",
+        "छाया / Shadow",
+        "रात्रि / Night",
+        "प्रकाश / Light"
+      ],
+      "answer": 3,
+      "explanation": "अंधकार का विलोम प्रकाश है। / The antonym of darkness is light."
+    },
+    {
+      "id": "dd41732b",
+      "question": "‘नयन’ का पर्यायवाची शब्द चुनिए। / Choose a synonym of ‘नयन’.",
+      "options": [
+        "हस्त / Hand",
+        "नेत्र / Eye",
+        "कर्ण / Ear",
+        "पाद / Foot"
+      ],
+      "answer": 1,
+      "explanation": "नयन का पर्यायवाची नेत्र है। / Nayan means eye; netra is its synonym."
+    },
+    {
+      "id": "2d99bdba",
+      "question": "‘जो कभी न मरे’ के लिए एक शब्द है— / The one-word expression for ‘one who never dies’ is—",
+      "options": [
+        "अमर / Immortal",
+        "अल्पायु / Short-lived",
+        "अज्ञानी / Ignorant",
+        "नश्वर / Mortal"
+      ],
+      "answer": 0,
+      "explanation": "जो कभी न मरे, उसे अमर कहते हैं। / One who never dies is called immortal."
+    },
+    {
+      "id": "c25627fa",
+      "question": "‘राम ने फल खाया।’ वाक्य में ‘ने’ किस कारक का चिह्न है? / In the sentence, what case marker is ‘ने’?",
+      "options": [
+        "करण कारक / Instrumental",
+        "कर्ता कारक / Nominative-agent marker",
+        "अपादान कारक / Ablative",
+        "कर्म कारक / Object"
+      ],
+      "answer": 1,
+      "explanation": "‘ने’ सामान्यतः भूतकालीन सकर्मक क्रिया में कर्ता कारक का चिह्न है। / ‘Ne’ commonly marks the agent in perfective transitive constructions."
+    },
+    {
+      "id": "7f2fee52",
+      "question": "‘सुंदर’ का भाववाचक संज्ञा रूप क्या है? / What is the abstract noun form of ‘सुंदर’?",
+      "options": [
+        "सुंदरता / Beauty",
+        "सुंदरपन से / Beautifully",
+        "सुंदरतम / Most beautiful",
+        "सुंदरी / Beautiful woman"
+      ],
+      "answer": 0,
+      "explanation": "‘सुंदर’ से भाववाचक संज्ञा ‘सुंदरता’ बनती है। / ‘Sundarta’ is the abstract noun derived from ‘sundar’."
+    },
+    {
+      "id": "b28ac4dc",
+      "question": "‘आँखों का तारा’ मुहावरे का अर्थ है— / Meaning of the idiom ‘आँखों का तारा’ is—",
+      "options": [
+        "अत्यंत प्रिय / Very dear",
+        "बहुत दूर / Very far",
+        "बहुत क्रोधित / Very angry",
+        "बहुत चालाक / Very clever"
+      ],
+      "answer": 0,
+      "explanation": "आँखों का तारा अर्थात अत्यंत प्रिय व्यक्ति। / It refers to someone very dear."
+    },
+    {
+      "id": "ba54d948",
+      "question": "शुद्ध वर्तनी चुनिए। / Choose the correctly spelt word.",
+      "options": [
+        "आशिर्वाद / Aashirvaad (incorrect)",
+        "आर्शीवाद / Aarshivaad",
+        "आर्शिवाद / Aarshivaad (incorrect)",
+        "आशीर्वाद / Aashirvaad"
+      ],
+      "answer": 3,
+      "explanation": "मानक वर्तनी ‘आशीर्वाद’ है। / The standard spelling is ‘आशीर्वाद’."
+    },
+    {
+      "id": "546fbcc5",
+      "question": "‘वह धीरे चलता है।’ इसमें क्रिया-विशेषण कौन-सा है? / Identify the adverb in ‘He walks slowly.’",
+      "options": [
+        "है / Is",
+        "वह / He",
+        "धीरे / Slowly",
+        "चलता / Walks"
+      ],
+      "answer": 2,
+      "explanation": "‘धीरे’ चलने की रीति बताता है, इसलिए क्रिया-विशेषण है। / ‘Slowly’ modifies the verb and is an adverb."
+    },
+    {
+      "id": "59270056",
+      "question": "‘पुस्तकें’ किस वचन का उदाहरण है? / ‘Books’ is an example of which number?",
+      "options": [
+        "इनमें से कोई नहीं / None",
+        "बहुवचन / Plural",
+        "एकवचन / Singular",
+        "द्विवचन / Dual"
+      ],
+      "answer": 1,
+      "explanation": "‘पुस्तकें’ बहुवचन रूप है। / ‘Pustaken’ is plural."
+    },
+    {
+      "id": "b09982f5",
+      "question": "Choose the correct article: ___ honest person is respected.",
+      "options": [
+        "An",
+        "A",
+        "No article",
+        "The"
+      ],
+      "answer": 0,
+      "explanation": "‘Honest’ begins with a vowel sound, so ‘an’ is used. / ‘Honest’ की शुरुआत स्वर ध्वनि से होती है, इसलिए ‘an’ आएगा।"
+    },
+    {
+      "id": "6a3af314",
+      "question": "Choose the correct tense: She ___ to school every day.",
+      "options": [
+        "goes",
+        "gone",
+        "going",
+        "go"
+      ],
+      "answer": 0,
+      "explanation": "Habitual action takes the simple present; third-person singular uses ‘goes’. / नियमित क्रिया के लिए simple present और she के साथ ‘goes’ आता है।"
+    },
+    {
+      "id": "fe881cae",
+      "question": "Choose the synonym of ‘rapid’.",
+      "options": [
+        "Quiet",
+        "Late",
+        "Weak",
+        "Fast"
+      ],
+      "answer": 3,
+      "explanation": "‘Rapid’ means fast or quick. / ‘Rapid’ का अर्थ तेज़ है।"
+    },
+    {
+      "id": "4d497d7f",
+      "question": "Choose the antonym of ‘ancient’.",
+      "options": [
+        "Modern",
+        "Antique",
+        "Old",
+        "Historic"
+      ],
+      "answer": 0,
+      "explanation": "‘Modern’ is the opposite of ‘ancient’. / ‘Modern’, ‘ancient’ का विलोम है।"
+    },
+    {
+      "id": "61f36f41",
+      "question": "Identify the passive voice: ‘The teacher praised Riya.’",
+      "options": [
+        "Riya was praised by the teacher.",
+        "Riya is praising the teacher.",
+        "Riya praised the teacher.",
+        "The teacher was praised by Riya."
+      ],
+      "answer": 0,
+      "explanation": "Simple past passive uses was/were + past participle. / भूतकालीन passive में was/were + past participle होता है।"
+    },
+    {
+      "id": "c7262688",
+      "question": "Choose the correct preposition: The book is ___ the table.",
+      "options": [
+        "at",
+        "into",
+        "by",
+        "on"
+      ],
+      "answer": 3,
+      "explanation": "‘On’ indicates that the book rests on the surface. / सतह पर होने के लिए ‘on’ प्रयुक्त होता है।"
+    },
+    {
+      "id": "c5850ae2",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": [
+        "Where, are you going",
+        "Where are you going?",
+        "Where are you going!",
+        "Where are you going."
+      ],
+      "answer": 1,
+      "explanation": "A direct question ends with a question mark. / प्रश्नवाचक वाक्य के अंत में प्रश्नचिह्न लगता है।"
+    },
+    {
+      "id": "c82d1f07",
+      "question": "The plural of ‘child’ is—",
+      "options": [
+        "childes",
+        "children",
+        "childrens",
+        "childs"
+      ],
+      "answer": 1,
+      "explanation": "‘Child’ has the irregular plural ‘children’. / ‘Child’ का अनियमित बहुवचन ‘children’ है।"
+    },
+    {
+      "id": "25815590",
+      "question": "Choose the correct conjunction: I was tired, ___ I finished my work.",
+      "options": [
+        "although of",
+        "but",
+        "because",
+        "unless"
+      ],
+      "answer": 1,
+      "explanation": "‘But’ expresses contrast between tiredness and completing the work. / ‘But’ विरोध का भाव व्यक्त करता है।"
+    },
+    {
+      "id": "f51f0ed4",
+      "question": "A person who writes poems is called a—",
+      "options": [
+        "novelist",
+        "actor",
+        "poet",
+        "editor"
+      ],
+      "answer": 2,
+      "explanation": "A poet writes poems. / कविता लिखने वाले को poet कहते हैं।"
+    },
+    {
+      "id": "77e58a07",
+      "question": "‘रामः पठति’ वाक्य में क्रिया कौन-सी है? / Identify the verb in ‘रामः पठति’.",
+      "options": [
+        "न किमपि / Neither",
+        "पठति / Reads",
+        "उभयम् / Both",
+        "रामः / Rama"
+      ],
+      "answer": 1,
+      "explanation": "‘पठति’ क्रिया है, जिसका अर्थ है ‘पढ़ता है’। / ‘Pathati’ is the verb meaning ‘reads’."
+    },
+    {
+      "id": "87b68b4e",
+      "question": "‘फलानि’ शब्द का वचन क्या है? / What is the number of ‘फलानि’?",
+      "options": [
+        "बहुवचन / Plural",
+        "एकवचन / Singular",
+        "कोई नहीं / None",
+        "द्विवचन / Dual"
+      ],
+      "answer": 0,
+      "explanation": "‘फलानि’ नपुंसकलिंग का प्रथमा/द्वितीया बहुवचन रूप है। / ‘Phalāni’ is neuter nominative/accusative plural."
+    },
+    {
+      "id": "9bd04669",
+      "question": "‘गच्छति’ किस पुरुष का रूप है? / ‘Gacchati’ belongs to which person?",
+      "options": [
+        "उत्तम पुरुष / First person",
+        "मध्यम पुरुष / Second person",
+        "प्रथम पुरुष / Third person",
+        "द्विवचन / Dual only"
+      ],
+      "answer": 2,
+      "explanation": "‘गच्छति’ लट् लकार, प्रथम पुरुष, एकवचन है। / ‘Gacchati’ is present tense, third person singular."
+    },
+    {
+      "id": "99e63764",
+      "question": "‘विद्या ददाति विनयम्’ का अर्थ है— / Meaning of ‘Vidya dadati vinayam’ is—",
+      "options": [
+        "विद्या धन छीनती है / Knowledge takes wealth",
+        "धन विद्या देता है / Wealth gives knowledge",
+        "बल विनय देता है / Strength gives humility",
+        "विद्या विनय देती है / Knowledge gives humility"
+      ],
+      "answer": 3,
+      "explanation": "इस सूक्ति का अर्थ है कि शिक्षा विनम्रता प्रदान करती है। / The maxim means that knowledge gives humility."
+    },
+    {
+      "id": "0221e299",
+      "question": "‘नदी’ शब्द का लिंग क्या है? / What is the gender of ‘नदी’?",
+      "options": [
+        "नपुंसकलिंग / Neuter",
+        "पुल्लिंग / Masculine",
+        "उभयलिंग / Common",
+        "स्त्रीलिंग / Feminine"
+      ],
+      "answer": 3,
+      "explanation": "‘नदी’ स्त्रीलिंग शब्द है। / ‘Nadī’ is feminine."
+    },
+    {
+      "id": "fc60338d",
+      "question": "‘अहं’ का अर्थ क्या है? / What does ‘अहम्’ mean?",
+      "options": [
+        "मैं / I",
+        "वह / He or she",
+        "हम / We",
+        "तुम / You"
+      ],
+      "answer": 0,
+      "explanation": "‘अहम्’ उत्तम पुरुष एकवचन सर्वनाम है, जिसका अर्थ ‘मैं’ है। / ‘Aham’ is the first-person singular pronoun ‘I’."
+    },
+    {
+      "id": "3f835228",
+      "question": "‘बालकौ’ किस वचन का रूप है? / ‘Bālakau’ is which number?",
+      "options": [
+        "एकवचन / Singular",
+        "द्विवचन / Dual",
+        "कोई नहीं / None",
+        "बहुवचन / Plural"
+      ],
+      "answer": 1,
+      "explanation": "‘बालकौ’ पुल्लिंग प्रथमा द्विवचन है। / ‘Bālakau’ is masculine nominative dual."
+    },
+    {
+      "id": "d728896e",
+      "question": "‘रामेण’ में कौन-सी विभक्ति है? / Which case is used in ‘Rāmeṇa’?",
+      "options": [
+        "प्रथमा / Nominative",
+        "षष्ठी / Genitive",
+        "तृतीया / Instrumental",
+        "द्वितीया / Accusative"
+      ],
+      "answer": 2,
+      "explanation": "‘रामेण’ तृतीया एकवचन रूप है। / ‘Rāmeṇa’ is instrumental singular."
+    },
+    {
+      "id": "0e45c482",
+      "question": "‘पठ्’ धातु का सामान्य अर्थ क्या है? / What is the basic meaning of the root ‘paṭh’?",
+      "options": [
+        "लिखना / To write",
+        "जाना / To go",
+        "खाना / To eat",
+        "पढ़ना / To read"
+      ],
+      "answer": 3,
+      "explanation": "‘पठ्’ धातु का अर्थ पढ़ना है। / The root ‘paṭh’ means to read."
+    },
+    {
+      "id": "1c097291",
+      "question": "‘सत्यमेव जयते’ का अर्थ है— / Meaning of ‘Satyameva Jayate’ is—",
+      "options": [
+        "ज्ञान ही धन है / Knowledge is wealth",
+        "कर्म ही पूजा है / Work is worship",
+        "सत्य की ही विजय होती है / Truth alone triumphs",
+        "अहिंसा परम धर्म है / Non-violence is supreme duty"
+      ],
+      "answer": 2,
+      "explanation": "‘सत्यमेव जयते’ का अर्थ है सत्य की ही विजय होती है। / It means ‘Truth alone triumphs’."
+    },
+    {
+      "id": "cc9581a0",
+      "question": "240 का 25% कितना है? / What is 25% of 240?",
+      "options": [
+        "50",
+        "80",
+        "40",
+        "60"
+      ],
+      "answer": 3,
+      "explanation": "240 × 25/100 = 60. / 240 का 25% = 60."
+    },
+    {
+      "id": "821468c6",
+      "question": "यदि 3x + 5 = 20, तो x का मान क्या है? / If 3x + 5 = 20, find x.",
+      "options": [
+        "10",
+        "5",
+        "15",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "3x=15, अतः x=5। / 3x=15, hence x=5."
+    },
+    {
+      "id": "ff2b1746",
+      "question": "12 और 18 का लघुत्तम समापवर्त्य क्या है? / What is the LCM of 12 and 18?",
+      "options": [
+        "24",
+        "36",
+        "6",
+        "72"
+      ],
+      "answer": 1,
+      "explanation": "12=2²×3 और 18=2×3²; LCM=2²×3²=36। / LCM is 36."
+    },
+    {
+      "id": "71817a82",
+      "question": "एक वस्तु ₹800 में खरीदकर ₹920 में बेची गई। लाभ प्रतिशत कितना है? / An item bought for ₹800 is sold for ₹920. Find profit percent.",
+      "options": [
+        "20%",
+        "12%",
+        "15%",
+        "10%"
+      ],
+      "answer": 2,
+      "explanation": "लाभ=120; लाभ%=120/800×100=15%। / Profit percentage = 15%."
+    },
+    {
+      "id": "6dd4bbf6",
+      "question": "12, 15, 18, 21 का औसत क्या है? / Find the average of 12, 15, 18 and 21.",
+      "options": [
+        "15",
+        "16.5",
+        "18",
+        "17"
+      ],
+      "answer": 1,
+      "explanation": "योग 66 है; 66/4=16.5। / Average = 66 ÷ 4 = 16.5."
+    },
+    {
+      "id": "f404f16d",
+      "question": "एक आयत की लंबाई 12 सेमी और चौड़ाई 8 सेमी है। क्षेत्रफल? / A rectangle is 12 cm long and 8 cm wide. Find its area.",
+      "options": [
+        "40 वर्ग सेमी / 40 cm²",
+        "20 वर्ग सेमी / 20 cm²",
+        "192 वर्ग सेमी / 192 cm²",
+        "96 वर्ग सेमी / 96 cm²"
+      ],
+      "answer": 3,
+      "explanation": "क्षेत्रफल=लंबाई×चौड़ाई=12×8=96 सेमी²। / Area = 12 × 8 = 96 cm²."
+    },
+    {
+      "id": "6e4e4a23",
+      "question": "₹1,000 पर 5% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा? / Find simple interest on ₹1,000 at 5% p.a. for 2 years.",
+      "options": [
+        "₹100",
+        "₹50",
+        "₹150",
+        "₹200"
+      ],
+      "answer": 0,
+      "explanation": "SI=P×R×T/100=1000×5×2/100=₹100। / Simple interest is ₹100."
+    },
+    {
+      "id": "2ba57c78",
+      "question": "यदि अनुपात 2:3 है और कुल 40 है, तो बड़ा भाग कितना है? / Ratio is 2:3 and total is 40. Find the larger part.",
+      "options": [
+        "20",
+        "24",
+        "30",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "कुल भाग 5; बड़ा भाग=3/5×40=24। / Larger share = 24."
+    },
+    {
+      "id": "32d82b2d",
+      "question": "एक ट्रेन 60 किमी/घंटा की गति से 2.5 घंटे चलती है। दूरी? / A train travels at 60 km/h for 2.5 hours. Distance?",
+      "options": [
+        "180 किमी / 180 km",
+        "120 किमी / 120 km",
+        "150 किमी / 150 km",
+        "100 किमी / 100 km"
+      ],
+      "answer": 2,
+      "explanation": "दूरी=गति×समय=60×2.5=150 किमी। / Distance = 150 km."
+    },
+    {
+      "id": "753f8b51",
+      "question": "√144 का मान क्या है? / What is √144?",
+      "options": [
+        "10",
+        "16",
+        "14",
+        "12"
+      ],
+      "answer": 3,
+      "explanation": "12×12=144, इसलिए √144=12। / The square root of 144 is 12."
+    },
+    {
+      "id": "775f3bb9",
+      "question": "एक त्रिभुज के कोण 50° और 60° हैं। तीसरा कोण? / A triangle has angles 50° and 60°. Find the third angle.",
+      "options": [
+        "60°",
+        "80°",
+        "90°",
+        "70°"
+      ],
+      "answer": 3,
+      "explanation": "त्रिभुज के कोणों का योग 180°; तीसरा=180−110=70°। / Third angle = 70°."
+    },
+    {
+      "id": "c1183369",
+      "question": "5, 10, 20, 40, __ अगली संख्या? / Find the next number: 5, 10, 20, 40, __",
+      "options": [
+        "80",
+        "70",
+        "100",
+        "60"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक पद दोगुना है; अगला 80। / Each term doubles; next is 80."
+    },
+    {
+      "id": "e25cfa1f",
+      "question": "किसी संख्या का 3/5 भाग 24 है। संख्या क्या है? / Three-fifths of a number is 24. Find the number.",
+      "options": [
+        "36",
+        "45",
+        "30",
+        "40"
+      ],
+      "answer": 3,
+      "explanation": "संख्या=24×5/3=40। / Number = 40."
+    },
+    {
+      "id": "b1417163",
+      "question": "15 मजदूर एक काम 12 दिन में करते हैं। समान दर पर 10 मजदूर कितने दिन लेंगे? / 15 workers finish a job in 12 days. How long will 10 take at the same rate?",
+      "options": [
+        "8 दिन / 8 days",
+        "20 दिन / 20 days",
+        "18 दिन / 18 days",
+        "15 दिन / 15 days"
+      ],
+      "answer": 2,
+      "explanation": "कुल कार्य=15×12=180 मजदूर-दिन; 180/10=18 दिन। / Required time = 18 days."
+    },
+    {
+      "id": "88037cc3",
+      "question": "7 सेमी त्रिज्या वाले वृत्त की परिधि (π=22/7) क्या है? / Circumference of a circle of radius 7 cm (π=22/7)?",
+      "options": [
+        "22 सेमी / 22 cm",
+        "49 सेमी / 49 cm",
+        "154 सेमी / 154 cm",
+        "44 सेमी / 44 cm"
+      ],
+      "answer": 3,
+      "explanation": "परिधि=2πr=2×22/7×7=44 सेमी। / Circumference = 44 cm."
+    },
+    {
+      "id": "e345b357",
+      "question": "0.75 को भिन्न में लिखिए। / Express 0.75 as a fraction.",
+      "options": [
+        "1/4",
+        "3/4",
+        "7/5",
+        "2/3"
+      ],
+      "answer": 1,
+      "explanation": "0.75=75/100=3/4। / 0.75 simplifies to 3/4."
+    },
+    {
+      "id": "d1036f44",
+      "question": "प्रकाश संश्लेषण में पौधे कौन-सी गैस अवशोषित करते हैं? / Which gas do plants absorb during photosynthesis?",
+      "options": [
+        "नाइट्रोजन / Nitrogen",
+        "हाइड्रोजन / Hydrogen",
+        "ऑक्सीजन / Oxygen",
+        "कार्बन डाइऑक्साइड / Carbon dioxide"
+      ],
+      "answer": 3,
+      "explanation": "प्रकाश संश्लेषण में पौधे CO₂ लेते और O₂ छोड़ते हैं। / Plants absorb CO₂ and release O₂ during photosynthesis."
+    },
+    {
+      "id": "1f17d384",
+      "question": "मानव शरीर में रक्त को पंप करने वाला अंग कौन-सा है? / Which organ pumps blood in the human body?",
+      "options": [
+        "फेफड़ा / Lung",
+        "हृदय / Heart",
+        "गुर्दा / Kidney",
+        "यकृत / Liver"
+      ],
+      "answer": 1,
+      "explanation": "हृदय रक्त परिसंचरण के लिए पंप का कार्य करता है। / The heart pumps blood through the body."
+    },
+    {
+      "id": "d51bd2e7",
+      "question": "बल की SI इकाई क्या है? / What is the SI unit of force?",
+      "options": [
+        "जूल / Joule",
+        "वाट / Watt",
+        "पास्कल / Pascal",
+        "न्यूटन / Newton"
+      ],
+      "answer": 3,
+      "explanation": "बल की SI इकाई न्यूटन है। / The SI unit of force is the newton."
+    },
+    {
+      "id": "85b3169f",
+      "question": "जल का रासायनिक सूत्र क्या है? / What is the chemical formula of water?",
+      "options": [
+        "CO₂",
+        "NaCl",
+        "O₂",
+        "H₂O"
+      ],
+      "answer": 3,
+      "explanation": "जल के एक अणु में दो हाइड्रोजन और एक ऑक्सीजन परमाणु होता है। / A water molecule contains two hydrogen atoms and one oxygen atom."
+    },
+    {
+      "id": "45d33928",
+      "question": "विटामिन C की कमी से कौन-सा रोग होता है? / Deficiency of vitamin C causes which disease?",
+      "options": [
+        "रिकेट्स / Rickets",
+        "रतौंधी / Night blindness",
+        "स्कर्वी / Scurvy",
+        "बेरी-बेरी / Beriberi"
+      ],
+      "answer": 2,
+      "explanation": "विटामिन C की कमी से स्कर्वी होता है। / Vitamin C deficiency causes scurvy."
+    },
+    {
+      "id": "fb40ae59",
+      "question": "ध्वनि किस माध्यम में संचरित नहीं हो सकती? / Sound cannot travel through which medium?",
+      "options": [
+        "वायु / Air",
+        "इस्पात / Steel",
+        "निर्वात / Vacuum",
+        "जल / Water"
+      ],
+      "answer": 2,
+      "explanation": "ध्वनि को संचरण के लिए माध्यम चाहिए; निर्वात में ध्वनि नहीं चलती। / Sound needs a medium and cannot travel in a vacuum."
+    },
+    {
+      "id": "1377841f",
+      "question": "मानव शरीर की सबसे बड़ी ग्रंथि कौन-सी है? / What is the largest gland in the human body?",
+      "options": [
+        "अग्न्याशय / Pancreas",
+        "पीयूष / Pituitary",
+        "थायरॉइड / Thyroid",
+        "यकृत / Liver"
+      ],
+      "answer": 3,
+      "explanation": "यकृत मानव शरीर की सबसे बड़ी ग्रंथि है। / The liver is the largest gland."
+    },
+    {
+      "id": "55c81395",
+      "question": "विद्युत धारा की SI इकाई क्या है? / What is the SI unit of electric current?",
+      "options": [
+        "कूलॉम / Coulomb",
+        "एम्पियर / Ampere",
+        "ओम / Ohm",
+        "वोल्ट / Volt"
+      ],
+      "answer": 1,
+      "explanation": "विद्युत धारा की SI इकाई एम्पियर है। / The SI unit of electric current is ampere."
+    },
+    {
+      "id": "eeb6efe0",
+      "question": "भारत में गंगा नदी का उद्गम किस हिमनद से माना जाता है? / The Ganga's source stream emerges from which glacier?",
+      "options": [
+        "सियाचिन / Siachen",
+        "गंगोत्री हिमनद / Gangotri Glacier",
+        "जेमू / Zemu",
+        "पिंडारी / Pindari"
+      ],
+      "answer": 1,
+      "explanation": "भागीरथी गंगोत्री हिमनद के गौमुख से निकलती है। / The Bhagirathi emerges from Gaumukh in the Gangotri Glacier."
+    },
+    {
+      "id": "2c965ad7",
+      "question": "ओजोन परत मुख्यतः वायुमंडल की किस परत में है? / The ozone layer is mainly found in which atmospheric layer?",
+      "options": [
+        "क्षोभ मंडल / Troposphere",
+        "तापमंडल / Thermosphere",
+        "समताप मंडल / Stratosphere",
+        "मध्यमंडल / Mesosphere"
+      ],
+      "answer": 2,
+      "explanation": "ओजोन परत मुख्यतः समताप मंडल में स्थित है। / The ozone layer is mainly in the stratosphere."
+    },
+    {
+      "id": "62dde861",
+      "question": "भारत में वन्यजीव संरक्षण अधिनियम किस वर्ष बना? / In which year was India's Wildlife (Protection) Act enacted?",
+      "options": [
+        "1986",
+        "1980",
+        "1992",
+        "1972"
+      ],
+      "answer": 3,
+      "explanation": "वन्यजीव संरक्षण अधिनियम 1972 में पारित हुआ। / The Wildlife (Protection) Act was enacted in 1972."
+    },
+    {
+      "id": "b94a5294",
+      "question": "लोकतंत्र में सार्वभौमिक वयस्क मताधिकार का अर्थ क्या है? / What does universal adult franchise mean in a democracy?",
+      "options": [
+        "केवल शिक्षितों को मत / Vote only for educated people",
+        "सभी वयस्क नागरिकों को मतदान का अधिकार / Voting right for all adult citizens",
+        "केवल करदाताओं को मत / Vote only for taxpayers",
+        "केवल पुरुषों को मत / Vote only for men"
+      ],
+      "answer": 1,
+      "explanation": "निर्धारित आयु पूरी करने वाले नागरिकों को बिना भेदभाव मताधिकार मिलता है। / All eligible adult citizens have voting rights without discrimination."
+    },
+    {
+      "id": "cec3601c",
+      "question": "मृदा अपरदन रोकने का प्रभावी उपाय कौन-सा है? / Which is an effective method to prevent soil erosion?",
+      "options": [
+        "वृक्षारोपण / Afforestation",
+        "अत्यधिक चराई / Overgrazing",
+        "ढलान पर खुली जुताई / Uncontrolled slope ploughing",
+        "वनों की कटाई / Deforestation"
+      ],
+      "answer": 0,
+      "explanation": "पेड़ों की जड़ें मिट्टी को बाँधती हैं और अपरदन घटाती हैं। / Tree roots bind soil and reduce erosion."
+    },
+    {
+      "id": "4e3f88a2",
+      "question": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ? / In which year did the Quit India Movement begin?",
+      "options": [
+        "1919",
+        "1947",
+        "1942",
+        "1930"
+      ],
+      "answer": 2,
+      "explanation": "भारत छोड़ो आंदोलन अगस्त 1942 में शुरू हुआ। / The Quit India Movement began in August 1942."
+    },
+    {
+      "id": "c456ef79",
+      "question": "उत्तर प्रदेश में स्थित दुधवा राष्ट्रीय उद्यान किस जिले/क्षेत्र में है? / Dudhwa National Park is located in which region of Uttar Pradesh?",
+      "options": [
+        "गाज़ियाबाद / Ghaziabad",
+        "झाँसी / Jhansi",
+        "लखीमपुर खीरी / Lakhimpur Kheri",
+        "आगरा / Agra"
+      ],
+      "answer": 2,
+      "explanation": "दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश के तराई क्षेत्र में लखीमपुर खीरी में है। / Dudhwa National Park is in the Terai region of Lakhimpur Kheri."
+    },
+    {
+      "id": "0feaa01e",
+      "question": "नवीकरणीय ऊर्जा का उदाहरण कौन-सा है? / Which is an example of renewable energy?",
+      "options": [
+        "कोयला / Coal",
+        "प्राकृतिक गैस / Natural gas",
+        "पेट्रोलियम / Petroleum",
+        "सौर ऊर्जा / Solar energy"
+      ],
+      "answer": 3,
+      "explanation": "सौर ऊर्जा प्राकृतिक रूप से पुनः उपलब्ध होती है। / Solar energy is naturally replenished."
+    },
+    {
+      "id": "fcc7bf2e",
+      "question": "रचनावादी शिक्षण में शिक्षक की प्रमुख भूमिका क्या है? / What is the teacher's main role in constructivist teaching?",
+      "options": [
+        "अनुशासन अधिकारी / Disciplinarian only",
+        "परीक्षक मात्र / Examiner only",
+        "सुविधादाता / Facilitator",
+        "केवल व्याख्याता / Only lecturer"
+      ],
+      "answer": 2,
+      "explanation": "रचनावादी कक्षा में शिक्षक सीखने के अनुभवों का मार्गदर्शन करता है। / The teacher guides learning experiences in a constructivist classroom."
+    },
+    {
+      "id": "21d01658",
+      "question": "पाठ योजना का मुख्य उद्देश्य क्या है? / What is the main purpose of a lesson plan?",
+      "options": [
+        "परीक्षा हटाना / Remove examinations",
+        "केवल गृहकार्य देना / Only assign homework",
+        "शिक्षण को व्यवस्थित करना / Organise teaching",
+        "समय बढ़ाना / Increase time"
+      ],
+      "answer": 2,
+      "explanation": "पाठ योजना उद्देश्यों, गतिविधियों और मूल्यांकन को क्रमबद्ध करती है। / A lesson plan organises objectives, activities and assessment."
+    },
+    {
+      "id": "94e3e567",
+      "question": "सतत एवं व्यापक मूल्यांकन का जोर किस पर है? / What does Continuous and Comprehensive Evaluation emphasise?",
+      "options": [
+        "केवल अंक / Marks only",
+        "केवल मौखिक परीक्षा / Oral test only",
+        "निरंतर और बहुआयामी मूल्यांकन / Continuous, multidimensional assessment",
+        "केवल वार्षिक परीक्षा / Annual exam only"
+      ],
+      "answer": 2,
+      "explanation": "CCE शैक्षिक और सह-शैक्षिक दोनों पक्षों का सतत आकलन करता है। / CCE continuously assesses scholastic and co-scholastic areas."
+    },
+    {
+      "id": "00a776ee",
+      "question": "समावेशी शिक्षा का अर्थ है— / Inclusive education means—",
+      "options": [
+        "अलग-अलग विद्यालय अनिवार्य / Separate schools compulsory",
+        "केवल ऑनलाइन शिक्षा / Online education only",
+        "केवल प्रतिभाशाली बच्चों की शिक्षा / Education only for gifted children",
+        "सभी बच्चों को साथ सीखने के अवसर / Learning opportunities for all children together"
+      ],
+      "answer": 3,
+      "explanation": "समावेशी शिक्षा विविध आवश्यकताओं वाले बच्चों की सहभागिता सुनिश्चित करती है। / Inclusive education ensures participation of learners with diverse needs."
+    },
+    {
+      "id": "ef53cdae",
+      "question": "प्रभावी प्रतिपुष्टि कैसी होनी चाहिए? / Effective feedback should be—",
+      "options": [
+        "देर से और अस्पष्ट / Delayed and vague",
+        "सिर्फ अंक आधारित / Marks-only",
+        "विशिष्ट, समय पर और सुधारोन्मुख / Specific, timely and improvement-oriented",
+        "केवल दंडात्मक / Punitive only"
+      ],
+      "answer": 2,
+      "explanation": "विशिष्ट और समय पर प्रतिपुष्टि सीखने में सुधार करती है। / Specific, timely feedback supports improvement."
+    },
+    {
+      "id": "45c042de",
+      "question": "शिक्षण-सहायक सामग्री का चयन किस आधार पर होना चाहिए? / Teaching-learning materials should be selected based on—",
+      "options": [
+        "केवल रंग / Colour only",
+        "केवल कीमत / Price only",
+        "केवल उपलब्धता / Availability only",
+        "उद्देश्य, आयु और संदर्भ / Objectives, age and context"
+      ],
+      "answer": 3,
+      "explanation": "TLM सीखने के उद्देश्यों, बच्चों की आयु और संदर्भ के अनुरूप होना चाहिए। / TLM should fit objectives, learners' age and context."
+    },
+    {
+      "id": "5999ca5b",
+      "question": "प्रश्न पूछने की खुली शैली का लाभ क्या है? / What is a benefit of open-ended questioning?",
+      "options": [
+        "चर्चा रोकना / Stops discussion",
+        "रटने को बढ़ावा / Promotes rote learning",
+        "केवल एक शब्द का उत्तर / One-word answers only",
+        "चिंतन और विविध उत्तरों को प्रोत्साहन / Encourages thinking and varied responses"
+      ],
+      "answer": 3,
+      "explanation": "खुले प्रश्न तर्क, अभिव्यक्ति और आलोचनात्मक चिंतन को बढ़ाते हैं। / Open questions promote reasoning and critical thinking."
+    },
+    {
+      "id": "ee7d7da7",
+      "question": "कक्षा में समूह कार्य का प्रमुख लाभ क्या है? / What is a key benefit of group work?",
+      "options": [
+        "निष्क्रियता / Passivity",
+        "सहयोगात्मक अधिगम / Collaborative learning",
+        "पूर्ण प्रतिस्पर्धा / Pure competition",
+        "व्यक्तिगत अलगाव / Isolation"
+      ],
+      "answer": 1,
+      "explanation": "समूह कार्य सहयोग, संवाद और सहपाठी अधिगम विकसित करता है। / Group work develops collaboration, communication and peer learning."
+    },
+    {
+      "id": "34753bbc",
+      "question": "पियाजे के अनुसार 7–11 वर्ष की अवस्था कौन-सी है? / According to Piaget, which stage covers approximately ages 7–11?",
+      "options": [
+        "संवेदी-गामक / Sensorimotor",
+        "औपचारिक संक्रियात्मक / Formal operational",
+        "पूर्व-संक्रियात्मक / Preoperational",
+        "मूर्त संक्रियात्मक / Concrete operational"
+      ],
+      "answer": 3,
+      "explanation": "7–11 वर्ष में बच्चा ठोस वस्तुओं/स्थितियों पर तार्किक विचार कर सकता है। / Children reason logically about concrete situations at this stage."
+    },
+    {
+      "id": "2d8a00b1",
+      "question": "वाइगोत्स्की का निकटस्थ विकास क्षेत्र (ZPD) क्या दर्शाता है? / What does Vygotsky's Zone of Proximal Development represent?",
+      "options": [
+        "स्मृति की अवधि / Memory span",
+        "स्वतंत्र और सहायता-प्राप्त प्रदर्शन के बीच का अंतर / Gap between independent and assisted performance",
+        "केवल IQ स्तर / IQ level only",
+        "शारीरिक विकास / Physical growth"
+      ],
+      "answer": 1,
+      "explanation": "ZPD वह अंतर है जो बच्चा अकेले कर सकता है और मार्गदर्शन से कर सकता है। / ZPD is the gap between what a learner can do alone and with guidance."
+    },
+    {
+      "id": "908f9775",
+      "question": "व्यक्तिगत भिन्नताओं को ध्यान में रखकर शिक्षक को क्या करना चाहिए? / What should a teacher do considering individual differences?",
+      "options": [
+        "सभी को एक ही गति से पढ़ाना / Teach everyone at one pace",
+        "विविध शिक्षण रणनीतियाँ अपनाना / Use varied teaching strategies",
+        "कम उपलब्धि वालों को अनदेखा करना / Ignore low achievers",
+        "केवल व्याख्यान देना / Lecture only"
+      ],
+      "answer": 1,
+      "explanation": "विविध रणनीतियाँ अलग-अलग क्षमताओं और आवश्यकताओं का समर्थन करती हैं। / Varied strategies support diverse abilities and needs."
+    },
+    {
+      "id": "9228232c",
+      "question": "आंतरिक अभिप्रेरणा का उदाहरण कौन-सा है? / Which is an example of intrinsic motivation?",
+      "options": [
+        "इनाम पाने के लिए पढ़ना / Reading for a prize",
+        "रुचि के कारण पढ़ना / Reading out of interest",
+        "अंक के दबाव में पढ़ना / Studying under marks pressure",
+        "दंड से बचने के लिए पढ़ना / Reading to avoid punishment"
+      ],
+      "answer": 1,
+      "explanation": "आंतरिक प्रेरणा गतिविधि में निहित रुचि/संतोष से आती है। / Intrinsic motivation comes from interest or satisfaction in the activity."
+    },
+    {
+      "id": "7b1b41b0",
+      "question": "सीखने में परिपक्वता और अनुभव का संबंध कैसा है? / How do maturation and experience relate to learning?",
+      "options": [
+        "दोनों असंबंधित हैं / They are unrelated",
+        "दोनों विकास और अधिगम को प्रभावित करते हैं / Both influence development and learning",
+        "केवल अनुभव महत्वपूर्ण है / Only experience matters",
+        "केवल परिपक्वता महत्वपूर्ण है / Only maturation matters"
+      ],
+      "answer": 1,
+      "explanation": "अधिगम पर जैविक परिपक्वता और पर्यावरणीय अनुभव दोनों प्रभाव डालते हैं। / Learning is influenced by both biological maturation and experience."
+    },
+    {
+      "id": "f99e9efc",
+      "question": "बहुबुद्धि सिद्धांत किसने दिया? / Who proposed the theory of Multiple Intelligences?",
+      "options": [
+        "बी. एफ. स्किनर / B. F. Skinner",
+        "जीन पियाजे / Jean Piaget",
+        "इवान पावलॉव / Ivan Pavlov",
+        "हॉवर्ड गार्डनर / Howard Gardner"
+      ],
+      "answer": 3,
+      "explanation": "हॉवर्ड गार्डनर ने बहुबुद्धि सिद्धांत प्रस्तुत किया। / Howard Gardner proposed the Multiple Intelligences theory."
+    },
+    {
+      "id": "a8501663",
+      "question": "नैदानिक परीक्षण का उद्देश्य क्या है? / What is the purpose of a diagnostic test?",
+      "options": [
+        "उपस्थिति दर्ज करना / Record attendance",
+        "सीखने की कठिनाइयों की पहचान / Identify learning difficulties",
+        "केवल अंतिम ग्रेड देना / Only award final grades",
+        "प्रवेश चयन / Admission selection"
+      ],
+      "answer": 1,
+      "explanation": "नैदानिक परीक्षण विशिष्ट सीखने की कमियों/कठिनाइयों की पहचान करता है। / Diagnostic assessment identifies specific learning gaps."
+    },
+    {
+      "id": "15ca66a4",
+      "question": "बाल-केंद्रित शिक्षा में प्राथमिकता किसे दी जाती है? / What is prioritised in child-centred education?",
+      "options": [
+        "बच्चे की रुचि, आवश्यकता और सक्रियता / Child's interests, needs and active participation",
+        "पाठ्यपुस्तक का अक्षरशः पाठ / Verbatim textbook delivery",
+        "दंड और नियंत्रण / Punishment and control",
+        "शिक्षक का एकतरफा भाषण / One-way teacher talk"
+      ],
+      "answer": 0,
+      "explanation": "बाल-केंद्रित शिक्षा में बच्चा सक्रिय सहभागी होता है। / The child is an active participant in child-centred education."
+    },
+    {
+      "id": "2b65e74a",
+      "question": "भावनात्मक बुद्धिमत्ता का एक प्रमुख घटक क्या है? / Which is a key component of emotional intelligence?",
+      "options": [
+        "केवल स्मरण शक्ति / Memory only",
+        "आत्म-जागरूकता / Self-awareness",
+        "शारीरिक बल / Physical strength",
+        "गणना गति / Calculation speed"
+      ],
+      "answer": 1,
+      "explanation": "आत्म-जागरूकता अपनी भावनाओं को पहचानने और समझने की क्षमता है। / Self-awareness means recognising and understanding one's emotions."
+    },
+    {
+      "id": "f0d49a14",
+      "question": "सक्रिय श्रवण का अर्थ है— / Active listening means—",
+      "options": [
+        "उत्तर सोचते हुए अनसुना करना / Ignore while preparing a reply",
+        "केवल सिर हिलाना / Only nod",
+        "बीच में बार-बार रोकना / Interrupt repeatedly",
+        "ध्यानपूर्वक सुनना और समझ की पुष्टि करना / Listen attentively and confirm understanding"
+      ],
+      "answer": 3,
+      "explanation": "सक्रिय श्रवण में ध्यान, स्पष्टीकरण और उचित प्रतिक्रिया शामिल हैं। / Active listening involves attention, clarification and response."
+    },
+    {
+      "id": "2129f94b",
+      "question": "समय प्रबंधन का प्रभावी तरीका कौन-सा है? / Which is an effective time-management method?",
+      "options": [
+        "एक साथ हर काम शुरू करना / Start everything at once",
+        "बिना योजना काम करना / Work without planning",
+        "कार्य प्राथमिकता के अनुसार तय करना / Prioritise tasks",
+        "सभी काम टालना / Postpone all tasks"
+      ],
+      "answer": 2,
+      "explanation": "प्राथमिकता तय करने से महत्वपूर्ण कार्य समय पर पूरे होते हैं। / Prioritisation helps complete important tasks on time."
+    },
+    {
+      "id": "fc3a7aac",
+      "question": "एक अच्छे नेता का व्यवहार कैसा होना चाहिए? / How should a good leader behave?",
+      "options": [
+        "असहयोगी / Uncooperative",
+        "निष्पक्ष और उत्तरदायी / Fair and accountable",
+        "पक्षपाती / Biased",
+        "अस्पष्ट / Unclear"
+      ],
+      "answer": 1,
+      "explanation": "निष्पक्षता और जवाबदेही विश्वासपूर्ण नेतृत्व के आधार हैं। / Fairness and accountability are foundations of trusted leadership."
+    },
+    {
+      "id": "717e9687",
+      "question": "संघर्ष समाधान का रचनात्मक तरीका क्या है? / What is a constructive way to resolve conflict?",
+      "options": [
+        "मुद्दे को दबाना / Suppress the issue",
+        "संवाद और पारस्परिक समझ / Dialogue and mutual understanding",
+        "दोषारोपण / Blame",
+        "धमकी / Threats"
+      ],
+      "answer": 1,
+      "explanation": "संवाद से पक्षों की आवश्यकताएँ स्पष्ट होती हैं और समाधान निकलता है। / Dialogue clarifies needs and supports resolution."
+    },
+    {
+      "id": "3e55278e",
+      "question": "व्यावसायिक नैतिकता में कौन-सा व्यवहार शामिल है? / Which behaviour reflects professional ethics?",
+      "options": [
+        "ईमानदारी और गोपनीयता / Honesty and confidentiality",
+        "भेदभाव / Discrimination",
+        "अनुचित लाभ / Improper gain",
+        "पक्षपात / Favouritism"
+      ],
+      "answer": 0,
+      "explanation": "ईमानदारी और गोपनीयता पेशेवर नैतिकता के मूल तत्व हैं। / Honesty and confidentiality are core professional values."
+    },
+    {
+      "id": "eb978ec1",
+      "question": "तनाव प्रबंधन के लिए कौन-सी आदत उपयोगी है? / Which habit is useful for stress management?",
+      "options": [
+        "समस्या से इनकार करना / Deny the problem",
+        "नींद छोड़ना / Avoid sleep",
+        "नियमित व्यायाम और पर्याप्त नींद / Regular exercise and adequate sleep",
+        "लगातार काम करना / Work continuously"
+      ],
+      "answer": 2,
+      "explanation": "व्यायाम और पर्याप्त नींद तनाव सहनशीलता में मदद करते हैं। / Exercise and adequate sleep support stress management."
+    },
+    {
+      "id": "9201ef34",
+      "question": "संगठनात्मक प्रबंधन में प्रत्यायोजन का अर्थ है— / Delegation in organisational management means—",
+      "options": [
+        "नियम हटाना / Remove rules",
+        "सभी कार्य स्वयं करना / Do every task oneself",
+        "उचित कार्य और अधिकार दूसरों को सौंपना / Assign suitable tasks and authority to others",
+        "जिम्मेदारी से बचना / Avoid responsibility"
+      ],
+      "answer": 2,
+      "explanation": "प्रत्यायोजन में कार्य के साथ आवश्यक अधिकार सौंपे जाते हैं, जबकि अंतिम जवाबदेही बनी रहती है। / Delegation assigns tasks and needed authority while accountability remains."
+    },
+    {
+      "id": "534dec73",
+      "question": "श्रृंखला पूरी करें: 2, 6, 12, 20, 30, __ / Complete the series: 2, 6, 12, 20, 30, __",
+      "options": [
+        "44",
+        "36",
+        "42",
+        "40"
+      ],
+      "answer": 2,
+      "explanation": "अंतर 4,6,8,10 है; अगला अंतर 12, इसलिए 42। / Differences are 4,6,8,10; next is 12, giving 42."
+    },
+    {
+      "id": "2a3cf59e",
+      "question": "यदि CAT को DBU लिखा जाए, तो DOG को कैसे लिखेंगे? / If CAT is coded as DBU, how is DOG coded?",
+      "options": [
+        "FPH",
+        "EPH",
+        "EOG",
+        "DPH"
+      ],
+      "answer": 1,
+      "explanation": "प्रत्येक अक्षर के बाद अगला अक्षर लिया गया है: D→E, O→P, G→H। / Each letter is shifted forward by one."
+    },
+    {
+      "id": "422d6c69",
+      "question": "रवि उत्तर की ओर 5 किमी चला, फिर दाएँ मुड़कर 3 किमी चला। अब वह किस दिशा में है? / Ravi walks 5 km north, then turns right and walks 3 km. Which direction is he facing?",
+      "options": [
+        "उत्तर / North",
+        "दक्षिण / South",
+        "पश्चिम / West",
+        "पूर्व / East"
+      ],
+      "answer": 3,
+      "explanation": "उत्तर की ओर से दाएँ मुड़ने पर दिशा पूर्व होती है। / A right turn from north faces east."
+    },
+    {
+      "id": "bba03e04",
+      "question": "A, B की माता है और C, A का पिता है। C का B से क्या संबंध है? / A is B's mother and C is A's father. How is C related to B?",
+      "options": [
+        "भाई / Brother",
+        "नाना / Maternal grandfather",
+        "चाचा / Uncle",
+        "दादा / Paternal grandfather"
+      ],
+      "answer": 1,
+      "explanation": "A, B की माता है; A का पिता C, B का नाना है। / C is B's maternal grandfather."
+    },
+    {
+      "id": "0b383966",
+      "question": "अलग शब्द चुनिए: सेब, आम, गाजर, केला / Find the odd one out: Apple, Mango, Carrot, Banana.",
+      "options": [
+        "आम / Mango",
+        "सेब / Apple",
+        "केला / Banana",
+        "गाजर / Carrot"
+      ],
+      "answer": 3,
+      "explanation": "गाजर सब्जी है; अन्य तीन फल हैं। / Carrot is a vegetable; the others are fruits."
+    },
+    {
+      "id": "481c4e83",
+      "question": "CPU का पूर्ण रूप क्या है? / What is the full form of CPU?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Utility",
+        "Computer Personal Unit",
+        "Control Processing User"
+      ],
+      "answer": 0,
+      "explanation": "CPU का अर्थ Central Processing Unit है। / CPU stands for Central Processing Unit."
+    },
+    {
+      "id": "79245656",
+      "question": "कंप्यूटर में कॉपी करने की शॉर्टकट कुंजी क्या है? / What is the keyboard shortcut for Copy?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + P",
+        "Ctrl + V",
+        "Ctrl + X"
+      ],
+      "answer": 0,
+      "explanation": "Ctrl+C चयनित सामग्री कॉपी करता है। / Ctrl+C copies the selected content."
+    },
+    {
+      "id": "52f58404",
+      "question": "इंटरनेट पर सुरक्षित पासवर्ड कैसा होना चाहिए? / What should a secure internet password be like?",
+      "options": [
+        "नाम और जन्मतिथि / Name and birth date",
+        "12345678",
+        "लंबा और अद्वितीय, अक्षरों-अंकों-चिह्नों सहित / Long, unique, with letters, numbers and symbols",
+        "सभी खातों में समान / Same for all accounts"
+      ],
+      "answer": 2,
+      "explanation": "लंबा, अद्वितीय पासवर्ड और बहु-कारक प्रमाणीकरण सुरक्षा बढ़ाते हैं। / Long unique passwords and multi-factor authentication improve security."
+    },
+    {
+      "id": "de0a04d5",
+      "question": "ई-मेल में BCC का उपयोग किसलिए होता है? / What is BCC used for in email?",
+      "options": [
+        "ई-मेल एन्क्रिप्ट करने के लिए / Encrypt email",
+        "संदेश हटाने के लिए / Delete a message",
+        "फाइल संपीड़ित करने के लिए / Compress files",
+        "प्राप्तकर्ताओं के पते अन्य प्राप्तकर्ताओं से छिपाने के लिए / Hide recipients' addresses from other recipients"
+      ],
+      "answer": 3,
+      "explanation": "BCC में जोड़े गए प्राप्तकर्ताओं के पते अन्य प्राप्तकर्ताओं को सामान्यतः दिखाई नहीं देते। / BCC recipients are generally hidden from other recipients."
+    }
+  ]
+}

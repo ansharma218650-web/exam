@@ -1,0 +1,1448 @@
+{
+  "title": "6",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "7512e3f2",
+      "question": "एक बच्चा समान मात्रा के पानी को अलग आकार के पात्र में डालने पर मात्रा बदलने का दावा करता है। पियाजे के अनुसार कौन-सी संज्ञानात्मक उपलब्धि अभी स्थिर नहीं है? / A child claims water quantity changes when poured into a differently shaped vessel. Which Piagetian achievement is not yet stable?",
+      "options": [
+        "वर्ग समावेशन / Class inclusion",
+        "प्रतिवर्ती चिंतन / Reversibility",
+        "संरक्षण / Conservation",
+        "वस्तु स्थायित्व / Object permanence"
+      ],
+      "answer": 2,
+      "explanation": "संरक्षण की समझ ठोस संक्रियात्मक अवस्था में विकसित होती है; पूर्व-संक्रियात्मक बच्चा दृश्य रूप पर निर्भर हो सकता है। / Conservation develops in the concrete-operational stage; a preoperational child may focus on appearance."
+    },
+    {
+      "id": "96827c80",
+      "question": "ZPD के संदर्भ में सबसे प्रभावी शिक्षक-हस्तक्षेप कौन-सा है? / Which teacher intervention best reflects the ZPD?",
+      "options": [
+        "संकेत देकर कार्य पूरा करवाना और संकेत धीरे-धीरे हटाना / Prompt completion and gradually fade prompts",
+        "सीधे उत्तर बता देना / Give the answer directly",
+        "समान कार्य बार-बार बिना सहायता देना / Repeat the task without support",
+        "बच्चे को अकेले छोड़ देना / Leave the learner entirely alone"
+      ],
+      "answer": 0,
+      "explanation": "ZPD में वह कार्य आता है जिसे शिक्षार्थी मार्गदर्शन से कर सकता है; scaffolding क्रमशः हटती है। / ZPD concerns performance possible with guidance; scaffolding is gradually withdrawn."
+    },
+    {
+      "id": "fc828681",
+      "question": "कोहलबर्ग के चरण 4 में नैतिक निर्णय का प्रमुख आधार क्या है? / What chiefly grounds moral judgement at Kohlberg's Stage 4?",
+      "options": [
+        "व्यक्तिगत लाभ / Personal gain",
+        "कानून और सामाजिक व्यवस्था का संरक्षण / Maintaining law and social order",
+        "दंड से बचना / Avoiding punishment",
+        "सार्वभौमिक नैतिक सिद्धांत / Universal ethical principles"
+      ],
+      "answer": 1,
+      "explanation": "चरण 4 परंपरागत स्तर में नियम और सामाजिक व्यवस्था बनाए रखने पर बल देता है। / Stage 4 of the conventional level emphasises law and social order."
+    },
+    {
+      "id": "5c17d4c7",
+      "question": "यदि विद्यार्थी की त्रुटि व्यवस्थित है और बार-बार दोहरती है, तो शिक्षक को पहले क्या करना चाहिए? / If a learner makes a systematic recurring error, what should the teacher do first?",
+      "options": [
+        "अधिक गृहकार्य देना / Assign more homework",
+        "गलत उत्तर मिटवा देना / Erase the wrong answer",
+        "त्रुटि के पीछे की अवधारणा का निदान / Diagnose the underlying conception",
+        "अंक काटकर आगे बढ़ना / Deduct marks and move on"
+      ],
+      "answer": 2,
+      "explanation": "व्यवस्थित त्रुटि वैकल्पिक अवधारणा का संकेत हो सकती है; निदान के बाद उपचारात्मक शिक्षण करें। / Systematic errors may reveal misconceptions; diagnose before remediation."
+    },
+    {
+      "id": "b68e9990",
+      "question": "एक बच्चा समूह में अवधारणा समझाता है और साथी की प्रतिक्रिया से अपना विचार बदलता है। यह किस दृष्टिकोण से सर्वाधिक मेल खाता है? / A learner explains an idea in a group and revises it after peer response. This best aligns with—",
+      "options": [
+        "सामाजिक रचनावाद / Social constructivism",
+        "परिपक्वता सिद्धांत / Maturation theory",
+        "अंतर्दृष्टि अधिगम / Insight learning",
+        "शास्त्रीय अनुबंधन / Classical conditioning"
+      ],
+      "answer": 0,
+      "explanation": "सामाजिक अंतःक्रिया और भाषा के माध्यम से ज्ञान का सह-निर्माण सामाजिक रचनावाद का मूल है। / Co-construction through social interaction and language is central to social constructivism."
+    },
+    {
+      "id": "8d3d90dc",
+      "question": "किस स्थिति में 'नकारात्मक पुनर्बलन' होगा? / Which situation illustrates negative reinforcement?",
+      "options": [
+        "गृहकार्य समय पर करने पर अतिरिक्त अभ्यास हट जाना / Extra practice is removed after timely homework",
+        "शोर करने पर चेतावनी देना / Warn for noise",
+        "सही उत्तर पर स्टार देना / Give a star for a correct answer",
+        "गलती पर दंड देना / Punish an error"
+      ],
+      "answer": 0,
+      "explanation": "नकारात्मक पुनर्बलन में अप्रिय उद्दीपन हटाकर व्यवहार की आवृत्ति बढ़ाई जाती है। / Negative reinforcement increases behaviour by removing an aversive stimulus."
+    },
+    {
+      "id": "263b1a63",
+      "question": "विकास के 'समीपस्थ से दूरस्थ' सिद्धांत का उदाहरण क्या है? / Which example illustrates the proximodistal principle of development?",
+      "options": [
+        "पहले सामाजिक, फिर शारीरिक विकास / Social before physical development",
+        "पहले शब्द, फिर ध्वनि / Words before sounds",
+        "बच्चा पहले कंधे/बाँह पर नियंत्रण, बाद में उँगलियों का सूक्ष्म नियंत्रण पाता है / Shoulder-arm control precedes fine finger control",
+        "सिर से पैर तक नियंत्रण / Head-to-toe control"
+      ],
+      "answer": 2,
+      "explanation": "समीपस्थ-दूरस्थ विकास शरीर के केंद्र से बाहरी भागों की ओर होता है। / Proximodistal development proceeds from the centre outward."
+    },
+    {
+      "id": "0c78f272",
+      "question": "किस परीक्षण में एक ही विद्यार्थी के प्रदर्शन की तुलना उसके पूर्व प्रदर्शन से की जाती है? / Which assessment compares a learner's performance with their own earlier performance?",
+      "options": [
+        "Criterion-referenced / मानदंड-संदर्भित",
+        "Aptitude test / अभिक्षमता परीक्षण",
+        "Ipsative assessment / आत्म-संदर्भित मूल्यांकन",
+        "Norm-referenced / मानक-संदर्भित"
+      ],
+      "answer": 2,
+      "explanation": "Ipsative assessment में व्यक्ति की तुलना उसके अपने पूर्व/अन्य प्रदर्शन से होती है। / Ipsative assessment compares a learner with their own performance."
+    },
+    {
+      "id": "89302446",
+      "question": "विविधता-संवेदी शिक्षण का सबसे उपयुक्त उदाहरण है— / Best example of culturally responsive teaching—",
+      "options": [
+        "सभी सांस्कृतिक संदर्भ हटाना / Remove all cultural contexts",
+        "स्थानीय अनुभवों को पाठ्य अवधारणाओं से जोड़ना / Connect local experiences to curricular concepts",
+        "भाषाई भिन्नता को त्रुटि मानना / Treat language variation as error",
+        "एक ही उदाहरण हर समूह पर थोपना / Impose one example on all groups"
+      ],
+      "answer": 1,
+      "explanation": "स्थानीय ज्ञान को सम्मानपूर्वक जोड़ना सीखने को अर्थपूर्ण बनाता है। / Respectfully integrating local knowledge makes learning meaningful."
+    },
+    {
+      "id": "cf164816",
+      "question": "मेटाकॉग्निटिव रणनीति कौन-सी है? / Which is a metacognitive strategy?",
+      "options": [
+        "पढ़ते समय स्वयं से पूछना कि क्या तर्क समझ आया / Self-questioning whether an argument is understood",
+        "पाठ को यांत्रिक रूप से दोहराना / Mechanically repeat text",
+        "केवल रेखांकन करना / Underline only",
+        "उत्तर कुंजी देखना / Look at the answer key"
+      ],
+      "answer": 0,
+      "explanation": "स्व-प्रश्नांकन समझ की निगरानी और नियमन है। / Self-questioning monitors and regulates comprehension."
+    },
+    {
+      "id": "c722cc0d",
+      "question": "ब्लूम के संशोधित वर्गीकरण में 'किसी निष्कर्ष की वैधता के लिए प्रमाण जाँचना' किस स्तर का कार्य है? / In revised Bloom's taxonomy, checking evidence for the validity of a conclusion is—",
+      "options": [
+        "विश्लेषण / Analyse",
+        "स्मरण / Remember",
+        "मूल्यांकन / Evaluate",
+        "अनुप्रयोग / Apply"
+      ],
+      "answer": 2,
+      "explanation": "प्रमाण के आधार पर निर्णय करना मूल्यांकन स्तर है। / Judging against evidence is evaluation."
+    },
+    {
+      "id": "cf6f2fa5",
+      "question": "किस प्रश्न में उच्च-स्तरीय विश्लेषण अपेक्षित है? / Which question demands higher-order analysis?",
+      "options": [
+        "परिभाषा लिखिए / State the definition",
+        "दो पात्रों के व्यवहार के कारणों की तुलना कीजिए / Compare causes of two characters' behaviour",
+        "तिथि याद कीजिए / Recall the date",
+        "कहानी का लेखक बताइए / Name the author"
+      ],
+      "answer": 1,
+      "explanation": "कारणों की तुलना में संबंधों का विश्लेषण आवश्यक है। / Comparing causes requires analysis of relationships."
+    },
+    {
+      "id": "b876ae87",
+      "question": "परीक्षण की वस्तुनिष्ठता बढ़ाने का सर्वोत्तम उपाय है— / Best way to improve objectivity of a test—",
+      "options": [
+        "अस्पष्ट निर्देश / Ambiguous directions",
+        "पूर्वनिर्धारित उत्तर-कुंजी और स्पष्ट अंकन-मानदंड / Pre-set key and explicit scoring criteria",
+        "मौखिक अनुमान / Subjective guess",
+        "मूल्यांकनकर्ता की व्यक्तिगत पसंद / Examiner preference"
+      ],
+      "answer": 1,
+      "explanation": "मानकीकृत कुंजी और रूब्रिक परीक्षक-निर्भरता घटाते हैं। / Standardised keys and rubrics reduce examiner bias."
+    },
+    {
+      "id": "4202466e",
+      "question": "यदि किसी प्रश्न का विभेदन सूचकांक ऋणात्मक है, तो संभावित समस्या क्या है? / A negative discrimination index may indicate—",
+      "options": [
+        "प्रश्न बहुत आसान है / Item is very easy",
+        "सभी ने सही किया / Everyone answered correctly",
+        "प्रश्न अत्यंत अच्छा है / Item is excellent",
+        "कम उपलब्धि वाले अधिक सही कर रहे हैं; कुंजी/प्रश्न की जाँच चाहिए / Lower scorers outperform higher scorers; review key or item"
+      ],
+      "answer": 3,
+      "explanation": "ऋणात्मक विभेदन गलत कुंजी, अस्पष्टता या दोषपूर्ण प्रश्न का संकेत हो सकता है। / Negative discrimination can signal a faulty key or ambiguous item."
+    },
+    {
+      "id": "b3f1fb86",
+      "question": "‘दुर्लभ’ का विलोम चुनिए। / Choose the antonym of ‘दुर्लभ’.",
+      "options": [
+        "सुलभ / Easily available",
+        "विरल / Scarce",
+        "असामान्य / Unusual",
+        "अद्वितीय / Unique"
+      ],
+      "answer": 0,
+      "explanation": "दुर्लभ का अर्थ कठिनाई से मिलने वाला; सुलभ उसका विलोम है। / Durlabh means scarce; sulabh means accessible."
+    },
+    {
+      "id": "afe41335",
+      "question": "‘राजपुत्र’ में कौन-सा समास है? / Which compound is ‘राजपुत्र’?",
+      "options": [
+        "द्वंद्व / Dvandva",
+        "षष्ठी तत्पुरुष / Genitive Tatpurusha",
+        "अव्ययीभाव / Avyayibhava",
+        "बहुव्रीहि / Bahuvrihi"
+      ],
+      "answer": 1,
+      "explanation": "राजा का पुत्र—षष्ठी तत्पुरुष। / Son of a king: genitive Tatpurusha."
+    },
+    {
+      "id": "5d13395f",
+      "question": "‘महोत्सव’ का सही संधि-विच्छेद है— / Correct sandhi split of ‘महोत्सव’—",
+      "options": [
+        "मही + उत्सव / Mahī + utsava",
+        "महत् + उत्सव / Mahat + utsava",
+        "महो + त्सव / Maho + tsava",
+        "महा + उत्सव / Mahā + utsava"
+      ],
+      "answer": 3,
+      "explanation": "महा + उत्सव में आ + उ के मेल से ओ गुण संधि होती है। / Mahā + utsava combines by guna sandhi to mahotsava."
+    },
+    {
+      "id": "ff90e7fc",
+      "question": "‘किसी बात को बढ़ा-चढ़ाकर कहना’ किस अलंकार का लक्षण है? / Exaggerating something is characteristic of which figure?",
+      "options": [
+        "श्लेष / Pun",
+        "अतिशयोक्ति / Hyperbole",
+        "उपमा / Simile",
+        "अनुप्रास / Alliteration"
+      ],
+      "answer": 1,
+      "explanation": "अतिशयोक्ति में वर्णन वास्तविकता से बहुत बढ़ाकर किया जाता है। / Hyperbole deliberately exaggerates."
+    },
+    {
+      "id": "e2478c7d",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Hardly had the bell rung than students entered.",
+        "Hardly had the bell rung when the students entered.",
+        "Hardly the bell had rung than the students entered.",
+        "Hardly did the bell rung when students entered."
+      ],
+      "answer": 1,
+      "explanation": "The correlative pattern is 'Hardly had ... when ...'. / Hardly के साथ past perfect inversion और when आता है।"
+    },
+    {
+      "id": "b4610451",
+      "question": "Choose the correct verb: The committee ___ divided in its opinion.",
+      "options": [
+        "have",
+        "were",
+        "are",
+        "is"
+      ],
+      "answer": 3,
+      "explanation": "A committee acting as one body takes a singular verb in this context. / एक इकाई के रूप में committee के साथ singular verb है।"
+    },
+    {
+      "id": "6992269b",
+      "question": "‘No sooner had she arrived ___ it began to rain.’",
+      "options": [
+        "that",
+        "than",
+        "when",
+        "then"
+      ],
+      "answer": 1,
+      "explanation": "The fixed correlative construction is 'no sooner ... than'. / No sooner के साथ than आता है।"
+    },
+    {
+      "id": "b4ce9bb3",
+      "question": "The word ‘benevolent’ is closest in meaning to—",
+      "options": [
+        "Malicious / दुर्भावनापूर्ण",
+        "Kind / दयालु",
+        "Hostile / शत्रुतापूर्ण",
+        "Indifferent / उदासीन"
+      ],
+      "answer": 1,
+      "explanation": "Benevolent means well-meaning and kind. / Benevolent का अर्थ परोपकारी/दयालु है।"
+    },
+    {
+      "id": "6ae8c851",
+      "question": "‘बालिकाभिः’ में कौन-सी विभक्ति है? / Which case is ‘bālikābhiḥ’?",
+      "options": [
+        "षष्ठी बहुवचन / Genitive plural",
+        "तृतीया बहुवचन / Instrumental plural",
+        "पञ्चमी द्विवचन / Ablative dual",
+        "चतुर्थी एकवचन / Dative singular"
+      ],
+      "answer": 1,
+      "explanation": "आकारान्त स्त्रीलिंग बालिका का तृतीया बहुवचन बालिकाभिः है। / It is instrumental plural."
+    },
+    {
+      "id": "98925d45",
+      "question": "‘गच्छेयुः’ किस लकार का रूप है? / ‘Gaccheyuḥ’ belongs to which lakāra?",
+      "options": [
+        "लङ् / Imperfect",
+        "लट् / Present",
+        "विधिलिङ् / Optative",
+        "लृट् / Future"
+      ],
+      "answer": 2,
+      "explanation": "गच्छेयुः विधिलिङ्, प्रथम पुरुष बहुवचन है। / Gaccheyuḥ is optative, third-person plural."
+    },
+    {
+      "id": "15b73ba6",
+      "question": "यदि 2x−3y=7 और 3x+2y=4, तो x का मान क्या है? / If 2x−3y=7 and 3x+2y=4, find x.",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explanation": "पहले को 2 और दूसरे को 3 से गुणा: 4x−6y=14, 9x+6y=12; 13x=26, x=2। / Elimination gives 13x=26, so x=2."
+    },
+    {
+      "id": "d3a8c442",
+      "question": "एक दुकानदार 10% छूट देने के बाद भी 20% लाभ कमाता है। अंकित मूल्य क्रय मूल्य से कितने प्रतिशत अधिक है? / A seller gives 10% discount and still earns 20% profit. Marked price is what percent above cost price?",
+      "options": [
+        "20%",
+        "33⅓%",
+        "25%",
+        "30%"
+      ],
+      "answer": 1,
+      "explanation": "0.9MP=1.2CP ⇒ MP/CP=4/3; अतः 33⅓% अधिक। / MP is 4/3 of CP, i.e. 33⅓% higher."
+    },
+    {
+      "id": "5248b81f",
+      "question": "यदि 5 संख्याओं का माध्य 18 है और सबसे बड़ी संख्या हटाने पर माध्य 15 हो जाता है, तो हटाई गई संख्या है— / Mean of 5 numbers is 18; after removing the largest, mean is 15. Removed number?",
+      "options": [
+        "30",
+        "33",
+        "27",
+        "24"
+      ],
+      "answer": 0,
+      "explanation": "कुल योग 90; शेष चार का योग 60; हटाई संख्या 30। / Total 90 minus remaining sum 60 equals 30."
+    },
+    {
+      "id": "810fb733",
+      "question": "एक शंकु की त्रिज्या 3 cm और ऊँचाई 4 cm है। तिर्यक ऊँचाई क्या है? / A cone has radius 3 cm and height 4 cm. Find slant height.",
+      "options": [
+        "7 cm",
+        "4 cm",
+        "6 cm",
+        "5 cm"
+      ],
+      "answer": 3,
+      "explanation": "l=√(r²+h²)=√(9+16)=5 cm। / Pythagoras gives 5 cm."
+    },
+    {
+      "id": "17d7bb4f",
+      "question": "यदि किसी संख्या का 40% उसके 2/5 के बराबर है, तो यह कथन— / If 40% of a number equals 2/5 of it, the statement is—",
+      "options": [
+        "सदैव सत्य / Always true",
+        "असत्य / False",
+        "केवल शून्य के लिए सत्य / True only for zero",
+        "केवल सम संख्या में सत्य / True only for even numbers"
+      ],
+      "answer": 0,
+      "explanation": "40%=40/100=2/5; दोनों समान हैं। / 40% equals 2/5 identically."
+    },
+    {
+      "id": "58128124",
+      "question": "एक पासे को दो बार फेंका जाता है। योग 9 आने की प्रायिकता क्या है? / A die is thrown twice. Probability that the sum is 9?",
+      "options": [
+        "1/6",
+        "1/9",
+        "1/12",
+        "1/18"
+      ],
+      "answer": 1,
+      "explanation": "योग 9 के अनुकूल युग्म (3,6),(4,5),(5,4),(6,3): 4/36=1/9। / Four outcomes out of 36 give 1/9."
+    },
+    {
+      "id": "3f51ccc9",
+      "question": "दो समानांतर रेखाओं को एक तिर्यक रेखा काटती है। एक ही ओर के अंतः कोणों का योग है— / Same-side interior angles formed by a transversal with parallel lines sum to—",
+      "options": [
+        "90°",
+        "180°",
+        "360°",
+        "90° या 180°"
+      ],
+      "answer": 1,
+      "explanation": "सह-अंतः कोण संपूरक होते हैं। / Same-side interior angles are supplementary."
+    },
+    {
+      "id": "ca2b807b",
+      "question": "यदि किसी त्रिभुज की भुजाएँ 13, 14, 15 cm हैं, तो क्षेत्रफल है— / Find the area of a triangle with sides 13, 14, 15 cm.",
+      "options": [
+        "90 cm²",
+        "72 cm²",
+        "84 cm²",
+        "96 cm²"
+      ],
+      "answer": 2,
+      "explanation": "हीरोन: s=21; क्षेत्रफल=√[21×8×7×6]=√7056=84 cm²। / Heron's formula gives 84 cm²."
+    },
+    {
+      "id": "7a8a02b6",
+      "question": "एक राशि 5 वर्षों में साधारण ब्याज पर दोगुनी होती है। वार्षिक दर क्या है? / A sum doubles in 5 years at simple interest. Find annual rate.",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "10%"
+      ],
+      "answer": 0,
+      "explanation": "5 वर्षों का ब्याज=P; R=100/5=20%। / Interest equals principal; rate is 20%."
+    },
+    {
+      "id": "dbe63172",
+      "question": "एक बेलन की त्रिज्या दोगुनी और ऊँचाई आधी कर दी जाए तो आयतन— / If a cylinder's radius is doubled and height halved, its volume—",
+      "options": [
+        "दोगुना होगा / Doubles",
+        "अपरिवर्तित रहेगा / Remains same",
+        "आधा होगा / Halves",
+        "चार गुना होगा / Quadruples"
+      ],
+      "answer": 0,
+      "explanation": "V=πr²h; नया V=π(2r)²(h/2)=2πr²h यानी दोगुना। / New volume is twice the original."
+    },
+    {
+      "id": "398d058f",
+      "question": "दो समान आयतन के गैस नमूनों में समान ताप और दाब पर अणुओं की संख्या किस नियम से समान मानी जाती है? / Equal volumes of gases at the same temperature and pressure contain equal numbers of molecules. Which law?",
+      "options": [
+        "डाल्टन का आंशिक दाब नियम / Dalton's law",
+        "एवोगैड्रो का नियम / Avogadro's law",
+        "बॉयल का नियम / Boyle's law",
+        "चार्ल्स का नियम / Charles's law"
+      ],
+      "answer": 1,
+      "explanation": "एवोगैड्रो का नियम समान ताप-दाब पर समान आयतन में समान अणु संख्या बताता है। / Avogadro's law states equal molecular counts under equal T and P for equal volumes."
+    },
+    {
+      "id": "db654600",
+      "question": "किसी रेडियोधर्मी नमूने का अर्ध-आयुकाल 10 दिन है। 30 दिन बाद मूल मात्रा का कितना भाग बचेगा? / A radioactive sample has a half-life of 10 days. What fraction remains after 30 days?",
+      "options": [
+        "1/3",
+        "1/16",
+        "1/4",
+        "1/8"
+      ],
+      "answer": 3,
+      "explanation": "तीन अर्ध-आयुकाल में शेष (1/2)³=1/8। / Three half-lives leave 1/8."
+    },
+    {
+      "id": "c9137e21",
+      "question": "प्रकाश का अपवर्तनांक n किस अनुपात से परिभाषित होता है? / Refractive index n is defined by which ratio?",
+      "options": [
+        "तरंगदैर्घ्य / आवृत्ति / Wavelength ÷ frequency",
+        "माध्यम की चाल / निर्वात की चाल / Speed in medium ÷ speed in vacuum",
+        "निर्वात में प्रकाश की चाल / माध्यम में प्रकाश की चाल / Speed in vacuum ÷ speed in medium",
+        "आवृत्ति / तरंगदैर्घ्य / Frequency ÷ wavelength"
+      ],
+      "answer": 2,
+      "explanation": "n=c/v, जहाँ c निर्वात में और v माध्यम में प्रकाश की चाल है। / Absolute refractive index n=c/v."
+    },
+    {
+      "id": "c5032f55",
+      "question": "माइटोकॉन्ड्रिया में इलेक्ट्रॉन परिवहन शृंखला मुख्यतः कहाँ स्थित होती है? / Where is the electron transport chain mainly located in mitochondria?",
+      "options": [
+        "मैट्रिक्स / Matrix",
+        "बाहरी झिल्ली / Outer membrane",
+        "आंतरिक झिल्ली / Inner membrane",
+        "अंतरझिल्ली स्थान / Intermembrane space"
+      ],
+      "answer": 2,
+      "explanation": "इलेक्ट्रॉन परिवहन तंत्र आंतरिक झिल्ली की क्रिस्टियों पर स्थित होता है। / The ETC is located on the inner mitochondrial membrane."
+    },
+    {
+      "id": "96a0d20c",
+      "question": "C₄ पौधों में CO₂ का प्रारंभिक स्थिरीकरण किस एंजाइम द्वारा होता है? / Which enzyme initially fixes CO₂ in C₄ plants?",
+      "options": [
+        "RuBisCO",
+        "ATP synthase",
+        "नाइट्रोजनेज / Nitrogenase",
+        "PEP कार्बोक्सिलेज / PEP carboxylase"
+      ],
+      "answer": 3,
+      "explanation": "C₄ मार्ग में PEP carboxylase पहले CO₂ को PEP से जोड़ता है। / PEP carboxylase performs initial carbon fixation in C₄ plants."
+    },
+    {
+      "id": "d01bc929",
+      "question": "pH 3 वाले विलयन में H⁺ आयन सांद्रता pH 5 वाले विलयन की तुलना में कितनी है? / How does [H⁺] at pH 3 compare with pH 5?",
+      "options": [
+        "100 गुना अधिक / 100 times greater",
+        "10 गुना अधिक / 10 times greater",
+        "2 गुना अधिक / 2 times greater",
+        "100 गुना कम / 100 times lower"
+      ],
+      "answer": 0,
+      "explanation": "pH में 2 इकाई का अंतर H⁺ सांद्रता में 10²=100 गुना अंतर देता है। / A two-unit pH difference means 100-fold [H⁺] difference."
+    },
+    {
+      "id": "5cabc3bf",
+      "question": "समजात अंग (homologous organs) किसका प्रमाण माने जाते हैं? / Homologous organs are evidence of—",
+      "options": [
+        "समान कार्य अनिवार्य / Identical function necessarily",
+        "कृत्रिम चयन मात्र / Artificial selection only",
+        "अभिसारी विकास / Convergent evolution",
+        "समान पूर्वज और अपसारी विकास / Common ancestry and divergent evolution"
+      ],
+      "answer": 3,
+      "explanation": "समजात अंग संरचनात्मक मूल समान रखते हैं, भले कार्य अलग हों। / Homologous structures share ancestry despite possible functional differences."
+    },
+    {
+      "id": "37b87fba",
+      "question": "रक्त का थक्का बनने में विटामिन K किस प्रक्रिया में आवश्यक है? / Vitamin K is required in blood clotting for—",
+      "options": [
+        "क्लॉटिंग कारकों का γ-carboxylation / Gamma-carboxylation of clotting factors",
+        "एंटीबॉडी निर्माण / Antibody production",
+        "प्लेटलेट विभाजन / Platelet division",
+        "हीमोग्लोबिन संश्लेषण / Haemoglobin synthesis"
+      ],
+      "answer": 0,
+      "explanation": "विटामिन K कई clotting factors के सक्रियण हेतु γ-carboxylation में सहायक है। / Vitamin K supports gamma-carboxylation of several clotting factors."
+    },
+    {
+      "id": "9c3d3554",
+      "question": "किसी पारिस्थितिकी तंत्र में जैव आवर्धन (biomagnification) किस स्तर पर अधिकतम होता है? / Biomagnification is generally greatest at which trophic level?",
+      "options": [
+        "प्राथमिक उपभोक्ता / Primary consumer",
+        "उत्पादक / Producer",
+        "शीर्ष उपभोक्ता / Top consumer",
+        "अपघटक / Decomposer"
+      ],
+      "answer": 2,
+      "explanation": "स्थायी प्रदूषक खाद्य शृंखला में ऊपर जाते हुए सांद्रित होते हैं। / Persistent pollutants become more concentrated at higher trophic levels."
+    },
+    {
+      "id": "6a4e6cd7",
+      "question": "लाल रक्त कोशिकाओं को अतिपरासारी विलयन में रखने पर क्या होगा? / What happens to RBCs in a hypertonic solution?",
+      "options": [
+        "जल बाहर निकलने से कोशिका सिकुड़ेगी / Cell shrinks as water leaves",
+        "कोई परिवर्तन नहीं / No change",
+        "हीमोग्लोबिन दोगुना होगा / Haemoglobin doubles",
+        "जल प्रवेश से फटेगी / Swells and bursts"
+      ],
+      "answer": 0,
+      "explanation": "परासरण से जल कोशिका से बाहर जाता है और crenation होता है। / Water leaves the cell by osmosis, causing crenation."
+    },
+    {
+      "id": "0c8eea16",
+      "question": "पारिस्थितिकी में 'की-स्टोन प्रजाति' का अर्थ है— / A keystone species is one that—",
+      "options": [
+        "सबसे अधिक जैवभार रखती है / Has the greatest biomass",
+        "केवल विलुप्त प्रजाति होती है / Is always extinct",
+        "केवल उत्पादक होती है / Is always a producer",
+        "अपेक्षाकृत कम संख्या के बावजूद समुदाय पर असंगत रूप से बड़ा प्रभाव डालती है / Has a disproportionately large effect on its community"
+      ],
+      "answer": 3,
+      "explanation": "Keystone species का प्रभाव उसकी प्रचुरता की तुलना में बहुत अधिक होता है। / Its ecological effect is disproportionate to its abundance."
+    },
+    {
+      "id": "42845570",
+      "question": "भारत के संविधान में मौलिक अधिकारों के प्रवर्तन हेतु सर्वोच्च न्यायालय जाने का अधिकार किस अनुच्छेद में है? / Which Article guarantees the right to move the Supreme Court for enforcement of Fundamental Rights?",
+      "options": [
+        "अनुच्छेद 226 / Article 226",
+        "अनुच्छेद 32 / Article 32",
+        "अनुच्छेद 21 / Article 21",
+        "अनुच्छेद 19 / Article 19"
+      ],
+      "answer": 1,
+      "explanation": "अनुच्छेद 32 संवैधानिक उपचारों का अधिकार देता है। / Article 32 guarantees the right to constitutional remedies."
+    },
+    {
+      "id": "dda22a96",
+      "question": "राष्ट्रपति अध्यादेश किस अनुच्छेद के अंतर्गत जारी कर सकता है? / Under which Article can the President promulgate an ordinance?",
+      "options": [
+        "अनुच्छेद 123 / Article 123",
+        "अनुच्छेद 356 / Article 356",
+        "अनुच्छेद 352 / Article 352",
+        "अनुच्छेद 213 / Article 213"
+      ],
+      "answer": 0,
+      "explanation": "अनुच्छेद 123 संसद के अवकाश में राष्ट्रपति की अध्यादेश शक्ति देता है। / Article 123 provides the President's ordinance-making power when Parliament is not in session."
+    },
+    {
+      "id": "d1ba6498",
+      "question": "भारत में नियंत्रक एवं महालेखा परीक्षक (CAG) को हटाने की प्रक्रिया किसके समान है? / The CAG is removed through a process similar to that of—",
+      "options": [
+        "राज्यपाल / Governor",
+        "मुख्य निर्वाचन आयुक्त / Chief Election Commissioner",
+        "महान्यायवादी / Attorney General",
+        "सर्वोच्च न्यायालय के न्यायाधीश / Supreme Court judge"
+      ],
+      "answer": 3,
+      "explanation": "CAG को सर्वोच्च न्यायालय के न्यायाधीश जैसी प्रक्रिया और आधार पर हटाया जाता है। / The CAG has judge-equivalent removal protection."
+    },
+    {
+      "id": "c910043d",
+      "question": "वित्त आयोग का गठन किस अनुच्छेद के तहत होता है? / Under which Article is the Finance Commission constituted?",
+      "options": [
+        "अनुच्छेद 324 / Article 324",
+        "अनुच्छेद 263 / Article 263",
+        "अनुच्छेद 148 / Article 148",
+        "अनुच्छेद 280 / Article 280"
+      ],
+      "answer": 3,
+      "explanation": "अनुच्छेद 280 राष्ट्रपति को वित्त आयोग गठित करने का प्रावधान देता है। / Article 280 provides for the Finance Commission."
+    },
+    {
+      "id": "821b0126",
+      "question": "किस नदी को 'बिहार का शोक' कहा जाता है? / Which river is called the 'Sorrow of Bihar'?",
+      "options": [
+        "सोन / Son",
+        "गंडक / Gandak",
+        "घाघरा / Ghaghara",
+        "कोसी / Kosi"
+      ],
+      "answer": 3,
+      "explanation": "कोसी की धारा परिवर्तन और बाढ़ की प्रवृत्ति के कारण यह उपनाम है। / Kosi is called so because of frequent course shifts and floods."
+    },
+    {
+      "id": "9f3fe2d1",
+      "question": "उत्तर प्रदेश में तराई क्षेत्र की प्रमुख भौगोलिक विशेषता क्या है? / A characteristic feature of the Terai region in Uttar Pradesh is—",
+      "options": [
+        "लावा पठार / Lava plateau",
+        "शुष्क मरुस्थल / Arid desert",
+        "दलदली, आर्द्र एवं जलोढ़ मैदान / Marshy, humid alluvial tract",
+        "हिमानी घाटी / Glacial valley"
+      ],
+      "answer": 2,
+      "explanation": "तराई हिमालय की तलहटी में उच्च जलस्तर और आर्द्रता वाला क्षेत्र है। / The Terai is a humid, high-water-table belt along the Himalayan foothills."
+    },
+    {
+      "id": "d693e715",
+      "question": "स्थायी बंदोबस्त (Permanent Settlement) 1793 में किसने लागू किया? / Who introduced the Permanent Settlement in 1793?",
+      "options": [
+        "लॉर्ड वेलेजली / Lord Wellesley",
+        "लॉर्ड कॉर्नवालिस / Lord Cornwallis",
+        "वॉरेन हेस्टिंग्स / Warren Hastings",
+        "लॉर्ड डलहौजी / Lord Dalhousie"
+      ],
+      "answer": 1,
+      "explanation": "1793 में बंगाल में कॉर्नवालिस ने स्थायी बंदोबस्त लागू किया। / Cornwallis introduced it in Bengal in 1793."
+    },
+    {
+      "id": "2d3f93c8",
+      "question": "भारतीय संविधान की प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द किस संशोधन से जोड़े गए? / Which Amendment added 'Socialist' and 'Secular' to the Preamble?",
+      "options": [
+        "42वाँ संशोधन / 42nd Amendment",
+        "44वाँ संशोधन / 44th Amendment",
+        "24वाँ संशोधन / 24th Amendment",
+        "52वाँ संशोधन / 52nd Amendment"
+      ],
+      "answer": 0,
+      "explanation": "42वें संशोधन अधिनियम, 1976 ने ये शब्द जोड़े। / The 42nd Amendment Act, 1976 added these words."
+    },
+    {
+      "id": "094627de",
+      "question": "किस प्रकार की वर्षा पश्चिमी घाट के पवनाभिमुख भाग में होती है? / Which type of rainfall occurs on the windward side of the Western Ghats?",
+      "options": [
+        "फ्रंटल / Frontal",
+        "चक्रवाती / Cyclonic",
+        "पर्वतीय/ओरोग्राफिक / Orographic",
+        "संवहनीय / Convectional"
+      ],
+      "answer": 2,
+      "explanation": "आर्द्र वायु पर्वत से ऊपर उठकर ठंडी होती है और वर्षा करती है। / Moist air rises over mountains, cools and produces orographic rainfall."
+    },
+    {
+      "id": "164b7393",
+      "question": "जलवायु परिवर्तन पर UNFCCC का पेरिस समझौता किस वर्ष अपनाया गया? / In which year was the Paris Agreement adopted under UNFCCC?",
+      "options": [
+        "2015",
+        "1997",
+        "2016",
+        "2012"
+      ],
+      "answer": 0,
+      "explanation": "पेरिस समझौता दिसंबर 2015 में COP21 में अपनाया गया। / It was adopted at COP21 in December 2015."
+    },
+    {
+      "id": "6255b73c",
+      "question": "सतत विकास लक्ष्य (SDGs) की कुल संख्या कितनी है? / How many Sustainable Development Goals are there?",
+      "options": [
+        "20",
+        "15",
+        "17",
+        "18"
+      ],
+      "answer": 2,
+      "explanation": "संयुक्त राष्ट्र के 2030 एजेंडा में 17 SDGs हैं। / The UN 2030 Agenda has 17 SDGs."
+    },
+    {
+      "id": "9ac22052",
+      "question": "भूकंप की तीव्रता के बजाय परिमाण (magnitude) किस पैमाने से मापा जाता है? / Earthquake magnitude is commonly reported using which scale family?",
+      "options": [
+        "मर्केली तीव्रता / Mercalli intensity",
+        "मोमेंट मैग्नीट्यूड स्केल / Moment magnitude scale",
+        "रिक्टर तापमान / Richter temperature",
+        "ब्यूफोर्ट / Beaufort"
+      ],
+      "answer": 1,
+      "explanation": "आधुनिक भूकंप विज्ञान में moment magnitude (Mw) ऊर्जा/आकार का मानक माप है। / Moment magnitude is the modern standard for earthquake size."
+    },
+    {
+      "id": "96852641",
+      "question": "भारत में जैव विविधता अधिनियम किस वर्ष पारित हुआ? / In which year was India's Biological Diversity Act enacted?",
+      "options": [
+        "1972",
+        "1986",
+        "2010",
+        "2002"
+      ],
+      "answer": 3,
+      "explanation": "जैव विविधता अधिनियम 2002 में पारित हुआ। / The Biological Diversity Act was enacted in 2002."
+    },
+    {
+      "id": "f3c2e851",
+      "question": "मृदा में नाइट्रोजन स्थिरीकरण करने वाले सहजीवी जीवाणु सामान्यतः किस पौध कुल की जड़ों में गांठ बनाते हैं? / Nitrogen-fixing symbiotic bacteria commonly form nodules on roots of which plant family?",
+      "options": [
+        "सरसों कुल / Brassicaceae",
+        "घास कुल / Poaceae",
+        "कुकुरबिट कुल / Cucurbitaceae",
+        "दलहनी / Leguminosae (Fabaceae)"
+      ],
+      "answer": 3,
+      "explanation": "राइजोबियम दलहनी पौधों की जड़ों में गांठ बनाकर नाइट्रोजन स्थिरीकरण करता है। / Rhizobium forms nodules on legumes."
+    },
+    {
+      "id": "68364b41",
+      "question": "एक संख्या के 30% और 20% का अंतर 45 है। संख्या क्या है? / The difference between 30% and 20% of a number is 45. Find the number.",
+      "options": [
+        "400",
+        "500",
+        "350",
+        "450"
+      ],
+      "answer": 3,
+      "explanation": "10% =45, इसलिए संख्या=450। / 10% equals 45, so the number is 450."
+    },
+    {
+      "id": "3954cf2d",
+      "question": "एक दुकानदार दो वस्तुएँ समान विक्रय मूल्य पर बेचता है; एक पर 20% लाभ और दूसरी पर 20% हानि। कुल परिणाम क्या है? / Two articles are sold at the same selling price; one at 20% gain, the other at 20% loss. Overall result?",
+      "options": [
+        "4% हानि / 4% loss",
+        "2% हानि / 2% loss",
+        "न लाभ न हानि / No profit, no loss",
+        "4% लाभ / 4% gain"
+      ],
+      "answer": 0,
+      "explanation": "समान SP पर समान प्रतिशत लाभ-हानि में कुल हानि = x²/100 = 4%। / Equal selling prices with equal gain/loss percentage produce 4% loss."
+    },
+    {
+      "id": "e5d5a4a2",
+      "question": "एक रेलगाड़ी 72 km/h की गति से 250 m लंबे पुल को 25 s में पार करती है। ट्रेन की लंबाई क्या है? / A train at 72 km/h crosses a 250 m bridge in 25 s. Find train length.",
+      "options": [
+        "200 m",
+        "150 m",
+        "250 m",
+        "300 m"
+      ],
+      "answer": 2,
+      "explanation": "72 km/h=20 m/s; 25s में दूरी=500m; ट्रेन लंबाई=500−250=250m। / Distance is 500m; subtract bridge length."
+    },
+    {
+      "id": "ac7cde4f",
+      "question": "यदि log₂x=5 और logₓ8=y, तो y का मान है— / If log₂x=5 and logₓ8=y, find y.",
+      "options": [
+        "5/3",
+        "8/5",
+        "1/5",
+        "3/5"
+      ],
+      "answer": 3,
+      "explanation": "x=32=2⁵; log₃₂8=log₂8/log₂32=3/5। / y=3/5."
+    },
+    {
+      "id": "d5a79b98",
+      "question": "एक समचतुर्भुज के विकर्ण 16 cm और 30 cm हैं। परिमाप क्या है? / A rhombus has diagonals 16 cm and 30 cm. Find its perimeter.",
+      "options": [
+        "64 cm",
+        "68 cm",
+        "72 cm",
+        "60 cm"
+      ],
+      "answer": 1,
+      "explanation": "आधी विकर्ण 8,15; भुजा=√(64+225)=17; परिमाप=68 cm। / Side is 17 cm; perimeter 68 cm."
+    },
+    {
+      "id": "ae019507",
+      "question": "यदि किसी AP का nवाँ पद 4n−1 है, तो प्रथम 20 पदों का योग है— / If nth term of an AP is 4n−1, find sum of first 20 terms.",
+      "options": [
+        "840",
+        "820",
+        "800",
+        "780"
+      ],
+      "answer": 1,
+      "explanation": "a=3, d=4; S₂₀=10[6+76]=820। / Sum is 820."
+    },
+    {
+      "id": "1a7f4cc7",
+      "question": "किसी वस्तु का मूल्य पहले 20% बढ़ा और फिर 20% घटा। शुद्ध परिवर्तन क्या है? / A price increases by 20% then decreases by 20%. Net change?",
+      "options": [
+        "2% कमी / 2% decrease",
+        "कोई परिवर्तन नहीं / No change",
+        "4% कमी / 4% decrease",
+        "4% वृद्धि / 4% increase"
+      ],
+      "answer": 2,
+      "explanation": "1.2×0.8=0.96, अर्थात 4% कमी। / Net multiplier 0.96 means 4% decrease."
+    },
+    {
+      "id": "b8a1f6bc",
+      "question": "एक वृत्त की परिधि 44 cm है। क्षेत्रफल (π=22/7) क्या है? / A circle has circumference 44 cm. Find its area.",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "176 cm²",
+        "121 cm²"
+      ],
+      "answer": 0,
+      "explanation": "2πr=44 ⇒ r=7; क्षेत्रफल=πr²=154 cm²। / Radius 7 cm; area 154 cm²."
+    },
+    {
+      "id": "aae90bc8",
+      "question": "एक कक्षा में लड़कों और लड़कियों का अनुपात 5:7 है। 6 लड़के जाने और 6 लड़कियाँ आने पर अनुपात 1:2 हो जाता है। प्रारंभ में कुल विद्यार्थी कितने थे? / Boys:girls = 5:7. After 6 boys leave and 6 girls join, ratio becomes 1:2. Initial total?",
+      "options": [
+        "84",
+        "72",
+        "60",
+        "48"
+      ],
+      "answer": 1,
+      "explanation": "प्रारंभिक 5k,7k; (5k−6)/(7k+6)=1/2 ⇒10k−12=7k+6 ⇒k=6; कुल 72। / Solve k=6; total 12k=72."
+    },
+    {
+      "id": "4d28b57e",
+      "question": "किसी घनाभ का आयतन 720 cm³, लंबाई 12 cm और चौड़ाई 10 cm है। ऊँचाई है— / Cuboid volume 720 cm³, length 12 cm, width 10 cm. Height?",
+      "options": [
+        "8 cm",
+        "12 cm",
+        "6 cm",
+        "10 cm"
+      ],
+      "answer": 2,
+      "explanation": "h=720/(12×10)=6 cm। / Height is 6 cm."
+    },
+    {
+      "id": "87cc8f7a",
+      "question": "ध्वनि की चाल वायु में ताप बढ़ने पर सामान्यतः— / Speed of sound in air generally does what as temperature rises?",
+      "options": [
+        "बढ़ती है / Increases",
+        "घटती है / Decreases",
+        "शून्य हो जाती है / Becomes zero",
+        "अपरिवर्तित रहती है / Remains constant"
+      ],
+      "answer": 0,
+      "explanation": "ताप बढ़ने से गैस अणुओं की औसत गति बढ़ती है और ध्वनि की चाल बढ़ती है। / Sound speed increases with temperature in a gas."
+    },
+    {
+      "id": "1478c3b8",
+      "question": "p-n संधि डायोड का मुख्य उपयोग क्या है? / Main use of a p-n junction diode?",
+      "options": [
+        "चुंबकीय क्षेत्र बनाना / Create a magnetic field",
+        "धारा को मुख्यतः एक दिशा में प्रवाहित करना / Allow current mainly in one direction",
+        "वोल्टेज को हमेशा दोगुना करना / Always double voltage",
+        "ऊर्जा को ध्वनि में बदलना / Convert energy to sound"
+      ],
+      "answer": 1,
+      "explanation": "डायोड forward bias में धारा देता है और reverse bias में रोकता है। / A diode conducts mainly in forward bias."
+    },
+    {
+      "id": "4769279f",
+      "question": "मानव में इंसुलिन किस कोशिका द्वारा स्रावित होता है? / Which cells secrete insulin in humans?",
+      "options": [
+        "यकृत कोशिकाएँ / Liver cells",
+        "थायरॉइड की C कोशिकाएँ / Thyroid C cells",
+        "अग्न्याशय की लैंगरहैंस द्वीपिकाओं की बीटा कोशिकाएँ / Beta cells of pancreatic islets",
+        "अल्फा कोशिकाएँ / Alpha cells"
+      ],
+      "answer": 2,
+      "explanation": "अग्न्याशय की β कोशिकाएँ insulin स्रावित करती हैं। / Pancreatic beta cells secrete insulin."
+    },
+    {
+      "id": "b519f090",
+      "question": "रक्त समूह AB+ वाले व्यक्ति को सामान्यतः किस प्रकार का RBC रक्त मिल सकता है? / A person with AB+ blood can generally receive which RBC types?",
+      "options": [
+        "केवल A+ और B+",
+        "सभी ABO और Rh प्रकार / All ABO and Rh types",
+        "केवल O−",
+        "केवल AB+"
+      ],
+      "answer": 1,
+      "explanation": "AB+ को RBC transfusion में सार्वभौमिक प्राप्तकर्ता माना जाता है, संगतता परीक्षण फिर भी आवश्यक है। / AB+ is the universal RBC recipient, subject to crossmatching."
+    },
+    {
+      "id": "f1cb1718",
+      "question": "आनुवंशिकी में test cross किसके साथ किया जाता है? / A test cross is performed with—",
+      "options": [
+        "समजात प्रभावी / Homozygous dominant",
+        "समजात अप्रभावी / Homozygous recessive",
+        "विषमयुग्मजी प्रभावी / Heterozygous dominant",
+        "किसी भी अज्ञात जीनोटाइप / Any unknown genotype"
+      ],
+      "answer": 1,
+      "explanation": "अज्ञात dominant phenotype का genotype जानने हेतु homozygous recessive से cross करते हैं। / Test cross uses a homozygous recessive individual."
+    },
+    {
+      "id": "b72b6050",
+      "question": "एक शिक्षक शब्दार्थ सिखाने के लिए विद्यार्थियों से संदर्भ, उपसर्ग और मूल शब्द का विश्लेषण करवाता है। यह किस रणनीति का उदाहरण है? / Teacher asks learners to analyse context, prefix and root to infer word meaning. This is—",
+      "options": [
+        "रणनीति-आधारित शब्द-अनुमान / Strategic vocabulary inferencing",
+        "व्याकरण-अनुवाद मात्र / Grammar translation only",
+        "श्रुतलेख / Dictation",
+        "अनुवाद विधि / Translation method"
+      ],
+      "answer": 0,
+      "explanation": "संदर्भ और शब्द-रचना संकेतों का उपयोग रणनीतिक inferencing है। / Context and morphology support strategic inferencing."
+    },
+    {
+      "id": "8551e320",
+      "question": "भाषा अधिगम में 'स्किमिंग' का उद्देश्य क्या है? / The purpose of skimming in reading is—",
+      "options": [
+        "उच्चारण सुधारना / Improve pronunciation",
+        "मुख्य विचार शीघ्र समझना / Get the gist quickly",
+        "हर शब्द का अर्थ देखना / Look up every word",
+        "विशिष्ट तथ्य खोजना / Locate a specific fact"
+      ],
+      "answer": 1,
+      "explanation": "Skimming से पाठ का समग्र विचार तेजी से समझा जाता है। / Skimming obtains the gist."
+    },
+    {
+      "id": "be88ed75",
+      "question": "In traditional formal scientific usage, ‘The data ___ convincing.’ / पारंपरिक औपचारिक वैज्ञानिक अंग्रेज़ी में सही विकल्प चुनिए: ‘The data ___ convincing.’",
+      "options": [
+        "was",
+        "has",
+        "is",
+        "are"
+      ],
+      "answer": 3,
+      "explanation": "‘Data’ परंपरागत अकादमिक उपयोग में plural माना जाता है; इसलिए are। / In formal traditional usage, data is plural."
+    },
+    {
+      "id": "6e4c69b3",
+      "question": "सुनने के कौशल का मूल्यांकन करने के लिए सबसे वैध कार्य कौन-सा है? / Most valid task to assess listening skill?",
+      "options": [
+        "निबंध लिखना / Write an essay",
+        "शब्दों की वर्तनी बोलना / Spell words orally",
+        "पाठ को जोर से पढ़ना / Read text aloud",
+        "ऑडियो सुनकर निर्देशानुसार मानचित्र पूरा करना / Complete a map by following an audio"
+      ],
+      "answer": 3,
+      "explanation": "यह वास्तविक श्रवण-बोध और निर्देश पालन मापता है। / It directly assesses listening comprehension."
+    },
+    {
+      "id": "82718bd3",
+      "question": "‘कर्मण्येवाधिकारस्ते’ में ‘कर्मणि’ किस विभक्ति का रूप है? / In ‘karmaṇy evādhikāras te’, what case form is ‘karmaṇi’?",
+      "options": [
+        "द्वितीया / Accusative",
+        "तृतीया / Instrumental",
+        "सप्तमी / Locative",
+        "प्रथमा / Nominative"
+      ],
+      "answer": 2,
+      "explanation": "‘कर्मणि’ नपुंसकलिंग कर्मन् शब्द का सप्तमी एकवचन रूप है। / Karmaṇi is locative singular."
+    },
+    {
+      "id": "0a46c244",
+      "question": "यदि 1 जनवरी 2024 सोमवार था, तो 1 जनवरी 2025 कौन-सा दिन होगा? / If 1 Jan 2024 was Monday, what day was 1 Jan 2025?",
+      "options": [
+        "बुधवार / Wednesday",
+        "मंगलवार / Tuesday",
+        "शुक्रवार / Friday",
+        "गुरुवार / Thursday"
+      ],
+      "answer": 0,
+      "explanation": "2024 leap year है, 366 दिन = 2 दिन का shift; सोमवार से बुधवार। / Leap year shifts weekday by two days."
+    },
+    {
+      "id": "5291cfc7",
+      "question": "कथन: कुछ पुस्तकें पत्रिकाएँ हैं। सभी पत्रिकाएँ मुद्रित हैं। निष्कर्ष: कुछ पुस्तकें मुद्रित हैं। / Statements: Some books are magazines. All magazines are printed. Conclusion: Some books are printed.",
+      "options": [
+        "केवल संभावना है / Only possible",
+        "निष्कर्ष अनुसरण करता है / Conclusion follows",
+        "निष्कर्ष नहीं अनुसरण करता / Does not follow",
+        "विरोधाभास है / Contradiction"
+      ],
+      "answer": 1,
+      "explanation": "कुछ पुस्तकें पत्रिकाएँ हैं और सभी पत्रिकाएँ मुद्रित हैं, इसलिए वे पुस्तकें मुद्रित हैं। / The overlapping books are printed."
+    },
+    {
+      "id": "5fddeb5d",
+      "question": "यदि A का अर्थ +, B का अर्थ −, C का अर्थ × और D का अर्थ ÷ है, तो 18 D 3 C 2 A 4 का मान क्या है? / If A=+, B=−, C=×, D=÷, evaluate 18 D 3 C 2 A 4.",
+      "options": [
+        "10",
+        "20",
+        "16",
+        "14"
+      ],
+      "answer": 2,
+      "explanation": "18÷3×2+4=6×2+4=16 (सामान्य precedence, left to right for ÷ and ×). / Evaluate to 16."
+    },
+    {
+      "id": "c107d7da",
+      "question": "एक कूट में MANGO=OCPIQ. उसी नियम से APPLE क्या होगा? / If MANGO is coded as OCPIQ, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "CQQNG",
+        "CRRNG",
+        "CRQNG"
+      ],
+      "answer": 2,
+      "explanation": "हर अक्षर +2: A→C, P→R, P→R, L→N, E→G। / Shift each letter two places."
+    },
+    {
+      "id": "a89de4bf",
+      "question": "एक शिक्षक पूर्व-परीक्षण और पश्च-परीक्षण में समान कठिनाई वाले प्रश्न रखता है। इसका मुख्य उद्देश्य क्या है? / A teacher uses equally difficult pre- and post-test items. Main purpose?",
+      "options": [
+        "विद्यार्थियों की रैंक बदलना / Change ranks",
+        "अधिगम में परिवर्तन मापना / Measure learning gain",
+        "परीक्षा अवधि बढ़ाना / Increase test duration",
+        "स्मृति का स्थायी मापन / Measure permanent memory"
+      ],
+      "answer": 1,
+      "explanation": "तुलनीय परीक्षण हस्तक्षेप के बाद उपलब्धि में परिवर्तन दिखाते हैं। / Comparable tests help estimate learning gains."
+    },
+    {
+      "id": "5df68c48",
+      "question": "यदि मूल्यांकन में केवल अंतिम उत्तर अंकित हो, तो कौन-सी जानकारी छूट सकती है? / If only final answers are scored, what information may be missed?",
+      "options": [
+        "प्रश्न संख्या / Item number",
+        "अंतिम उत्तर / Final answer",
+        "समाधान प्रक्रिया और वैचारिक भ्रांतियाँ / Reasoning process and misconceptions",
+        "परीक्षा समय / Test time"
+      ],
+      "answer": 2,
+      "explanation": "कार्य-प्रक्रिया से रणनीति और गलत अवधारणाएँ स्पष्ट होती हैं। / Workings reveal strategies and misconceptions."
+    },
+    {
+      "id": "d0c77eb9",
+      "question": "सहकारी अधिगम की आवश्यक विशेषता कौन-सी है? / Which is essential to cooperative learning?",
+      "options": [
+        "सकारात्मक परस्पर निर्भरता और व्यक्तिगत जवाबदेही / Positive interdependence and individual accountability",
+        "प्रतिस्पर्धा ही एकमात्र लक्ष्य / Competition as sole goal",
+        "एक विद्यार्थी द्वारा पूरा काम / One learner does all work",
+        "केवल समूह में बैठना / Merely sit in groups"
+      ],
+      "answer": 0,
+      "explanation": "प्रभावी cooperative learning में साझा लक्ष्य और प्रत्येक सदस्य की जवाबदेही होती है। / Cooperative learning requires shared goals and individual accountability."
+    },
+    {
+      "id": "374b39e7",
+      "question": "शिक्षण में 'पूर्व-संगठक' (advance organiser) का उपयोग किसने प्रमुखता से प्रतिपादित किया? / Who is associated with the concept of advance organisers?",
+      "options": [
+        "डेविड ऑसुबेल / David Ausubel",
+        "बी. एफ. स्किनर / B. F. Skinner",
+        "जीन पियाजे / Jean Piaget",
+        "अल्बर्ट बंडूरा / Albert Bandura"
+      ],
+      "answer": 0,
+      "explanation": "ऑसुबेल ने अर्थपूर्ण मौखिक अधिगम में advance organisers पर बल दिया। / Ausubel emphasised advance organisers for meaningful verbal learning."
+    },
+    {
+      "id": "c5091bd7",
+      "question": "बंडूरा के सामाजिक अधिगम सिद्धांत में 'vicarious reinforcement' का अर्थ है— / In Bandura's social learning theory, vicarious reinforcement means—",
+      "options": [
+        "स्वयं को दंड देना / Self-punishment",
+        "दूसरे को पुरस्कार पाते देखकर व्यवहार सीखना / Learn by observing another being rewarded",
+        "प्रतिक्रिया हटाना / Remove a response",
+        "केवल जैविक परिपक्वता / Biological maturation only"
+      ],
+      "answer": 1,
+      "explanation": "दूसरे के परिणामों का अवलोकन मॉडल किए गए व्यवहार की संभावना प्रभावित करता है। / Observed consequences influence imitation."
+    },
+    {
+      "id": "432413f6",
+      "question": "सृजनात्मकता मापने के लिए कौन-सा कार्य अधिक उपयुक्त है? / Which task is more suitable for assessing creativity?",
+      "options": [
+        "तिथि याद करना / Recall a date",
+        "तथ्य की परिभाषा दोहराना / Repeat a factual definition",
+        "बहुविकल्पीय पहचान मात्र / Recognition MCQ only",
+        "एक वस्तु के अनेक असामान्य उपयोग बताना / Generate unusual uses for an object"
+      ],
+      "answer": 3,
+      "explanation": "विविध और मौलिक उपयोग बताना divergent thinking मापता है। / Generating varied original uses assesses divergent thinking."
+    },
+    {
+      "id": "dc6b8e69",
+      "question": "विद्यालय में लैंगिक-संवेदनशील व्यवहार का उदाहरण है— / Example of gender-sensitive practice in school—",
+      "options": [
+        "लड़कों को भावनाएँ व्यक्त न करने देना / Discourage boys from expressing emotions",
+        "लिंग के आधार पर कार्य बाँटना / Assign tasks by gender",
+        "खेल और नेतृत्व भूमिकाएँ सभी के लिए समान रूप से खोलना / Make sports and leadership roles equally accessible",
+        "लड़कियों को विज्ञान से दूर रखना / Discourage girls from science"
+      ],
+      "answer": 2,
+      "explanation": "समान अवसर रूढ़ियों को चुनौती देते हैं। / Equal access challenges gender stereotypes."
+    },
+    {
+      "id": "5782f856",
+      "question": "एक शिक्षक बच्चे की मातृभाषा को नई भाषा सीखने में संसाधन मानता है। यह किस सिद्धांत से मेल खाता है? / Treating a child's home language as a resource aligns with—",
+      "options": [
+        "एकभाषिक निषेध / Monolingual exclusion",
+        "बहुभाषिक संसाधन दृष्टिकोण / Multilingual resource approach",
+        "भाषा-प्रतिस्थापन / Language replacement",
+        "दंडात्मक भाषा नीति / Punitive language policy"
+      ],
+      "answer": 1,
+      "explanation": "मातृभाषा का ज्ञान नई भाषा में अर्थ-निर्माण और transfer को सहारा देता है। / Home-language knowledge supports meaning-making and transfer."
+    },
+    {
+      "id": "286c0c4e",
+      "question": "किस स्थिति में उपचारात्मक शिक्षण के बजाय समृद्धिकरण (enrichment) अधिक उपयुक्त है? / When is enrichment rather than remediation more appropriate?",
+      "options": [
+        "जब उपस्थिति कम हो / When attendance is low",
+        "जब निदान लंबित हो / When diagnosis is pending",
+        "जब मूल अवधारणा समझ न आई हो / When core concepts are not understood",
+        "जब विद्यार्थी अपेक्षित दक्षता से आगे बढ़ चुका हो / When a learner has already mastered expected competencies"
+      ],
+      "answer": 3,
+      "explanation": "समृद्धिकरण उन्नत शिक्षार्थियों को गहराई और विस्तार देता है। / Enrichment extends learning for learners who have mastered the basics."
+    },
+    {
+      "id": "148035e4",
+      "question": "कक्षा में भावनात्मक सुरक्षा का संकेत क्या है? / What indicates emotional safety in a classroom?",
+      "options": [
+        "प्रश्न पूछने पर रोक / Prohibit questions",
+        "केवल सही उत्तर स्वीकारना / Accept only correct answers",
+        "गलती पर सार्वजनिक अपमान / Public humiliation for errors",
+        "विद्यार्थी उपहास के भय बिना प्रश्न और असहमति रख सकें / Learners can question and disagree without ridicule"
+      ],
+      "answer": 3,
+      "explanation": "मनोवैज्ञानिक सुरक्षा जिज्ञासा, जोखिम लेने और भागीदारी को बढ़ाती है। / Psychological safety supports curiosity and participation."
+    },
+    {
+      "id": "9669f5e3",
+      "question": "‘अभ्यागत’ शब्द में उपसर्ग कौन-सा है? / Identify the prefix in ‘अभ्यागत’.",
+      "options": [
+        "प्रति / Prati",
+        "अव / Ava",
+        "अभि / Abhi",
+        "आ / Ā"
+      ],
+      "answer": 2,
+      "explanation": "अभि + आगत से अभ्यागत बना है; उपसर्ग ‘अभि’ है। / The prefix is abhi."
+    },
+    {
+      "id": "5417a640",
+      "question": "‘विपत्ति’ का पर्यायवाची नहीं है— / Which is NOT a synonym of ‘विपत्ति’?",
+      "options": [
+        "मुसीबत / Trouble",
+        "आपदा / Disaster",
+        "संकट / Crisis",
+        "समृद्धि / Prosperity"
+      ],
+      "answer": 3,
+      "explanation": "समृद्धि का अर्थ prosperity है; यह विपत्ति का पर्याय नहीं। / Prosperity is not a synonym of adversity."
+    },
+    {
+      "id": "d33f0cd6",
+      "question": "‘कमल’ का पर्यायवाची शब्द कौन-सा है? / Which is a synonym of ‘कमल’?",
+      "options": [
+        "अनल / Anal",
+        "पंकज / Pankaj",
+        "पवन / Pavan",
+        "अंबु / Ambu"
+      ],
+      "answer": 1,
+      "explanation": "पंकज कमल का पर्याय है; अन्य शब्द क्रमशः वायु, अग्नि, जल हैं। / Pankaj means lotus."
+    },
+    {
+      "id": "d53122b7",
+      "question": "‘नीलकंठ’ किस समास का उदाहरण है? / ‘Neelkanth’ is an example of which compound?",
+      "options": [
+        "अव्ययीभाव / Avyayibhava",
+        "द्वंद्व / Dvandva",
+        "बहुव्रीहि / Bahuvrihi",
+        "द्विगु / Dvigu"
+      ],
+      "answer": 2,
+      "explanation": "नीला है कंठ जिसका—किसी अन्य व्यक्ति (शिव) का बोध; बहुव्रीहि। / It denotes one whose throat is blue, a Bahuvrihi compound."
+    },
+    {
+      "id": "17862916",
+      "question": "‘आँखें चार होना’ मुहावरे का अर्थ है— / Meaning of ‘आँखें चार होना’—",
+      "options": [
+        "चुप रहना / Remain silent",
+        "धोखा देना / Deceive",
+        "बहुत रोना / Weep a lot",
+        "आमने-सामने होना / Come face to face"
+      ],
+      "answer": 3,
+      "explanation": "आँखें चार होना का अर्थ आमने-सामने होना/मुलाकात होना है। / It means to come face to face."
+    },
+    {
+      "id": "1e98ab3a",
+      "question": "‘अत्यधिक’ में कौन-सा उपसर्ग है? / Identify the prefix in ‘अत्यधिक’.",
+      "options": [
+        "प्रति / Prati",
+        "अति / Ati",
+        "अ / A",
+        "अधि / Adhi"
+      ],
+      "answer": 1,
+      "explanation": "अति + अधिक के संयोग से अत्यधिक बनता है। / The prefix is ati."
+    },
+    {
+      "id": "f7a2e18a",
+      "question": "Choose the correct option: ‘Were I you, I ___ apologise.’",
+      "options": [
+        "will",
+        "shall",
+        "would",
+        "can"
+      ],
+      "answer": 2,
+      "explanation": "In an inverted second conditional, 'Were I you, I would…' is correct. / काल्पनिक स्थिति में would आएगा।"
+    },
+    {
+      "id": "492b6c7e",
+      "question": "Choose the correct reported question: She asked me, ‘Why are you late?’",
+      "options": [
+        "She asked why are you late.",
+        "She asked me why was I late.",
+        "She asked me that why I am late.",
+        "She asked me why I was late."
+      ],
+      "answer": 3,
+      "explanation": "Indirect question uses statement word order and backshift: why I was late. / अप्रत्यक्ष प्रश्न में सामान्य वाक्य-क्रम होता है।"
+    },
+    {
+      "id": "dc56769b",
+      "question": "Choose the correct phrase: ‘The principal, along with the teachers, ___ attending the meeting.’",
+      "options": [
+        "have",
+        "were",
+        "is",
+        "are"
+      ],
+      "answer": 2,
+      "explanation": "The subject is singular ‘principal’; ‘along with’ does not change agreement. / मुख्य subject principal एकवचन है।"
+    },
+    {
+      "id": "852ea2f3",
+      "question": "In phonetics, /ʃ/ as in ‘ship’ is a—",
+      "options": [
+        "velar approximant / कंठ्य सन्निकट",
+        "voiceless postalveolar fricative / अघोष पश्चतालव्य संघर्षी",
+        "voiced alveolar stop / घोष दन्त्य स्पर्शी",
+        "bilabial nasal / द्वयोष्ठ्य नासिक्य"
+      ],
+      "answer": 1,
+      "explanation": "/ʃ/ is a voiceless postalveolar fricative. / ship में sh की ध्वनि अघोष postalveolar fricative है।"
+    },
+    {
+      "id": "abc1f882",
+      "question": "A rubric is most useful for—",
+      "options": [
+        "Avoiding feedback / प्रतिपुष्टि रोकना",
+        "Making performance criteria and standards explicit / प्रदर्शन मानदंड स्पष्ट करना",
+        "Ranking without evidence / बिना प्रमाण रैंकिंग",
+        "Replacing learning objectives / उद्देश्य हटाना"
+      ],
+      "answer": 1,
+      "explanation": "Rubrics describe criteria and performance levels, improving transparency. / रूब्रिक मानदंड और स्तर स्पष्ट करता है।"
+    },
+    {
+      "id": "5c5edbd0",
+      "question": "ई-मेल में SMTP का मुख्य कार्य क्या है? / Main function of SMTP in email?",
+      "options": [
+        "ई-मेल प्राप्त/डाउनलोड करना / Receiving or downloading email",
+        "वेब पेज दिखाना / Display web pages",
+        "IP पता देना / Assign IP address",
+        "ई-मेल भेजना / Sending email"
+      ],
+      "answer": 3,
+      "explanation": "SMTP outgoing email transfer के लिए प्रयोग होता है। / SMTP is used to send outgoing email."
+    },
+    {
+      "id": "2731ae75",
+      "question": "HTTPS में TLS का प्रमुख उद्देश्य क्या है? / Main purpose of TLS in HTTPS?",
+      "options": [
+        "वेबसाइट का रंग बदलना / Change website colour",
+        "DNS रिकॉर्ड हटाना / Delete DNS records",
+        "संचार को एन्क्रिप्ट और प्रमाणित करना / Encrypt and authenticate communication",
+        "फाइल आकार घटाना / Reduce file size"
+      ],
+      "answer": 2,
+      "explanation": "TLS confidentiality, integrity और authentication प्रदान करता है। / TLS provides confidentiality, integrity and authentication."
+    },
+    {
+      "id": "e9933014",
+      "question": "डेटाबेस में primary key का गुण क्या है? / A primary key must—",
+      "options": [
+        "केवल टेक्स्ट हो / Be text only",
+        "NULL मान दोहराए / Repeat NULL values",
+        "प्रत्येक रिकॉर्ड की विशिष्ट पहचान करे / Uniquely identify each record",
+        "अनिवार्यतः दो कॉलम हो / Always have two columns"
+      ],
+      "answer": 2,
+      "explanation": "Primary key unique और non-null होती है। / A primary key uniquely identifies rows and cannot be null."
+    },
+    {
+      "id": "cd232ea1",
+      "question": "विद्यालयी नेतृत्व में distributed leadership का अर्थ है— / Distributed leadership in a school means—",
+      "options": [
+        "जिम्मेदारी का अभाव / No accountability",
+        "सभी निर्णय केवल प्रधानाचार्य लें / Principal makes every decision",
+        "नेतृत्व जिम्मेदारी का विभिन्न सदस्यों में साझा होना / Leadership responsibility shared among members",
+        "केवल बाहरी निरीक्षण / External inspection only"
+      ],
+      "answer": 2,
+      "explanation": "वितरित नेतृत्व में शिक्षक और अन्य हितधारक साझा नेतृत्व निभाते हैं। / Leadership is shared across staff and stakeholders."
+    },
+    {
+      "id": "83123b6f",
+      "question": "संकट के समय विद्यालय की प्राथमिकता क्या होनी चाहिए? / A school's first priority during an emergency should be—",
+      "options": [
+        "बच्चों और कर्मचारियों की सुरक्षा / Safety of children and staff",
+        "परीक्षा जारी रखना / Continue the examination",
+        "संपत्ति की सूची बनाना / Inventory of property",
+        "सोशल मीडिया पोस्ट करना / Post on social media"
+      ],
+      "answer": 0,
+      "explanation": "आपात स्थिति में जीवन और सुरक्षा सर्वोपरि हैं। / Life safety takes precedence."
+    },
+    {
+      "id": "959572eb",
+      "question": "भावनात्मक आत्म-नियमन का उदाहरण कौन-सा है? / Which is an example of emotional self-regulation?",
+      "options": [
+        "दूसरों पर दोष डालना / Blame others",
+        "भावना को नकारना / Deny the emotion",
+        "तुरंत प्रतिशोध लेना / Retaliate immediately",
+        "क्रोध में प्रतिक्रिया देने से पहले ठहरकर विकल्प सोचना / Pause and consider options before reacting in anger"
+      ],
+      "answer": 3,
+      "explanation": "ठहराव और विकल्पों पर विचार भावनाओं को नियंत्रित करने में मदद करता है। / Pausing and considering choices regulates emotional responses."
+    },
+    {
+      "id": "c779f6f4",
+      "question": "सहकर्मी अवलोकन (peer observation) का सर्वोत्तम उपयोग क्या है? / Best use of peer observation?",
+      "options": [
+        "गैर-निर्णयात्मक साक्ष्य आधारित प्रतिपुष्टि से शिक्षण सुधारना / Improve teaching through non-judgemental evidence-based feedback",
+        "दंड देना / Punish teachers",
+        "शिक्षक रैंकिंग / Rank teachers",
+        "केवल उपस्थिति जाँचना / Check attendance only"
+      ],
+      "answer": 0,
+      "explanation": "सहकर्मी अवलोकन चिंतन और व्यावसायिक विकास का साधन है। / Peer observation supports reflection and professional growth."
+    },
+    {
+      "id": "67934cfd",
+      "question": "राष्ट्रीय शिक्षा नीति 2020 में 5+3+3+4 संरचना किस आयु-वर्ग को समाहित करती है? / NEP 2020's 5+3+3+4 structure covers which age range?",
+      "options": [
+        "5–16 वर्ष / 5–16 years",
+        "0–18 वर्ष / 0–18 years",
+        "3–18 वर्ष / 3–18 years",
+        "6–14 वर्ष / 6–14 years"
+      ],
+      "answer": 2,
+      "explanation": "नई संरचना 3 से 18 वर्ष तक के बच्चों को कवर करती है। / The structure spans ages 3–18."
+    },
+    {
+      "id": "03db51fd",
+      "question": "NEP 2020 के अनुसार foundational stage की अवधि क्या है? / What is the duration of the foundational stage under NEP 2020?",
+      "options": [
+        "6 वर्ष / 6 years",
+        "5 वर्ष / 5 years",
+        "4 वर्ष / 4 years",
+        "3 वर्ष / 3 years"
+      ],
+      "answer": 1,
+      "explanation": "3 वर्ष पूर्व-विद्यालय + कक्षा 1-2 = कुल 5 वर्ष। / Three preschool years plus Grades 1–2 make five years."
+    },
+    {
+      "id": "2be31fb3",
+      "question": "2025 G20 शिखर सम्मेलन के मेजबान देश दक्षिण अफ्रीका की अध्यक्षता का विषय किस व्यापक विचार पर केंद्रित था? / The 2025 G20 host South Africa's presidency focused on which broad theme?",
+      "options": [
+        "एकजुटता, समानता और सततता / Solidarity, equality and sustainability",
+        "साझा भविष्य का निर्माण / Building a Shared Future",
+        "वसुधैव कुटुम्बकम् / Vasudhaiva Kutumbakam",
+        "एक पृथ्वी, एक परिवार, एक भविष्य / One Earth, One Family, One Future"
+      ],
+      "answer": 0,
+      "explanation": "दक्षिण अफ्रीका की 2025 G20 अध्यक्षता का विषय Solidarity, Equality, Sustainability था। / South Africa's 2025 G20 theme was Solidarity, Equality, Sustainability."
+    },
+    {
+      "id": "1355476a",
+      "question": "COP30 का आयोजन किस शहर में हुआ? / COP30 was hosted in which city?",
+      "options": [
+        "बेलेम / Belém",
+        "दुबई / Dubai",
+        "ग्लासगो / Glasgow",
+        "बाकू / Baku"
+      ],
+      "answer": 0,
+      "explanation": "COP30 नवंबर 2025 में बेलेम, ब्राज़ील में आयोजित हुआ। / COP30 was held in Belém, Brazil, in November 2025."
+    },
+    {
+      "id": "b52d0c0f",
+      "question": "2026 में भारत के Chief of Air Staff के रूप में किसने पदभार संभाला? / Who assumed office as India's Chief of the Air Staff in 2026?",
+      "options": [
+        "एयर चीफ मार्शल आर. के. एस. भदौरिया / Air Chief Marshal R. K. S. Bhadauria",
+        "एयर चीफ मार्शल अशुतोष दीक्षित / Air Chief Marshal Ashutosh Dixit",
+        "एयर चीफ मार्शल वी. आर. चौधरी / Air Chief Marshal V. R. Chaudhari",
+        "एयर चीफ मार्शल ए. पी. सिंह / Air Chief Marshal A. P. Singh"
+      ],
+      "answer": 1,
+      "explanation": "PIB के अनुसार अशुतोष दीक्षित ने 1 नवंबर 2026 को 29वें वायुसेना प्रमुख का पद संभाला। / PIB reported his assumption of office on 1 November 2026."
+    },
+    {
+      "id": "de53deab",
+      "question": "भारत के 53वें मुख्य न्यायाधीश कौन बने? / Who became the 53rd Chief Justice of India?",
+      "options": [
+        "न्यायमूर्ति संजीव खन्ना / Justice Sanjiv Khanna",
+        "न्यायमूर्ति यू. यू. ललित / Justice U. U. Lalit",
+        "न्यायमूर्ति बी. आर. गवई / Justice B. R. Gavai",
+        "न्यायमूर्ति सूर्यकांत / Justice Surya Kant"
+      ],
+      "answer": 3,
+      "explanation": "न्यायमूर्ति सूर्यकांत ने नवंबर 2025 में 53वें CJI के रूप में शपथ ली। / Justice Surya Kant was sworn in as the 53rd CJI in November 2025."
+    },
+    {
+      "id": "8b8f00c4",
+      "question": "भारत के चार श्रम संहिताओं ने कितने केंद्रीय श्रम कानूनों को समेकित किया? / How many central labour laws were consolidated into India's four Labour Codes?",
+      "options": [
+        "24",
+        "29",
+        "44",
+        "34"
+      ],
+      "answer": 1,
+      "explanation": "चार श्रम संहिताओं ने 29 केंद्रीय श्रम कानूनों को समेकित किया। / The four Labour Codes consolidated 29 central labour laws."
+    },
+    {
+      "id": "f55045ea",
+      "question": "भारत ने नवंबर 2025 में किस आयोजन में 9 स्वर्ण, 7 रजत और 4 कांस्य सहित 20 पदक जीते? / India won 20 medals (9 gold, 7 silver, 4 bronze) at which event in November 2025?",
+      "options": [
+        "25वें ग्रीष्मकालीन डेफलिम्पिक्स / 25th Summer Deaflympics",
+        "पैरालंपिक खेल / Paralympic Games",
+        "एशियाई खेल / Asian Games",
+        "कॉमनवेल्थ गेम्स / Commonwealth Games"
+      ],
+      "answer": 0,
+      "explanation": "भारत ने 2025 Summer Deaflympics में कुल 20 पदक जीते। / India won 20 medals at the 2025 Summer Deaflympics."
+    },
+    {
+      "id": "b9d6f1a0",
+      "question": "यदि किसी परीक्षण में सभी प्रश्न अत्यधिक आसान हों, तो उच्च और निम्न उपलब्धि वाले विद्यार्थियों में अंतर पहचानने की क्षमता सामान्यतः कैसी होगी? / If all items in a test are extremely easy, how is its ability to distinguish high and low achievers generally affected?",
+      "options": [
+        "अपरिवर्तित रहती है / Remains unchanged",
+        "हमेशा बढ़ती है / Always increases",
+        "घट सकती है / May decrease",
+        "शून्य त्रुटि की गारंटी / Guarantees zero error"
+      ],
+      "answer": 2,
+      "explanation": "बहुत आसान प्रश्नों में अधिकांश परीक्षार्थी सही कर सकते हैं, जिससे विभेदन क्षमता घटती है। / When nearly everyone answers correctly, item discrimination tends to be low."
+    }
+  ]
+}

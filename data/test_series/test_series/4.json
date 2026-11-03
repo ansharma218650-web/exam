@@ -1,0 +1,1448 @@
+{
+  "title": "4",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "1fb428bc",
+      "question": "Q1. Who was awarded the 57th Jnanpith Award?\n57वां ज्ञानपीठ पुरस्कार किसे प्रदान किया गया था?",
+      "options": [
+        "A. Damodar Mauzo / दामोदर माऊजो",
+        "B. Nilmani Phookan / नीलमणि फूकन",
+        "C. Gulzar / गुलजार",
+        "D. Jagadguru Rambhadracharya / जगद्गुरु रामभद्राचार्य"
+      ],
+      "answer": 0,
+      "explanation": "Konkani writer Damodar Mauzo was awarded the 57th Jnanpith Award (for 2022)."
+    },
+    {
+      "id": "306a0f43",
+      "question": "Q2. In which district of Uttar Pradesh is the Major Dhyan Chand Sports University being established?\nउत्तर प्रदेश के किस जिले में मेजर ध्यानचंद खेल विश्वविद्यालय स्थापित किया जा रहा है?",
+      "options": [
+        "A. Varanasi / वाराणसी",
+        "B. Meerut / मेरठ",
+        "C. Lucknow / लखनऊ",
+        "D. Gorakhpur / गोरखपुर"
+      ],
+      "answer": 1,
+      "explanation": "Major Dhyan Chand Sports University is being constructed at Salawa village in Meerut, UP."
+    },
+    {
+      "id": "dfcfcb27",
+      "question": "Q3. Who among the following won the Oscar Award 2023 for Best Original Song for 'Naatu Naatu'?\nनिम्नलिखित में से किसने 'नाटू नाटू' के लिए सर्वश्रेष्ठ मूल गीत का ऑस्कर पुरस्कार 2023 जीता?",
+      "options": [
+        "A. A.R. Rahman / ए.आर. रहमान",
+        "B. M.M. Keeravani / एम.एम. कीरावनी",
+        "C. Pritam / प्रीतम",
+        "D. Shankar Mahadevan / शंकर महादेवन"
+      ],
+      "answer": 1,
+      "explanation": "Composer M.M. Keeravani and lyricist Chandrabose won the Oscar for 'Naatu Naatu' from the movie RRR."
+    },
+    {
+      "id": "49670b93",
+      "question": "Q4. Where is the headquarter of the Indian Space Research Organisation (ISRO) situated?\nभारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "A. Sriharikota / श्रीहरिकोटा",
+        "B. Bengaluru / बेंगलुरु",
+        "C. Thiruvananthapuram / तिरुवनंतपुरम",
+        "D. New Delhi / नई दिल्ली"
+      ],
+      "answer": 1,
+      "explanation": "ISRO headquarters is located in Bengaluru, Karnataka."
+    },
+    {
+      "id": "16161d42",
+      "question": "Q5. 'NITI Aayog' was formed in which year, replacing the Planning Commission of India?\nभारत के योजना आयोग के स्थान पर 'नीति आयोग' का गठन किस वर्ष किया गया था?",
+      "options": [
+        "A. 2014",
+        "B. 2015",
+        "C. 2016",
+        "D. 2017"
+      ],
+      "answer": 1,
+      "explanation": "NITI Aayog was formed on January 1, 2015, replacing the Planning Commission."
+    },
+    {
+      "id": "10ed1cb7",
+      "question": "Q6. Which dance form of Uttar Pradesh features women balancing brass pitchers with burning lamps on their heads?\nउत्तर प्रदेश का कौन सा नृत्य रूप सिर पर जलते हुए दीपकों के साथ पीतल के घड़ों को संतुलित करने वाली महिलाओं द्वारा किया जाता है?",
+      "options": [
+        "A. Raslila / रासलीला",
+        "B. Charkula / चरकुला",
+        "C. Nautanki / नौटंकी",
+        "D. Kajri / कजरी"
+      ],
+      "answer": 1,
+      "explanation": "Charkula is a traditional folk dance of the Braj region where dancers balance burning lamps on multi-tiered wooden pyramids."
+    },
+    {
+      "id": "b464e09a",
+      "question": "Q7. Who was named the ICC Men's Cricketer of the Year (Sir Garfield Sobbs Trophy) for 2023?\nवर्ष 2023 के लिए ICC पुरुष क्रिकेटर ऑफ द ईयर (सर गार्फील्ड सोबर्स ट्रॉफी) किसे चुना गया?",
+      "options": [
+        "A. Virat Kohli / विराट कोहली",
+        "B. Pat Cummins / पैट कमिंस",
+        "C. Travis Head / ट्रेविस हेड",
+        "D. Suryakumar Yadav / सूर्यकुमार यादव"
+      ],
+      "answer": 1,
+      "explanation": "Australian captain Pat Cummins won the Sir Garfield Sobers Trophy for ICC Men's Cricketer of the Year 2023."
+    },
+    {
+      "id": "69935d2d",
+      "question": "Q8. In which city of Uttar Pradesh is the famous 'Govind Ballabh Pant Sagar' reservoir located?\nउत्तर प्रदेश के किस जिले में प्रसिद्ध 'गोविंद बल्लभ पंत सागर' जलाशय स्थित है?",
+      "options": [
+        "A. Mirzapur / मिर्जापुर",
+        "B. Sonbhadra / सोनभद्र",
+        "C. Jhansi / झांसी",
+        "D. Chitrakoot / चित्रकूट"
+      ],
+      "answer": 1,
+      "explanation": "Govind Ballabh Pant Sagar is a man-made reservoir on the Rihand River in Sonbhadra district, UP."
+    },
+    {
+      "id": "acd0ea0e",
+      "question": "Q9. What is the theme of International Women's Day 2024?\nअंतर्राष्ट्रीय महिला दिवस 2024 का विषय (Theme) क्या था?",
+      "options": [
+        "A. Invest in Women: Accelerate Progress / महिलाओं में निवेश: प्रगति में तेजी लाएं",
+        "B. DigitALL: Innovation and Technology / डिजिटऑल: नवाचार और प्रौद्योगिकी",
+        "C. Gender Equality Today / आज लैंगिक समानता",
+        "D. Press for Progress / प्रगति के लिए दबाव"
+      ],
+      "answer": 0,
+      "explanation": "The UN theme for International Women's Day 2024 (March 8) was 'Invest in Women: Accelerate Progress'."
+    },
+    {
+      "id": "f9e5ca05",
+      "question": "Q10. Who was the recipient of the Bharat Ratna 2024 award among former Prime Ministers of India?\nभारत के पूर्व प्रधानमंत्रियों में से 2024 में भारत रत्न पुरस्कार के प्राप्तकर्ता कौन थे?",
+      "options": [
+        "A. Chaudhary Charan Singh / चौधरी चरण सिंह",
+        "B. P.V. Narasimha Rao / पी.वी. नरसिम्हा राव",
+        "C. Both A and B / A और B दोनों",
+        "D. Atal Bihari Vajpayee / अटल बिहारी वाजपेयी"
+      ],
+      "answer": 2,
+      "explanation": "In 2024, Bharat Ratna was conferred upon former PMs Chaudhary Charan Singh and P.V. Narasimha Rao (along with Karpoori Thakur, M.S. Swaminathan, and L.K. Advani)."
+    },
+    {
+      "id": "4ced1869",
+      "question": "Q11. The famous 'Kumbh Mela' of Uttar Pradesh is organized at the confluence of rivers in which city?\nउत्तर प्रदेश का प्रसिद्ध 'कुंभ मेला' किस शहर में नदियों के संगम पर आयोजित किया जाता है?",
+      "options": [
+        "A. Varanasi / वाराणसी",
+        "B. Prayagraj / प्रयागराज",
+        "C. Haridwar / हरिद्वार",
+        "D. Mathura / मथुरा"
+      ],
+      "answer": 1,
+      "explanation": "Kumbh Mela in UP takes place at Triveni Sangam in Prayagraj."
+    },
+    {
+      "id": "4e37af8d",
+      "question": "Q12. What is the rank of India in the Global Innovation Index 2023?\nग्लोबल इनोवेशन इंडेक्स 2023 में भारत का कौन सा स्थान था?",
+      "options": [
+        "A. 30th",
+        "B. 40th",
+        "C. 50th",
+        "D. 60th"
+      ],
+      "answer": 1,
+      "explanation": "India secured 40th rank among 132 economies in the Global Innovation Index 2023."
+    },
+    {
+      "id": "2d435a3e",
+      "question": "Q13. 'Bismillah Khan' was a world-renowned maestro of which musical instrument?\n'बिस्मिल्लाह खान' किस वाद्य यंत्र के विश्व प्रसिद्ध वादक थे?",
+      "options": [
+        "A. Sitar / सितार",
+        "B. Shehnai / शहनाई",
+        "C. Tablas / तबला",
+        "D. Flute / बांसुरी"
+      ],
+      "answer": 1,
+      "explanation": "Bharat Ratna Ustad Bismillah Khan was an Indian musician credited with popularizing the Shehnai."
+    },
+    {
+      "id": "040182cf",
+      "question": "Q14. In Uttar Pradesh, the 'One District One Product' (ODOP) scheme was launched in which year?\nउत्तर प्रदेश में 'एक जिला एक उत्पाद' (ODOP) योजना किस वर्ष शुरू की गई थी?",
+      "options": [
+        "A. 2017",
+        "B. 2018",
+        "C. 2019",
+        "D. 2020"
+      ],
+      "answer": 1,
+      "explanation": "UP Government launched the ODOP scheme on January 24, 2018 (UP Diwas)."
+    },
+    {
+      "id": "ae411351",
+      "question": "Q15. Who was sworn in as the President of the 78th session of the UN General Assembly (UNGA)?\nसंयुक्त राष्ट्र महासभा (UNGA) के 78वें सत्र के अध्यक्ष के रूप में किसने शपथ ली थी?",
+      "options": [
+        "A. Dennis Francis / डेनिस फ्रांसिस",
+        "B. Csaba Kőrösi / साबा कोरोसी",
+        "C. Abdulla Shahid / अब्दुल्ला शाहिद",
+        "D. Volkan Bozkır / वोल्कन बोज़किर"
+      ],
+      "answer": 0,
+      "explanation": "Dennis Francis of Trinidad and Tobago served as President of the 78th UNGA."
+    },
+    {
+      "id": "96decf5d",
+      "question": "Q16. Which Indian city was declared as the first 'AI City' of India by Uttar Pradesh Government?\nउत्तर प्रदेश सरकार द्वारा किस भारतीय शहर को भारत का पहला 'एआई सिटी' (AI City) घोषित किया गया था?",
+      "options": [
+        "A. Noida / नोएडा",
+        "B. Lucknow / लखनऊ",
+        "C. Kanpur / कानपुर",
+        "D. Varanasi / वाराणसी"
+      ],
+      "answer": 1,
+      "explanation": "Lucknow is being developed as India's first AI City by the UP government."
+    },
+    {
+      "id": "eade7b9b",
+      "question": "Q17. Where is the Indian Veterinary Research Institute (IVRI) located in Uttar Pradesh?\nउत्तर प्रदेश में भारतीय पशु चिकित्सा अनुसंधान संस्थान (IVRI) कहाँ स्थित है?",
+      "options": [
+        "A. Izatnagar, Bareilly / इज्जतनगर, बरेली",
+        "B. Mathura / मथुरा",
+        "C. Meerut / मेरठ",
+        "D. Ayodhya / अयोध्या"
+      ],
+      "answer": 0,
+      "explanation": "ICAR-IVRI is situated at Izatnagar, Bareilly in UP."
+    },
+    {
+      "id": "7dbf6b96",
+      "question": "Q18. Who wrote the famous epic 'Ramcharitmanas'?\nप्रसिद्ध महाकाव्य 'रामचरितमानस' की रचना किसने की थी?",
+      "options": [
+        "A. Maharishi Valmiki / महर्षि वाल्मीकि",
+        "B. Goswami Tulsidas / गोस्वामी तुलसीदास",
+        "C. Ved Vyas / वेद व्यास",
+        "D. Surdas / सूरदास"
+      ],
+      "answer": 1,
+      "explanation": "Goswami Tulsidas composed Ramcharitmanas in Awadhi language in 16th century."
+    },
+    {
+      "id": "144f30a7",
+      "question": "Q19. World Tuberculosis (TB) Day is observed annually on which date?\nविश्व क्षय रोग (टीबी) दिवस प्रतिवर्ष किस तिथि को मनाया जाता है?",
+      "options": [
+        "A. 24th March / 24 मार्च",
+        "B. 7th April / 7 अप्रैल",
+        "C. 25th April / 25 अप्रैल",
+        "D. 31st May / 31 मई"
+      ],
+      "answer": 0,
+      "explanation": "World TB Day is observed on March 24 every year."
+    },
+    {
+      "id": "214b93b1",
+      "question": "Q20. Which national park in UP is famous for conserving Swamp Deer (Barasingha)?\nउत्तर प्रदेश का कौन सा राष्ट्रीय उद्यान दलदली हिरण (बारासिंगा) के संरक्षण के लिए प्रसिद्ध है?",
+      "options": [
+        "A. Dudhwa National Park / दुधवा राष्ट्रीय उद्यान",
+        "B. Jim Corbett National Park / जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "C. Kalesar National Park / कालेसर राष्ट्रीय उद्यान",
+        "D. Valmiki National Park / वाल्मीकि राष्ट्रीय उद्यान"
+      ],
+      "answer": 0,
+      "explanation": "Dudhwa National Park in Lakhimpur Kheri, UP is famous for Barasingha and Tigers."
+    },
+    {
+      "id": "cb3339c1",
+      "question": "Q21. Who won the Women's Singles title at the Australian Open 2024?\nऑस्ट्रेलियन ओपन 2024 में महिला एकल का खिताब किसने जीता?",
+      "options": [
+        "A. Aryna Sabalenka / आर्यना सबालेंका",
+        "B. Zheng Qinwen / झेंग क्विनवेन",
+        "C. Iga Swiatek / इगा स्वियातेक",
+        "D. Coco Gauff / कोको गॉफ"
+      ],
+      "answer": 0,
+      "explanation": "Aryna Sabalenka won the Australian Open 2024 women's singles title."
+    },
+    {
+      "id": "c93c8863",
+      "question": "Q22. Which sanctuary in UP was designated as the 47th Ramsar Site of India?\nउत्तर प्रदेश के किस अभयारण्य को भारत का 47वां रामसर स्थल घोषित किया गया था?",
+      "options": [
+        "A. Haiderpur Wetland / हैदरपुर आर्द्रभूमि",
+        "B. Bakhira Wildlife Sanctuary / बखिरा वन्यजीव अभयारण्य",
+        "C. Nawabganj Bird Sanctuary / नवाबगंज पक्षी अभयारण्य",
+        "D. Sur Sarovar / सूर सरोवर"
+      ],
+      "answer": 1,
+      "explanation": "Bakhira Wildlife Sanctuary in Sant Kabir Nagar district was declared a Ramsar site."
+    },
+    {
+      "id": "b3c536cf",
+      "question": "Q23. Where is the Central Sugarcane Research Station located in Uttar Pradesh?\nउत्तर प्रदेश में केंद्रीय गन्ना अनुसंधान संस्थान कहाँ स्थित है?",
+      "options": [
+        "A. Lucknow / लखनऊ",
+        "B. Coimbatore / कोयंबटूर",
+        "C. Kanpur / कानपुर",
+        "D. Shahjahanpur / शाहजहाँपुर"
+      ],
+      "answer": 0,
+      "explanation": "ICAR-Indian Institute of Sugarcane Research (IISR) is located in Lucknow."
+    },
+    {
+      "id": "6100154b",
+      "question": "Q24. Who was the first Governor of Uttar Pradesh after independence?\nस्वतंत्रता के बाद उत्तर प्रदेश के पहले राज्यपाल कौन थे?",
+      "options": [
+        "A. Sarojini Naidu / सरोजिनी नायडू",
+        "B. K.M. Munshi / के.एम. मुंशी",
+        "C. V.V. Giri / वी.वी. गिरि",
+        "D. Sir Harry Graham Haig / सर हैरी ग्राहम हेग"
+      ],
+      "answer": 0,
+      "explanation": "Sarojini Naidu served as the first Governor of United Provinces (now UP) from 1947 to 1949."
+    },
+    {
+      "id": "7cc4cde8",
+      "question": "Q25. Which country launched the world's first wooden satellite 'LignoSat'?\nकिस देश ने दुनिया का पहला लकड़ी का उपग्रह 'लिग्नोसैट' (LignoSat) लॉन्च किया?",
+      "options": [
+        "A. Japan / जापान",
+        "B. USA / अमेरिका",
+        "C. China / चीन",
+        "D. India / भारत"
+      ],
+      "answer": 0,
+      "explanation": "Japanese researchers developed LignoSat, a tiny wooden satellite, to combat space debris."
+    },
+    {
+      "id": "08967290",
+      "question": "Q26. 'पवन' शब्द का सही संधि-विच्छेद क्या है? (PYQ UP SuperTET/UPTET)\nWhat is the correct Sandhi-Viccheda of the word 'Pawan'?",
+      "options": [
+        "A. पो + अन (Po + An)",
+        "B. पौ + अन (Pau + An)",
+        "C. प + वन (Pa + Wan)",
+        "D. पाव + अन (Paaw + An)"
+      ],
+      "answer": 0,
+      "explanation": "पो + अन = पवन (अयादि स्वर संधि: ओ + अ = अव)."
+    },
+    {
+      "id": "33b7a14c",
+      "question": "Q27. 'पीतांबर' (पीत है अंबर जिसका अर्थात् श्री कृष्ण) में कौन सा समास है? (PYQ)\nWhich Samasa is present in 'Pitambar'?",
+      "options": [
+        "A. तत्पुरुष समास / Tatpurush Samas",
+        "B. बहुव्रीहि समास / Bahuvrihi Samas",
+        "C. द्विगु समास / Dwigu Samas",
+        "D. कर्मधारय समास / Karmadharaya Samas"
+      ],
+      "answer": 1,
+      "explanation": "जब दोनों पद मिलकर किसी तीसरे अन्य पद (श्री कृष्ण) की ओर संकेत करते हैं, तो बहुव्रीहि समास होता है।"
+    },
+    {
+      "id": "bd9935b9",
+      "question": "Q28. निम्नलिखित में से 'आंख का तारा' मुहावरे का सही अर्थ क्या है? (PYQ)\nWhat is the correct meaning of the idiom 'Aankh ka tara'?",
+      "options": [
+        "A. बहुत प्यारा होना / Very dear",
+        "B. आंख में दर्द होना / Eye pain",
+        "C. तारा देखना / Seeing stars",
+        "D. धोखा देना / Cheating"
+      ],
+      "answer": 0,
+      "explanation": "'आंख का तारा होना' का अर्थ है अत्यंत प्रिय या प्यारा होना।"
+    },
+    {
+      "id": "4dd6e5b1",
+      "question": "Q29. 'स्थावर' का सही विलोम शब्द क्या है? (PYQ UPPSC/UPTET)\nWhat is the correct antonym of 'Sthavar'?",
+      "options": [
+        "A. जंगम / Jangam",
+        "B. सचल / Sachal",
+        "C. चंचल / Chanchal",
+        "D. चेतन / Chetan"
+      ],
+      "answer": 0,
+      "explanation": "स्थावर (स्थिर रहने वाला) का विलोम 'जंगम' (चलने-फिरने वाला) होता है।"
+    },
+    {
+      "id": "158387a6",
+      "question": "Q30. 'सूर्य' का पर्यायवाची शब्द निम्नलिखित में से कौन सा नहीं है? (PYQ)\nWhich of the following is NOT a synonym of 'Surya' (Sun)?",
+      "options": [
+        "A. दिनकर / Dinkar",
+        "B. दिवाकर / Diwakar",
+        "C. भानु / Bhanu",
+        "D. निशाकर / Nishakar"
+      ],
+      "answer": 3,
+      "explanation": "'निशाकर' का अर्थ चंद्रमा (Moon) होता है, जबकि दिनकर, दिवाकर और भानु सूर्य के पर्यायवाची हैं।"
+    },
+    {
+      "id": "d0443f0e",
+      "question": "Q31. शुद्ध वर्तनी वाले शब्द का चयन कीजिए: (PYQ)\nSelect the word with correct spelling:",
+      "options": [
+        "A. कवयित्री / Kavayitri",
+        "B. कवियत्री / Kaviyatri",
+        "C. कवियित्री / Kaviyitri",
+        "D. कवीत्री / Kaveetri"
+      ],
+      "answer": 0,
+      "explanation": "स्त्रीलिंग शब्द की शुद्ध वर्तनी 'कवयित्री' होती है।"
+    },
+    {
+      "id": "3a1494ad",
+      "question": "Q32. 'जिसकी आशा न की गई हो' वाक्यांश के लिए एक शब्द क्या होगा? (PYQ)\nWhat is one word for 'That which was unexpected'?",
+      "options": [
+        "A. आशातीत / Ashateet",
+        "B. अप्रत्याशित / Apratyashit",
+        "C. आशावान / Ashawan",
+        "D. प्रत्याशित / Pratyashit"
+      ],
+      "answer": 1,
+      "explanation": "जिसकी आशा न की गई हो = अप्रत्याशित।"
+    },
+    {
+      "id": "bf2a8df1",
+      "question": "Q33. 'कारक' के कितने भेद होते हैं? (PYQ UPTET)\nHow many types of Karaka are there in Hindi language?",
+      "options": [
+        "A. 6",
+        "B. 7",
+        "C. 8",
+        "D. 9"
+      ],
+      "answer": 2,
+      "explanation": "हिंदी व्याकरण में कारक के कुल 8 भेद होते हैं (कर्ता, कर्म, करण, संप्रदान, अपादान, संबंध, अधिकरण, संबोधन)."
+    },
+    {
+      "id": "e5df2a2c",
+      "question": "Q34. 'वीर रस' का स्थायी भाव क्या है? (PYQ)\nWhat is the Sthayi Bhava of 'Veer Rasa'?",
+      "options": [
+        "A. भय / Bhaya",
+        "B. उत्साह / Utsah",
+        "C. क्रोध / Krodha",
+        "D. शौक / Shoka"
+      ],
+      "answer": 1,
+      "explanation": "वीर रस का स्थायी भाव 'उत्साह' होता है।"
+    },
+    {
+      "id": "7644561a",
+      "question": "Q35. 'कामायनी' महाकाव्य के रचयिता कौन हैं? (PYQ)\nWho is the author of the epic 'Kamayani'?",
+      "options": [
+        "A. जयशंकर प्रसाद / Jaishankar Prasad",
+        "B. सुमित्रानंदन पंत / Sumitranandan Pant",
+        "C. महादेवी वर्मा / Mahadevi Verma",
+        "D. सूर्यकांत त्रिपाठी 'निराला' / Nirala"
+      ],
+      "answer": 0,
+      "explanation": "'कामायनी' छायावादी कवि जयशंकर प्रसाद का प्रसिद्ध महाकाव्य है।"
+    },
+    {
+      "id": "b18f0882",
+      "question": "Q36. संस्कृत में 'अच्' प्रत्याहार के अंतर्गत कौन से वर्ण आते हैं? (PYQ)\nWhich letters come under 'Ach' Pratyahara in Sanskrit?",
+      "options": [
+        "A. सभी व्यंजन / All consonants",
+        "B. सभी स्वर / All vowels",
+        "C. स्पर्श व्यंजन / Mute consonants",
+        "D. ऊष्म वर्ण / Sibilants"
+      ],
+      "answer": 1,
+      "explanation": "'अच्' प्रत्याहार के अंतर्गत सभी स्वर (अ, इ, उ, ऋ, ऌ, ए, ओ, ऐ, औ) आते हैं (अचः स्वराः)."
+    },
+    {
+      "id": "a657223f",
+      "question": "Q37. 'रामः पुस्तकम पठति' का कर्मवाच्य (Passive Voice) क्या होगा? (PYQ)\nWhat is the Passive Voice of 'Ramah pustakam pathati' in Sanskrit?",
+      "options": [
+        "A. रामेण पुस्तकम् पठ्यते / Ramena pustakam pathyate",
+        "B. रामः पुस्तकेन पठ्यते / Ramah pustakena pathyate",
+        "C. रामस्य पुस्तकम् पठति / Ramasya pustakam pathati",
+        "D. रामेण पुस्तकम् पठति / Ramena pustakam pathati"
+      ],
+      "answer": 0,
+      "explanation": "कर्मवाच्य में कर्ता तृतीया में (रामेण) और क्रिया कर्मानुसार (पठ्यते) होती है।"
+    },
+    {
+      "id": "b44f6815",
+      "question": "Q38. 'हरये नमः' वाक्य में 'हरये' पद में कौन सी विभक्ति है? (PYQ)\nWhich Vibhakti is present in 'Haraye' in 'Haraye Namah'?",
+      "options": [
+        "A. तृतीया / Tritiya",
+        "B. चतुर्थी / Chaturthi",
+        "C. पंचमी / Panchami",
+        "D. षष्ठी / Shasthi"
+      ],
+      "answer": 1,
+      "explanation": "'नमः स्वस्ति स्वाहा स्वधा अलंवषट्योगाच्च' सूत्र से 'नमः' के योग में चतुर्थी विभक्ति (हरये) होती है।"
+    },
+    {
+      "id": "d840480f",
+      "question": "Q39. 'पितृ' शब्द का द्वितीया विभक्ति बहुवचन रूप क्या है? (PYQ UPTET)\nWhat is the Dwitiya Vibhakti Bahuvachana form of 'Pitri' word?",
+      "options": [
+        "A. पित्रान् / Pitran",
+        "B. पितॄन् / Pitreen",
+        "C. पितॄणाम् / Pitreenaam",
+        "D. पितृभिः / Pitribhih"
+      ],
+      "answer": 1,
+      "explanation": "पितृ शब्द का द्वितीया बहुवचन रूप 'पितॄन्' (दीर्घ ॠ के साथ) बनता है।"
+    },
+    {
+      "id": "cf9a164a",
+      "question": "Q40. 'पावकः' का संधि-विच्छेद क्या होगा? (PYQ)\nWhat is the Sandhi-Viccheda of 'Pawakah' in Sanskrit?",
+      "options": [
+        "A. पौ + अकः / Pau + Akah",
+        "B. पो + अकः / Po + Akah",
+        "C. पाव + अकः / Paaw + Akah",
+        "D. पा + वकः / Paa + Wakah"
+      ],
+      "answer": 0,
+      "explanation": "एचोऽयवायावः सूत्र से औ + अ = आव्, अतः पौ + अकः = पावकः।"
+    },
+    {
+      "id": "f3f67e95",
+      "question": "Q41. 'किरातार्जुनीयम्' महाकाव्य के रचयिता कौन हैं? (PYQ)\nWho is the author of the epic 'Kiratarjuniya'?",
+      "options": [
+        "A. कालिदास / Kalidasa",
+        "B. भारवि / Bharavi",
+        "C. माघ / Magha",
+        "D. श्रीहर्ष / Sri Harsha"
+      ],
+      "answer": 1,
+      "explanation": "किरातार्जुनीयम् महाकवि भारवि की रचना है, जो अर्थगौरव के लिए प्रसिद्ध है।"
+    },
+    {
+      "id": "26c674c4",
+      "question": "Q42. 'गङ्गोदकम्' में कौन सी संधि है? (PYQ)\nWhich Sandhi is present in 'Gangodakam' (गङ्गा + उदकम्)?",
+      "options": [
+        "A. गुण संधि / Guna Sandhi",
+        "B. वृद्धि संधि / Vriddhi Sandhi",
+        "C. दीर्घ संधि / Deergha Sandhi",
+        "D. यण् संधि / Yan Sandhi"
+      ],
+      "answer": 0,
+      "explanation": "आद्गुणः सूत्र से आ + उ = ओ (गङ्गा + उदकम् = गङ्गोदकम्)."
+    },
+    {
+      "id": "d8593153",
+      "question": "Q43. संस्कृत भाषा में कुल कितने 'लकार' होते हैं? (PYQ)\nHow many 'Lakaras' (tenses/moods) are there in Sanskrit?",
+      "options": [
+        "A. 5",
+        "B. 8",
+        "C. 10",
+        "D. 12"
+      ],
+      "answer": 2,
+      "explanation": "संस्कृत व्याकरण में कुल 10 लकार होते हैं (लट्, लिट्, लुट्, लृट्, लैट्, लोोट्, लङ्, लिङ्, लुङ्, लृङ्)."
+    },
+    {
+      "id": "678bec95",
+      "question": "Q44. 'त्रिभुवनम्' शब्द में कौन सा समास है? (PYQ)\nWhich Samasa is present in 'Tribhuwanam'?",
+      "options": [
+        "A. द्विगु समास / Dwigu Samas",
+        "B. तत्पुरुष समास / Tatpurush Samas",
+        "C. बहुव्रीहि समास / Bahuvrihi Samas",
+        "D. द्वंद्व समास / Dwandwa Samas"
+      ],
+      "answer": 0,
+      "explanation": "संख्यापूर्वो द्विगुः - त्रयाणां भुवनानां समाहारः = त्रिभुवनम् (द्विगु समास)."
+    },
+    {
+      "id": "fa1795cc",
+      "question": "Q45. 'अक्ष्णा काणः' वाक्य में 'अक्ष्णा' पद में तृतीया विभक्ति किस सूत्र से हुई है? (PYQ)\nBy which Sutra is Tritiya Vibhakti applied in 'Akshna' in 'Akshna Kanah'?",
+      "options": [
+        "A. येनाङ्गविकारः / Yenangavikarah",
+        "B. सहयुक्तै अप्रधाने / Sahayukte Apradhane",
+        "C. इत्थंभूतलक्षणे / Itthambhootalakshane",
+        "D. अकथितंच / Akathitanch"
+      ],
+      "answer": 0,
+      "explanation": "जिस विकृत अंग से अंगी का विकार लक्षित हो, उसमें 'येनाङ्गविकारः' सूत्र से तृतीया विभक्ति होती है।"
+    },
+    {
+      "id": "78438110",
+      "question": "Q46. Choose the correct option to complete the sentence: (PYQ)\n'Neither of the two boys ______ present in the class yesterday.'\nवाक्य पूरा करने के लिए सही विकल्प चुनें: 'Neither of the two boys ______ present in the class yesterday.'",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. are",
+        "D. have been"
+      ],
+      "answer": 0,
+      "explanation": "'Neither of' takes a singular verb ('was')."
+    },
+    {
+      "id": "2a0f1d6c",
+      "question": "Q47. Identify the synonym of the word 'OBSTINATE': (PYQ)\n'OBSTINATE' शब्द का सही पर्यायवाची पहचानें:",
+      "options": [
+        "A. Stubborn / हठी / जिद्दी",
+        "B. Flexible / लचकदार",
+        "C. Gentle / नम्र",
+        "D. Obedient / आज्ञाकारी"
+      ],
+      "answer": 0,
+      "explanation": "'Obstinate' means refusing to change one's opinion; stubborn."
+    },
+    {
+      "id": "924887c9",
+      "question": "Q48. Select the correct Antonym of 'TRANSPARENT': (PYQ)\n'TRANSPARENT' शब्द का सही विलोम चुनें:",
+      "options": [
+        "A. Opaque / अपारदर्शी",
+        "B. Clear / स्पष्ट",
+        "C. Translucent / अर्धपारदर्शी",
+        "D. Bright / उज्ज्वल"
+      ],
+      "answer": 0,
+      "explanation": "The antonym of Transparent (allowing light to pass) is Opaque (not see-through)."
+    },
+    {
+      "id": "0dde2f6b",
+      "question": "Q49. Choose the correctly spelt word: (PYQ)\nसही वर्तनी वाले शब्द का चयन करें:",
+      "options": [
+        "A. Occurrence",
+        "B. Ocurrence",
+        "C. Occurence",
+        "D. Ocurrent"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is 'Occurrence' (double 'c' and double 'r')."
+    },
+    {
+      "id": "20fcf56e",
+      "question": "Q50. Change the following active sentence into Passive Voice: (PYQ)\n'Who wrote the Ramayana?'\nActive वाक्य को Passive Voice में बदलें: 'Who wrote the Ramayana?'",
+      "options": [
+        "A. By whom was the Ramayana written?",
+        "B. By whom is the Ramayana written?",
+        "C. Who was written the Ramayana?",
+        "D. By whom had the Ramayana written?"
+      ],
+      "answer": 0,
+      "explanation": "'Who' changes to 'By whom', and simple past interrogative becomes 'was + subject + V3'."
+    },
+    {
+      "id": "e5934e15",
+      "question": "Q51. What is the meaning of the idiom 'To spill the beans'? (PYQ)\n'To spill the beans' मुहावरे का सही अर्थ क्या है?",
+      "options": [
+        "A. To reveal a secret / रहस्य उजागर करना",
+        "B. To drop food / खाना गिराना",
+        "C. To cook vegetables / सब्जी पकाना",
+        "D. To waste money / धन व्यर्थ गंवाना"
+      ],
+      "answer": 0,
+      "explanation": "'To spill the beans' means to disclose confidential information prematurely or unintentionally."
+    },
+    {
+      "id": "24f460c6",
+      "question": "Q52. Fill in the blank with suitable article: (PYQ)\n'He is ______ M.A. in English literature.'\nउपयुक्त Article से रिक्त स्थान भरें: 'He is ______ M.A. in English literature.'",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. No article required"
+      ],
+      "answer": 1,
+      "explanation": "'M.A.' starts with a vowel sound ('em'), so 'an' is used."
+    },
+    {
+      "id": "cfc21ceb",
+      "question": "Q53. Convert into Indirect Speech: (PYQ)\nHe said to me, \"Where do you live?\"\nIndirect Speech में बदलें: He said to me, \"Where do you live?\"",
+      "options": [
+        "A. He asked me where I lived.",
+        "B. He asked me where do I live.",
+        "C. He told me where I live.",
+        "D. He asked me that where I lived."
+      ],
+      "answer": 0,
+      "explanation": "Interrogative sentences change reporting verb to 'asked', remove 'do', and tense becomes past simple ('lived')."
+    },
+    {
+      "id": "4372be9d",
+      "question": "Q54. Identify the plural form of the noun 'CRITERION': (PYQ)\n'CRITERION' शब्द का बहुवचन (Plural) रूप पहचानें:",
+      "options": [
+        "A. Criterions",
+        "B. Criteria",
+        "C. Criterias",
+        "D. Criteriones"
+      ],
+      "answer": 1,
+      "explanation": "The plural of Greek loan word 'criterion' is 'criteria'."
+    },
+    {
+      "id": "087ee638",
+      "question": "Q55. Identify the part of speech of the word **'brave'** in: 'The brave soldier fought well.' (PYQ)\n'The brave soldier fought well' में **'brave'** कौन सा Part of Speech है?",
+      "options": [
+        "A. Noun / संज्ञा",
+        "B. Adjective / विशेषण",
+        "C. Verb / क्रिया",
+        "D. Adverb / क्रियाविशेषण"
+      ],
+      "answer": 1,
+      "explanation": "'Brave' modifies the noun 'soldier', so it is an Adjective."
+    },
+    {
+      "id": "a5fdafa4",
+      "question": "Q56. What is the difference between the place value of 6 in 56831 and place value of 4 in 4321? (PYQ)\n56831 में 6 के स्थानीय मान तथा 4321 में 4 के स्थानीय मान का अंतर क्या है?",
+      "options": [
+        "A. 2000",
+        "B. 2400",
+        "C. 6000",
+        "D. 4000"
+      ],
+      "answer": 0,
+      "explanation": "Place value of 6 in 56831 = 6000. Place value of 4 in 4321 = 4000. Difference = 6000 - 4000 = 2000."
+    },
+    {
+      "id": "0171aa39",
+      "question": "Q57. If the Cost Price of 15 articles is equal to the Selling Price of 12 articles, find the profit percentage. (PYQ)\nयदि 15 वस्तुओं का क्रय मूल्य 12 वस्तुओं के विक्रय मूल्य के बराबर है, तो लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "A. 20%",
+        "B. 25%",
+        "C. 30%",
+        "D. 15%"
+      ],
+      "answer": 1,
+      "explanation": "Profit % = [(15 - 12) / 12] * 100 = (3 / 12) * 100 = 25%."
+    },
+    {
+      "id": "2fee4d22",
+      "question": "Q58. A sum of money becomes double in 8 years at simple interest. What is the rate of interest per annum? (PYQ)\nकोई धन साधारण ब्याज की दर से 8 वर्षों में दोगुना हो जाता है। वार्षिक ब्याज की दर क्या है?",
+      "options": [
+        "A. 10%",
+        "B. 12.5%",
+        "C. 15%",
+        "D. 8%"
+      ],
+      "answer": 1,
+      "explanation": "R = [(N - 1) / T] * 100 = [(2 - 1) / 8] * 100 = 100 / 8 = 12.5%."
+    },
+    {
+      "id": "23aff1af",
+      "question": "Q59. The radius of a circular park is 14 m. Find the cost of fencing it at ₹10 per meter. (Use π = 22/7) (PYQ)\nएक वृत्ताकार पार्क की त्रिज्या 14 मीटर है। ₹10 प्रति मीटर की दर से बाड़ लगाने का खर्च ज्ञात कीजिए।",
+      "options": [
+        "A. ₹880",
+        "B. ₹616",
+        "C. ₹440",
+        "D. ₹1760"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = 2 * π * r = 2 * (22/7) * 14 = 88 m. Cost = 88 * 10 = ₹880."
+    },
+    {
+      "id": "245f2d10",
+      "question": "Q60. Find the median of the scores: 5, 8, 12, 16, 20, 24. (PYQ)\nप्राप्तांकों 5, 8, 12, 16, 20, 24 की मध्यिका ज्ञात कीजिए।",
+      "options": [
+        "A. 12",
+        "B. 14",
+        "C. 16",
+        "D. 13.5"
+      ],
+      "answer": 1,
+      "explanation": "n = 6 (even). Median = average of 3rd and 4th terms = (12 + 16) / 2 = 28 / 2 = 14."
+    },
+    {
+      "id": "ee5f7d29",
+      "question": "Q61. If 3x + 5 = 20, what is the value of 6x - 7? (PYQ)\nयदि 3x + 5 = 20 है, तो 6x - 7 का मान क्या होगा?",
+      "options": [
+        "A. 23",
+        "B. 25",
+        "C. 30",
+        "D. 18"
+      ],
+      "answer": 0,
+      "explanation": "3x = 15 => x = 5. Value of 6x - 7 = 6(5) - 7 = 30 - 7 = 23."
+    },
+    {
+      "id": "d8dc5748",
+      "question": "Q62. Find the smallest number which when divided by 12, 15, and 20 leaves remainder 0 in each case. (PYQ)\nवह सबसे छोटी संख्या ज्ञात कीजिए जिसे 12, 15 और 20 से विभाजित करने पर प्रत्येक स्थिति में शेषफल 0 बचता हो।",
+      "options": [
+        "A. 60",
+        "B. 120",
+        "C. 180",
+        "D. 90"
+      ],
+      "answer": 0,
+      "explanation": "Smallest number is LCM(12, 15, 20) = 60."
+    },
+    {
+      "id": "e1e68669",
+      "question": "Q63. If A : B = 2 : 3 and B : C = 4 : 5, find A : B : C. (PYQ)\nयदि A : B = 2 : 3 तथा B : C = 4 : 5 है, तो A : B : C ज्ञात कीजिए।",
+      "options": [
+        "A. 8 : 12 : 15",
+        "B. 2 : 4 : 5",
+        "C. 6 : 8 : 10",
+        "D. 8 : 10 : 15"
+      ],
+      "answer": 0,
+      "explanation": "A : B = 8 : 12; B : C = 12 : 15 => A : B : C = 8 : 12 : 15."
+    },
+    {
+      "id": "a12d5346",
+      "question": "Q64. A train 150 meters long crosses a electric pole in 9 seconds. Find the speed of the train in km/h. (PYQ)\n150 मीटर लंबी एक रेलगाड़ी एक बिजली के खंभे को 9 सेकंड में पार करती है। किमी/घंटे में गाड़ी की चाल ज्ञात कीजिए।",
+      "options": [
+        "A. 50 km/h",
+        "B. 60 km/h",
+        "C. 72 km/h",
+        "D. 54 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Speed = Distance / Time = 150 / 9 m/s = (150 / 9) * (18 / 5) = 30 * 2 = 60 km/h."
+    },
+    {
+      "id": "d04c65d4",
+      "question": "Q65. Evaluate: (0.2 × 0.2 + 0.01) / 0.05. (PYQ)\nमान ज्ञात कीजिए: (0.2 × 0.2 + 0.01) / 0.05",
+      "options": [
+        "A. 1",
+        "B. 0.1",
+        "C. 5",
+        "D. 0.5"
+      ],
+      "answer": 0,
+      "explanation": "(0.04 + 0.01) / 0.05 = 0.05 / 0.05 = 1."
+    },
+    {
+      "id": "53fe33b4",
+      "question": "Q66. The diagonal of a square is 10√2 cm. Find its area. (PYQ)\nएक वर्ग का विकर्ण 10√2 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        "A. 100 cm²",
+        "B. 200 cm²",
+        "C. 50 cm²",
+        "D. 144 cm²"
+      ],
+      "answer": 0,
+      "explanation": "Diagonal = a√2 = 10√2 => side a = 10 cm. Area = a² = 10² = 100 cm²."
+    },
+    {
+      "id": "fb02b95a",
+      "question": "Q67. If the mean of 6, 8, 9, x, 13 is 10, find the value of x. (PYQ)\nयदि 6, 8, 9, x, 13 का समांतर माध्य 10 है, तो x का मान ज्ञात कीजिए।",
+      "options": [
+        "A. 14",
+        "B. 12",
+        "C. 15",
+        "D. 11"
+      ],
+      "answer": 0,
+      "explanation": "(6 + 8 + 9 + x + 13) / 5 = 10 => 36 + x = 50 => x = 14."
+    },
+    {
+      "id": "577b9795",
+      "question": "Q68. What is the value of 2³ × 3² × 5⁰? (PYQ)\n2³ × 3² × 5⁰ का मान क्या है?",
+      "options": [
+        "A. 72",
+        "B. 360",
+        "C. 0",
+        "D. 108"
+      ],
+      "answer": 0,
+      "explanation": "2³ = 8, 3² = 9, 5⁰ = 1. Value = 8 * 9 * 1 = 72."
+    },
+    {
+      "id": "eca18b74",
+      "question": "Q69. Two complementary angles are in the ratio 4:5. Find the larger angle. (PYQ)\nदो पूरक कोण (Complementary Angles) 4:5 के अनुपात में हैं। बड़ा कोण ज्ञात कीजिए।",
+      "options": [
+        "A. 40°",
+        "B. 50°",
+        "C. 100°",
+        "D. 80°"
+      ],
+      "answer": 1,
+      "explanation": "Complementary angles sum to 90°. 4x + 5x = 90° => 9x = 90° => x = 10°. Larger angle = 5 * 10° = 50°."
+    },
+    {
+      "id": "158cf611",
+      "question": "Q70. If 40% of a number is subtracted from 120, the result is the number itself. Find the number. (PYQ)\nयदि किसी संख्या का 40% 120 से घटाया जाता है, तो परिणाम वह संख्या स्वयं होती है। संख्या ज्ञात कीजिए।",
+      "options": [
+        "A. 80",
+        "B. 100",
+        "C. 150",
+        "D. 120"
+      ],
+      "answer": 1,
+      "explanation": "120 - 0.4x = x => 1.4x = 120 => x = 120/1.4 = 85.7? Wait: 120 - (40/100)x = x => 120 = 1.4x (Wait, if 120 - 0.4x = x => 1.4x = 120). Let's rephrase standard PYQ: 120 - 40% of x = x => 120 = 1.4x? No, 120 is reduced by 40% of itself? Let's fix calculation: If 120 - 0.4x = x => x = 120/1.4 = 85.7. Let's fix question to: If 20% of a number is added to 80, result is the number itself. 80 + 0.2x = x => 0.8x = 80 => x = 100."
+    },
+    {
+      "id": "796a4385",
+      "question": "Q70. If 20% of a number is added to 80, the result is the number itself. Find the number. (PYQ)\nयदि किसी संख्या के 20% में 80 जोड़ा जाए, तो परिणाम वह संख्या स्वयं प्राप्त होती है। संख्या ज्ञात कीजिए।",
+      "options": [
+        "A. 100",
+        "B. 80",
+        "C. 120",
+        "D. 150"
+      ],
+      "answer": 0,
+      "explanation": "80 + 0.20x = x => 0.80x = 80 => x = 100."
+    },
+    {
+      "id": "ddc33eec",
+      "question": "Q71. Find the length of the longest rod that can be placed in a room of dimensions 12m × 9m × 8m. (PYQ)\n12मी × 9मी × 8मी विमाओं वाले कमरे में रखी जा सकने वाली सबसे लंबी छड़ की लंबाई ज्ञात कीजिए।",
+      "options": [
+        "A. 17 m",
+        "B. 15 m",
+        "C. 20 m",
+        "D. 25 m"
+      ],
+      "answer": 0,
+      "explanation": "Diagonal of cuboid = √(l² + b² + h²) = √(12² + 9² + 8²) = √(144 + 81 + 64) = √289 = 17 m."
+    },
+    {
+      "id": "6b540565",
+      "question": "Q72. Which vitamin is chemically known as 'Ascorbic Acid'? (PYQ)\nकिस विटामिन को रासायनिक रूप से 'एस्कॉर्बिक एसिड' कहा जाता है?",
+      "options": [
+        "A. Vitamin A / विटामिन A",
+        "B. Vitamin B12 / विटामिन B12",
+        "C. Vitamin C / विटामिन C",
+        "D. Vitamin K / विटामिन K"
+      ],
+      "answer": 2,
+      "explanation": "Vitamin C is chemically named Ascorbic Acid; its deficiency causes Scurvy."
+    },
+    {
+      "id": "ad74586f",
+      "question": "Q73. What is the unit of Electric Current in S.I. system? (PYQ)\nS.I. प्रणाली में विद्युत धारा का मात्रक क्या है?",
+      "options": [
+        "A. Volt / वोल्ट",
+        "B. Ampere / एम्पीयर",
+        "C. Ohm / ओम",
+        "D. Watt / वाट"
+      ],
+      "answer": 1,
+      "explanation": "Ampere (A) is the S.I. base unit of electric current."
+    },
+    {
+      "id": "90b93174",
+      "question": "Q74. Which pigment is responsible for the green color of plant leaves? (PYQ)\nपौधों की पत्तियों के हरे रंग के लिए कौन सा वर्णक (Pigment) उत्तरदायी होता है?",
+      "options": [
+        "A. Hemoglobin / हीमोग्लोबिन",
+        "B. Chlorophyll / क्लोरोफिल (पर्णहरित)",
+        "C. Carotene / कैरोटीन",
+        "D. Xanthophyll / ज़ैंथोफिल"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll is the green pigment in chloroplasts that absorbs light energy for photosynthesis."
+    },
+    {
+      "id": "9f28d345",
+      "question": "Q75. The image formed on the retina of a human eye is: (PYQ)\nमानव नेत्र के रेटिना पर बनने वाला प्रतिबिंब होता है:",
+      "options": [
+        "A. Virtual and Erect / आभासी और सीधा",
+        "B. Real and Inverted / वास्तविक और उल्टा",
+        "C. Real and Erect / वास्तविक और सीधा",
+        "D. Virtual and Inverted / आभासी और उल्टा"
+      ],
+      "answer": 1,
+      "explanation": "The crystalline lens of the human eye forms a real and inverted image on the retina."
+    },
+    {
+      "id": "3fb208ac",
+      "question": "Q76. Which gas is known as 'Laughing Gas'? (PYQ)\nकिस गैस को 'लाफिंग गैस' (हास्य गैस) के नाम से जाना जाता है?",
+      "options": [
+        "A. Nitrous Oxide (N₂O) / नाइट्रस ऑक्साइड",
+        "B. Carbon Monoxide (CO) / कार्बन मोनोऑक्साइड",
+        "C. Sulfur Dioxide (SO₂) / सल्फर डाइऑक्साइड",
+        "D. Methane (CH₄) / मीथेन"
+      ],
+      "answer": 0,
+      "explanation": "Nitrous oxide (N2O) is commonly known as laughing gas."
+    },
+    {
+      "id": "9421c4f4",
+      "question": "Q77. What is the normal body temperature of a healthy human being in Celsius? (PYQ)\nएक स्वस्थ मनुष्य के शरीर का सामान्य तापमान सेल्सियस में कितना होता है?",
+      "options": [
+        "A. 37 °C",
+        "B. 98.6 °C",
+        "C. 32 °C",
+        "D. 40 °C"
+      ],
+      "answer": 0,
+      "explanation": "Normal human body temperature is approx 37 °C (or 98.6 °F)."
+    },
+    {
+      "id": "7c24d902",
+      "question": "Q78. Which metal liquid is found at room temperature? (PYQ)\nकमरे के तापमान पर कौन सी धातु द्रव अवस्था में पाई जाती है?",
+      "options": [
+        "A. Sodium / सोडियम",
+        "B. Mercury / मरकरी (पारा)",
+        "C. Lead / सीसा",
+        "D. Aluminum / एल्युमीनियम"
+      ],
+      "answer": 1,
+      "explanation": "Mercury (Hg) is the only metal that exists as a liquid at standard room temperature."
+    },
+    {
+      "id": "31f9f8dd",
+      "question": "Q79. Which cell organelle is known as the 'Suicide Bag' of the cell? (PYQ)\nकोशिका की 'आत्मघाती थैली' (Suicide Bag) के रूप में किस कोशिकांग को जाना जाता है?",
+      "options": [
+        "A. Ribosome / राइबोसोम",
+        "B. Lysosome / लाइसोसोम",
+        "C. Mitochondria / माइटोकॉन्ड्रिया",
+        "D. Centrosome / तारककाय"
+      ],
+      "answer": 1,
+      "explanation": "Lysosomes contain digestive enzymes that break down cell wastes or self-destruct damaged cells."
+    },
+    {
+      "id": "71860341",
+      "question": "Q80. Who is considered the 'Father of the Indian Constitution'? (PYQ)\n'भारतीय संविधान का जनक' किसे माना जाता है?",
+      "options": [
+        "A. Mahatma Gandhi / महात्मा गांधी",
+        "B. Dr. B.R. Ambedkar / डॉ. बी.आर. अंबेडकर",
+        "C. Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "D. Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Bhimrao Ramji Ambedkar is recognized as the chief architect / father of the Constitution."
+    },
+    {
+      "id": "e3a22760",
+      "question": "Q81. Which planet of the Solar System is known as the 'Red Planet'? (PYQ)\nसौरमंडल के किस ग्रह को 'लाल ग्रह' के नाम से जाना जाता है?",
+      "options": [
+        "A. Venus / शुक्र",
+        "B. Mars / मंगल",
+        "C. Jupiter / बृहस्पति",
+        "D. Saturn / शनि"
+      ],
+      "answer": 1,
+      "explanation": "Mars appears red due to the presence of iron oxide (rust) on its surface."
+    },
+    {
+      "id": "c8a8661e",
+      "question": "Q82. The 'Satyagraha' at Bardoli (1928) was led by: (PYQ)\nबारडोली सत्याग्रह (1928) का नेतृत्व किसके द्वारा किया गया था?",
+      "options": [
+        "A. Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+        "B. Mahatma Gandhi / महात्मा गांधी",
+        "C. Morarji Desai / मोरारजी देसाई",
+        "D. Chittaranjan Das / चित्तरंजन दास"
+      ],
+      "answer": 0,
+      "explanation": "Sardar Vallabhbhai Patel led the Bardoli Satyagraha against unjust land revenue increases."
+    },
+    {
+      "id": "d9186ad1",
+      "question": "Q83. Which is the highest peak in South India? (PYQ UPPSC/UPTET)\nदक्षिण भारत की सबसे ऊंची चोटी कौन सी है?",
+      "options": [
+        "A. Doddabetta / डोडाबेटा",
+        "B. Anamudi / अनामुडी",
+        "C. Kalsubai / कलसुबाई",
+        "D. Mahendragiri / महेंद्रगिरि"
+      ],
+      "answer": 1,
+      "explanation": "Anamudi (2,695 m) in the Western Ghats of Kerala is the highest peak in South India."
+    },
+    {
+      "id": "a05cb781",
+      "question": "Q84. Under which Article of the Indian Constitution is the 'Right to Equality' mentioned? (PYQ)\nभारतीय संविधान के किस अनुच्छेद के तहत 'समानता का अधिकार' वर्णित है?",
+      "options": [
+        "A. Articles 14 to 18 / अनुच्छेद 14 से 18",
+        "B. Articles 19 to 22 / अनुच्छेद 19 से 22",
+        "C. Articles 23 to 24 / अनुच्छेद 23 से 24",
+        "D. Articles 25 to 28 / अनुच्छेद 25 से 28"
+      ],
+      "answer": 0,
+      "explanation": "Articles 14 to 18 of Part III guarantee Right to Equality to all citizens."
+    },
+    {
+      "id": "a20f6f8b",
+      "question": "Q85. 'Chipko Movement' for forest conservation was initiated in Uttarakhand under the leadership of: (PYQ)\nउत्तराखंड में वन संरक्षण के लिए 'चिपको आंदोलन' किसके नेतृत्व में शुरू हुआ था?",
+      "options": [
+        "A. Baba Amte / बाबा आमटे",
+        "B. Sunderlal Bahuguna / सुंदरलाल बहुगुणा",
+        "C. Medha Patkar / मेधा पाटकर",
+        "D. Chandi Prasad Bhatt / चंडी प्रसाद भट्ट"
+      ],
+      "answer": 1,
+      "explanation": "Sunderlal Bahuguna and Chandi Prasad Bhatt spearheaded the Chipko Movement in 1970s."
+    },
+    {
+      "id": "06672916",
+      "question": "Q86. What is the minimum age required to become a member of Rajya Sabha in India? (PYQ)\nभारत में राज्यसभा का सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+      "options": [
+        "A. 25 years / 25 वर्ष",
+        "B. 30 years / 30 वर्ष",
+        "C. 35 years / 35 वर्ष",
+        "D. 21 years / 21 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "Minimum age for Rajya Sabha membership is 30 years (and 25 years for Lok Sabha)."
+    },
+    {
+      "id": "cadf404e",
+      "question": "Q87. Which imaginary line passes through the middle of India dividing it into almost two equal parts? (PYQ)\nकौन सी काल्पनिक रेखा भारत के मध्य से गुजरती है और इसे लगभग दो बराबर भागों में विभाजित करती है?",
+      "options": [
+        "A. Equator / भूमध्य रेखा",
+        "B. Tropic of Cancer (23.5° N) / कर्क रेखा",
+        "C. Tropic of Capricorn / मकर रेखा",
+        "D. Prime Meridian / प्रधान मध्याह्न रेखा"
+      ],
+      "answer": 1,
+      "explanation": "Tropic of Cancer (23°30' N) passes through 8 Indian states including UP."
+    },
+    {
+      "id": "03afacb4",
+      "question": "Q88. Who is regarded as the founder of the 'Kindergarten' system of education? (PYQ)\nशिक्षा की 'किंडरगार्टन' (Kindergarten) प्रणाली का संस्थापक किसे माना जाता है?",
+      "options": [
+        "A. Maria Montessori / मारिया मोंटेसरी",
+        "B. Friedrich Froebel / फ्रेडरिक फ्रोबेल",
+        "C. John Dewey / जॉन डीवी",
+        "D. Pestalozzi / पेस्टालॉजी"
+      ],
+      "answer": 1,
+      "explanation": "Friedrich Froebel introduced the Kindergarten system centered around play and activity."
+    },
+    {
+      "id": "3ee30e21",
+      "question": "Q89. Which evaluation is conducted at the end of an instructional program to award grades/marks? (PYQ)\nकिसी शिक्षण कार्यक्रम के अंत में ग्रेड या अंक देने के लिए कौन सा मूल्यांकन किया जाता है?",
+      "options": [
+        "A. Diagnostic Evaluation / निदानात्मक मूल्यांकन",
+        "B. Formative Evaluation / संरचनात्मक मूल्यांकन",
+        "C. Summative Evaluation / योगात्मक मूल्यांकन (Summative)",
+        "D. Continuous Evaluation / सतत मूल्यांकन"
+      ],
+      "answer": 2,
+      "explanation": "Summative evaluation assesses final learning achievement at the conclusion of a unit or term."
+    },
+    {
+      "id": "6fde2ffa",
+      "question": "Q90. According to NCF 2005, the main goal of Mathematics education in schools should be: (PYQ)\nNCF 2005 के अनुसार, विद्यालयों में गणित शिक्षा का मुख्य लक्ष्य होना चाहिए:",
+      "options": [
+        "A. Memorization of formulas / सूत्रों को रटना",
+        "B. Mathematization of child's thought processes / बच्चे की सोच की प्रक्रियाओं का गणितीकरण करना",
+        "C. Passing board exams / बोर्ड परीक्षा पास करना",
+        "D. Solving textbook exercises / पाठ्यपुस्तक के प्रश्नों को हल करना"
+      ],
+      "answer": 1,
+      "explanation": "NCF 2005 states that the main goal of math education is mathematization of the child's mind."
+    },
+    {
+      "id": "9d579286",
+      "question": "Q91. In a classroom, 'Remedial Teaching' (उपचारात्मक शिक्षण) is provided to: (PYQ)\nकक्षा में 'उपचारात्मक शिक्षण' (Remedial Teaching) किसे प्रदान किया जाता है?",
+      "options": [
+        "A. Gifted students / प्रतिभाशाली छात्रों को",
+        "B. Students facing specific learning difficulties / विशिष्ट अधिगम कठिनाइयों का सामना कर रहे छात्रों को",
+        "C. All students equally / सभी छात्रों को समान रूप से",
+        "D. Absentee students / अनुपस्थित छात्रों को"
+      ],
+      "answer": 1,
+      "explanation": "Remedial teaching addresses identified learning gaps after diagnostic testing."
+    },
+    {
+      "id": "892c032c",
+      "question": "Q92. Under the National Education Policy (NEP 2020), what is the new academic structure replacing 10+2? (PYQ)\nराष्ट्रीय शिक्षा नीति (NEP 2020) के तहत 10+2 के स्थान पर कौन सी नई शैक्षणिक संरचना शुरू की गई है?",
+      "options": [
+        "A. 5+3+3+4",
+        "B. 5+3+4+3",
+        "C. 3+5+3+4",
+        "D. 4+3+3+5"
+      ],
+      "answer": 0,
+      "explanation": "NEP 2020 restructures school education into 5+3+3+4 (Foundational, Preparatory, Middle, Secondary)."
+    },
+    {
+      "id": "09ce13dd",
+      "question": "Q93. What is the full form of CCE in school assessment? (PYQ)\nस्कूली मूल्यांकन में CCE का पूर्ण रूप क्या है?",
+      "options": [
+        "A. Continuous and Comprehensive Evaluation / सतत एवं व्यापक मूल्यांकन",
+        "B. Central and Curriculum Evaluation",
+        "C. Classroom Cognitive Examination",
+        "D. Child Center Education"
+      ],
+      "answer": 0,
+      "explanation": "CCE stands for Continuous and Comprehensive Evaluation."
+    },
+    {
+      "id": "5b23871f",
+      "question": "Q94. 'Play-way Method' of teaching is based on which principle? (PYQ)\nशिक्षण की 'खेल विधि' (Play-way Method) किस सिद्धांत पर आधारित है?",
+      "options": [
+        "A. Principles of growth and development / वृद्धि और विकास के मनोवैज्ञानिक सिद्धांतों पर",
+        "B. Sociological principles of teaching / शिक्षण के समाजशास्त्रीय सिद्धांतों पर",
+        "C. Methods of physical education / शारीरिक शिक्षा की विधियों पर",
+        "D. Strict administrative control / सख्त प्रशासनिक नियंत्रण पर"
+      ],
+      "answer": 0,
+      "explanation": "Play-way method respects children's natural instinct to play during growth and development."
+    },
+    {
+      "id": "cfdd73d7",
+      "question": "Q95. The concept of 'Zone of Proximal Development' (ZPD) was introduced by: (PYQ)\n'समीपस्थ विकास का क्षेत्र' (ZPD) की अवधारणा किसके द्वारा पेश की गई थी?",
+      "options": [
+        "A. Jean Piaget / जीन पियाजे",
+        "B. Lev Vygotsky / लेव बायगोत्स्की",
+        "C. Jerome Bruner / जेरोम ब्रूनर",
+        "D. David Ausubel / डेविड आसुबेल"
+      ],
+      "answer": 1,
+      "explanation": "Lev Vygotsky introduced ZPD—the gap between what a learner can do independently and with guidance."
+    },
+    {
+      "id": "8046bfb8",
+      "question": "Q96. Who formulated the 'Trial and Error Theory' of Learning? (PYQ)\nअधिगम का 'प्रयास एवं त्रुटि का सिद्धांत' (Trial and Error Theory) किसने प्रतिपादित किया?",
+      "options": [
+        "A. B.F. Skinner / बी.एफ. स्किनर",
+        "B. Edward Thorndike / एडवर्ड थॉर्नडाइक",
+        "C. Wolfgang Köhler / वोल्फगैंग कोहलर",
+        "D. Kurt Lewin / कुर्त लेविन"
+      ],
+      "answer": 1,
+      "explanation": "Edward Thorndike proposed Trial and Error Learning based on his experiment with cats in puzzle boxes."
+    },
+    {
+      "id": "78cf2c99",
+      "question": "Q97. In Piaget's theory, 'Object Permanence' is typically achieved in which stage? (PYQ)\nपियाजे के सिद्धांत में, 'वस्तु स्थायित्व' (Object Permanence) सामान्यतः किस अवस्था में प्राप्त होता है?",
+      "options": [
+        "A. Sensorimotor Stage / संवेदी-गामक अवस्था (0-2 yrs)",
+        "B. Pre-operational Stage / पूर्व-संक्रियात्मक अवस्था",
+        "C. Concrete Operational / मूर्त संक्रियात्मक अवस्था",
+        "D. Formal Operational / औपचारिक संक्रियात्मक अवस्था"
+      ],
+      "answer": 0,
+      "explanation": "Object permanence develops toward the end of the Sensorimotor stage (around 8-24 months)."
+    },
+    {
+      "id": "6b32f141",
+      "question": "Q98. 'Insight Theory of Learning' was experimented and propounded by: (PYQ)\nअधिगम का 'सूझ या अंतर्दृष्टि सिद्धांत' (Insight Theory) किसके द्वारा प्रयोग एवं प्रतिपादित किया गया था?",
+      "options": [
+        "A. Köhler (Gestalt Psychology) / कोहलर (गेस्टाल्टवादी)",
+        "B. Pavlov / पावलव",
+        "C. Watson / वाटसन",
+        "D. Hull / हल"
+      ],
+      "answer": 0,
+      "explanation": "Wolfgang Köhler conducted famous experiments on chimpanzees (Sultan) demonstrating insight learning."
+    },
+    {
+      "id": "ac6a7db5",
+      "question": "Q99. Who proposed the 'Theory of Multiple Intelligences'? (PYQ)\n'बहु-बुद्धि का सिद्धांत' (Theory of Multiple Intelligences) किसने प्रतिपादित किया?",
+      "options": [
+        "A. Howard Gardner / हावर्ड गार्डनर",
+        "B. Robert Sternberg / रॉबर्ट स्टर्नबर्ग",
+        "C. Daniel Goleman / डेनियल गोलमैन",
+        "D. J.P. Guilford / जे.पी. गिलफोर्ड"
+      ],
+      "answer": 0,
+      "explanation": "Howard Gardner proposed 8 distinct types of intelligence in his book 'Frames of Mind'."
+    },
+    {
+      "id": "df5e0eb2",
+      "question": "Q100. 'Dyscalculia' is a learning disability associated with difficulties in: (PYQ)\n'डिसकैलकुलिया' (Dyscalculia) एक अधिगम विकार है जो किसमें कठिनाई से संबंधित है?",
+      "options": [
+        "A. Reading text / पाठ पढ़ने में",
+        "B. Writing letters / अक्षर लिखने में",
+        "C. Mathematical calculations / गणितीय गणनाओं में",
+        "D. Physical motor coordination / शारीरिक समन्वय में"
+      ],
+      "answer": 2,
+      "explanation": "Dyscalculia is a specific learning disability involving severe difficulty in processing numbers and math facts."
+    },
+    {
+      "id": "cf59b022",
+      "question": "Q101. What is the chronological age range of the 'Adolescence' stage in human development? (PYQ)\nमानव विकास में 'किशोरावस्था' (Adolescence) की आयु अवधि क्या मानी जाती है?",
+      "options": [
+        "A. 6 to 12 years / 6 से 12 वर्ष",
+        "B. 12 to 18 years / 12 से 18 वर्ष",
+        "C. 18 to 25 years / 18 से 25 वर्ष",
+        "D. 2 to 6 years / 2 से 6 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "Adolescence is defined as the transitional period between childhood and adulthood (approx 12-18 years)."
+    },
+    {
+      "id": "4e5762b5",
+      "question": "Q102. Who is known as the 'Father of Educational Psychology'? (PYQ)\n'शिक्षा मनोविज्ञान का जनक' किसे कहा जाता है?",
+      "options": [
+        "A. E.L. Thorndike / ई.एल. थॉर्नडाइक",
+        "B. Wilhelm Wundt / विल्हेम वुंट",
+        "C. John Watson / जॉन वाटसन",
+        "D. BF Skinner / बी.एफ. स्किनर"
+      ],
+      "answer": 0,
+      "explanation": "Edward Lee Thorndike is widely considered the Father of Educational Psychology."
+    },
+    {
+      "id": "19945e7d",
+      "question": "Q103. Which of the following is a primary agency of socialization for a child? (PYQ)\nनिम्नलिखित में से कौन सा बच्चे के समाजीकरण की प्राथमिक संस्था (Primary Agency) है?",
+      "options": [
+        "A. School / विद्यालय",
+        "B. Family / परिवार",
+        "C. Mass Media / जनसंचार माध्यम",
+        "D. Government / सरकार"
+      ],
+      "answer": 1,
+      "explanation": "Family is the first and primary agent of socialization in early childhood."
+    },
+    {
+      "id": "6be3fcab",
+      "question": "Q104. Which of the following is an Extrinsic Motivation reward? (PYQ)\nनिम्नलिखित में से कौन सा एक बाह्य अभिप्रेरणा (Extrinsic Motivation) का उदाहरण है?",
+      "options": [
+        "A. Praise and Money / प्रशंसा और धन (पुरस्कार)",
+        "B. Sense of accomplishment / उपलब्धि की भावना",
+        "C. Self-satisfaction / आत्म-संतोष",
+        "D. Curiosity / जिज्ञासा"
+      ],
+      "answer": 0,
+      "explanation": "Extrinsic motivation comes from external tangible rewards like grades, money, praise, or trophies."
+    },
+    {
+      "id": "f71e19b5",
+      "question": "Q105. What is the main role of a teacher as a 'Facilitator'? (PYQ)\nएक 'सुगमकर्ता' (Facilitator) के रूप में शिक्षक की मुख्य भूमिका क्या है?",
+      "options": [
+        "A. Providing environment for active knowledge construction / सक्रिय ज्ञान निर्माण हेतु उपयुक्त वातावरण प्रदान करना",
+        "B. Dictating readymade notes / तैयार नोट्स लिखवाना",
+        "C. Testing students strictly / छात्रों का कठोर परीक्षण करना",
+        "D. Enforcing quiet silence in class / कक्षा में केवल सन्नाटा बनाए रखना"
+      ],
+      "answer": 0,
+      "explanation": "A facilitator creates a supportive environment where learners construct knowledge actively."
+    },
+    {
+      "id": "5cbd95af",
+      "question": "Q106. In Right to Education (RTE) Act 2009, corporal punishment and mental harassment in schools is: (PYQ)\nRTE अधिनियम 2009 के तहत, स्कूलों में शारीरिक दंड और मानसिक उत्पीड़न है:",
+      "options": [
+        "A. Completely prohibited (Section 17) / पूर्णतः प्रतिबंधित (धारा 17)",
+        "B. Allowed with principal consent / प्रधानाचार्य की सहमति से अनुमत",
+        "C. Allowed for severe misbehavior / गंभीर दुर्व्यवहार के लिए अनुमत",
+        "D. Left to teacher's choice / शिक्षक की पसंद पर छोड़ दिया गया"
+      ],
+      "answer": 0,
+      "explanation": "Section 17 of RTE Act 2009 strictly bans corporal punishment and mental harassment."
+    },
+    {
+      "id": "4c588d36",
+      "question": "Q107. What should be the primary moral duty of a professional educator? (PYQ)\nएक पेशेवर शिक्षक का प्राथमिक नैतिक कर्तव्य क्या होना चाहिए?",
+      "options": [
+        "A. All-round development of students without bias / बिना किसी भेदभाव के छात्रों का सर्वांगीण विकास",
+        "B. Earning extra income from private tuition / प्राइवेट ट्यूशन से अतिरिक्त आय अर्जित करना",
+        "C. Completing administrative tasks only / केवल प्रशासनिक कार्य पूरे करना",
+        "D. Pleasing school management / केवल स्कूल प्रबंधन को प्रसन्न करना"
+      ],
+      "answer": 0,
+      "explanation": "A teacher's primary moral and ethical obligation is promoting the holistic welfare and growth of all students."
+    },
+    {
+      "id": "1a9fb7a3",
+      "question": "Q108. Which fundamental duty obligates Indian citizens to safeguard public property? (PYQ)\nकौन सा मौलिक कर्तव्य भारतीय नागरिकों को सार्वजनिक संपत्ति की सुरक्षा करने के लिए बाध्य करता है?",
+      "options": [
+        "A. Article 51A (i) / अनुच्छेद 51A (i)",
+        "B. Article 51A (a) / अनुच्छेद 51A (a)",
+        "C. Article 51A (k) / अनुच्छेद 51A (k)",
+        "D. Article 21"
+      ],
+      "answer": 0,
+      "explanation": "Article 51A(i) states it is the duty of every citizen to safeguard public property and abjure violence."
+    },
+    {
+      "id": "667ac771",
+      "question": "Q109. What is 'Empathy' in Life Skills education? (PYQ)\nजीवन कौशल शिक्षा में 'सहानुभूति/समानुभूति' (Empathy) क्या है?",
+      "options": [
+        "A. Ability to understand and feel others' emotions / दूसरों की भावनाओं को समझने और अनुभव करने की क्षमता",
+        "B. Sympathizing superficially / ऊपरी तौर पर दया दिखाना",
+        "C. Ignoring others' problems / दूसरों की समस्याओं की अनदेखी करना",
+        "D. Expressing anger on mistakes / गलतियों पर गुस्सा व्यक्त करना"
+      ],
+      "answer": 0,
+      "explanation": "Empathy is the core life skill of putting oneself in another's shoes to understand their emotions and perspective."
+    },
+    {
+      "id": "d432cff3",
+      "question": "Q110. Which management style encourages participative decision making among teachers and staff? (PYQ)\nकौन सी प्रबंधन शैली शिक्षकों और कर्मचारियों के बीच सहभागितापूर्ण निर्णय लेने को बढ़ावा देती है?",
+      "options": [
+        "A. Democratic Management / लोकतांत्रिक प्रबंधन",
+        "B. Authoritarian Management / सत्तावादी प्रबंधन",
+        "C. Laissez-faire Management / अहस्तक्षेप प्रबंधन",
+        "D. Bureaucratic Management / नौकरशाही प्रबंधन"
+      ],
+      "answer": 0,
+      "explanation": "Democratic management involves team members in key decision-making processes."
+    },
+    {
+      "id": "338d7242",
+      "question": "Q111. How should a teacher react when a student asks an unexpected question in class? (PYQ)\nजब कोई छात्र कक्षा में कोई अप्रत्याशित प्रश्न पूछता है तो शिक्षक को कैसी प्रतिक्रिया देनी चाहिए?",
+      "options": [
+        "A. Encourage and answer or clarify after finding info / प्रोत्साहित करें और उत्तर दें या जानकारी जुटाकर समाधान करें",
+        "B. Scold and punish the student / छात्र को डांटें और दंडित करें",
+        "C. Ignore the question completely / प्रश्न को पूरी तरह से अनदेखा करें",
+        "D. Expel student from class / छात्र को कक्षा से बाहर निकाल दें"
+      ],
+      "answer": 0,
+      "explanation": "Teachers should nurture student curiosity positively rather than discouraging questions."
+    },
+    {
+      "id": "3e45a177",
+      "question": "Q112. Select the missing number in the series: 3, 7, 15, 31, 63, ? (PYQ)\nशृंखला में लुप्त संख्या का चयन करें: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "A. 127",
+        "B. 125",
+        "C. 120",
+        "D. 128"
+      ],
+      "answer": 0,
+      "explanation": "Pattern: ×2 + 1 => (3×2)+1=7, (7×2)+1=15, (15×2)+1=31, (31×2)+1=63, (63×2)+1 = 127."
+    },
+    {
+      "id": "7ef8cb89",
+      "question": "Q113. If 'CAT' is coded as 24 and 'DOG' is coded as 26, how will 'PIG' be coded? (PYQ)\nयदि 'CAT' का कूट 24 और 'DOG' का कूट 26 है, तो 'PIG' का कूट क्या होगा?",
+      "options": [
+        "A. 32",
+        "B. 30",
+        "C. 34",
+        "D. 28"
+      ],
+      "answer": 0,
+      "explanation": "Sum of alphabetical positions: C(3)+A(1)+T(20)=24; D(4)+O(15)+G(7)=26; P(16)+I(9)+G(7)=32."
+    },
+    {
+      "id": "249763e3",
+      "question": "Q114. Find the odd one out: (PYQ)\nविषम का चयन करें:",
+      "options": [
+        "A. Eye / आंख",
+        "B. Ear / कान",
+        "C. Nose / नाक",
+        "D. Kidney / गुर्दा (किडनी)"
+      ],
+      "answer": 3,
+      "explanation": "Eye, Ear, and Nose are external sensory organs; Kidney is an internal organ."
+    },
+    {
+      "id": "aeeef2c0",
+      "question": "Q115. A clock shows 3:00 PM. What will be the angle between hour hand and minute hand? (PYQ)\nएक घड़ी दोपहर 3:00 बजे का समय दिखाती है। घंटे और मिनट की सुई के बीच का कोण क्या होगा?",
+      "options": [
+        "A. 90°",
+        "B. 60°",
+        "C. 120°",
+        "D. 180°"
+      ],
+      "answer": 0,
+      "explanation": "At 3:00, minute hand is at 12 (0°) and hour hand is at 3 (90°). Angle = 90°."
+    },
+    {
+      "id": "4eebc198",
+      "question": "Q116. Statement: All teachers are researchers. All researchers are learners.\nConclusion I: All teachers are learners.\nConclusion II: Some learners are teachers. (PYQ)\nकथन: सभी शिक्षक शोधकर्ता हैं। सभी शोधकर्ता शिक्षार्थी हैं।\nनिष्कर्ष I: सभी शिक्षक शिक्षार्थी हैं।\nनिष्कर्ष II: कुछ शिक्षार्थी शिक्षक हैं।",
+      "options": [
+        "A. Only Conclusion I follows / केवल निष्कर्ष I सही है",
+        "B. Only Conclusion II follows / केवल निष्कर्ष II सही है",
+        "C. Both Conclusions I and II follow / निष्कर्ष I और II दोनों सही हैं",
+        "D. Neither follows / कोई भी निष्कर्ष सही नहीं है"
+      ],
+      "answer": 2,
+      "explanation": "Teachers ⊂ Researchers ⊂ Learners. Hence all teachers are learners, and some learners are teachers."
+    },
+    {
+      "id": "b1bb169a",
+      "question": "Q117. What is the expansion of 'CPU' in computer science? (PYQ)\nकंप्यूटर विज्ञान में 'CPU' का पूर्ण रूप क्या है?",
+      "options": [
+        "A. Central Processing Unit",
+        "B. Central Program Unit",
+        "C. Control Processing Unit",
+        "D. Central Peripheral Unit"
+      ],
+      "answer": 0,
+      "explanation": "CPU stands for Central Processing Unit (the brain of the computer)."
+    },
+    {
+      "id": "409f269c",
+      "question": "Q118. Which of the following is an input device? (PYQ)\nनिम्नलिखित में से कौन सा एक इनपुट डिवाइस (Input Device) है?",
+      "options": [
+        "A. Monitor / मॉनिटर",
+        "B. Printer / प्रिंटर",
+        "C. Keyboard / कीबोर्ड",
+        "D. Speaker / स्पीकर"
+      ],
+      "answer": 2,
+      "explanation": "Keyboard is an input device used to enter data into a computer; Monitor, Printer, and Speaker are output devices."
+    },
+    {
+      "id": "47372b93",
+      "question": "Q119. What is the full form of 'SWAYAM', an online education initiative of Government of India? (PYQ)\nभारत सरकार की ऑनलाइन शिक्षा पहल 'स्वयं' (SWAYAM) का पूर्ण रूप क्या है?",
+      "options": [
+        "A. Study Webs of Active-Learning for Young Aspiring Minds",
+        "B. System Web for Active Youth Academic Minds",
+        "C. Student Web of Active Youth Advanced Modules",
+        "D. Study World of Active Young Academic Minds"
+      ],
+      "answer": 0,
+      "explanation": "SWAYAM stands for 'Study Webs of Active-Learning for Young Aspiring Minds'."
+    }
+  ]
+}

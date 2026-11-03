@@ -357,6 +357,40 @@ def load_results(user: str = ""):
         return list(csv.DictReader(fh))[::-1]
 
 
+# ---------- saved test attempts (full snapshot, so you can review them later) ----------
+def attempts_dir(user: str = "") -> Path:
+    return _user_dir(user) / "attempts"
+
+
+def save_attempt(user: str, att: dict) -> str:
+    """Store one finished test with its questions and your answers. Returns the attempt id."""
+    d = attempts_dir(user)
+    d.mkdir(parents=True, exist_ok=True)
+    aid = datetime.now().strftime("%Y%m%d_%H%M%S_") + uuid.uuid4().hex[:4]
+    _write(d / f"{aid}.json", {**att, "id": aid, "time": datetime.now().strftime("%Y-%m-%d %H:%M")})
+    return aid
+
+
+def list_attempts(user: str = "") -> list:
+    """Newest first. Each item is the full attempt dict."""
+    d = attempts_dir(user)
+    if not d.exists():
+        return []
+    out = []
+    for p in sorted(d.glob("*.json"), reverse=True):
+        try:
+            out.append(_read(p))
+        except Exception:
+            continue
+    return out
+
+
+def delete_attempt(user: str, aid: str) -> None:
+    p = attempts_dir(user) / f"{aid}.json"
+    if p.exists():
+        p.unlink()
+
+
 # ---------- progress: streaks, mistakes, bookmarks, subject accuracy ----------
 def pkey(slug: str, q: dict) -> str:
     return f"p|{slug}|{qid(q)}"
@@ -1293,6 +1327,30 @@ def test_running():
             st.button("Yes, submit now", type="primary", on_click=_t_submit)
 
 
+def review_block(qs, ans, series, test, kp):
+    """Wrong / Correct / Skipped review of a test. ans maps question index -> chosen option."""
+    flt = st.radio("Show", ["All", "Wrong", "Correct", "Skipped"], horizontal=True,
+                   label_visibility="collapsed", key=f"{kp}_filter")
+    saved = set(U.load_progress(user())["bm"])
+    shown = 0
+    for j, q in enumerate(qs):
+        your = ans.get(j)
+        state = "Skipped" if your is None else ("Correct" if your == q["answer"] else "Wrong")
+        if flt != "All" and state != flt:
+            continue
+        shown += 1
+        icon = {"Skipped": "⚪", "Correct": "✅", "Wrong": "❌"}[state]
+        k = U.tkey(series, test, q)
+        with st.expander(f"{icon}  Q{j + 1}. {q['question'][:90]}"):
+            st.markdown(f"**{q['question']}**")
+            option_cards(q, your)
+            st.info(q.get("explanation") or "No explanation added.")
+            st.button("🔖 Saved for revision" if k in saved else "🔖 Save for revision", key=f"{kp}_rv_{j}",
+                      on_click=toggle_bm, args=(k,))
+    if not shown:
+        st.caption("Nothing to show for this filter.")
+
+
 def test_result():
     t = S.t
     qs, ans = t["qs"], t["answers"]
@@ -1313,6 +1371,14 @@ def test_result():
                        "max_score": max_score, "correct": correct, "wrong": wrong, "unattempted": skipped}, user())
         U.record_answers(user(), [(U.tkey(t["series"], t["test"], qs[j]), a == qs[j]["answer"], "Mock tests")
                                   for j, a in ans.items()])
+        U.save_attempt(user(), {
+            "series_slug": t["series"], "test_slug": t["test"], "series": title_pretty, "test": t["title"],
+            "score": round(score, 2), "max_score": max_score, "correct": correct, "wrong": wrong,
+            "unattempted": skipped, "taken": taken, "marks": t["marks"], "neg": t["neg"],
+            "questions": [{"question": q["question"], "options": q["options"], "answer": q["answer"],
+                           "explanation": q.get("explanation", "")} for q in qs],
+            "answers": {str(j): a for j, a in ans.items()},
+        })
         t["saved"] = True
         if pct >= 80:
             st.balloons()
@@ -1342,25 +1408,73 @@ def test_result():
     r2.button("⬅ Back to test series", on_click=_t_exit)
 
     st.markdown("### Review & explanations")
-    flt = st.radio("Show", ["All", "Wrong", "Correct", "Skipped"], horizontal=True, label_visibility="collapsed")
-    saved = set(U.load_progress(user())["bm"])
-    shown = 0
-    for j, q in enumerate(qs):
-        your = ans.get(j)
-        state = "Skipped" if your is None else ("Correct" if your == q["answer"] else "Wrong")
-        if flt != "All" and state != flt:
-            continue
-        shown += 1
-        icon = {"Skipped": "⚪", "Correct": "✅", "Wrong": "❌"}[state]
-        k = U.tkey(t["series"], t["test"], q)
-        with st.expander(f"{icon}  Q{j + 1}. {q['question'][:90]}"):
-            st.markdown(f"**{q['question']}**")
-            option_cards(q, your)
-            st.info(q["explanation"] or "No explanation added.")
-            st.button("🔖 Saved for revision" if k in saved else "🔖 Save for revision", key=f"rv_{j}",
-                      on_click=toggle_bm, args=(k,))
-    if not shown:
-        st.caption("Nothing to show for this filter.")
+    review_block(qs, ans, t["series"], t["test"], "res")
+
+
+# =====================================================================
+# MY RESULTS (saved test attempts)
+# =====================================================================
+def _del_attempt(aid):
+    U.delete_attempt(user(), aid)
+    S.pq = {k: v for k, v in S.get("pq", {}).items() if not k.startswith("att_")}
+    S.pop("res_pick", None)
+
+
+def results_page():
+    page_head("My results", "Every test you submit is saved here with your right and wrong answers, so you can review it any time.")
+    atts = U.list_attempts(user())
+    if not atts:
+        st.info("No saved results yet. Submit a test from **Test Series** and it will appear here. "
+                "(Tests taken before this feature was added only show up as scores under Test Series.)")
+        return
+    ids = [a["id"] for a in atts]
+    by_id = {a["id"]: a for a in atts}
+    if S.get("res_pick") not in by_id:
+        S.pop("res_pick", None)
+    keep("res_pick", "att_view")
+
+    def label(i):
+        a = by_id[i]
+        return f"{a['time']}  ·  {a['test']}  ·  {a['score']:g}/{a['max_score']:g}"
+
+    aid = st.selectbox("Choose an attempt", ids, format_func=label, key="res_pick")
+    a = by_id[aid]
+    qs = a["questions"]
+    ans = {int(k): v for k, v in a["answers"].items()}
+    pct = (a["score"] / a["max_score"] * 100) if a["max_score"] else 0
+
+    with st.container(border=True):
+        c1, c2 = st.columns([1, 3], vertical_alignment="center")
+        c1.markdown(ring(pct, f"{a['score']:g}", f"out of {a['max_score']:g}"), unsafe_allow_html=True)
+        with c2:
+            st.markdown(f"**{a['test']}**  ·  {a['series']}  ·  {a['time']}")
+            md(f"""<div class="tiles">
+                <div class="tile ok"><b>{a['correct']}</b><span>correct</span></div>
+                <div class="tile bad"><b>{a['wrong']}</b><span>wrong</span></div>
+                <div class="tile"><b>{a['unattempted']}</b><span>skipped</span></div>
+                <div class="tile"><b>{mmss(a.get('taken', 0))}</b><span>time taken</span></div></div>""")
+
+    mode = st.radio("View", ["📖 Review answers", "🔁 Retry wrong & skipped"], horizontal=True,
+                    label_visibility="collapsed", key="att_view")
+    if mode.startswith("📖"):
+        review_block(qs, ans, a["series_slug"], a["test_slug"], f"att_{aid}")
+    else:
+        redo = [j for j, q in enumerate(qs) if ans.get(j) != q["answer"]]
+        if not redo:
+            st.success("You got everything right in this attempt. Nothing to retry!")
+        else:
+            st.caption(f"{len(redo)} question{'s' if len(redo) != 1 else ''} you got wrong or skipped. "
+                       "Answer them again here; they also update My mistakes.")
+
+            def build():
+                return [{**qs[j], "_key": U.tkey(a["series_slug"], a["test_slug"], qs[j]), "_group": "Mock tests"}
+                        for j in redo]
+
+            run_quiz(f"att_{aid}", ("att", aid), build, False)
+
+    st.divider()
+    with st.expander("🗑 Delete this saved result"):
+        st.button("Delete permanently", key=f"del_{aid}", on_click=_del_attempt, args=(aid,))
 
 
 def test_page():
@@ -1658,6 +1772,7 @@ PAGES = {
     "revision": ("🔖", "Revision", revision_page),
     "notes": ("📚", "Notes", notes_page),
     "tests": ("🧪", "Test Series", test_page),
+    "results": ("📊", "My Results", results_page),
     "admin": ("⚙️", "Admin", admin_page),
 }
 if S.get("page") not in PAGES:
@@ -1681,7 +1796,7 @@ with st.sidebar:
     goal = st.number_input("Daily goal (questions)", 5, 200, int(_prog["goal"]), 5)
     if int(goal) != int(_prog["goal"]):
         U.set_goal(S.user, goal)
-    md('<div class="side-note">App version 2.4 · single file</div>')
+    md('<div class="side-note">App version 2.5 · single file</div>')
     if S.get("t") and not S.t["submitted"] and S.page != "tests":
         md('<div class="side-note">⏱ A test is running. The timer keeps counting.</div>')
 

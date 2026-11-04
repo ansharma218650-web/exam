@@ -23,9 +23,13 @@ data from earlier versions keeps working.
 import csv
 import hashlib
 import io
+import base64
 import json
 import re
 import shutil
+import threading
+import urllib.error
+import urllib.request
 import uuid
 import zipfile
 from datetime import date, datetime, timedelta
@@ -39,6 +43,139 @@ NOTES_DIR = BASE / "notes"              # data/notes/index.json + data/notes/fil
 SAMPLE_DIR = Path(__file__).parent / "sample_data"
 for _d in (PRACTICE_DIR, TEST_DIR, NOTES_DIR / "files"):
     _d.mkdir(parents=True, exist_ok=True)
+
+
+# ---------- PERMANENT STORAGE (mirror of /data in a private GitHub repo) ----------
+# Cloud hosts (Streamlit Cloud etc.) erase local files on every restart / sleep.
+# Every file written under /data is therefore also saved to a private GitHub repo,
+# and restored from it when the app starts. app.py replaces SYNC with a dict that
+# survives reruns (see st.cache_resource in app.py).
+SYNC = {"ready": False, "error": "", "restored": 0, "lock": threading.Lock()}
+
+
+def _cfg():
+    import os
+    token = repo = branch = ""
+    try:
+        import streamlit as st
+        sec = st.secrets["storage"]
+        token, repo = sec.get("github_token", ""), sec.get("github_repo", "")
+        branch = sec.get("github_branch", "")
+    except Exception:
+        pass
+    token = token or os.environ.get("GITHUB_TOKEN", "")
+    repo = repo or os.environ.get("GITHUB_REPO", "")
+    branch = branch or os.environ.get("GITHUB_BRANCH", "") or "main"
+    return {"token": str(token).strip(), "repo": str(repo).strip(), "branch": str(branch).strip()}
+
+
+def sync_enabled() -> bool:
+    c = _cfg()
+    return bool(c["token"] and c["repo"])
+
+
+def _gh(method, path, payload=None):
+    c = _cfg()
+    req = urllib.request.Request(
+        f"https://api.github.com/repos/{c['repo']}/{path}", method=method,
+        data=None if payload is None else json.dumps(payload).encode("utf-8"),
+        headers={"Authorization": f"Bearer {c['token']}", "Accept": "application/vnd.github+json",
+                 "User-Agent": "supertet-app", "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=25) as r:
+        body = r.read()
+    return json.loads(body) if body else None
+
+
+def _remote_path(path) -> str:
+    return "data/" + Path(path).resolve().relative_to(BASE.resolve()).as_posix()
+
+
+def _remote_sha(rp):
+    try:
+        return _gh("GET", f"contents/{rp}?ref={_cfg()['branch']}")["sha"]
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return None
+        raise
+
+
+def _do_push(path):
+    f = Path(path)
+    rp = _remote_path(f)
+    with SYNC["lock"]:
+        try:
+            body = {"message": f"update {rp}", "branch": _cfg()["branch"],
+                    "content": base64.b64encode(f.read_bytes()).decode("ascii")}
+            for attempt in (1, 2):
+                sha = _remote_sha(rp)
+                if sha:
+                    body["sha"] = sha
+                try:
+                    _gh("PUT", f"contents/{rp}", body)
+                    SYNC["error"] = ""
+                    return
+                except urllib.error.HTTPError as e:
+                    if e.code not in (409, 422) or attempt == 2:
+                        raise
+        except Exception as e:
+            SYNC["error"] = f"could not save {rp}: {e}"
+
+
+def push(path, wait=False):
+    """Mirror one local file to GitHub. Skipped until the startup restore has finished,
+    so a half-empty local folder can never overwrite the saved copy."""
+    if not sync_enabled():
+        return
+    if not SYNC.get("ready"):
+        SYNC["error"] = "saved copy not loaded yet - this change was kept locally only"
+        return
+    if wait:
+        _do_push(path)
+    else:
+        threading.Thread(target=_do_push, args=(path,), daemon=True).start()
+
+
+def remove(path):
+    if not (sync_enabled() and SYNC.get("ready")):
+        return
+    try:
+        rp = _remote_path(path)
+        with SYNC["lock"]:
+            sha = _remote_sha(rp)
+            if sha:
+                _gh("DELETE", f"contents/{rp}", {"message": f"delete {rp}", "sha": sha, "branch": _cfg()["branch"]})
+    except Exception as e:
+        SYNC["error"] = f"could not delete remote copy: {e}"
+
+
+def pull_all() -> int:
+    """Restore /data from GitHub (remote wins). If the remote has no data yet, upload what is local."""
+    if not sync_enabled():
+        return 0
+    try:
+        try:
+            tree = _gh("GET", f"git/trees/{_cfg()['branch']}?recursive=1")
+            items = [t for t in tree.get("tree", []) if t["type"] == "blob" and t["path"].startswith("data/")]
+        except urllib.error.HTTPError as e:
+            if e.code not in (404, 409):      # empty repository / no such tree yet
+                raise
+            items = []
+        n = 0
+        for t in items:
+            blob = _gh("GET", f"git/blobs/{t['sha']}")
+            dst = BASE.parent / t["path"]
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            dst.write_bytes(base64.b64decode(blob["content"]))
+            n += 1
+        SYNC.update(ready=True, error="", restored=n)
+        if not items:                          # first run: upload existing local data once
+            for p in BASE.rglob("*"):
+                if p.is_file() and p.name != ".gitkeep":
+                    _do_push(p)
+        return n
+    except Exception as e:
+        SYNC.update(ready=False, error=f"could not reach GitHub storage: {e}")
+        return 0
 
 
 # ---------- basic helpers ----------
@@ -58,6 +195,7 @@ def _read(path: Path) -> dict:
 def _write(path: Path, data: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    push(path)
 
 
 def qid(q: dict) -> str:
@@ -245,6 +383,7 @@ def add_note(title: str, subject: str, description: str = "", pdf_bytes: bytes =
             raise ValueError("that file does not look like a valid PDF")
         (NOTES_DIR / "files").mkdir(parents=True, exist_ok=True)
         (NOTES_DIR / "files" / f"{nid}.pdf").write_bytes(pdf_bytes)
+        push(NOTES_DIR / "files" / f"{nid}.pdf", wait=True)
         entry.update(kind="pdf", size=len(pdf_bytes))
     else:
         if not (text or "").strip():
@@ -263,6 +402,7 @@ def delete_note(nid: str) -> None:
     keep = [n for n in _notes_index() if n["id"] != nid]
     _write(NOTES_DIR / "index.json", {"notes": keep})
     (NOTES_DIR / "files" / f"{nid}.pdf").unlink(missing_ok=True)
+    remove(NOTES_DIR / "files" / f"{nid}.pdf")
 
 
 # ---------- sample content ----------
@@ -280,6 +420,7 @@ def seed_sample() -> int:
         if not dst.exists():
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(src, dst)
+            push(dst)
             copied += 1
     return copied
 
@@ -307,6 +448,7 @@ def write_set(path, data):
 def delete_set(path):
     p = Path(path)
     p.unlink(missing_ok=True)
+    remove(p)
     if p.parent != PRACTICE_DIR and p.parent.exists() and not any(p.parent.iterdir()):
         p.parent.rmdir()
 
@@ -347,6 +489,7 @@ def save_result(row: dict, user: str = "") -> None:
         if new:
             w.writeheader()
         w.writerow({"time": datetime.now().strftime("%Y-%m-%d %H:%M"), **row})
+    push(f, wait=True)      # test results are saved before the page continues
 
 
 def load_results(user: str = ""):
@@ -357,38 +500,40 @@ def load_results(user: str = ""):
         return list(csv.DictReader(fh))[::-1]
 
 
-# ---------- saved test attempts (full snapshot, so you can review them later) ----------
+# ---------- saved test attempts (full snapshot: every question, your answer, explanation) ----------
 def attempts_dir(user: str = "") -> Path:
     return _user_dir(user) / "attempts"
 
 
-def save_attempt(user: str, att: dict) -> str:
-    """Store one finished test with its questions and your answers. Returns the attempt id."""
-    d = attempts_dir(user)
-    d.mkdir(parents=True, exist_ok=True)
-    aid = datetime.now().strftime("%Y%m%d_%H%M%S_") + uuid.uuid4().hex[:4]
-    _write(d / f"{aid}.json", {**att, "id": aid, "time": datetime.now().strftime("%Y-%m-%d %H:%M")})
+def save_attempt(user: str, data: dict) -> str:
+    """Store one finished test permanently. The questions are copied into the file, so the review
+    still works even if the teacher later edits or deletes the test."""
+    aid = datetime.now().strftime("%Y%m%d_%H%M%S") + "_" + uuid.uuid4().hex[:4]
+    data = {**data, "id": aid, "time": datetime.now().strftime("%Y-%m-%d %H:%M")}
+    f = attempts_dir(user) / f"{aid}.json"
+    f.parent.mkdir(parents=True, exist_ok=True)
+    f.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+    push(f, wait=True)
     return aid
 
 
 def list_attempts(user: str = "") -> list:
-    """Newest first. Each item is the full attempt dict."""
+    """All saved attempts, newest first."""
     d = attempts_dir(user)
-    if not d.exists():
-        return []
     out = []
-    for p in sorted(d.glob("*.json"), reverse=True):
-        try:
-            out.append(_read(p))
-        except Exception:
-            continue
-    return out
+    if d.exists():
+        for p in d.glob("*.json"):
+            try:
+                out.append(_read(p))
+            except Exception:
+                pass
+    return sorted(out, key=lambda a: a.get("id", ""), reverse=True)
 
 
 def delete_attempt(user: str, aid: str) -> None:
-    p = attempts_dir(user) / f"{aid}.json"
-    if p.exists():
-        p.unlink()
+    f = attempts_dir(user) / f"{aid}.json"
+    f.unlink(missing_ok=True)
+    remove(f)
 
 
 # ---------- progress: streaks, mistakes, bookmarks, subject accuracy ----------
@@ -519,6 +664,18 @@ def list_students():
 U = types.ModuleType("supertet_utils")
 U.__file__ = __file__
 exec(compile(_UTILS_SOURCE, "supertet_utils (embedded in app.py)", "exec"), U.__dict__)
+
+
+@st.cache_resource
+def _sync_state() -> dict:
+    # one dict for the whole server process, so "restored" survives Streamlit reruns
+    return {"ready": False, "error": "", "restored": 0, "lock": __import__("threading").Lock()}
+
+
+U.SYNC = _sync_state()
+if U.sync_enabled() and not U.SYNC["ready"]:
+    with st.spinner("Loading your saved results..."):
+        U.pull_all()
 
 st.set_page_config(
     page_title="SuperTET PRT Practice",
@@ -1236,12 +1393,6 @@ def test_menu():
                     <span class="chip gold">+{mpq:g} / -{d.get('negative_marks', 0):g}</span>{best}</div>""")
             b.button("Start test", key=f"start_{s}_{slug}", type="primary", disabled=not nq,
                      on_click=_start_test, args=(s, slug))
-    if hist:
-        with st.expander("📈 My previous attempts", expanded=False):
-            df = history_df(hist)
-            show_df(df.rename(columns={"time": "When", "series": "Series", "test": "Test", "score": "Score",
-                                       "max_score": "Out of", "correct": "Correct", "wrong": "Wrong",
-                                       "unattempted": "Skipped"}))
 
 
 @st.fragment(run_every=1)
@@ -1327,14 +1478,13 @@ def test_running():
             st.button("Yes, submit now", type="primary", on_click=_t_submit)
 
 
-def review_block(qs, ans, series, test, kp):
-    """Wrong / Correct / Skipped review of a test. ans maps question index -> chosen option."""
+def review_block(items, series, test, kp):
+    """items: [(question dict, your answer index or None)]. Wrong / Correct / Skipped filter + explanations."""
     flt = st.radio("Show", ["All", "Wrong", "Correct", "Skipped"], horizontal=True,
-                   label_visibility="collapsed", key=f"{kp}_filter")
+                   label_visibility="collapsed", key=f"flt_{kp}")
     saved = set(U.load_progress(user())["bm"])
     shown = 0
-    for j, q in enumerate(qs):
-        your = ans.get(j)
+    for j, (q, your) in enumerate(items):
         state = "Skipped" if your is None else ("Correct" if your == q["answer"] else "Wrong")
         if flt != "All" and state != flt:
             continue
@@ -1345,10 +1495,40 @@ def review_block(qs, ans, series, test, kp):
             st.markdown(f"**{q['question']}**")
             option_cards(q, your)
             st.info(q.get("explanation") or "No explanation added.")
-            st.button("🔖 Saved for revision" if k in saved else "🔖 Save for revision", key=f"{kp}_rv_{j}",
+            st.button("🔖 Saved for revision" if k in saved else "🔖 Save for revision", key=f"rv_{kp}_{j}",
                       on_click=toggle_bm, args=(k,))
     if not shown:
         st.caption("Nothing to show for this filter.")
+
+
+def saved_attempts():
+    """Every test the student has finished, kept permanently, with the full review."""
+    atts = U.list_attempts(user())
+    if not atts:
+        return
+    st.markdown("### 📂 My saved attempts")
+    st.caption("Every test you submit is saved permanently. Open one to review your wrong and correct answers any time.")
+    ids = [a["id"] for a in atts]
+    if S.get("sa_pick") not in ids:
+        S.pop("sa_pick", None)
+    by_id = {a["id"]: a for a in atts}
+    pick = st.selectbox("Attempt", ids, key="sa_pick", label_visibility="collapsed",
+                        format_func=lambda i: f"{by_id[i]['time']}  ·  {by_id[i]['series_title']} › {by_id[i]['title']}"
+                                              f"  ·  {by_id[i]['score']:g}/{by_id[i]['max_score']:g}")
+    a = by_id[pick]
+    taken = a.get("taken_seconds")
+    with st.container(border=True):
+        md(f"""<div class="tiles">
+            <div class="tile"><b>{a['score']:g}</b><span>of {a['max_score']:g}</span></div>
+            <div class="tile ok"><b>{a['correct']}</b><span>correct</span></div>
+            <div class="tile bad"><b>{a['wrong']}</b><span>wrong</span></div>
+            <div class="tile"><b>{a['unattempted']}</b><span>skipped</span></div>
+            {f'<div class="tile"><b>{mmss(taken)}</b><span>time taken</span></div>' if taken is not None else ''}</div>""")
+    items = [(q, q.get("your")) for q in a["questions"]]
+    review_block(items, a["series"], a["test"], f"sa_{pick}")
+    with st.popover("🗑 Delete this attempt"):
+        st.write("This removes the saved attempt and its review. Your score history stays.")
+        st.button("Yes, delete", key=f"sa_del_{pick}", on_click=U.delete_attempt, args=(user(), pick))
 
 
 def test_result():
@@ -1372,13 +1552,12 @@ def test_result():
         U.record_answers(user(), [(U.tkey(t["series"], t["test"], qs[j]), a == qs[j]["answer"], "Mock tests")
                                   for j, a in ans.items()])
         U.save_attempt(user(), {
-            "series_slug": t["series"], "test_slug": t["test"], "series": title_pretty, "test": t["title"],
+            "series": t["series"], "test": t["test"], "series_title": title_pretty, "title": t["title"],
             "score": round(score, 2), "max_score": max_score, "correct": correct, "wrong": wrong,
-            "unattempted": skipped, "taken": taken, "marks": t["marks"], "neg": t["neg"],
+            "unattempted": skipped, "taken_seconds": taken, "marks": t["marks"], "neg": t["neg"],
             "questions": [{"question": q["question"], "options": q["options"], "answer": q["answer"],
-                           "explanation": q.get("explanation", "")} for q in qs],
-            "answers": {str(j): a for j, a in ans.items()},
-        })
+                           "explanation": q.get("explanation", ""), "id": q.get("id"), "your": ans.get(j)}
+                          for j, q in enumerate(qs)]})
         t["saved"] = True
         if pct >= 80:
             st.balloons()
@@ -1407,74 +1586,27 @@ def test_result():
     r1.button("Retake this test", type="primary", on_click=_start_test, args=(t["series"], t["test"]))
     r2.button("⬅ Back to test series", on_click=_t_exit)
 
+    st.caption("✅ This attempt is saved permanently. Find it later in the **Results** menu.")
     st.markdown("### Review & explanations")
-    review_block(qs, ans, t["series"], t["test"], "res")
-
-
-# =====================================================================
-# MY RESULTS (saved test attempts)
-# =====================================================================
-def _del_attempt(aid):
-    U.delete_attempt(user(), aid)
-    S.pq = {k: v for k, v in S.get("pq", {}).items() if not k.startswith("att_")}
-    S.pop("res_pick", None)
+    review_block([(q, ans.get(j)) for j, q in enumerate(qs)], t["series"], t["test"], "now")
 
 
 def results_page():
-    page_head("My results", "Every test you submit is saved here with your right and wrong answers, so you can review it any time.")
-    atts = U.list_attempts(user())
-    if not atts:
-        st.info("No saved results yet. Submit a test from **Test Series** and it will appear here. "
-                "(Tests taken before this feature was added only show up as scores under Test Series.)")
+    page_head("Results", "Your score history and every test you have taken, saved permanently.")
+    hist = U.load_results(user())
+    if not hist and not U.list_attempts(user()):
+        st.info("No results yet. Submit a test from **Test Series** and it will appear here.")
         return
-    ids = [a["id"] for a in atts]
-    by_id = {a["id"]: a for a in atts}
-    if S.get("res_pick") not in by_id:
-        S.pop("res_pick", None)
-    keep("res_pick", "att_view")
-
-    def label(i):
-        a = by_id[i]
-        return f"{a['time']}  ·  {a['test']}  ·  {a['score']:g}/{a['max_score']:g}"
-
-    aid = st.selectbox("Choose an attempt", ids, format_func=label, key="res_pick")
-    a = by_id[aid]
-    qs = a["questions"]
-    ans = {int(k): v for k, v in a["answers"].items()}
-    pct = (a["score"] / a["max_score"] * 100) if a["max_score"] else 0
-
-    with st.container(border=True):
-        c1, c2 = st.columns([1, 3], vertical_alignment="center")
-        c1.markdown(ring(pct, f"{a['score']:g}", f"out of {a['max_score']:g}"), unsafe_allow_html=True)
-        with c2:
-            st.markdown(f"**{a['test']}**  ·  {a['series']}  ·  {a['time']}")
-            md(f"""<div class="tiles">
-                <div class="tile ok"><b>{a['correct']}</b><span>correct</span></div>
-                <div class="tile bad"><b>{a['wrong']}</b><span>wrong</span></div>
-                <div class="tile"><b>{a['unattempted']}</b><span>skipped</span></div>
-                <div class="tile"><b>{mmss(a.get('taken', 0))}</b><span>time taken</span></div></div>""")
-
-    mode = st.radio("View", ["📖 Review answers", "🔁 Retry wrong & skipped"], horizontal=True,
-                    label_visibility="collapsed", key="att_view")
-    if mode.startswith("📖"):
-        review_block(qs, ans, a["series_slug"], a["test_slug"], f"att_{aid}")
-    else:
-        redo = [j for j, q in enumerate(qs) if ans.get(j) != q["answer"]]
-        if not redo:
-            st.success("You got everything right in this attempt. Nothing to retry!")
-        else:
-            st.caption(f"{len(redo)} question{'s' if len(redo) != 1 else ''} you got wrong or skipped. "
-                       "Answer them again here; they also update My mistakes.")
-
-            def build():
-                return [{**qs[j], "_key": U.tkey(a["series_slug"], a["test_slug"], qs[j]), "_group": "Mock tests"}
-                        for j in redo]
-
-            run_quiz(f"att_{aid}", ("att", aid), build, False)
-
-    st.divider()
-    with st.expander("🗑 Delete this saved result"):
-        st.button("Delete permanently", key=f"del_{aid}", on_click=_del_attempt, args=(aid,))
+    if hist:
+        st.markdown("### 📈 Score history")
+        df = history_df(hist)
+        show_df(df.rename(columns={"time": "When", "series": "Series", "test": "Test", "score": "Score",
+                                   "max_score": "Out of", "correct": "Correct", "wrong": "Wrong",
+                                   "unattempted": "Skipped"}))
+        st.download_button("⬇ Download my results (CSV)", df.to_csv(index=False).encode("utf-8-sig"),
+                           file_name=f"{user() or 'guest'}_test_results.csv", mime="text/csv",
+                           key="dl_my_results")
+    saved_attempts()
 
 
 def test_page():
@@ -1772,7 +1904,7 @@ PAGES = {
     "revision": ("🔖", "Revision", revision_page),
     "notes": ("📚", "Notes", notes_page),
     "tests": ("🧪", "Test Series", test_page),
-    "results": ("📊", "My Results", results_page),
+    "results": ("📊", "Results", results_page),
     "admin": ("⚙️", "Admin", admin_page),
 }
 if S.get("page") not in PAGES:
@@ -1796,7 +1928,14 @@ with st.sidebar:
     goal = st.number_input("Daily goal (questions)", 5, 200, int(_prog["goal"]), 5)
     if int(goal) != int(_prog["goal"]):
         U.set_goal(S.user, goal)
-    md('<div class="side-note">App version 2.5 · single file</div>')
+    md('<div class="side-note">App version 2.7 · single file</div>')
+    if U.sync_enabled():
+        if U.SYNC["ready"] and not U.SYNC["error"]:
+            md('<div class="side-note">☁️ Results saved permanently</div>')
+        else:
+            md('<div class="side-note">⚠️ Cloud save problem: ' + html.escape(U.SYNC["error"] or "not connected") + '</div>')
+    else:
+        md('<div class="side-note">⚠️ Permanent storage is OFF - results are lost when the server restarts (see README)</div>')
     if S.get("t") and not S.t["submitted"] and S.page != "tests":
         md('<div class="side-note">⏱ A test is running. The timer keeps counting.</div>')
 

@@ -1,0 +1,1808 @@
+{
+  "title": "8(UPTET)",
+  "duration_minutes": 150,
+  "marks_per_question": 1.0,
+  "negative_marks": 0.0,
+  "questions": [
+    {
+      "id": "27372ff7",
+      "question": "1. Learning is best defined as: / सीखने की सबसे अच्छी परिभाषा हैः",
+      "options": [
+        "(A) A relatively permanent change in behaviour due to experience / अनुभव के कारण व्यवहार में होने वाला अपेक्षाकृत स्थायी परिवर्तन",
+        "(B) Physical growth / शारीरिक विकास",
+        "(C) Temporary mood change / अस्थायी मनोदशा परिवर्तन",
+        "(D) Maturation / परिपक्वता"
+      ],
+      "answer": 0,
+      "explanation": "Learning is defined as a relatively permanent change in behavior due to experience. / सीखने की सबसे अच्छी परिभाषा अनुभव के कारण व्यवहार में होने वाला अपेक्षाकृत स्थायी परिवर्तन है।"
+    },
+    {
+      "id": "ab5420b2",
+      "question": "2. An adolescent refusing to attempt difficult tasks may reflect: / यदि कोई किशोर कठिन कार्यों को करने से इनकार करता है, तो यह दर्शा सकता है:",
+      "options": [
+        "(A) Curiosity / जिज्ञासा",
+        "(B) Mastery orientation / निपुणता उन्मुखीकरण",
+        "(C) Fear of failure / असफलता का भय",
+        "(D) High need for affiliation / संबद्धता की उच्च आवश्यकता"
+      ],
+      "answer": 2,
+      "explanation": "Avoidance of difficult tasks often reflects a fear of failure. / कठिन कार्यों से बचना अक्सर असफलता के भय और नकारात्मक मूल्यांकन की चिंता को दर्शाता है।"
+    },
+    {
+      "id": "a40dad70",
+      "question": "3. Adapted Teaching Learning Materials (TLM) are required because: / अनुकूलित शिक्षण अधिगम सामग्री (टीएलएम) की आवश्यकता इसलिए है क्योंकिः",
+      "options": [
+        "(A) Inclusion lowers standards / समावेशन मानकों को कम करता है",
+        "(B) All learners learn identically / सभी शिक्षार्थी एक समान तरीके से सीखते हैं",
+        "(C) Exams demand uniformity / परीक्षाओं में एकरूपता की आवश्यकता होती है",
+        "(D) Learners have diverse needs / शिक्षार्थियों की आवश्यकताएँ भिन्न होती हैं"
+      ],
+      "answer": 3,
+      "explanation": "Adapted TLMs cater to diverse student learning needs. / अनुकूलित टीएलएम शिक्षार्थियों की व्यक्तिगत और विविध आवश्यकताओं को पूरा करते हैं।"
+    },
+    {
+      "id": "cb5a04ea",
+      "question": "4. The Socratic method of teaching primarily promotes: / सुकरात की शिक्षण पद्धति मुख्य रूप से निम्नलिखित को बढ़ावा देती है:",
+      "options": [
+        "(A) Memorization / स्मरण",
+        "(B) Critical thinking through questioning / प्रश्न पूछकर आलोचनात्मक चिंतन करना",
+        "(C) Passive listening / निष्क्रिय श्रवण",
+        "(D) Punishment / दंड"
+      ],
+      "answer": 1,
+      "explanation": "Socratic method stimulates critical thinking and deep inquiry through systematic questioning. / सुकरात पद्धति प्रश्नोत्तर के माध्यम से आलोचनात्मक चिंतन को बढ़ावा देती है।"
+    },
+    {
+      "id": "029fffd6",
+      "question": "5. A teaching maxim emphasizing progression from easy to difficult supports: / आसान से कठिन की ओर बढ़ने पर जोर देने वाला शिक्षण सिद्धांत इसका समर्थन करता है:",
+      "options": [
+        "(A) Silence / मौन",
+        "(B) Memorization / स्मरण",
+        "(C) Cognitive scaffolding / संज्ञानात्मक सहारा",
+        "(D) Punishment / दंड"
+      ],
+      "answer": 2,
+      "explanation": "Progressing from easy to complex structures provides cognitive scaffolding. / सरल से कठिन की ओर बढ़ना संज्ञानात्मक सहारा (Scaffolding) प्रदान करता है।"
+    },
+    {
+      "id": "e33a977a",
+      "question": "6. Plateau can be overcome by: / पठार को निम्न तरीकों से पार किया जा सकता है:",
+      "options": [
+        "(A) Reducing syllabus / पाठ्यक्रम को कम करना",
+        "(B) Ignoring learner / शिक्षार्थी की उपेक्षा करना",
+        "(C) Changing teaching strategy / शिक्षण की रणनीति बदलना",
+        "(D) Punishment / दंड देना"
+      ],
+      "answer": 2,
+      "explanation": "Plateaus in learning are overcome by changing pedagogical strategies and motivational resets. / शिक्षण विधि में बदलाव या रणनीतिक परिवर्तन से अधिगम पठार को दूर किया जा सकता है।"
+    },
+    {
+      "id": "58739759",
+      "question": "7. Inclusive school climate is characterized by: / समावेशी स्कूल वातावरण की विशेषताएं हैं:",
+      "options": [
+        "(A) Hierarchy / पदानुक्रम",
+        "(B) Uniformity / एकसमानता",
+        "(C) Segregation / पृथक्करण",
+        "(D) Respect and participation / सम्मान और सहभागिता"
+      ],
+      "answer": 3,
+      "explanation": "An inclusive school fosters mutual respect, acceptance, and active participation. / समावेशी विद्यालय का मुख्य आधार सभी के लिए सम्मान और सक्रिय सहभागिता है।"
+    },
+    {
+      "id": "727bf913",
+      "question": "8. According to Ausubel, learning failure may occur when: / आँसुबेल के अनुसार, सीखने में विफलता तब हो सकती है जबः",
+      "options": [
+        "(A) Homework increases / होमवर्क बढ़ता है",
+        "(B) Teaching ignores prior knowledge / शिक्षण पूर्व ज्ञान की अनदेखी करता है",
+        "(C) Competition rises / प्रतिस्पर्धा बढ़ती है",
+        "(D) Exams reduce / परीक्षाएं कम होती हैं"
+      ],
+      "answer": 1,
+      "explanation": "Ausubel's meaningful learning theory emphasizes anchoring new concepts to prior knowledge. / आँसुबेल के अनुसार अर्थपूर्ण अधिगम के लिए पूर्व ज्ञान से जुड़ाव आवश्यक है।"
+    },
+    {
+      "id": "f62516df",
+      "question": "9. Thorndike's Trial and error learning is limited because it: / थॉर्नडाइक का प्रयास एवं त्रुटि अधिगम सीमित है, क्योंकि यहः",
+      "options": [
+        "(A) Ignores cognition / संज्ञान की उपेक्षा करता है",
+        "(B) Supports ZPD / ZPD का समर्थन करता है",
+        "(C) Encourages insight / अंतर्दृष्टि को प्रोत्साहित करता है",
+        "(D) Promotes abstraction / अमूर्तन को बढ़ावा देता है"
+      ],
+      "answer": 0,
+      "explanation": "Thorndike's behaviorist model focuses on trial and error without accounting for cognitive insight. / थॉर्नडाइक का सिद्धांत संज्ञानात्मक प्रक्रियाओं की उपेक्षा करता है।"
+    },
+    {
+      "id": "041195d2",
+      "question": "10. Learning influenced by home and school context highlights: / घर और स्कूल के माहौल से प्रभावित अधिगम इन बातों को उजागर करता है:",
+      "options": [
+        "(A) Reflex control / प्रतिवर्त नियंत्रण",
+        "(B) Environmental factors / पर्यावरणीय कारक",
+        "(C) Genetic determinism / आनुवंशिक निर्धारणवाद",
+        "(D) Conditioning only / केवल अनुकूलन"
+      ],
+      "answer": 1,
+      "explanation": "Home and school settings represent environmental factors shaping cognitive and social growth. / घर और विद्यालय का परिवेश पर्यावरणीय कारकों के प्रभाव को दर्शाता है।"
+    },
+    {
+      "id": "6594456a",
+      "question": "11. According to the general principles of child development, why is development considered an ongoing process? / बच्चों के विकास के सामान्य सिद्धांतों के अनुसार, विकास को निरंतर प्रक्रिया क्यों माना जाता है?",
+      "options": [
+        "(A) Development continues from before birth until death / विकास जन्म से पहले से लेकर मृत्यु तक जारी रहता है",
+        "(B) Development depends only on physical growth / विकास केवल शारीरिक वृद्धि पर निर्भर करता है",
+        "(C) Development stops after adolescence / विकास किशोरावस्था के बाद रुक जाता है",
+        "(D) Development occurs only during schooling years / विकास केवल स्कूल जाने के वर्षों में होता है"
+      ],
+      "answer": 0,
+      "explanation": "The principle of continuity states development proceeds from conception throughout the entire lifespan. / विकास निरंतरता के सिद्धांत के तहत गर्भाधान से मृत्यु पर्यंत चलता रहता है।"
+    },
+    {
+      "id": "e8edba33",
+      "question": "12. Adolescents failing due to poor study habits reflect weakness in: / पढ़ने की खराब आदतों के कारण असफल होने वाले किशोरों में इस चीज़ की कमजोरी झलकती है:",
+      "options": [
+        "(A) Insight / अंतर्दृष्टि",
+        "(B) Reflexes / प्रतिवर्त क्रियाएँ",
+        "(C) Classical Conditioning / शास्त्रीय अनुकूलन",
+        "(D) Self-regulation / आत्म-नियमन"
+      ],
+      "answer": 3,
+      "explanation": "Effective study habits require metacognitive discipline and self-regulation. / अध्ययन की आदतें आत्म-नियमन और स्वायत्त नियंत्रण पर निर्भर करती हैं।"
+    },
+    {
+      "id": "dbbf2b61",
+      "question": "13. Adolescents staying awake late due to excessive screen time and irregular routines is an example of difficulties caused mainly by: / अत्यधिक स्क्रीन समय और अनियमित दिनचर्या के कारण किशोरों का देर रात तक जागना मुख्य रूप से निम्न में से कौन से कारणों से होने वाली कठिनाइयों का एक उदाहरण है?",
+      "options": [
+        "(A) Reflex weakness / प्रतिक्रियात्मक कमजोरी",
+        "(B) Poor motor coordination / ख़राब मोटर समन्वय",
+        "(C) Environmental factors / पर्यावरणीय कारक",
+        "(D) Intelligence deficit / बुद्धि की कमी"
+      ],
+      "answer": 2,
+      "explanation": "Screen time habits and lifestyle schedules are external environmental factors. / स्क्रीन समय और अनियमित दिनचर्या पर्यावरणीय व जीवनशैली कारकों का परिणाम हैं।"
+    },
+    {
+      "id": "906a04ef",
+      "question": "14. Equity differs from equality because equity means: / इक्विटी समानता से अलग है क्योंकि इक्विटी का मतलब है:",
+      "options": [
+        "(A) Same treatment / वही इलाज (समान व्यवहार)",
+        "(B) Fair support based on need / जरूरत के आधार पर निष्पक्ष सहायता",
+        "(C) Competition / प्रतिस्पर्धा",
+        "(D) Uniform instructions / एक समान निर्देश"
+      ],
+      "answer": 1,
+      "explanation": "Equity provides customized support based on individual need, unlike uniform equality. / इक्विटी का अर्थ आवश्यकतानुसार यथोचित और निष्पक्ष सहायता प्रदान करना है।"
+    },
+    {
+      "id": "4f1c607b",
+      "question": "15. In modern classrooms, the teacher's role is primarily that of a: / आधुनिक कक्षाओं में, शिक्षक की भूमिका मुख्य रूप से इस प्रकार होती है:",
+      "options": [
+        "(A) Controller / नियंत्रक",
+        "(B) Facilitator / सुविधाकर्ता",
+        "(C) Lecturer / व्याख्याता",
+        "(D) Examiner / परीक्षक"
+      ],
+      "answer": 1,
+      "explanation": "Under constructivism, the teacher functions as a facilitator of student-centered learning. / आधुनिक बाल-केंद्रित शिक्षा में शिक्षक की भूमिका सुविधाकर्ता/मार्गदर्शक की होती है।"
+    },
+    {
+      "id": "adb91a6b",
+      "question": "16. According to Thorndike, learning will not occur effectively unless the learner is: / थॉर्नडाइक के अनुसार, सीखना तब तक प्रभावी ढंग से नहीं होगा, जब तक कि सीखने वालाः",
+      "options": [
+        "(A) Tested / परीक्षित हो",
+        "(B) Silent / शांत हो",
+        "(C) Ready / तैयार हो",
+        "(D) Punished / दंडित हो"
+      ],
+      "answer": 2,
+      "explanation": "Thorndike's Law of Readiness states readiness is necessary for meaningful learning. / तत्परता के नियम के अनुसार शिक्षार्थी का मानसिक व शारीरिक रूप से तैयार होना अनिवार्य है।"
+    },
+    {
+      "id": "1424e828",
+      "question": "17. A student motivated only by grades is primarily driven by: / केवल अंकों से प्रेरित छात्र मुख्य रूप से ______ द्वारा प्रोत्साहित होता है।",
+      "options": [
+        "(A) Intrinsic motivation / मूलभूत (आंतरिक) प्रेरणा",
+        "(B) Mastery orientation / निपुणता अभिविन्यास",
+        "(C) Extrinsic motivation / बाहरी प्रेरणा",
+        "(D) Curiosity / जिज्ञासा"
+      ],
+      "answer": 2,
+      "explanation": "Grades and tangible rewards are external motivators. / अंक और बाह्य पुरस्कार बाह्य अभिप्रेरणा (Extrinsic motivation) के अंतर्गत आते हैं।"
+    },
+    {
+      "id": "c659d66e",
+      "question": "18. Classroom debates may create cognitive growth through: / कक्षा में होने वाली बहसें ______ के माध्यम से संज्ञानात्मक विकास को बढ़ावा दे सकती हैं।",
+      "options": [
+        "(A) Memorization / स्मरण",
+        "(B) Cognitive conflict / संज्ञानात्मक संघर्ष",
+        "(C) Silence / मौन",
+        "(D) Passive listening / निष्क्रिय श्रवण"
+      ],
+      "answer": 1,
+      "explanation": "Debates challenge beliefs, creating cognitive conflict (disequilibrium) that fosters higher-order schema adaptation. / विचार-विमर्श संज्ञानात्मक संघर्ष उत्पन्न कर नए विचारों को आत्मसात करने में मदद करता है।"
+    },
+    {
+      "id": "5a10aa70",
+      "question": "19. Learned helplessness in adolescence most directly affects: / किशोरावस्था में सीखी हुई लाचारी का सबसे सीधा प्रभाव ______ पर पड़ता है।",
+      "options": [
+        "(A) Persistence and effort / दृढ़ता और प्रयास",
+        "(B) Reflex speed / प्रतिक्रिया की गति",
+        "(C) Height / ऊँचाई",
+        "(D) Hearing / सुनवाई"
+      ],
+      "answer": 0,
+      "explanation": "Learned helplessness causes passivity and a sharp drop in persistence and effort. / सीखी हुई लाचारी से व्यक्ति का प्रयास और कार्य में दृढ़ता समाप्त हो जाती है।"
+    },
+    {
+      "id": "03869250",
+      "question": "20. A plateau in learning mathematics during adolescence may occur due to increasing demands for abstraction, indicating: / किशोरावस्था के दौरान गणित सीखने में ठहराव अमूर्तता की बढ़ती मांगों के कारण हो सकता है, जो निम्नलिखित संकेत देता है:",
+      "options": [
+        "(A) Permanent inability / स्थायी असमर्थता",
+        "(B) Reflex decline / पलटा गिरावट",
+        "(C) Developmental transition difficulty / विकासात्मक संक्रमण कठिनाई",
+        "(D) Reinforcement absence / सुदृढ़ीकरण की अनुपस्थिति"
+      ],
+      "answer": 2,
+      "explanation": "Moving from concrete to abstract operations presents developmental transitional hurdles. / अमूर्त चिंतन की ओर संक्रमण के दौरान अस्थायी कठिनाई अधिगम ठहराव ला सकती है।"
+    },
+    {
+      "id": "ce31bd04",
+      "question": "21. Cooperative learning promotes inclusion by: / सहयोगी सीखना समावेशन को बढ़ावा देता है:",
+      "options": [
+        "(A) Enhancing peer collaboration / सहपाठियों के सहयोग को बढ़ाना",
+        "(B) Encouraging hierarchy / पदानुक्रम को प्रोत्साहित करना",
+        "(C) Segregation in the classroom / कक्षा में अलगाव",
+        "(D) Ranking of learners / शिक्षार्थियों की रैंकिंग"
+      ],
+      "answer": 0,
+      "explanation": "Peer collaboration in cooperative learning promotes social belonging and inclusion. / सहयोगात्मक अधिगम सहपाठियों में परस्पर सहयोग और समावेशन की भावना बढ़ाता है।"
+    },
+    {
+      "id": "5dca2ec6",
+      "question": "22. Emotional counselling in adolescence primarily reduces: / किशोरावस्था में भावनात्मक परामर्श मुख्य रूप से कम करता है:",
+      "options": [
+        "(A) Reflexes / प्रतिक्रियाएँ",
+        "(B) Anxiety and confusion / चिंता और भ्रम",
+        "(C) Growth / विकास",
+        "(D) Academic knowledge / शैक्षणिक ज्ञान"
+      ],
+      "answer": 1,
+      "explanation": "Counselling assists adolescents in managing emotional turmoil, confusion, and anxiety. / भावनात्मक परामर्श किशोरावस्था की चिंता, द्वंद्व और भ्रम को कम करता है।"
+    },
+    {
+      "id": "ba21cc57",
+      "question": "23. Group projects enhance learning by: / ग्रुप प्रोजेक्ट द्वारा सीखने को बढ़ावा देते हैं:",
+      "options": [
+        "(A) Promoting copying / नकल को बढ़ावा देकर",
+        "(B) Eliminating individual effort / व्यक्तिगत प्रयास को समाप्त करके",
+        "(C) Reducing thinking / सोचने को कम करके",
+        "(D) Encouraging shared reasoning / साझा तर्क को प्रोत्साहित करके"
+      ],
+      "answer": 3,
+      "explanation": "Collaborative project work encourages discourse, shared inquiry, and mutual reasoning. / समूह परियोजनाएं छात्रों में साझा तर्क और सामूहिक चिंतन का विकास करती हैं।"
+    },
+    {
+      "id": "3d34d7f0",
+      "question": "24. Adapted homework demonstrates: / अनुकूलित गृहकार्य दर्शाता है:",
+      "options": [
+        "(A) Bias towards learning / सीखने के प्रति पूर्वाग्रह",
+        "(B) Lowered expectations / कम अपेक्षाएँ",
+        "(C) Segregation in the classroom / कक्षा में अलगाव",
+        "(D) Differentiation based on learner needs / शिक्षार्थी की आवश्यकताओं के आधार पर विभेदीकरण"
+      ],
+      "answer": 3,
+      "explanation": "Adapting assignments embodies differentiated instruction responding to individual needs. / अनुकूलित गृहकार्य व्यक्तिगत आवश्यकताओं के आधार पर विभेदीकृत शिक्षण को दर्शाता है।"
+    },
+    {
+      "id": "a7c7ceec",
+      "question": "25. A student who stops participating after harsh criticism demonstrates limitation of: / कड़ी आलोचना के बाद भाग लेना बंद कर देने वाला छात्र निम्नलिखित में से किस सीमा का प्रदर्शन करता है?",
+      "options": [
+        "(A) ZPD / ZPD",
+        "(B) Insight learning / अंतर्दृष्टि अधिगम",
+        "(C) Punishment-based control / दंड-आधारित नियंत्रण",
+        "(D) Positive reinforcement / सकारात्मक सुदृढ़ीकरण"
+      ],
+      "answer": 2,
+      "explanation": "Harsh negative consequences demonstrate how punishment-based control causes behavioral withdrawal. / अत्यधिक आलोचना और दंड शिक्षार्थी की सहभागिता को समाप्त कर देते हैं।"
+    },
+    {
+      "id": "b290f61d",
+      "question": "26. Adolescents require autonomy because: / किशोरों को स्वायत्तता की आवश्यकता होती है क्योंकिः",
+      "options": [
+        "(A) They are children / वे बच्चे हैं",
+        "(B) They seek independence / वे स्वतंत्रता चाहते हैं",
+        "(C) They depend on reflexes / वे प्रतिक्रियाओं पर निर्भर हैं",
+        "(D) They lack reasoning / उनके पास तर्क की कमी है"
+      ],
+      "answer": 1,
+      "explanation": "Developmentally, adolescents strive to establish self-identity, agency, and independence. / किशोरावस्था में स्वायत्तता और स्वतंत्रता की चाह स्वाभाविक विकासात्मक आवश्यकता है।"
+    },
+    {
+      "id": "20af1108",
+      "question": "27. School environment affects child development through: / स्कूल का वातावरण बच्चे के विकास को निम्न तरीकों से प्रभावित करता है:",
+      "options": [
+        "(A) Reflexes / प्रतिक्रियाएँ",
+        "(B) Curriculum and teacher interaction / पाठ्यक्रम और शिक्षक का संवाद",
+        "(C) Genes only / केवल जीन",
+        "(D) Instincts / सहज प्रवृत्ति"
+      ],
+      "answer": 1,
+      "explanation": "Schools shape social and cognitive growth through curriculum design and teacher-student interactions. / विद्यालय का प्रभाव पाठ्यक्रम और शिक्षकों के साथ सकारात्मक अंतःक्रिया पर निर्भर करता है।"
+    },
+    {
+      "id": "26be5bdb",
+      "question": "28. Learning strategies like concept mapping enhance: / अवधारणा मानचित्रण जैसी शिक्षण रणनीतियाँ ______ को बढ़ाती हैं।",
+      "options": [
+        "(A) Reflex action / प्रतिक्रियात्मक क्रिया",
+        "(B) Organization of knowledge / ज्ञान का संगठन",
+        "(C) Surface recall / सतही स्मरण",
+        "(D) Passive learning / निष्क्रिय अधिगम"
+      ],
+      "answer": 1,
+      "explanation": "Concept maps facilitate meaningful learning by structuring and linking conceptual knowledge. / कॉन्सेप्ट मैपिंग से ज्ञान का तार्किक और व्यवस्थित संगठन होता है।"
+    },
+    {
+      "id": "a07df083",
+      "question": "29. A Grade 7 student avoids group work due to social anxiety. The most inclusive strategy would be: / एक कक्षा 7 का छात्र सामाजिक चिंता के कारण समूह कार्य से बचता है। सबसे समावेशी रणनीति होगी:",
+      "options": [
+        "(A) Exempt the student permanently / छात्र को स्थायी रूप से छूट देना",
+        "(B) Publicly criticize avoidance / बचने की सार्वजनिक रूप से आलोचना करना",
+        "(C) Force participation immediately / तुरंत भागीदारी के लिए मजबूर करें",
+        "(D) Gradually scaffold participation with peer support / सहपाठियों के सहयोग से धीरे-धीरे भागीदारी को बढ़ावा देना"
+      ],
+      "answer": 3,
+      "explanation": "Scaffolding small steps with supportive peers reduces anxiety and builds self-efficacy. / सहपाठियों के सहयोग से धीरे-धीरे भागीदारी बढ़ाना सबसे समावेशी दृष्टिकोण है।"
+    },
+    {
+      "id": "2cce4148",
+      "question": "30. An inclusive facilitator during conflict between diverse groups should prioritize: / अलग-अलग समूहों के बीच टकराव के दौरान, एक समावेशी सुविधाकार को इसे प्राथमिकता देनी चाहिए:",
+      "options": [
+        "(A) Authority dominance / प्राधिकार का प्रभुत्व",
+        "(B) Avoidance / परिहार",
+        "(C) Calm and respectful discussions / शांत और सम्मानजनक चर्चाएँ",
+        "(D) Suspension of the students from the school / छात्रों को स्कूल से निलंबित करना"
+      ],
+      "answer": 2,
+      "explanation": "Respectful, moderated dialogue builds empathy and resolves intergroup conflict constructively. / शांत और सम्मानजनक संवाद से आपसी टकराव को रचनात्मक रूप से सुलझाया जा सकता है।"
+    },
+    {
+      "id": "d79f3667",
+      "question": "31. 'दन्त' का तद्भव रूप है- / What is the Tadbhava form of the word 'Danta'?",
+      "options": [
+        "(A) दंतव्य (Dantavya)",
+        "(B) दंतकथा (Dantakatha)",
+        "(C) दाँत (Daant)",
+        "(D) दंतुर (Dantur)"
+      ],
+      "answer": 2,
+      "explanation": "संस्कृत शब्द 'दन्त' का तद्भव रूप 'दाँत' होता है। / The Tadbhava form of the Sanskrit word 'Danta' is 'Daant'."
+    },
+    {
+      "id": "f737a98a",
+      "question": "32. तरंग - तुरंग, युग्म शब्दों का सही अर्थ चयनित कीजिए। / Select the correct meaning pair for 'Tarang - Turang':",
+      "options": [
+        "(A) बहस - विवाद (Argument - Dispute)",
+        "(B) कंपन - हवा (Vibration - Air)",
+        "(C) उल्का - भूकंप (Meteor - Earthquake)",
+        "(D) लहर - अश्व (Wave - Horse)"
+      ],
+      "answer": 3,
+      "explanation": "'तरंग' का अर्थ लहर तथा 'तुरंग' का अर्थ अश्व (घोड़ा) है। / 'Tarang' means wave and 'Turang' means horse."
+    },
+    {
+      "id": "ad53d8e5",
+      "question": "33. महल शब्द का विपरीतार्थक है - / Antonym of the word 'Mahal' (Palace) is:",
+      "options": [
+        "(A) धनी (Rich)",
+        "(B) ठोस (Solid)",
+        "(C) हवेली (Mansion)",
+        "(D) झोंपड़ी (Hut)"
+      ],
+      "answer": 3,
+      "explanation": "महल का विलोम शब्द झोंपड़ी अथवा कुटिया है। / The opposite of 'Mahal' (palace) is 'Jhompri' (hut)."
+    },
+    {
+      "id": "acd6cf98",
+      "question": "34. अनुस्वार युक्त मानक शब्द चुनें- / Choose the standard word containing correct Anusvara:",
+      "options": [
+        "(A) सगटनं",
+        "(B) संगटन",
+        "(C) सर्गठन",
+        "(D) संगठन"
+      ],
+      "answer": 3,
+      "explanation": "वर्तनी की दृष्टि से शुद्ध मानक शब्द 'संगठन' है। / The standard correct spelling is 'संगठन' (Organisation)."
+    },
+    {
+      "id": "119e2738",
+      "question": "35. निम्नलिखित में संबंधबोधक अव्यय को पहचानिए। / Identify the Sambandhbodhak Avyaya (postpositional relation):",
+      "options": [
+        "(A) अवश्य (Certainly)",
+        "(B) क्योंकि (Because)",
+        "(C) सच (True)",
+        "(D) की ओर (Towards)"
+      ],
+      "answer": 3,
+      "explanation": "'की ओर' संबंधबोधक अव्यय है जो दिशा या संबंध जोड़ता है। / 'की ओर' denotes direction/relationship connecting nouns/pronouns."
+    },
+    {
+      "id": "2a19132e",
+      "question": "36. उचित विराम चिह्न लगाइए- मुझे आम सेब केला और अंगूर पसंद हैं / Punctuate correctly:",
+      "options": [
+        "(A) मुझे आम, सेब केला, और अंगूर पसंद हैं।",
+        "(B) मुझे आम सेब केला, और अंगूर पसंद हैं।",
+        "(C) मुझे आम सेब, केला और अंगूर पसंद हैं।",
+        "(D) मुझे आम, सेब, केला और अंगूर पसंद हैं।"
+      ],
+      "answer": 3,
+      "explanation": "समान पदों के पृथक्करण के लिए अल्पविराम लगता है: मुझे आम, सेब, केला और अंगूर पसंद हैं। / Correct comma placement separates serial items."
+    },
+    {
+      "id": "8414d2fa",
+      "question": "37. 'घाट-घाट का पानी पीना' का अर्थ है / Meaning of the idiom 'Ghat-ghat ka pani peena':",
+      "options": [
+        "(A) गली गली घूमना (Roaming streets)",
+        "(B) काफ़ी अनुभव होना (Having wide experience)",
+        "(C) बेकार घूमना (Wandering aimlessly)",
+        "(D) घाट घाट घूमना (Visiting riverbanks)"
+      ],
+      "answer": 1,
+      "explanation": "मुहावरे का अर्थ अत्यधिक अनुभवी होना है। / Means being experienced in various walks of life."
+    },
+    {
+      "id": "f0d4db41",
+      "question": "38. किला - कीला, युग्म शब्दों का सही अर्थ है / Correct meanings of 'Kila - Keela':",
+      "options": [
+        "(A) समय - कील (Time - Nail)",
+        "(B) दुर्ग - लोहे या अन्य धातु की बनी कील (Fort - Metal nail/pin)",
+        "(C) कीड़ा - मच्छर (Insect - Mosquito)",
+        "(D) कीट - पतंग (Bug - Kite)"
+      ],
+      "answer": 1,
+      "explanation": "'किला' का अर्थ दुर्ग और 'कीला' का अर्थ धातु की नुकीली कील है। / 'Kila' denotes a fort; 'Keela' denotes a metallic peg or nail."
+    },
+    {
+      "id": "75533382",
+      "question": "39. 'दुश्चरित्र' का सही समास विग्रह रूप चुनें। / Correct Samas Vigraha of 'Dushcharitra':",
+      "options": [
+        "(A) बुरा है जो चरित्र (Character that is bad)",
+        "(B) हीन चरित्र (Degraded character)",
+        "(C) दुश्चरित्र (Dushcharitra)",
+        "(D) सदाचारी (Virtuous)"
+      ],
+      "answer": 0,
+      "explanation": "यह कर्मधारय समास है: बुरा है जो चरित्र = दुश्चरित्र। / Karmadharaya Samas."
+    },
+    {
+      "id": "223c77f4",
+      "question": "40. 'चंद्रवदन' का सही समास विग्रह रूप चयनित कीजिए। / Correct Samas Vigraha of 'Chandravadan':",
+      "options": [
+        "(A) चंदा का बदन (Body of moon)",
+        "(B) चंद्र के समान वदन (Face/body like the moon)",
+        "(C) चांद सा मुख (Moon-like mouth)",
+        "(D) चंद्रमुख (Chandramukh)"
+      ],
+      "answer": 1,
+      "explanation": "उपमेय-उपमान कर्मधारय समास: चंद्र के समान वदन = चंद्रवदन। / Karmadharaya Samas."
+    },
+    {
+      "id": "ba95889c",
+      "question": "41. 'मेघ' का समानार्थी शब्द क्या है? / Synonym of 'Megh' (Cloud):",
+      "options": [
+        "(A) गगन (Sky)",
+        "(B) हवा (Wind)",
+        "(C) पानी (Water)",
+        "(D) बादल (Cloud)"
+      ],
+      "answer": 3,
+      "explanation": "'मेघ' का पर्यायवाची 'बादल', जलधर, वारिद आदि है। / Synonym of Megh is Badal."
+    },
+    {
+      "id": "b3c2de3d",
+      "question": "42. 'ध्यानपूर्वक' यह शब्द किस क्रियाविशेषण का उदाहरण है? / 'Dhyanpoorvak' is an example of which adverb?",
+      "options": [
+        "(A) परिमाणवाचक (Quantity)",
+        "(B) रीतिवाचक (Manner)",
+        "(C) कालवाचक (Time)",
+        "(D) स्थानवाचक (Place)"
+      ],
+      "answer": 1,
+      "explanation": "क्रिया के करने की रीति या ढंग बताने के कारण यह रीतिवाचक क्रियाविशेषण है। / Adverb of manner."
+    },
+    {
+      "id": "e4b2a7a0",
+      "question": "43. 'राम + आलय' का सन्धि रूप क्या है? / Sandhi of 'Ram + Aalaya':",
+      "options": [
+        "(A) रामालयः",
+        "(B) रमालय",
+        "(C) रामालय",
+        "(D) रामाले"
+      ],
+      "answer": 2,
+      "explanation": "अ + आ = आ (दीर्घ स्वर संधि): राम + आलय = रामालय। / Dirgha Svara Sandhi."
+    },
+    {
+      "id": "afd54b83",
+      "question": "44. 'उसका सिर खुजलाता है।' यह कौन-सी क्रिया है? / In 'Uska sir khujlata hai', what type of verb is it?",
+      "options": [
+        "(A) अवकाशबोधक संयुक्त क्रिया",
+        "(B) सकर्मक (Transitive)",
+        "(C) अनुमतिबोधक संयुक्त क्रिया",
+        "(D) अकर्मक क्रिया (Intransitive)"
+      ],
+      "answer": 3,
+      "explanation": "कर्म के अभाव के कारण यह अकर्मक क्रिया है। / Intransitive verb since no direct object is present."
+    },
+    {
+      "id": "f23f824d",
+      "question": "45. चंद्रमा तथा ब्राह्मण के लिए एक शब्द का उपयोग करते हैं, वह कौन-सा है? / A single word used for both 'Moon' and 'Brahmin':",
+      "options": [
+        "(A) श्रेष्ठ (Supreme)",
+        "(B) वर्ण (Varna)",
+        "(C) सागर (Ocean)",
+        "(D) द्विज (Dwij)"
+      ],
+      "answer": 3,
+      "explanation": "'द्विज' अनेकार्थी शब्द है, जिसका अर्थ ब्राह्मण, चंद्रमा, पक्षी और दाँत होता है। / 'Dwij' means twice-born, signifying both moon and brahmin."
+    },
+    {
+      "id": "954bc6ba",
+      "question": "46. 'त्र' व्यंजन किन दो वर्णों से मिलकर बना है? / The conjunct consonant 'Tra' is composed of:",
+      "options": [
+        "(A) त् + र",
+        "(B) त् + य",
+        "(C) त्र + अ",
+        "(D) त् + न"
+      ],
+      "answer": 0,
+      "explanation": "'त्र' एक संयुक्त व्यंजन है जो त् + र से बनता है। / Formed by the union of 'त्' and 'र'."
+    },
+    {
+      "id": "789dc7a4",
+      "question": "47. निम्न में अर्धविराम (;) का सही प्रयोग कौन सा है? / Correct use of semicolon (;):",
+      "options": [
+        "(A) राम, श्याम; मोहन स्कूल गए।",
+        "(B) राम; श्याम, मोहन स्कूल गए।",
+        "(C) राम श्याम मोहन; स्कूल गए।",
+        "(D) राम स्कूल गया; श्याम घर पर रहा।"
+      ],
+      "answer": 3,
+      "explanation": "दो स्वतंत्र उपवाक्यों को जोड़ने के लिए अर्धविराम का प्रयोग होता है। / Semicolon links two independent coordinate clauses."
+    },
+    {
+      "id": "0e537dcf",
+      "question": "48. \"भैंस का दूध कितने रूपये लीटर है?\" इस वाक्य में 'दूध' कौन-सी संज्ञा है? / In this sentence, what type of noun is 'Doodh' (Milk)?",
+      "options": [
+        "(A) जातिवाचक संज्ञा (Common noun)",
+        "(B) समूहवाचक संज्ञा (Collective noun)",
+        "(C) भाववाचक संज्ञा (Abstract noun)",
+        "(D) द्रव्यवाचक संज्ञा (Material noun)"
+      ],
+      "answer": 3,
+      "explanation": "तरल पदार्थ व नाप-तौल की सामग्री होने से यह द्रव्यवाचक संज्ञा है। / Material noun."
+    },
+    {
+      "id": "db8fee97",
+      "question": "49. 'श्याम पानी पीता है।' बताइए कि इसमें क्रिया किस प्रकार की है? / In 'Shyam paani peeta hai', what type of verb is used?",
+      "options": [
+        "(A) द्विकर्मक क्रिया (Ditransitive)",
+        "(B) शक्तिबोधक संयुक्त क्रिया",
+        "(C) एककर्मक क्रिया (Monotransitive)",
+        "(D) इच्छाबोधक संयुक्त क्रिया"
+      ],
+      "answer": 2,
+      "explanation": "वाक्य में केवल एक कर्म ('पानी') है, अतः यह एककर्मक क्रिया है। / Monotransitive verb with a single direct object."
+    },
+    {
+      "id": "73b6787e",
+      "question": "50. 'र' के साथ उ या ऊ की मात्रा: / The vowel matras 'u' or 'oo' with the consonant 'r':",
+      "options": [
+        "(A) बीच में लगती है (Attached in the middle)",
+        "(B) अलग से लगती है (Attached separately)",
+        "(C) नीचे लगती है (Attached at the bottom)",
+        "(D) ऊपर लगती है (Attached at the top)"
+      ],
+      "answer": 0,
+      "explanation": "'र' के पेट (मध्य) में उ या ऊ की मात्रा लगती है (रु, रू)। / In Hindi script, vowel matras of u/oo join the middle of 'र'."
+    },
+    {
+      "id": "da94a3c0",
+      "question": "51. संयुक्ताक्षर शब्दों में व्यंजन के बीच क्या नहीं होता है? / In conjunct consonants (Samyuktashar), what is absent between consonants?",
+      "options": [
+        "(A) विसर्ग (Visarga)",
+        "(B) अनुस्वार (Anusvara)",
+        "(C) स्वर (Vowel)",
+        "(D) व्यंजन (Consonant)"
+      ],
+      "answer": 2,
+      "explanation": "संयुक्ताक्षर में दो व्यंजनों के बीच स्वर का लोप होता है। / A conjunct consonant occurs when consonants combine without an intervening vowel."
+    },
+    {
+      "id": "eef3e574",
+      "question": "52. इनमें से देशज शब्द चुनें - / Identify the Deshaj (indigenous) word:",
+      "options": [
+        "(A) नेत्र (Netra)",
+        "(B) गड़बड़ (Gadbad)",
+        "(C) वृक्ष (Vriksha)",
+        "(D) कृष्ण (Krishna)"
+      ],
+      "answer": 1,
+      "explanation": "'गड़बड़' देशज शब्द है जबकि अन्य तत्सम शब्द हैं। / 'Gadbad' is a native Deshaj word."
+    },
+    {
+      "id": "8cff1ac6",
+      "question": "53. 'मेरा विचार है कि आज घूमने चलें।' यह कौन-सा वाक्य है? / What type of sentence is 'Mera vichar hai ki aaj ghoomne chalein'?",
+      "options": [
+        "(A) संयुक्त वाक्य (Compound)",
+        "(B) मिश्र वाक्य (Complex)",
+        "(C) सरल वाक्य (Simple)",
+        "(D) प्रश्नार्थक वाक्य (Interrogative)"
+      ],
+      "answer": 1,
+      "explanation": "'कि' संयोजक से उपवाक्य जुड़ा होने से यह मिश्र वाक्य है। / Complex sentence connected with subordinating conjunction 'कि'."
+    },
+    {
+      "id": "7155fa05",
+      "question": "54. 'चुल्लू भर पानी में डूब मरना' का अर्थ है - / Meaning of idiom 'Chullu bhar pani mein doob marna':",
+      "options": [
+        "(A) नहाने में कम पानी इस्तेमाल करना",
+        "(B) कम पानी में डुबकी मारना",
+        "(C) पानी में तैरना",
+        "(D) शर्म अनुभव करना (To feel deeply ashamed)"
+      ],
+      "answer": 3,
+      "explanation": "मुहावरे का अर्थ अत्यंत लज्जित या शर्मिंदा होना है। / To feel intense shame or embarrassment."
+    },
+    {
+      "id": "e9eec6cc",
+      "question": "55. 'निः + चल' का सन्धि रूप क्या है? / Sandhi of 'Nih + Chal':",
+      "options": [
+        "(A) निष्वल",
+        "(B) निशचल",
+        "(C) निश्चल",
+        "(D) निःचल"
+      ],
+      "answer": 2,
+      "explanation": "विसर्ग के बाद 'च' आने पर विसर्ग 'श्' में बदल जाता है (निः + चल = निश्चल)। / Visarga Sandhi rule turns visarga to 'श्' before 'च'."
+    },
+    {
+      "id": "75242469",
+      "question": "56. 'मेज पर पुस्तक रखी है।' यह कौन-सा वाक्य है? / What type of sentence is 'Mej par pustak rakhi hai'?",
+      "options": [
+        "(A) मिश्र वाक्य (Complex)",
+        "(B) संयुक्त वाक्य (Compound)",
+        "(C) सरल वाक्य (Simple)",
+        "(D) प्रश्नवाचक वाक्य (Interrogative)"
+      ],
+      "answer": 2,
+      "explanation": "एक उद्देश्य और एक विधेय होने के कारण यह सरल वाक्य है। / Simple sentence with single subject and predicate."
+    },
+    {
+      "id": "2f117d40",
+      "question": "57. निम्न में से पाई वाले व्यंजनों के साथ नीचे तिरछी रेखा के रूप में लगे 'र' युक्त शब्द को चुनिए। / Word having Paden 'ra' as a diagonal slash with standing line consonant:",
+      "options": [
+        "(A) सकरम",
+        "(B) सक्रम",
+        "(C) सकर्म",
+        "(D) सर्कम"
+      ],
+      "answer": 1,
+      "explanation": "'सक्रम' में क के नीचे तिरछी रेखा (पदेन 'र') प्रयुक्त है। / 'सक्रम' uses diagonal stroke Paden 'ra'."
+    },
+    {
+      "id": "663d4376",
+      "question": "58. गद्यांश के अनुसार, हिंदुस्तान के अंदर की ही हिंदुस्तानी कला को जानना किसके बराबर है? / According to passage, knowing Indian art inside India only is equivalent to:",
+      "options": [
+        "(A) अन्य देशों की कलाओं को जानने के बराबर",
+        "(B) बाहरी दुनिया के जानने के बराबर",
+        "(C) अपनी संस्कृति को जानने के बराबर",
+        "(D) आधी कहानी जानने के बराबर"
+      ],
+      "answer": 3,
+      "explanation": "गद्यांश के अनुसार यह आधी कहानी जानने के बराबर है। / Equivalent to knowing only half the story as per passage."
+    },
+    {
+      "id": "8b633dd3",
+      "question": "59. गद्यांश के अनुसार, उत्तराखंड के ऐपण को उत्तर प्रदेश में किस नाम से जाना जाता है? / In UP, Uttarakhand's Aipan is known as:",
+      "options": [
+        "(A) अरिपन (Aripan)",
+        "(B) रंगोली (Rangoli)",
+        "(C) कोलम (Kolam)",
+        "(D) चौकपूरना (Chowkpoorna)"
+      ],
+      "answer": 3,
+      "explanation": "गद्यांश में उल्लिखित है कि यूपी और एमपी में इसे 'चौकपूरना' कहते हैं। / Known as Chowkpoorna in UP."
+    },
+    {
+      "id": "5cd024b8",
+      "question": "60. गद्यांश के अनुसार रिक्त स्थान की पूर्ति कीजिए: कलाओं का अद्भुत संसार हमारी संस्कृति की ______ है। / Fill in the blank: The wonderful world of arts is the ______ of our culture.",
+      "options": [
+        "(A) पहचान (Identity)",
+        "(B) रंगोली (Rangoli)",
+        "(C) चित्रकला (Painting)",
+        "(D) सौंदर्य (Beauty)"
+      ],
+      "answer": 0,
+      "explanation": "गद्यांश के अनुसार कलाओं का अद्भुत संसार हमारी संस्कृति की 'पहचान' है। / The passage confirms it is our culture's identity ('पहचान')."
+    },
+    {
+      "id": "b61b2d99",
+      "question": "61. Choose the word that belongs to the category of an abstract noun in the sentence: \"Her kindness impressed everyone.\" / वाक्य में भाववाचक संज्ञा (Abstract Noun) चुनें:",
+      "options": [
+        "(A) everyone",
+        "(B) her",
+        "(C) impressed",
+        "(D) kindness"
+      ],
+      "answer": 3,
+      "explanation": "'Kindness' is an abstract noun denoting a quality. / 'Kindness' (दयालुता) एक भाववाचक संज्ञा है।"
+    },
+    {
+      "id": "5d5962a1",
+      "question": "62. Select the sentence containing a correctly used reciprocal pronoun: / सही पारस्परिक सर्वनाम (Reciprocal Pronoun) वाला वाक्य चुनें:",
+      "options": [
+        "(A) The committee members appreciated himself for the effort.",
+        "(B) The two brothers blamed each other for the incident.",
+        "(C) The players congratulated one another after himself won the match.",
+        "(D) The students discussed themselves before the examination."
+      ],
+      "answer": 1,
+      "explanation": "'Each other' is used for two entities. / दो व्यक्तियों के लिए 'each other' का प्रयोग होता है।"
+    },
+    {
+      "id": "28a2b8db",
+      "question": "63. Choose the sentence with an appropriate conjunction indicating purpose: / उद्देश्य दर्शाने वाले उपयुक्त समुच्चयबोधक (Conjunction) वाला वाक्य चुनें:",
+      "options": [
+        "(A) He studied hard unless he could qualify for the fellowship.",
+        "(B) He studied hard whereas he could qualify for the fellowship.",
+        "(C) He studied hard so that he could qualify for the fellowship.",
+        "(D) He studied hard despite he could qualify for the fellowship."
+      ],
+      "answer": 2,
+      "explanation": "'So that' indicates purpose. / 'So that' उद्देश्य (ताकि) को दर्शाता है।"
+    },
+    {
+      "id": "695bef61",
+      "question": "64. Select the sentence containing the correct use of a preposition with a noun: / संज्ञा के साथ सही कारक-चिह्न/प्रीपोजिशन वाला वाक्य चुनें:",
+      "options": [
+        "(A) There is no exception to this regulation.",
+        "(B) There is no exception upon this regulation.",
+        "(C) There is no exception of this regulation.",
+        "(D) There is no exception over this regulation."
+      ],
+      "answer": 0,
+      "explanation": "The noun 'exception' takes the preposition 'to'. / 'Exception' के साथ 'to' का प्रयोग होता है।"
+    },
+    {
+      "id": "9d240132",
+      "question": "65. Choose the word correctly formed from the root word to fit the sentence: \"The manager objected to the ______ disclosure of confidential records.\" / रिक्त स्थान हेतु सही शब्द चुनें:",
+      "options": [
+        "(A) authoring",
+        "(B) authorize",
+        "(C) unauthorized",
+        "(D) authorial"
+      ],
+      "answer": 2,
+      "explanation": "'Unauthorized' (अनधिकृत) correctly modifies the noun disclosure. / यहाँ विशेषण 'unauthorized' उपयुक्त है।"
+    },
+    {
+      "id": "c7f1d7eb",
+      "question": "66. Select the option that is the closest antonym of the word \"Ascend\": / 'Ascend' (चढ़ना/उठना) का सही विलोम शब्द चुनें:",
+      "options": [
+        "(A) Rise",
+        "(B) Advance",
+        "(C) Climb",
+        "(D) Descend"
+      ],
+      "answer": 3,
+      "explanation": "'Descend' (उतरना) is the opposite of 'Ascend'. / Ascend का विलोम Descend होता है।"
+    },
+    {
+      "id": "4b26c3f7",
+      "question": "67. Select the sentence that correctly transforms the given active voice into passive voice: \"People believe that the scientist discovered a rare element.\" / सही कर्मवाच्य (Passive Voice) चुनें:",
+      "options": [
+        "(A) It is believed by people that a rare element discovered the scientist.",
+        "(B) The scientist is believed to discover a rare element.",
+        "(C) The scientist was believed discovering a rare element.",
+        "(D) The scientist is believed to have discovered a rare element."
+      ],
+      "answer": 3,
+      "explanation": "Past action requires perfect infinitive 'to have discovered'. / पूर्व क्रिया के लिए 'to have discovered' का प्रयोग होगा।"
+    },
+    {
+      "id": "a1d84108",
+      "question": "68. Choose the option that correctly completes the sentence: \"The speaker's argument lacked sufficient evidence and therefore failed to ______ the audience.\" / सही वर्तनी वाला क्रियापद चुनें:",
+      "options": [
+        "(A) pursed",
+        "(B) pursuade",
+        "(C) persuade",
+        "(D) perused"
+      ],
+      "answer": 2,
+      "explanation": "The correct spelling meaning to convince is 'persuade'. / 'Persuade' (मनाना/सहमति कराना) सही वर्तनी है।"
+    },
+    {
+      "id": "a4b1c28f",
+      "question": "69. Select the option that is the closest synonym of the word \"Laconic\" as used in formal English usage: / 'Laconic' का निकटतम समानार्थी शब्द चुनें:",
+      "options": [
+        "(A) Indifferent",
+        "(B) Ornamental",
+        "(C) Concise",
+        "(D) Verbose"
+      ],
+      "answer": 2,
+      "explanation": "'Laconic' means brief or concise in speech. / 'Laconic' का अर्थ संक्षिप्त (Concise) होता है।"
+    },
+    {
+      "id": "b9ffc5d1",
+      "question": "70. Choose the sentence in which the adjective and its degree are used without grammatical error: / व्याकरण की दृष्टि से सही विशेषण वाक्य चुनें:",
+      "options": [
+        "(A) This analytical report is superior than the previous publication.",
+        "(B) This analytical report is the superior than the previous publication.",
+        "(C) This analytical report is more superior to the previous publication.",
+        "(D) This analytical report is superior to the previous publication."
+      ],
+      "answer": 3,
+      "explanation": "'Superior' takes 'to', not 'than', and does not take 'more'. / 'Superior' के साथ 'to' आता है।"
+    },
+    {
+      "id": "3796495d",
+      "question": "71. Identify the correctly punctuated sentence from the following options: / सही विराम चिह्न युक्त वाक्य पहचानिए:",
+      "options": [
+        "(A) The speaker said that success requires discipline; perseverance and hard work.",
+        "(B) The speaker said that success requires discipline: perseverance and hard work.",
+        "(C) The speaker said that success requires discipline, perseverance, and hard work.",
+        "(D) The speaker said that success requires discipline perseverance and hard work."
+      ],
+      "answer": 2,
+      "explanation": "Items in a series are separated by commas. / सूची के पदों को अल्पविराम से अलग किया जाता है।"
+    },
+    {
+      "id": "40a74bad",
+      "question": "72. Which word is the closest synonym of 'audacious'? / 'Audacious' (साहसी) का सही पर्यायवाची क्या है?",
+      "options": [
+        "(A) Bold",
+        "(B) Timid",
+        "(C) Weary",
+        "(D) Humble"
+      ],
+      "answer": 0,
+      "explanation": "'Audacious' means bold, daring, or fearless. / Audacious का अर्थ साहसी/Bold होता है।"
+    },
+    {
+      "id": "6d5cb92c",
+      "question": "73. Select the option in which the complete subject has been identified correctly in: \"Many skilled artists from different regions participated in the exhibition.\" / पूर्ण उद्देश्य (Subject) पहचानिए:",
+      "options": [
+        "(A) different regions",
+        "(B) Many skilled artists from different regions",
+        "(C) skilled artists",
+        "(D) artists from different"
+      ],
+      "answer": 1,
+      "explanation": "The entire noun phrase before the predicate is the complete subject. / क्रिया से पहले का संपूर्ण पद-समूह पूर्ण उद्देश्य है।"
+    },
+    {
+      "id": "ea18051b",
+      "question": "74. Select the word in which the silent letter does not belong to the same sound pattern as the others: / मूक अक्षर (Silent Letter) के भिन्न ध्वनि प्रतिरूप वाला शब्द चुनें:",
+      "options": [
+        "(A) Hour",
+        "(B) Honest",
+        "(C) Heir",
+        "(D) Ghost"
+      ],
+      "answer": 3,
+      "explanation": "In Hour, Honest, and Heir the initial 'h' is silent; in Ghost, 'gh' produces /g/. / Ghost में 'gh' का उच्चारण 'ग' होता है, जबकि अन्य में प्रारंभिक 'h' शांत रहता है।"
+    },
+    {
+      "id": "006b0271",
+      "question": "75. Choose the sentence in which the adverb expresses frequency: / आवृत्ति (Frequency) दर्शाने वाले क्रियाविशेषण वाला वाक्य चुनें:",
+      "options": [
+        "(A) The train arrived late yesterday.",
+        "(B) The guests sat nearby.",
+        "(C) She waited patiently outside the office.",
+        "(D) He often visits the library after classes."
+      ],
+      "answer": 3,
+      "explanation": "'Often' is an adverb of frequency. / 'Often' (अक्सर) आवृत्तिवाचक क्रियाविशेषण है।"
+    },
+    {
+      "id": "3c214b17",
+      "question": "76. In the sentence \"You must complete the assignment today,\" the verb \"must\" is classified as: / वाक्य में \"must\" को किस प्रकार वर्गीकृत किया जाता है?",
+      "options": [
+        "(A) Modal auxiliary verb",
+        "(B) Main verb",
+        "(C) Linking verb",
+        "(D) Intransitive verb"
+      ],
+      "answer": 0,
+      "explanation": "'Must' is a modal auxiliary denoting necessity. / 'Must' एक मॉडल सहायक क्रिया है।"
+    },
+    {
+      "id": "018812b3",
+      "question": "77. Choose the sentence that maintains grammatical accuracy while conveying a polite request: / विनम्र निवेदन का व्याकरण सम्मत वाक्य चुनें:",
+      "options": [
+        "(A) Kindly to lend me your notes for a day.",
+        "(B) Kindly lend me your notes for a day.",
+        "(C) Kindly lending me your notes for a day.",
+        "(D) Kindly you lend me your notes for a day."
+      ],
+      "answer": 1,
+      "explanation": "'Kindly' is followed by the bare base infinitive. / 'Kindly' के बाद क्रिया का मूल रूप आता है: 'Kindly lend me...'"
+    },
+    {
+      "id": "01c7ac09",
+      "question": "78. Select the option in which the gender transformation is grammatically incorrect: / लिंग परिवर्तन का अशुद्ध युग्म चुनें:",
+      "options": [
+        "(A) Sultan - Sultanae",
+        "(B) Duke - Duchess",
+        "(C) Emperor - Empress",
+        "(D) Patron - Patroness"
+      ],
+      "answer": 0,
+      "explanation": "The feminine of Sultan is 'Sultana'. / Sultan का स्त्रीलिंग 'Sultana' होता है, 'Sultanae' नहीं।"
+    },
+    {
+      "id": "05457c0d",
+      "question": "79. Choose the most appropriate word to complete the sentence: \"The director stated that ______ failing to comply with the revised regulations would not be permitted to participate in the academic conference.\" / उपयुक्त सर्वनाम चुनें:",
+      "options": [
+        "(A) somebody",
+        "(B) anybody",
+        "(C) nobody",
+        "(D) somebody else"
+      ],
+      "answer": 1,
+      "explanation": "'Anybody' expresses the open condition. / यहाँ 'anybody' (कोई भी व्यक्ति) व्याकरण सम्मत है।"
+    },
+    {
+      "id": "a667a979",
+      "question": "80. Choose the correct interrogative sentence from the given options: / सही प्रश्नवाचक वाक्य का चयन करें:",
+      "options": [
+        "(A) Had the students submitted the assignment yesterday?",
+        "(B) Have the students submitted the assignment yesterday?",
+        "(C) Did the students have submitted the assignment yesterday?",
+        "(D) Did the students submit the assignment yesterday?"
+      ],
+      "answer": 3,
+      "explanation": "Past simple question takes 'Did + subject + base verb'. / भूतकाल के प्रश्न में 'Did + base verb' का प्रयोग होता है।"
+    },
+    {
+      "id": "3c406d91",
+      "question": "81. In the sentence \"She has been reading for three hours,\" the verb phrase \"has been reading\" represents: / क्रिया पद-समूह \"has been reading\" दर्शाता है:",
+      "options": [
+        "(A) Compound transitive verb",
+        "(B) Non-finite verb phrase",
+        "(C) Modal construction",
+        "(D) Finite main verb with auxiliaries"
+      ],
+      "answer": 3,
+      "explanation": "It is a finite verb marked for tense and person with auxiliary verbs. / यह सहायकों के साथ समापिका मुख्य क्रिया है।"
+    },
+    {
+      "id": "10301eb6",
+      "question": "82. Select the sentence in which the preposition is used correctly: / कारक-चिह्न/प्रीपोजिशन का सही प्रयोग वाला वाक्य चुनें:",
+      "options": [
+        "(A) The committee deliberated at the proposal for three hours.",
+        "(B) The committee deliberated over to the proposal for three hours.",
+        "(C) The committee deliberated about on the proposal for three hours.",
+        "(D) The committee deliberated on the proposal for three hours."
+      ],
+      "answer": 3,
+      "explanation": "The standard verb collocation is 'deliberate on' (or over). / 'Deliberate on' सही प्रयोग है।"
+    },
+    {
+      "id": "839d9ce0",
+      "question": "83. Choose the correct plural form to complete the sentence: \"The committee evaluated several strict ______ before approving the research proposals for funding.\" / 'Criterion' का सही बहुवचन चुनें:",
+      "options": [
+        "(A) criterions",
+        "(B) criterias",
+        "(C) criteria",
+        "(D) criterion's"
+      ],
+      "answer": 2,
+      "explanation": "The plural of 'criterion' is 'criteria'. / 'Criterion' का शुद्ध बहुवचन रूप 'criteria' है।"
+    },
+    {
+      "id": "66db9e4b",
+      "question": "84. Select the sentence that correctly uses a correlative conjunction: / सह-संबंधी संयोजक (Correlative Conjunction) का सही प्रयोग चुनें:",
+      "options": [
+        "(A) Neither the manager nor the employees were willing to compromise.",
+        "(B) Neither the manager and the employees was willing to compromise.",
+        "(C) Neither the manager with the employees was willing to compromise.",
+        "(D) Neither the manager but the employees was willing to compromise."
+      ],
+      "answer": 0,
+      "explanation": "'Neither ... nor' is the pair, and the verb agrees with the closer plural subject. / 'Neither ... nor' में क्रिया निकटवर्ती कर्ता (employees) के अनुसार बहुवचन होती है।"
+    },
+    {
+      "id": "9bcae55d",
+      "question": "85. Select the correctly reported form of the sentence: \"The teacher said, 'Let us begin the discussion immediately.'\" / सही अप्रत्यक्ष कथन (Reported Speech) चुनें:",
+      "options": [
+        "(A) The teacher suggested that they should begin the discussion immediately.",
+        "(B) The teacher said that let them begin the discussion immediately.",
+        "(C) The teacher requested that we begin the discussion immediately.",
+        "(D) The teacher ordered them that they begin the discussion immediately."
+      ],
+      "answer": 0,
+      "explanation": "'Let us' conveys a proposal reported as 'suggested that they should...'. / प्रस्ताव व्यक्त करने वाले वाक्यों में 'suggested that they should' प्रयुक्त होता है।"
+    },
+    {
+      "id": "7105a79a",
+      "question": "86. Which sentence uses an interjection correctly? / विस्मयादिबोधक अव्यय का सही प्रयोग किस वाक्य में है?",
+      "options": [
+        "(A) The hurray team won.",
+        "(B) Team hurray won.",
+        "(C) Hurray the team won.",
+        "(D) Hurray, the team won!"
+      ],
+      "answer": 3,
+      "explanation": "An interjection starts the exclamation followed by punctuation. / विस्मयादिबोधक शब्द वाक्य के आरंभ में विराम चिह्न के साथ आता है: 'Hurray, the team won!'"
+    },
+    {
+      "id": "933030e3",
+      "question": "87. Choose the option in which the noun changes from a Common Noun to a Proper Noun: / जातिवाचक संज्ञा से व्यक्तिवाचक संज्ञा में परिवर्तन का सही विकल्प चुनें:",
+      "options": [
+        "(A) mountain -> hill",
+        "(B) city -> town",
+        "(C) river -> Ganga",
+        "(D) boy -> child"
+      ],
+      "answer": 2,
+      "explanation": "'River' is common; 'Ganga' is a specific proper noun. / 'River' जातिवाचक तथा 'Ganga' व्यक्तिवाचक संज्ञा है।"
+    },
+    {
+      "id": "a9fd8be1",
+      "question": "88. According to the passage, where was the industrialist when he had a mystical experience? / गद्यांश के अनुसार, रहस्यमय अनुभव के समय उद्योगपति कहाँ था?",
+      "options": [
+        "(A) In a temple",
+        "(B) In his garden while meditating",
+        "(C) During a business trip",
+        "(D) In his office"
+      ],
+      "answer": 1,
+      "explanation": "The passage states he was meditating in his garden. / गद्यांश के अनुसार वह अपने बगीचे में ध्यानमग्न था।"
+    },
+    {
+      "id": "8b6b58e7",
+      "question": "89. According to the passage, what did the vision reveal about the journey the industrialist would undertake after his earthly life? / दृष्टि ने पृथ्वी के जीवन के बाद की यात्रा के बारे में क्या प्रकट किया?",
+      "options": [
+        "(A) He would abandon spirituality",
+        "(B) He would remain in his comfort zone",
+        "(C) He had to embark on a second, long and arduous journey",
+        "(D) He would live a life without obstacles"
+      ],
+      "answer": 2,
+      "explanation": "The passage says the vision profiled a second, long, arduous, and exhausting journey. / दृष्टि ने एक कठिन, लंबी और चुनौतीपूर्ण दूसरी यात्रा दिखाई।"
+    },
+    {
+      "id": "a7581dae",
+      "question": "90. Why did the industrialist often weep in silence according to the passage? / गद्यांश के अनुसार, उद्योगपति अक्सर एकांत में क्यों रोता था?",
+      "options": [
+        "(A) He disliked his luxurious life",
+        "(B) He was sad about losing wealth",
+        "(C) He was afraid of the future",
+        "(D) He longed for God and felt love"
+      ],
+      "answer": 3,
+      "explanation": "His yearning for God made him weep with love and longing. / ईश्वर के प्रति उत्कट प्रेम और मिलन की तड़प के कारण वह रोता था।"
+    },
+    {
+      "id": "4b0ae6e6",
+      "question": "91. If 2^x + 2^(x+2) = 80, find x. / यदि 2^x + 2^(x+2) = 80, तो x का मान ज्ञात कीजिए।",
+      "options": [
+        "(A) 4",
+        "(B) 5",
+        "(C) 3",
+        "(D) 2"
+      ],
+      "answer": 0,
+      "explanation": "2^x(1 + 4) = 80 => 5 * 2^x = 80 => 2^x = 16 => x = 4."
+    },
+    {
+      "id": "27866907",
+      "question": "92. A cubical tank of side 10 m is open at the top. The inner surfaces of the tank including its base are to be painted at the rate of ₹5 per square metre. Find the total cost of painting. / 10 मीटर भुजा वाला एक घनाकार टैंक ऊपर से खुला है। टैंक की अंदरूनी सतहों (तल सहित) को ₹5 प्रति वर्ग मीटर की दर से रंगा जाना है। कुल लागत ज्ञात कीजिए।",
+      "options": [
+        "(A) ₹3000",
+        "(B) ₹2000",
+        "(C) ₹2750",
+        "(D) ₹2500"
+      ],
+      "answer": 3,
+      "explanation": "Area = 5 faces = 5 * 10^2 = 500 m². Cost = 500 * 5 = ₹2500. / कुल क्षेत्रफल = 5 सतहें = 500 वर्ग मी; कुल व्यय = 500 × ₹5 = ₹2500."
+    },
+    {
+      "id": "83deb4e5",
+      "question": "93. For what value of k does x^2 - (k+3)x + (k+2) = 0 have equal roots? / k के किस मान के लिए, समीकरण x^2 - (k+3)x + (k+2) = 0 के समान मूल होंगे?",
+      "options": [
+        "(A) 3",
+        "(B) -1",
+        "(C) 2",
+        "(D) 1"
+      ],
+      "answer": 1,
+      "explanation": "D = (k+3)^2 - 4(k+2) = k^2 + 2k + 1 = (k+1)^2 = 0 => k = -1."
+    },
+    {
+      "id": "65a13792",
+      "question": "94. In a circle, the angle subtended by a diameter at any point on the circle is: / एक वृत्त में, व्यास द्वारा वृत्त पर किसी भी बिंदु पर बनाया गया कोण होता है:",
+      "options": [
+        "(A) Straight angle / रेखीय कोण",
+        "(B) Acute angle / न्यूनकोण",
+        "(C) Obtuse angle / अधिककोण",
+        "(D) Right angle / समकोण"
+      ],
+      "answer": 3,
+      "explanation": "The angle inscribed in a semicircle is a right angle (90°). / अर्धवृत्त में बना कोण समकोण (90°) होता है।"
+    },
+    {
+      "id": "7c706aef",
+      "question": "95. Find k such that x^2 - 2(k+1)x + (k^2+1) = 0 has distinct real roots. / k का मान ज्ञात करें ताकि समीकरण x^2 - 2(k+1)x + (k^2+1) = 0 के भिन्न वास्तविक मूल हों।",
+      "options": [
+        "(A) k < 0",
+        "(B) k > 0",
+        "(C) none / कोई नहीं",
+        "(D) all k / सभी k"
+      ],
+      "answer": 1,
+      "explanation": "D = 4(k+1)^2 - 4(k^2+1) = 8k > 0 => k > 0."
+    },
+    {
+      "id": "fb37a8d0",
+      "question": "96. A survey team measures a rectangular plot of land. The length of the plot is 35 m and the diagonal connecting two opposite corners is 37 m. Find the width of the plot. / एक आयताकार भूखंड की लंबाई 35 मीटर है और विकर्ण 37 मीटर है। भूखंड की चौड़ाई ज्ञात कीजिए।",
+      "options": [
+        "(A) 14 m / 14 मी",
+        "(B) 12 m / 12 मी",
+        "(C) 10 m / 10 मी",
+        "(D) 8 m / 8 मी"
+      ],
+      "answer": 1,
+      "explanation": "Width = sqrt(37^2 - 35^2) = sqrt(144) = 12 m. / चौड़ाई = √(37² - 35²) = √144 = 12 मीटर।"
+    },
+    {
+      "id": "a3b33943",
+      "question": "97. If x + 1/x = 7, find x^5 + 1/x^5. / यदि x + 1/x = 7 है, तो x^5 + 1/x^5 ज्ञात करें।",
+      "options": [
+        "(A) 16807",
+        "(B) 15449",
+        "(C) 2207",
+        "(D) 15127"
+      ],
+      "answer": 3,
+      "explanation": "(x^2+1/x^2) = 47, (x^3+1/x^3) = 322. Product = x^5 + 1/x^5 + 7 => 47 * 322 - 7 = 15134 - 7 = 15127."
+    },
+    {
+      "id": "462fb534",
+      "question": "98. If a number is increased by 60% and then decreased by 10%, what is the net percentage change? / यदि किसी संख्या को 60% बढ़ाया जाए और फिर 10% घटाया जाए, तो कुल प्रतिशत परिवर्तन क्या होगा?",
+      "options": [
+        "(A) 8% decrease / 8% कमी",
+        "(B) 8% increase / 8% वृद्धि",
+        "(C) 10% increase / 10% वृद्धि",
+        "(D) 44% increase / 44% वृद्धि"
+      ],
+      "answer": 3,
+      "explanation": "Net % = 60 - 10 - (60*10)/100 = 44% increase. / कुल परिवर्तन = 60 - 10 - 6 = +44% वृद्धि।"
+    },
+    {
+      "id": "0e96e591",
+      "question": "99. The mean of 10 observations is 25. If one observation is removed, mean becomes 24. Find removed value. / 10 प्रेक्षणों का औसत 25 है। एक हटाने पर औसत 24 हो जाता है। हटाया गया मान ज्ञात करें।",
+      "options": [
+        "(A) 35",
+        "(B) 36",
+        "(C) 34",
+        "(D) 33"
+      ],
+      "answer": 2,
+      "explanation": "Sum of 10 = 250; Sum of 9 = 216; Removed = 250 - 216 = 34."
+    },
+    {
+      "id": "0376c443",
+      "question": "100. From an external point P, two tangents PA and PB are drawn to a circle, touching at A and B. If PA = 12 cm, find PB. / एक बाहरी बिंदु P से वृत्त पर दो स्पर्श रेखाएँ PA और PB खींची गई हैं। यदि PA = 12 सेमी है, तो PB ज्ञात कीजिए।",
+      "options": [
+        "(A) 16 cm / 16 सेमी",
+        "(B) 6 cm / 6 सेमी",
+        "(C) 12 cm / 12 सेमी",
+        "(D) 24 cm / 24 सेमी"
+      ],
+      "answer": 2,
+      "explanation": "Tangents drawn from an external point to a circle are equal in length: PB = PA = 12 cm. / बाह्य बिंदु से खींची गई स्पर्श रेखाओं की लंबाइयाँ समान होती हैं (PB = 12 सेमी)।"
+    },
+    {
+      "id": "ee5f5c5d",
+      "question": "101. Evaluate sqrt((5 + sqrt(24)) / (5 - sqrt(24))). / मूल्यांकन करें: √((5 + √24) / (5 - √24))",
+      "options": [
+        "(A) 5 + 2*sqrt(6)",
+        "(B) 3 + 2*sqrt(6)",
+        "(C) 6 + sqrt(6)",
+        "(D) 4 + sqrt(6)"
+      ],
+      "answer": 0,
+      "explanation": "Rationalizing gives sqrt((5+2sqrt(6))^2 / 1) = 5 + 2*sqrt(6). / परिमेयकरण करने पर प्राप्त मान 5 + 2√6 होता है।"
+    },
+    {
+      "id": "a42dca89",
+      "question": "102. The multiplication value of two quantities is 1440, and their highest common factor (HCF) is 18. Determine their least common multiple (LCM). / दो संख्याओं का गुणनफल 1440 है तथा म.स.प. (HCF) 18 है। ल.स.प. (LCM) ज्ञात कीजिए।",
+      "options": [
+        "(A) 96",
+        "(B) 80",
+        "(C) 60",
+        "(D) 72"
+      ],
+      "answer": 1,
+      "explanation": "LCM = Product / HCF = 1440 / 18 = 80. / ल.स.प. = गुणनफल / म.स.प. = 1440 / 18 = 80."
+    },
+    {
+      "id": "a12dc427",
+      "question": "103. The ratio of compound interest to simple interest on a certain sum for a period of 2 years is 26 : 25. Find the rate of interest per annum. / किसी धनराशि पर 2 वर्षों के चक्रवृद्धि ब्याज और साधारण ब्याज का अनुपात 26 : 25 है। वार्षिक ब्याज दर ज्ञात कीजिए।",
+      "options": [
+        "(A) 5%",
+        "(B) 8%",
+        "(C) 6%",
+        "(D) 4%"
+      ],
+      "answer": 1,
+      "explanation": "CI/SI = 1 + r/200 = 26/25 => r/200 = 1/25 => r = 8%."
+    },
+    {
+      "id": "3a24d997",
+      "question": "104. Determine the nature of triangle formed by A(0,0), B(4,0), C(4,3). / बिंदु A(0,0), B(4,0), C(4,3) द्वारा बने त्रिभुज का प्रकार ज्ञात करें।",
+      "options": [
+        "(A) Right-angled scalene triangle / समकोण विषमबाहु",
+        "(B) Equilateral / समबाहु",
+        "(C) Isosceles / समद्विबाहु",
+        "(D) Obtuse-angled triangle / अधिककोण त्रिभुज"
+      ],
+      "answer": 0,
+      "explanation": "Sides are 4, 3, and 5 (right triangle with distinct sides). / भुजाएं 3, 4 और 5 हैं, जो समकोण विषमबाहु त्रिभुज बनाती हैं।"
+    },
+    {
+      "id": "c31466e3",
+      "question": "105. If alternate interior angles are equal, then the two lines are: / यदि एकांतर आंतरिक कोण बराबर हों, तो दोनों रेखाएँ होती हैं:",
+      "options": [
+        "(A) Perpendicular / लंबवत",
+        "(B) Parallel / समांतर",
+        "(C) Intersecting / प्रतिच्छेदी",
+        "(D) Coincident / संपाती"
+      ],
+      "answer": 1,
+      "explanation": "Equal alternate interior angles indicate parallel lines. / एकांतर अंतःकोण समान होने पर रेखाएं समांतर होती हैं।"
+    },
+    {
+      "id": "a56f34af",
+      "question": "106. If a^(2x+1) = a^11 where a > 0 and a != 1, find x. / यदि a^(2x+1) = a^11 जहाँ a > 0 तथा a != 1, तो x का मान ज्ञात कीजिए।",
+      "options": [
+        "(A) 0",
+        "(B) 1",
+        "(C) 3",
+        "(D) 5"
+      ],
+      "answer": 3,
+      "explanation": "2x + 1 = 11 => 2x = 10 => x = 5."
+    },
+    {
+      "id": "3a15bc4e",
+      "question": "107. If x^(1/2) + 1/x^(1/2) = 4, find x + 1/x. / यदि √x + 1/√x = 4, तो x + 1/x का मान ज्ञात करें।",
+      "options": [
+        "(A) 8",
+        "(B) 10",
+        "(C) 14",
+        "(D) 12"
+      ],
+      "answer": 2,
+      "explanation": "Squaring both sides: x + 1/x + 2 = 16 => x + 1/x = 14."
+    },
+    {
+      "id": "7b0758fd",
+      "question": "108. Four fair coins are tossed simultaneously. Given that at least two heads appear, what is the probability that exactly three heads occur? / चार सिक्के एक साथ उछाले जाते हैं। कम से कम दो हेड आने पर ठीक तीन हेड आने की प्रायिकता क्या है?",
+      "options": [
+        "(A) 1/2",
+        "(B) 4/11",
+        "(C) 3/8",
+        "(D) 2/5"
+      ],
+      "answer": 1,
+      "explanation": "P(3 heads | >= 2 heads) = C(4,3) / [C(4,2)+C(4,3)+C(4,4)] = 4 / (6+4+1) = 4/11."
+    },
+    {
+      "id": "64236314",
+      "question": "109. If x is a rational number such that x^2 is an integer, which of the following must be true? / यदि x एक परिमेय संख्या है जिससे x^2 एक पूर्णांक है, निम्न में से कौन सा अवश्य सत्य होगा?",
+      "options": [
+        "(A) x is always an integer / x सदैव एक पूर्णांक है",
+        "(B) x is irrational / x अपरिमेय है",
+        "(C) x can be non-integer rational / x गैर-पूर्णांक परिमेय हो सकता है",
+        "(D) x is always whole / x सदैव पूर्ण है"
+      ],
+      "answer": 0,
+      "explanation": "If p/q is in lowest terms and p^2/q^2 is an integer, q must equal 1, making x an integer. / यदि x परिमेय है और x² पूर्णांक है, तो x अनिवार्य रूप से पूर्णांक होगा।"
+    },
+    {
+      "id": "f36a9ba2",
+      "question": "110. In cyclic quadrilateral, if angle A = 70° and angle B = 80°, find angle D. / चक्रीय चतुर्भुज में यदि ∠A = 70° और ∠B = 80° है, तो ∠D ज्ञात कीजिए।",
+      "options": [
+        "(A) 110°",
+        "(B) 100°",
+        "(C) 90°",
+        "(D) 120°"
+      ],
+      "answer": 1,
+      "explanation": "Opposite angles sum to 180°: ∠B + ∠D = 180° => ∠D = 180° - 80° = 100°."
+    },
+    {
+      "id": "58429d18",
+      "question": "111. If PA = 3 cm and PB = 12 cm, find PT. / यदि PA = 3 सेमी और PB = 12 सेमी है, तो PT ज्ञात कीजिए।",
+      "options": [
+        "(A) 36 cm / 36 सेमी",
+        "(B) 6 cm / 6 सेमी",
+        "(C) 9 cm / 9 सेमी",
+        "(D) 3 cm / 3 सेमी"
+      ],
+      "answer": 1,
+      "explanation": "By tangent-secant theorem: PT^2 = PA * PB = 3 * 12 = 36 => PT = 6 cm."
+    },
+    {
+      "id": "a12b476b",
+      "question": "112. If (x^2 + ax + 2) + (2x^2 - 3x - 2) becomes a monomial, find a. / यदि (x^2 + ax + 2) + (2x^2 - 3x - 2) एकपदी बन जाता है, तो a का मान ज्ञात कीजिए।",
+      "options": [
+        "(A) 1",
+        "(B) 3",
+        "(C) -3",
+        "(D) -1"
+      ],
+      "answer": 1,
+      "explanation": "Sum = 3x^2 + (a-3)x. For a monomial, coefficient of x must be 0 => a - 3 = 0 => a = 3."
+    },
+    {
+      "id": "e55c60b5",
+      "question": "113. A number is 17/20 of another. What percent is it of the other? / एक संख्या दूसरी का 17/20 है। यह दूसरी संख्या का कितने प्रतिशत है?",
+      "options": [
+        "(A) 50%",
+        "(B) 85%",
+        "(C) 137.5%",
+        "(D) 75%"
+      ],
+      "answer": 1,
+      "explanation": "(17 / 20) * 100% = 85%."
+    },
+    {
+      "id": "f2e7a038",
+      "question": "114. A solid cylinder has a radius of 7 cm and height of 10 cm. Find its total surface area. (Use pi = 22/7) / एक ठोस बेलन की त्रिज्या 7 सेमी और ऊँचाई 10 सेमी है। उसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        "(A) 704 cm² / 704 वर्ग सेमी",
+        "(B) 748 cm² / 748 वर्ग सेमी",
+        "(C) 440 cm² / 440 वर्ग सेमी",
+        "(D) 528 cm² / 528 वर्ग सेमी"
+      ],
+      "answer": 1,
+      "explanation": "TSA = 2 * pi * r * (r + h) = 2 * (22/7) * 7 * 17 = 748 cm²."
+    },
+    {
+      "id": "c4ad741e",
+      "question": "115. Evaluate sqrt(13 + 4*sqrt(10)). / मूल्यांकन करें: √(13 + 4√10)",
+      "options": [
+        "(A) sqrt(9) + sqrt(4)",
+        "(B) 2*sqrt(2) + sqrt(5)",
+        "(C) sqrt(14) + sqrt(3)",
+        "(D) sqrt(21) + sqrt(2)"
+      ],
+      "answer": 1,
+      "explanation": "13 + 2*sqrt(40) = (sqrt(8) + sqrt(5))^2 => sqrt(8) + sqrt(5) = 2*sqrt(2) + sqrt(5)."
+    },
+    {
+      "id": "ef00a59d",
+      "question": "116. If x + y + z = 0, find x^3 + y^3 + z^3 - 3xyz. / यदि x + y + z = 0, तो x^3 + y^3 + z^3 - 3xyz ज्ञात करें।",
+      "options": [
+        "(A) x^3 + y^3 + z^3",
+        "(B) 3xyz",
+        "(C) xyz",
+        "(D) 0"
+      ],
+      "answer": 3,
+      "explanation": "Algebraic identity: x^3 + y^3 + z^3 - 3xyz = (x+y+z)(x^2+y^2+z^2-xy-yz-zx) = 0."
+    },
+    {
+      "id": "ffb73b90",
+      "question": "117. If x and y are rational but xy is irrational, what is true? / यदि x और y परिमेय हैं पर xy अपरिमेय है, तो क्या सत्य है?",
+      "options": [
+        "(A) Both irrational / दोनों अपरिमेय",
+        "(B) Both rational / दोनों परिमेय",
+        "(C) One irrational / एक अपरिमेय",
+        "(D) Not possible / संभव नहीं"
+      ],
+      "answer": 3,
+      "explanation": "The product of two rational numbers is always rational; hence this scenario is impossible. / दो परिमेय संख्याओं का गुणनफल सदैव परिमेय होता है, अतः यह संभव नहीं है।"
+    },
+    {
+      "id": "e746d1f4",
+      "question": "118. Find the degree of the expression 4x^3 y^2 + 2x y^5 - 7x^2 y. / व्यंजक 4x^3 y^2 + 2x y^5 - 7x^2 y की घात ज्ञात करें।",
+      "options": [
+        "(A) 5",
+        "(B) 8",
+        "(C) 6",
+        "(D) 7"
+      ],
+      "answer": 2,
+      "explanation": "Degrees of terms: 3+2=5, 1+5=6, 2+1=3. Maximum degree is 6. / पदों की घातों में अधिकतम मान 1+5=6 है।"
+    },
+    {
+      "id": "a3da7e30",
+      "question": "119. If x + y = 9 and x^2 + y^2 = 65, find xy. / यदि x + y = 9 और x^2 + y^2 = 65, तो xy ज्ञात करें।",
+      "options": [
+        "(A) 8",
+        "(B) 12",
+        "(C) 16",
+        "(D) 10"
+      ],
+      "answer": 0,
+      "explanation": "(x+y)^2 = x^2 + y^2 + 2xy => 81 = 65 + 2xy => 2xy = 16 => xy = 8."
+    },
+    {
+      "id": "6edbeceb",
+      "question": "120. The median of the data 10, 15, x, 25, 30 is 20. Find x. / डेटा 10, 15, x, 25, 30 की माध्यिका 20 है। x ज्ञात करें।",
+      "options": [
+        "(A) 25",
+        "(B) 18",
+        "(C) 22",
+        "(D) 20"
+      ],
+      "answer": 3,
+      "explanation": "In ordered dataset of 5 values, median is the 3rd term; thus x = 20. / आरोही क्रम में 5 पदों की माध्यिका तीसरा पद होती है, अतः x = 20।"
+    },
+    {
+      "id": "0021e12f",
+      "question": "121. Why is carbon monoxide considered more dangerous than carbon dioxide for human health even at low concentrations? / कम सांद्रता में भी कार्बन मोनोऑक्साइड को कार्बन डाइऑक्साइड की तुलना में मानव स्वास्थ्य के लिए अधिक खतरनाक क्यों माना जाता है?",
+      "options": [
+        "(A) It increases the rate of respiration in human cells, causing over-oxygenation / यह मानव कोशिकाओं में श्वसन दर बढ़ाता है",
+        "(B) It binds strongly with haemoglobin to form carboxyhaemoglobin, reducing oxygen transport in the blood / यह हीमोग्लोबिन के साथ मजबूती से जुड़कर कार्बोक्सीहीमोग्लोबिन बनाता है, जिससे रक्त में ऑक्सीजन परिवहन घट जाता है",
+        "(C) It directly dissolves in blood and increases oxygen supply to body tissues / यह सीधे रक्त में घुलकर ऑक्सीजन आपूर्ति बढ़ाता है",
+        "(D) It is converted into oxygen inside the human body during respiration / यह शरीर में ऑक्सीजन में परिवर्तित हो जाता है"
+      ],
+      "answer": 1,
+      "explanation": "CO binds hemoglobin with ~200x greater affinity than oxygen, forming carboxyhemoglobin and causing hypoxia. / CO हीमोग्लोबिन के साथ मिलकर कार्बोक्सीहीमोग्लोबिन बनाता है और ऑक्सीजन आपूर्ति बाधित करता है।"
+    },
+    {
+      "id": "550a6c98",
+      "question": "122. STEM education is considered an integrated approach primarily because it best: / STEM शिक्षा को मुख्य रूप से एक एकीकृत दृष्टिकोण माना जाता है, क्योंकि यह सबसे बेहतर तरीके सेः",
+      "options": [
+        "(A) Teaches all four subjects separately within same timetable / चारों विषयों को अलग-अलग पढ़ाता है",
+        "(B) Weaves science, technology, engineering, and mathematics into a unified framework focused on solving real-world problems / यह विज्ञान, प्रौद्योगिकी, इंजीनियरिंग और गणित को वास्तविक समस्याओं को हल करने हेतु एकीकृत ढांचे में पिरोता है",
+        "(C) Replaces traditional subjects with vocational training / विषयों को व्यावसायिक प्रशिक्षण से बदलता है",
+        "(D) Restricts science teaching to technology-rich urban schools / केवल तकनीकी शहरी स्कूलों तक सीमित रखता है"
+      ],
+      "answer": 1,
+      "explanation": "STEM synthesizes four disciplines into a problem-solving interdisciplinary curriculum. / STEM वास्तविक समस्याओं के समाधान हेतु चारों विषयों को एकीकृत करता है।"
+    },
+    {
+      "id": "5043a2b6",
+      "question": "123. The structural and functional unit of the human kidney responsible for urine formation is: / मूत्र निर्माण के लिए जिम्मेदार मानव गुर्दे की संरचनात्मक और कार्यात्मक इकाई निम्नलिखित है:",
+      "options": [
+        "(A) Collecting duct / संग्रह नलिका",
+        "(B) Ureter / मूत्रवाहिनी",
+        "(C) Glomerulus / ग्लोमेरुलस",
+        "(D) Nephron / नेफ्रॉन"
+      ],
+      "answer": 3,
+      "explanation": "Nephron is the microscopic basic functional filtering unit of kidneys. / वृक्क (किडनी) की कार्यात्मक इकाई नेफ्रॉन है।"
+    },
+    {
+      "id": "fb12d3f3",
+      "question": "124. A body of mass 4 kilogram moving at 8 meter/second is brought to rest uniformly in 2 seconds. What is the magnitude of the retarding force applied? / 4 किलोग्राम द्रव्यमान का एक पिंड 8 मीटर/सेकंड की गति से चलते हुए, 2 सेकंड में विराम अवस्था में आता है। मंदक बल का परिमाण क्या है?",
+      "options": [
+        "(A) 16 N / 16 न्यूटन",
+        "(B) 32 N / 32 न्यूटन",
+        "(C) 64 N / 64 न्यूटन",
+        "(D) 8 N / 8 न्यूटन"
+      ],
+      "answer": 0,
+      "explanation": "a = (0 - 8)/2 = -4 m/s²; Force = m * |a| = 4 * 4 = 16 N. / F = ma = 4 × 4 = 16 न्यूटन।"
+    },
+    {
+      "id": "73b158f4",
+      "question": "125. According to the NCERT Position Paper on Teaching of Science, laboratory work is considered essential in science education primarily because it: / NCERT के स्थिति पत्र के अनुसार, विज्ञान शिक्षा में प्रयोगशाला कार्य मुख्य रूप से इसलिए आवश्यक है क्योंकि यहः",
+      "options": [
+        "(A) Serves as an assessment tool to award practical marks / प्रायोगिक अंक देने का साधन है",
+        "(B) Provides opportunities to follow fixed procedures for expected results / निर्धारित परिणामों की पुष्टि करता है",
+        "(C) Enables passive observation without active engagement / निष्क्रिय अवलोकन कराता है",
+        "(D) Develops process skills such as observation, manipulation, and inference through hands-on, exploratory activity / हाथों से किए जाने वाले खोजपरक कार्यों से अवलोकन, प्रयोग और निष्कर्ष कौशलों का विकास करता है"
+      ],
+      "answer": 3,
+      "explanation": "Hands-on laboratory work develops core scientific process skills and empirical inquiry. / प्रयोगशाला कार्य वैज्ञानिक प्रक्रिया कौशलों (अवलोकन, प्रयोग, निष्कर्ष) का विकास करता है।"
+    },
+    {
+      "id": "1a3675ca",
+      "question": "126. Which among the following is the approximate percentage of oxygen in Earth's atmosphere by volume under standard conditions? / मानक परिस्थितियों में पृथ्वी के वायुमंडल में आयतन के अनुसार ऑक्सीजन का अनुमानित प्रतिशत क्या है?",
+      "options": [
+        "(A) 78%",
+        "(B) 32%",
+        "(C) 16%",
+        "(D) 21%"
+      ],
+      "answer": 3,
+      "explanation": "Earth's atmosphere consists of approximately 21% oxygen and 78% nitrogen. / पृथ्वी के वायुमंडल में ऑक्सीजन की मात्रा लगभग 21% है।"
+    },
+    {
+      "id": "ec702979",
+      "question": "127. Which of the following is a vector quantity that acts in the same direction as the net force applied on a body? / कौन सी एक सदिश राशि है जो पिंड पर लगाए गए शुद्ध बल के समान दिशा में कार्य करती है?",
+      "options": [
+        "(A) Work / कार्य",
+        "(B) Acceleration / त्वरण",
+        "(C) Distance / दूरी",
+        "(D) Speed / चाल"
+      ],
+      "answer": 1,
+      "explanation": "By Newton's 2nd law (F = ma), acceleration is vector acting in net force direction. / न्यूटन के द्वितीय नियम अनुसार त्वरण (Acceleration) बल की दिशा में कार्य करता है।"
+    },
+    {
+      "id": "8349cad9",
+      "question": "128. Sound waves travelling through air are classified as which type of mechanical waves? / हवा में यात्रा करने वाली ध्वनि तरंगों को किस प्रकार की यांत्रिक तरंगों के रूप में वर्गीकृत किया जाता है?",
+      "options": [
+        "(A) Electromagnetic waves / विद्युतचुंबकीय तरंगें",
+        "(B) Surface waves / सतही तरंगें",
+        "(C) Longitudinal waves / अनुदैर्ध्य तरंगें",
+        "(D) Transverse waves / अनुप्रस्थ तरंगें"
+      ],
+      "answer": 2,
+      "explanation": "Sound in air travels through parallel particle compressions/rarefactions (longitudinal waves). / वायु में ध्वनि तरंगें अनुदैर्ध्य (Longitudinal) तरंगें होती हैं।"
+    },
+    {
+      "id": "8c79406f",
+      "question": "129. Archaea are classified into a separate domain from Eubacteria primarily based on differences in: / आर्किया को यूबैक्टीरिया से अलग डोमेन में किन अंतरों के आधार पर वर्गीकृत किया गया है?",
+      "options": [
+        "(A) Having a true membrane-bound nucleus / वास्तविक झिल्ली-बद्ध केंद्रक का होना",
+        "(B) Lacking any cell wall / कोशिका दीवार का न होना",
+        "(C) Reproducing only sexually / केवल लैंगिक प्रजनन",
+        "(D) Possessing ether-linked membrane lipids and unique ribosomal RNA sequences / ईथर-लिंक्ड झिल्ली लिपिड और अद्वितीय राइबोसोमल RNA अनुक्रमों का होना"
+      ],
+      "answer": 3,
+      "explanation": "Archaea feature ether-linked branched lipid membranes and distinct 16S rRNA. / आर्किया में ईथर-लिंक्ड लिपिड और विशिष्ट rRNA अनुक्रम पाए जाते हैं।"
+    },
+    {
+      "id": "7c0abde3",
+      "question": "130. The process of separating cotton fibres from seeds in harvested cotton bolls is known as: / कपास के गोलों से कपास के रेशों को बीजों से अलग करने की प्रक्रिया कहलाती है:",
+      "options": [
+        "(A) Ginning / जिनिंग (ओटाई)",
+        "(B) Retting / रेटिंग",
+        "(C) Scouring / स्कार्डरिंग",
+        "(D) Carding / कार्डिंग"
+      ],
+      "answer": 0,
+      "explanation": "Ginning separates cotton lint fibers from seeds. / कपास के रेशों को बीजों से पृथक करने की प्रक्रिया जिनिंग कहलाती है।"
+    },
+    {
+      "id": "3f11fb3c",
+      "question": "131. Bakelite is classified as a thermosetting plastic because it: / बैकेलाइट को थर्मोसेटिंग प्लास्टिक के रूप में वर्गीकृत किया जाता है क्योंकि यहः",
+      "options": [
+        "(A) Conducts electricity well / विद्युत का सुचालक है",
+        "(B) Dissolves easily in water / पानी में घुलनशील है",
+        "(C) Melts and can be reshaped on heating / गर्म करने पर पुनः ढाला जा सकता है",
+        "(D) Cannot be remoulded once hardened / एक बार जम जाने पर इसे पुनः ढाला नहीं जा सकता"
+      ],
+      "answer": 3,
+      "explanation": "Thermosetting plastics form cross-linked polymers and cannot be reshaped by heat. / थर्मोसेटिंग प्लास्टिक एक बार जम जाने के बाद दोबारा पिघलाया या ढाला नहीं जा सकता।"
+    },
+    {
+      "id": "aabbe58f",
+      "question": "132. Which of the following is used to test whether a substance is acidic or basic? / कौन सा पदार्थ यह जाँचने के लिए उपयोग किया जाता है कि कोई पदार्थ अम्लीय है या क्षारीय?",
+      "options": [
+        "(A) Sugar solution / चीनी का घोल",
+        "(B) Litmus solution / लिटमस घोल",
+        "(C) Distilled water / आसुत जल",
+        "(D) Salt solution / नमक का घोल"
+      ],
+      "answer": 1,
+      "explanation": "Litmus solution is a common pH indicator turning red in acid and blue in base. / लिटमस विलयन अम्ल-क्षार सूचक के रूप में प्रयुक्त होता है।"
+    },
+    {
+      "id": "bec741e7",
+      "question": "133. At the magnetic equator of the Earth, what is the value of the angle of dip? / पृथ्वी के चुंबकीय विषुवत रेखा पर नमन कोण का मान क्या होता है?",
+      "options": [
+        "(A) 60°",
+        "(B) 45°",
+        "(C) 0°",
+        "(D) 90°"
+      ],
+      "answer": 2,
+      "explanation": "The Earth's magnetic lines of force are parallel to surface at magnetic equator (dip = 0°). / चुंबकीय विषुवत रेखा पर चुंबकीय क्षेत्र क्षैतिज होता है, अतः नमन कोण 0° होता है।"
+    },
+    {
+      "id": "bf0f17a7",
+      "question": "134. If the percentage error in measuring the radius of a sphere is 2%, what is the percentage error in its calculated volume? / यदि गोले की त्रिज्या में प्रतिशत त्रुटि 2% है, तो आयतन में प्रतिशत त्रुटि क्या होगी?",
+      "options": [
+        "(A) 8%",
+        "(B) 6%",
+        "(C) 2%",
+        "(D) 4%"
+      ],
+      "answer": 1,
+      "explanation": "% error in volume V = 3 * % error in radius r = 3 * 2% = 6%. / आयतन में त्रुटि = 3 × 2% = 6%।"
+    },
+    {
+      "id": "3ae8bd39",
+      "question": "135. The tentativeness of science refers to the idea that scientific knowledge is: / विज्ञान की अनिश्चितता (Tentativeness) का तात्पर्य इस विचार से है कि वैज्ञानिक ज्ञानः",
+      "options": [
+        "(A) Always open to revision when better evidence or explanations emerge / नए प्रमाण या स्पष्टीकरण आने पर हमेशा संशोधन के लिए खुला रहता है",
+        "(B) Absolute and never subject to change / निरपेक्ष और अपरिवर्तनीय है",
+        "(C) Completely unreliable / पूरी तरह अविश्वसनीय है",
+        "(D) Decided by a vote among scientists / मतदान द्वारा तय होता है"
+      ],
+      "answer": 0,
+      "explanation": "Tentativeness means scientific concepts are dynamic and revisable with new evidence. / विज्ञान की प्रकृति परिवर्तनशील है और नए साक्ष्यों के आधार पर संशोधन योग्य है।"
+    },
+    {
+      "id": "0fe127b1",
+      "question": "136. In the absence of non-conservative forces, the total mechanical energy of an isolated system is: / असंरक्षी बलों की अनुपस्थिति में, किसी विलगित निकाय की कुल यांत्रिक ऊर्जा होती है:",
+      "options": [
+        "(A) Always constant / सदैव नियत",
+        "(B) Always zero / सदैव शून्य",
+        "(C) Always decreasing / सदैव घटती हुई",
+        "(D) Always increasing / सदैव बढ़ती हुई"
+      ],
+      "answer": 0,
+      "explanation": "Under conservative forces, total mechanical energy (KE + PE) is conserved and constant. / संरक्षी बलों के अंतर्गत कुल यांत्रिक ऊर्जा संरक्षित व नियत रहती है।"
+    },
+    {
+      "id": "67bdddda",
+      "question": "137. Glass is classified as an amorphous solid because it: / काँच को एक अनाकार (अक्रिस्टलीय) ठोस माना जाता है क्योंकिः",
+      "options": [
+        "(A) Is composed entirely of metallic elements / धात्विक तत्वों से बना है",
+        "(B) Has a regular crystalline arrangement / नियमित क्रिस्टलीय व्यवस्था है",
+        "(C) Has a sharp, well-defined melting point / तीव्र स्पष्ट गलनांक है",
+        "(D) Has no definite melting point and no ordered atomic structure / इसका कोई निश्चित गलनांक और दीर्घ-परासी क्रमित परमाणु संरचना नहीं होती"
+      ],
+      "answer": 3,
+      "explanation": "Amorphous solids lack long-range crystalline order and melt over a temperature range. / अक्रिस्टलीय ठोसों में परमाणुओं की कोई निश्चित व्यवस्था और निश्चित गलनांक नहीं होता।"
+    },
+    {
+      "id": "a2b70b3a",
+      "question": "138. Sodium metal is stored under kerosene because it: / सोडियम धातु को मिट्टी के तेल (केरोसिन) में रखा जाता है क्योंकि यहः",
+      "options": [
+        "(A) Has a very high melting point / इसका गलनांक बहुत अधिक है",
+        "(B) Is less dense than water / पानी से कम घनत्व वाला है",
+        "(C) Reacts vigorously with air and moisture / हवा और नमी के साथ तीव्र प्रतिक्रिया करता है",
+        "(D) Is insoluble in all liquids / सभी द्रवों में अघुलनशील है"
+      ],
+      "answer": 2,
+      "explanation": "Sodium reacts violently with atmospheric oxygen and moisture, forming oxides/hydroxides. / सोडियम वायु और जलवाष्प से तीव्र अभिक्रिया करता है, अतः केरोसिन में डुबोकर रखा जाता है।"
+    },
+    {
+      "id": "fb604591",
+      "question": "139. According to Coulomb's law, the electrostatic force between two fixed point charges in free space varies with distance as: / कूलम्ब के नियम के अनुसार, दो स्थिर आवेशों के बीच स्थिरवैद्युत बल दूरी के साथ बदलता है:",
+      "options": [
+        "(A) Independent of medium / माध्यम से स्वतंत्र",
+        "(B) Directly proportional to distance / दूरी के सीधे समानुपाती",
+        "(C) Always attractive / हमेशा आकर्षक",
+        "(D) Inversely proportional to the square of distance / दूरी के वर्ग के व्युत्क्रमानुपाती"
+      ],
+      "answer": 3,
+      "explanation": "Coulomb's Law: F proportional to 1/r^2 (inverse square law). / बल आवेशों के बीच की दूरी के वर्ग के व्युत्क्रमानुपाती (1/r²) होता है।"
+    },
+    {
+      "id": "9048de41",
+      "question": "140. Which of the following best describes sewage, fertilisers, and industrial effluents discharged into rivers? / नदियों में छोड़े जाने वाले सीवेज, उर्वरकों और औद्योगिक अपशिष्टों का सबसे अच्छा वर्णन है:",
+      "options": [
+        "(A) Biodegradable wastes / जैव-निम्नीकरणीय अपशिष्ट",
+        "(B) Soil nutrients / मृदा पोषक तत्व",
+        "(C) Water pollutants / जल प्रदूषक",
+        "(D) Air pollutants / वायु प्रदूषक"
+      ],
+      "answer": 2,
+      "explanation": "Substances discharged into waterways causing contamination are water pollutants. / जलस्रोतों को दूषित करने वाले यह सभी अपशिष्ट जल प्रदूषक हैं।"
+    },
+    {
+      "id": "3c6f4855",
+      "question": "141. According to NCF 2005, the primary purpose of diagnostic assessment in remedial teaching is to: / NCF 2005 के अनुसार उपचारात्मक शिक्षण में नैदानिक मूल्यांकन का मुख्य उद्देश्य है:",
+      "options": [
+        "(A) Select highest-performing students / केवल श्रेष्ठ छात्रों का चयन",
+        "(B) Rank students and assign permanent labels / रैंकिंग और स्थायी लेबल देना",
+        "(C) Identify specific learning gaps so that targeted instructional support can be provided / अधिगम की विशिष्ट कमियों की पहचान कर लक्षित शिक्षण सहायता देना",
+        "(D) Reduce teacher workload / शिक्षकों का कार्यभार कम करना"
+      ],
+      "answer": 2,
+      "explanation": "Diagnostic assessment identifies specific conceptual gaps to guide remedial interventions. / नैदानिक मूल्यांकन का उद्देश्य अधिगम कमियों को पहचानकर उपचारात्मक शिक्षण प्रदान करना है।"
+    },
+    {
+      "id": "fff05877",
+      "question": "142. During an online examination, a student uses a device to provide data and instructions to the computer system. Which is an example of an input device? / कंप्यूटर सिस्टम को डेटा और निर्देश देने वाला इनपुट उपकरण कौन सा है?",
+      "options": [
+        "(A) Monitor / मॉनिटर",
+        "(B) Keyboard / कीबोर्ड",
+        "(C) Speaker / स्पीकर",
+        "(D) Printer / प्रिंटर"
+      ],
+      "answer": 1,
+      "explanation": "Keyboard is an alphanumeric input peripheral device. / कीबोर्ड एक प्राथमिक इनपुट डिवाइस है।"
+    },
+    {
+      "id": "56dc4367",
+      "question": "143. Organic compounds such as methanal and ethanal are classified as aldehydes because they contain which functional group? / मेथेनल और एथेनल में कौन सा क्रियात्मक समूह होता है जिससे वे एल्डिहाइड कहलाते हैं?",
+      "options": [
+        "(A) -CO-",
+        "(B) -COOH",
+        "(C) -CHO",
+        "(D) -OH"
+      ],
+      "answer": 2,
+      "explanation": "Aldehydes contain the formyl group -CHO. / एल्डिहाइड वर्ग का क्रियात्मक समूह -CHO होता है।"
+    },
+    {
+      "id": "78fdff9a",
+      "question": "144. In dicot stems, vascular bundles are termed 'open' because they contain: / द्विबीजपत्री तनों में संवहनी बंडलों को 'खुला' कहा जाता है क्योंकि उनमें होता है:",
+      "options": [
+        "(A) Xylem and phloem in closed ring with no cambium / कैम्बियम रहित",
+        "(B) Phloem only and no xylem / केवल फ्लोएम",
+        "(C) Cambium between xylem and phloem, enabling secondary growth / जाइलम और फ्लोएम के बीच कैम्बियम, जो द्वितीयक वृद्धि को संभव बनाता है",
+        "(D) Lack bundle sheath / बंडल शीथ का अभाव"
+      ],
+      "answer": 2,
+      "explanation": "Open bundles possess intrafascicular cambium allowing secondary growth. / जाइलम और फ्लोएम के मध्य कैम्बियम की उपस्थिति के कारण इन्हें खुला (Open) बंडल कहते हैं।"
+    },
+    {
+      "id": "92643473",
+      "question": "145. The first antibiotic, penicillin, was originally discovered from which fungus? / पहला एंटीबायोटिक, पेनिसिलिन, किस कवक से खोजा गया था?",
+      "options": [
+        "(A) Saccharomyces cerevisiae",
+        "(B) Penicillium notatum",
+        "(C) Aspergillus niger",
+        "(D) Rhizopus stolonifer"
+      ],
+      "answer": 1,
+      "explanation": "Alexander Fleming discovered penicillin in 1928 from Penicillium notatum. / पेनिसिलिन की खोज अलेक्जेंडर फ्लेमिंग द्वारा पेनिसिलियम नोटेटम कवक से की गई थी।"
+    },
+    {
+      "id": "2ef260fa",
+      "question": "146. How much heat energy is required to raise the temperature of 2 kg of water by 5°C? (c = 4200 J kg^-1 °C^-1) / 2 kg पानी का तापमान 5°C बढ़ाने के लिए आवश्यक ऊष्मा ऊर्जा कितनी होगी? (विशिष्ट ऊष्मा = 4200 J/kg°C)",
+      "options": [
+        "(A) 8,400 J",
+        "(B) 84,000 J",
+        "(C) 21,000 J",
+        "(D) 42,000 J"
+      ],
+      "answer": 3,
+      "explanation": "Q = m * c * delta(T) = 2 * 4200 * 5 = 42,000 J."
+    },
+    {
+      "id": "154f541e",
+      "question": "147. Paramecium is placed in Kingdom Protista and is characterised by locomotion using hair-like structures called: / पैरामीशियम में गति हेतु प्रयुक्त बाल जैसी संरचनाओं को कहा जाता है:",
+      "options": [
+        "(A) Setae / सीटे",
+        "(B) Flagella / फ्लैजेला",
+        "(C) Pseudopodia / स्यूडोपोडिया",
+        "(D) Cilia / सीलिया"
+      ],
+      "answer": 3,
+      "explanation": "Paramecium uses thousands of coordinated cilia for movement. / पैरामीशियम सीलिया (पक्ष्माभ) की सहायता से गमन करता है।"
+    },
+    {
+      "id": "878d3d10",
+      "question": "148. In the scientific method, a hypothesis is best described as a: / वैज्ञानिक विधि में परिकल्पना (Hypothesis) का सबसे अच्छा वर्णन है:",
+      "options": [
+        "(A) Tentative, testable explanation proposed to account for an observation / अवलोकन की व्याख्या हेतु प्रस्तावित एक अस्थायी, परीक्षण योग्य स्पष्टीकरण",
+        "(B) Final law established after publication / अंतिम नियम",
+        "(C) Random guess without background knowledge / यादृच्छिक अनुमान",
+        "(D) Confirmed conclusion supported by experiments / पुष्ट निष्कर्ष"
+      ],
+      "answer": 0,
+      "explanation": "A hypothesis is a tentative, testable proposition explaining an observation. / परिकल्पना एक अस्थायी व परीक्षण योग्य स्पष्टीकरण होती है।"
+    },
+    {
+      "id": "9887ed22",
+      "question": "149. The hypothesis that anatomically modern Homo sapiens evolved in Africa and later spread to other parts of the world is called: / आधुनिक होमो सेपियन्स का अफ्रीका में विकास और विश्व में प्रसार संबंधी सिद्धांत कहलाता है:",
+      "options": [
+        "(A) Out of Africa (replacement) hypothesis / 'आउट ऑफ़ अफ्रीका' परिकल्पना",
+        "(B) Punctuated equilibrium theory / विरामित संतुलन सिद्धांत",
+        "(C) Multiregional evolution hypothesis / बहु-क्षेत्रीय विकास परिकल्पना",
+        "(D) Founder effect model / संस्थापक प्रभाव मॉडल"
+      ],
+      "answer": 0,
+      "explanation": "The 'Out of Africa' model posits modern humans originated in Africa before spreading globally. / 'आउट ऑफ़ अफ्रीका' सिद्धांत आधुनिक मानव की अफ्रीकी उत्पत्ति और वैश्विक प्रवासन को दर्शाता है।"
+    },
+    {
+      "id": "45304916",
+      "question": "150. According to NCF 2005, the central aim of science education at the school level is to: / NCF 2005 के अनुसार, स्कूली स्तर पर विज्ञान शिक्षा का मुख्य उद्देश्य है:",
+      "options": [
+        "(A) Nurture scientific temper, curiosity, and the spirit of inquiry in every student / प्रत्येक विद्यार्थी में वैज्ञानिक दृष्टिकोण, जिज्ञासा और अन्वेषण की भावना का पोषण करना",
+        "(B) Restrict science knowledge to future scientists / केवल भविष्य के वैज्ञानिकों तक सीमित रखना",
+        "(C) Develop memory skills for recalling scientific facts / तथ्यों को याद करने का स्मरण कौशल",
+        "(D) Prepare students exclusively for competitive entrance examinations / केवल प्रतियोगी परीक्षाओं की तैयारी कराना"
+      ],
+      "answer": 0,
+      "explanation": "NCF 2005 aims to cultivate scientific temper, creativity, curiosity, and spirit of inquiry. / NCF 2005 का प्रमुख उद्देश्य वैज्ञानिक स्वभाव, जिज्ञासा और खोजपरक दृष्टिकोण का विकास करना है।"
+    }
+  ]
+}

@@ -1,0 +1,1448 @@
+{
+  "title": "10",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "e00ce223",
+      "question": "1. 'हरये नमः' इत्यत्र 'हरये' पदे का विभक्तिः अस्ति? / Which Vibhakti is in 'Haraye' in 'Haraye Namah'?",
+      "options": [
+        "(A) चतुर्थी विभक्तिः / Chaturthi Vibhakti",
+        "(B) षष्ठी विभक्तिः / Shashthi Vibhakti",
+        "(C) पञ्चमी विभक्तिः / Panchami Vibhakti",
+        "(D) तृतीया विभक्तिः / Tritiya Vibhakti"
+      ],
+      "answer": 0,
+      "explanation": "'नमः स्वस्ति स्वाहा स्वधा अलंवषड्योगाच्च' सूत्रेण 'नमः' योगे चतुर्थी विभक्तिः भवति।"
+    },
+    {
+      "id": "5c4eab84",
+      "question": "2. 'कृतवान्' इत्यत्र कः प्रत्ययः प्रयुक्तः? / Which Pratyaya is used in 'Kritavan'?",
+      "options": [
+        "(A) क्त / Kta",
+        "(B) शतृ / Shatri",
+        "(C) क्तवतु / Ktavatu",
+        "(D) शानच् / Shanach"
+      ],
+      "answer": 2,
+      "explanation": "भूतकाल के अर्थ में धातुओं से 'क्तवतु' (तवत्) प्रत्यय का प्रयोग होता है (कृ + क्तवतु = कृतवान्)।"
+    },
+    {
+      "id": "e706a380",
+      "question": "3. Which Mughal emperor shifted the capital of the Mughal Empire from Agra to Fatehpur Sikri? / किस मुगल सम्राट ने मुगल साम्राज्य की राजधानी आगरा से फतेहपुर सीकरी स्थानांतरित की थी?",
+      "options": [
+        "(A) Babur / बाबर",
+        "(B) Shah Jahan / शाहजहाँ",
+        "(C) Aurangzeb / औरंगज़ेब",
+        "(D) Akbar / अकबर"
+      ],
+      "answer": 3,
+      "explanation": "Akbar established Fatehpur Sikri near Agra as the capital of the Mughal Empire between 1571 and 1585."
+    },
+    {
+      "id": "5e3467ad",
+      "question": "4. Select the correct antonym of 'METICULOUS': / 'METICULOUS' का सही विलोम शब्द चुनें:",
+      "options": [
+        "(A) Careless / लापरवाह",
+        "(B) Accurate / सटीक",
+        "(C) Thorough / संपूर्ण",
+        "(D) Diligent / परिश्रमयुक्त"
+      ],
+      "answer": 0,
+      "explanation": "'Meticulous' means extremely careful and precise; its antonym is 'Careless' or 'Sloppy'."
+    },
+    {
+      "id": "717d036f",
+      "question": "5. In a code language, if 'FLOWER' is written as 'EKNVDQ', how is 'GARDEN' written in that code? / किसी कूट भाषा में यदि 'FLOWER' को 'EKNVDQ' लिखा जाता है, तो 'GARDEN' को उसी कूट में कैसे लिखा जाएगा?",
+      "options": [
+        "(A) FZQBDM / FZQBDM",
+        "(B) HBSEFO / HBSEFO",
+        "(C) FBQFDO / FBQFDO",
+        "(D) FZQCDM / FZQCDM"
+      ],
+      "answer": 3,
+      "explanation": "Each letter is shifted back by 1 position (-1 pattern): G->F, A->Z, R->Q, D->C, E->D, N->M -> FZQCDM."
+    },
+    {
+      "id": "f985c3d1",
+      "question": "6. What is the pH value of pure distilled water at 25°C? / 25°C पर शुद्ध आसुत जल का pH मान क्या होता है?",
+      "options": [
+        "(A) 14.0 (Basic) / 14.0",
+        "(B) 5.6 (Acidic) / 5.6",
+        "(C) 7.0 (Neutral) / 7.0 (उदासीन)",
+        "(D) 0.0 (Acidic) / 0.0"
+      ],
+      "answer": 2,
+      "explanation": "Pure water is neutral with a pH value of exactly 7.0 at 25°C."
+    },
+    {
+      "id": "589b5413",
+      "question": "7. Pipe A can fill a tank in 10 hours and Pipe B can fill it in 15 hours. How long will they take together to fill the tank? / नल A एक टंकी को 10 घंटे में और नल B 15 घंटे में भर सकता है। दोनों मिलकर टंकी को कितने समय में भरेंगे?",
+      "options": [
+        "(A) 7.5 hours / 7.5 घंटे",
+        "(B) 8 hours / 8 घंटे",
+        "(C) 6 hours / 6 घंटे",
+        "(D) 5 hours / 5 घंटे"
+      ],
+      "answer": 2,
+      "explanation": "Time = (10 * 15) / (10 + 15) = 150 / 25 = 6 hours."
+    },
+    {
+      "id": "45d4837d",
+      "question": "8. Who authored the famous Hindi patriotic poem 'Pushp Ki Abhilasha'? / प्रसिद्ध हिंदी देशभक्ति कविता 'पुष्प की अभिलाषा' की रचना किसने की?",
+      "options": [
+        "(A) Maithili Sharan Gupt / मैथिलीशरण गुप्त",
+        "(B) Subhadra Kumari Chauhan / सुभद्रा कुमारी चौहान",
+        "(C) Makhanlal Chaturvedi / माखनलाल चतुर्वेदी",
+        "(D) Ramdhari Singh Dinkar / रामधारी सिंह दिनकर"
+      ],
+      "answer": 2,
+      "explanation": "'Pushp Ki Abhilasha' was composed by Pandit Makhanlal Chaturvedi, also known as 'Ek Bharatiya Atma'."
+    },
+    {
+      "id": "08ad576f",
+      "question": "9. \"वह धीमे-धीमे चलता है।\" इस वाक्य में 'धीमे-धीमे' क्या है? / What is 'Dheeme-Dheeme' in this sentence?",
+      "options": [
+        "(A) विशेषण / Visheshana",
+        "(B) संज्ञा / Sangya",
+        "(C) क्रियाविशेषण / Kriya-visheshana (Adverb)",
+        "(D) सर्वनाम / Sarvnam"
+      ],
+      "answer": 2,
+      "explanation": "जो शब्द क्रिया (चलना) की विशेषता बताता है, उसे क्रियाविशेषण कहते हैं।"
+    },
+    {
+      "id": "e09cc5ee",
+      "question": "10. The concept of 'Trial and Error' method of learning was propounded by: / अधिगम के 'प्रयास एवं त्रुटि' सिद्धांत का प्रतिपादन किसने किया था?",
+      "options": [
+        "(A) Edward Lee Thorndike / एडवर्ड ली थॉर्नडाइक",
+        "(B) Wolfgang Köhler / वोल्फगैंग कोहलर",
+        "(C) Ivan Pavlov / इवान पावलोव",
+        "(D) Kurt Lewin / कुर्ट लेविन"
+      ],
+      "answer": 0,
+      "explanation": "Thorndike propounded the Trial and Error theory of learning based on experiments with cats in puzzle boxes."
+    },
+    {
+      "id": "ca172fa9",
+      "question": "11. Which movement was launched by Mahatma Gandhi following the non-fulfilment of his 11-point demand in 1930? / 1930 में अपनी 11 सूत्री मांगों को पूरा न होने पर महात्मा गांधी द्वारा कौन सा आंदोलन शुरू किया गया था?",
+      "options": [
+        "(A) Quit India Movement / भारत छोड़ो आंदोलन",
+        "(B) Swadeshi Movement / स्वदेशी आंदोलन",
+        "(C) Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+        "(D) Non-Cooperation Movement / असहयोग आंदोलन"
+      ],
+      "answer": 2,
+      "explanation": "Mahatma Gandhi initiated the Civil Disobedience Movement with the historic Dandi Salt March on March 12, 1930."
+    },
+    {
+      "id": "70629e48",
+      "question": "12. Which law states that 'For every action, there is an equal and opposite reaction'? / किस नियम के अनुसार 'प्रत्येक क्रिया के बराबर एवं विपरीत प्रतिक्रिया होती है'?",
+      "options": [
+        "(A) Newton's Third Law of Motion / न्यूटन का गति का तीसरा नियम",
+        "(B) Pascal's Law / पास्कल का नियम",
+        "(C) Newton's First Law / न्यूटन का प्रथम नियम",
+        "(D) Law of Conservation of Energy / ऊर्जा संरक्षण का नियम"
+      ],
+      "answer": 0,
+      "explanation": "Newton's Third Law of Motion states that actions and reactions are equal in magnitude and opposite in direction."
+    },
+    {
+      "id": "97fc9e33",
+      "question": "13. In which district of UP is the Central Avian Research Institute (CARI) located? / उत्तर प्रदेश के किस जिले में केंद्रीय पक्षी अनुसंधान संस्थान (CARI) स्थित है?",
+      "options": [
+        "(A) Mathura / मथुरा",
+        "(B) Bareilly / बरेली",
+        "(C) Saharanpur / सहारनपुर",
+        "(D) Kanpur / कानपुर"
+      ],
+      "answer": 1,
+      "explanation": "The Central Avian Research Institute (CARI) is situated at Izatnagar, Bareilly in Uttar Pradesh."
+    },
+    {
+      "id": "0c507ff2",
+      "question": "14. \"जिसकी उपमा न दी जा सके\" — इस वाक्यांश के लिए एक शब्द क्या होगा? / One word for 'One who cannot be compared':",
+      "options": [
+        "(A) अनुपम / Anupam",
+        "(B) अतुलनीय / Atulniya",
+        "(C) अद्वितीय / Advitiya",
+        "(D) असीम / Aseem"
+      ],
+      "answer": 0,
+      "explanation": "जिसकी उपमा न दी जा सके उसे 'अनुपम' या 'अनुपमेय' कहते हैं।"
+    },
+    {
+      "id": "cd5fcb8e",
+      "question": "15. The 73rd Constitutional Amendment Act 1992 added which Schedule to the Constitution of India? / 73वें संविधान संशोधन अधिनियम 1992 ने भारत के संविधान में कौन सी अनुसूची जोड़ी?",
+      "options": [
+        "(A) 10th Schedule / 10वीं अनुसूची",
+        "(B) 9th Schedule / 9वीं अनुसूची",
+        "(C) 12th Schedule / 12वीं अनुसूची",
+        "(D) 11th Schedule / 11वीं अनुसूची"
+      ],
+      "answer": 3,
+      "explanation": "The 73rd Amendment added the 11th Schedule containing 29 functional items for Panchayati Raj institutions."
+    },
+    {
+      "id": "4c53421d",
+      "question": "16. Which Indian state has the longest coastline among all coastal states? / सभी तटीय राज्यों में भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+      "options": [
+        "(A) Tamil Nadu / तमिलनाडु",
+        "(B) Maharashtra / महाराष्ट्र",
+        "(C) Andhra Pradesh / आंध्र प्रदेश",
+        "(D) Gujarat / गुजरात"
+      ],
+      "answer": 3,
+      "explanation": "Gujarat has the longest coastline in India, extending over 1,600 km along the Kathiawar peninsula."
+    },
+    {
+      "id": "9e8b9724",
+      "question": "17. Which shortcut key is universally used to paste copied text or objects in MS Windows? / एमएस विंडोज़ में कॉपी किए गए टेक्स्ट को पेस्ट करने के लिए कौन सी शॉर्टकट कुंजी का उपयोग किया जाता है?",
+      "options": [
+        "(A) Ctrl + V / Ctrl + V",
+        "(B) Ctrl + C / Ctrl + C",
+        "(C) Ctrl + P / Ctrl + P",
+        "(D) Ctrl + X / Ctrl + X"
+      ],
+      "answer": 0,
+      "explanation": "Ctrl + V is the universal shortcut key for pasting content from clipboard."
+    },
+    {
+      "id": "c4521db6",
+      "question": "18. Which city in Uttar Pradesh hosted the 4th edition of the Khelo India University Games (KIUG) rowing event? / उत्तर प्रदेश के किस शहर ने खेलो इंडिया यूनिवर्सिटी गेम्स के चौथे संस्करण की नौकायन (रोइंग) प्रतियोगिता की मेजबानी की?",
+      "options": [
+        "(A) Kanpur / कानपुर",
+        "(B) Agra / आगरा",
+        "(C) Varanasi / वाराणसी",
+        "(D) Gorakhpur / गोरखपुर"
+      ],
+      "answer": 3,
+      "explanation": "The rowing event of Khelo India University Games was conducted at Ramgarh Tal Lake in Gorakhpur, UP."
+    },
+    {
+      "id": "44522ffd",
+      "question": "19. Which strait separates India from Sri Lanka in the Indian Ocean? / कौन सा जलडमरूमध्य भारत को श्रीलंका से अलग करता है?",
+      "options": [
+        "(A) Ten Degree Channel / दस डिग्री चैनल",
+        "(B) Bering Strait / बेरिंग जलडमरूमध्य",
+        "(C) Malacca Strait / मलक्का जलडमरूमध्य",
+        "(D) Palk Strait / पाक जलडमरूमध्य"
+      ],
+      "answer": 3,
+      "explanation": "The Palk Strait connects the Bay of Bengal with the Palk Bay and separates Tamil Nadu (India) from Sri Lanka."
+    },
+    {
+      "id": "5ea64a18",
+      "question": "20. According to Howard Gardner, a person with high ability to understand oneself and one's own feelings possesses: / हावर्ड गार्डनर के अनुसार, स्वयं की भावनाओं एवं क्षमता को समझने की उच्च योग्यता क्या कहलाती है?",
+      "options": [
+        "(A) Interpersonal Intelligence / अंतरव्यक्तिगत बुद्धिमत्ता",
+        "(B) Linguistic Intelligence / भाषाई बुद्धिमत्ता",
+        "(C) Intrapersonal Intelligence / अंतराव्यक्तिगत बुद्धिमत्ता",
+        "(D) Spatial Intelligence / स्थानिक बुद्धिमत्ता"
+      ],
+      "answer": 2,
+      "explanation": "Intrapersonal intelligence is self-awareness and understanding of one's own emotions, motives, and desires."
+    },
+    {
+      "id": "0fa0b27c",
+      "question": "21. Which blood group is known as the 'Universal Donor'? / किस रक्त समूह को 'सर्वदाता' (Universal Donor) कहा जाता है?",
+      "options": [
+        "(A) O negative (O-) / ओ नेगेटिव",
+        "(B) AB positive (AB+) / एबी पॉजिटिव",
+        "(C) A positive (A+)",
+        "(D) B negative (B-)"
+      ],
+      "answer": 0,
+      "explanation": "O negative blood lacks A, B, and Rh antigens, making it safe for transfusions to any blood group."
+    },
+    {
+      "id": "bc3ff51b",
+      "question": "22. 'अहोरात्रम्' इति पदे कः समासः अस्ति? / Which Samas is present in 'Ahoratram'?",
+      "options": [
+        "(A) द्विगु समासः / Dvigu Samas",
+        "(B) तत्पुरुष समासः / Tatpurush Samas",
+        "(C) द्वन्द्व समासः / Dvandva Samas",
+        "(D) अव्ययीभाव समासः / Avyayibhav Samas"
+      ],
+      "answer": 2,
+      "explanation": "अहश्च रात्रिश्च इति अहोरात्रम् (समाहार द्वन्द्व समासः)।"
+    },
+    {
+      "id": "35beb2cc",
+      "question": "23. 'पीतांबर' (पीत है अंबर जिसका अर्थात श्रीकृष्ण) में कौन सा समास है? / Which Samas is present in 'Pitambar'?",
+      "options": [
+        "(A) तत्पुरुष समास / Tatpurush Samas",
+        "(B) अव्ययीभाव समास / Avyayibhav Samas",
+        "(C) बहुव्रीहि समास / Bahuvrihi Samas",
+        "(D) द्विगु समास / Dvigu Samas"
+      ],
+      "answer": 2,
+      "explanation": "जब दोनों पद मिलकर किसी तीसरे अन्य पद (श्रीकृष्ण) का बोध कराते हैं, वहाँ बहुव्रीहि समास होता है।"
+    },
+    {
+      "id": "cddbd374",
+      "question": "24. If Cost Price (CP) is ₹500 and Selling Price (SP) is ₹625, find the Profit Percentage. / यदि क्रय मूल्य ₹500 और विक्रय मूल्य ₹625 है, तो लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "(A) 20% / 20%",
+        "(B) 15% / 15%",
+        "(C) 30% / 30%",
+        "(D) 25% / 25%"
+      ],
+      "answer": 3,
+      "explanation": "Profit = 625 - 500 = 125. Profit % = (125 / 500) * 100 = 25%."
+    },
+    {
+      "id": "dc87695e",
+      "question": "25. 'इत्यादि' अस्य पदस्य सन्धि-विच्छेदः किम् अस्ति? / What is the Sandhi-Vichchhed of 'Ityadi' in Sanskrit?",
+      "options": [
+        "(A) इति + आदि / Iti + Adi",
+        "(B) इत + आदि / It + Adi",
+        "(C) इति + यादि / Iti + Yadi",
+        "(D) इत्या + दि / Itya + Di"
+      ],
+      "answer": 0,
+      "explanation": "यण् सन्धिः (इको यणचि): इ/ई के पश्चात् असमान स्वर आने पर 'इ' का 'य्' हो जाता है (इति + आदि = इत्यादि)।"
+    },
+    {
+      "id": "87cd722f",
+      "question": "26. What is the minimum age required to become a member of the Rajya Sabha in India? / भारत में राज्यसभा का सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+      "options": [
+        "(A) 21 years / 21 वर्ष",
+        "(B) 30 years / 30 वर्ष",
+        "(C) 35 years / 35 वर्ष",
+        "(D) 25 years / 25 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "According to Article 84 of the Indian Constitution, the minimum age for Rajya Sabha membership is 30 years (25 years for Lok Sabha)."
+    },
+    {
+      "id": "97b81de4",
+      "question": "27. Which city in UP is famous as the 'Brass City' (Pital Nagari) of India? / उत्तर प्रदेश का कौन सा शहर भारत के 'पीतल नगरी' के रूप में प्रसिद्ध है?",
+      "options": [
+        "(A) Mirzapur / मिर्जापुर",
+        "(B) Moradabad / मुरादाबाद",
+        "(C) Khurja / खुर्जा",
+        "(D) Aligarh / अलीगढ़"
+      ],
+      "answer": 1,
+      "explanation": "Moradabad is renowned worldwide for its brass handicrafts industry, earning the title 'Pital Nagari'."
+    },
+    {
+      "id": "73ec2650",
+      "question": "28. Intrinsic Motivation in a student is best demonstrated when the student: / छात्र में 'आंतरिक अभिप्रेरणा' का सर्वोत्तम प्रदर्शन तब होता है जब छात्र:",
+      "options": [
+        "(A) Reads a topic out of self-curiosity and interest / अपनी जिज्ञासा और रुचि के कारण पढ़ता है",
+        "(B) Studies for monetary reward / नकद पुरस्कार हेतु पढ़ता है",
+        "(C) Studies to avoid teacher's punishment / शिक्षक के दंड से बचने हेतु पढ़ता है",
+        "(D) Studies to get high marks in exam / परीक्षा में उच्च अंक प्राप्त करने हेतु पढ़ता है"
+      ],
+      "answer": 0,
+      "explanation": "Intrinsic motivation comes from internal drives such as curiosity, self-satisfaction, and genuine interest."
+    },
+    {
+      "id": "07c44cf2",
+      "question": "29. If a + b = 10 and ab = 21, find the value of a^2 + b^2. / यदि a + b = 10 और ab = 21 है, तो a^2 + b^2 का मान ज्ञात कीजिए।",
+      "options": [
+        "(A) 79 / 79",
+        "(B) 100 / 100",
+        "(C) 58 / 58",
+        "(D) 64 / 64"
+      ],
+      "answer": 2,
+      "explanation": "a^2 + b^2 = (a + b)^2 - 2ab = 10^2 - 2(21) = 100 - 42 = 58."
+    },
+    {
+      "id": "9c23c623",
+      "question": "30. Which teaching strategy best promotes Active Learning in a diverse primary classroom? / विविध प्राथमिक कक्षा में सक्रिय अधिगम को बढ़ावा देने की सबसे प्रभावी रणनीति कौन सी है?",
+      "options": [
+        "(A) Peer collaboration and group discussion / सहपाठी सहयोग एवं समूह चर्चा",
+        "(B) Strict silent individual work / सख्त मौन व्यक्तिगत कार्य",
+        "(C) Passive lecture delivery / निष्क्रिय व्याख्यान देना",
+        "(D) Dictating notes from textbooks / पुस्तकों से नोट्स लिखवाना"
+      ],
+      "answer": 0,
+      "explanation": "Peer collaboration fosters peer-to-peer interaction, critical thinking, and inclusive participation."
+    },
+    {
+      "id": "5e98bff0",
+      "question": "31. Which is the highest waterfall in Uttar Pradesh formed by the Belan River tributary? / बेलन नदी की सहायक नदी द्वारा निर्मित उत्तर प्रदेश का सबसे ऊँचा जलप्रपात कौन सा है?",
+      "options": [
+        "(A) Mukha Falls / मुखा जलप्रपात",
+        "(B) Lakhaniya Dari / लखनिया दरी",
+        "(C) Chuna Dari / चूना दरी",
+        "(D) Devdari and Rajdari / देवदरी और राजदरी"
+      ],
+      "answer": 3,
+      "explanation": "Rajdari and Devdari waterfalls located in Chandra Prabha Wildlife Sanctuary (Chandauli, UP) are famous natural waterfalls in UP."
+    },
+    {
+      "id": "7c03cc41",
+      "question": "32. The median of observation numbers arranged in ascending order 11, 13, 15, x+2, x+4, 22, 25, 29 is 19. Find x. / आरोही क्रम में व्यवस्थित आँकड़ों का माध्यक 19 है। x का मान ज्ञात कीजिए।",
+      "options": [
+        "(A) 17 / 17",
+        "(B) 15 / 15",
+        "(C) 16 / 16",
+        "(D) 18 / 18"
+      ],
+      "answer": 2,
+      "explanation": "Total items N = 8 (even). Median = average of 4th and 5th term = [(x+2) + (x+4)]/2 = x + 3 = 19 => x = 16."
+    },
+    {
+      "id": "69ed1ebd",
+      "question": "33. Which Indian satellite mission launched in 2024 is dedicated to X-ray polarimetry astronomy? / 2024 में प्रक्षेपित कौन सा भारतीय उपग्रह मिशन एक्स-रे पोलारिमेट्री खगोल विज्ञान को समर्पित है?",
+      "options": [
+        "(A) XPoSat / एक्सपोसेट",
+        "(B) Aditya-L1 / आदित्य-L1",
+        "(C) EOS-07 / ईओएस-07",
+        "(D) Astrosat-2 / एस्ट्रोसेट-2"
+      ],
+      "answer": 0,
+      "explanation": "ISRO launched XPoSat (X-ray Polarimeter Satellite) on Jan 1, 2024, to study celestial X-ray sources."
+    },
+    {
+      "id": "f86265dc",
+      "question": "34. As per RTE Act 2009, how many minimum working hours per week are mandated for a teacher in primary schools? / आरटीई अधिनियम 2009 के अनुसार, प्राथमिक विद्यालयों में एक शिक्षक के लिए प्रति सप्ताह न्यूनतम कितने कार्य घंटे अनिवार्य हैं?",
+      "options": [
+        "(A) 30 hours / 30 घंटे",
+        "(B) 50 hours / 50 घंटे",
+        "(C) 40 hours / 40 घंटे",
+        "(D) 45 hours (including preparation hours) / 45 घंटे (तैयारी के घंटों सहित)"
+      ],
+      "answer": 3,
+      "explanation": "Section of RTE Act 2009 mandates a minimum of 45 teaching/working hours per week for teachers including preparation time."
+    },
+    {
+      "id": "a70e2a70",
+      "question": "35. Fill in the blank with appropriate preposition: \"He is proficient _____ mathematics.\" / उपयुक्त preposition भरें:",
+      "options": [
+        "(A) for / for",
+        "(B) in / in",
+        "(C) at / at",
+        "(D) with / with"
+      ],
+      "answer": 1,
+      "explanation": "The adjective 'proficient' is idiomatically followed by the preposition 'in' (proficient in something)."
+    },
+    {
+      "id": "b4c0350c",
+      "question": "36. Which computer memory is permanent, non-volatile, and holds the BIOS instructions for booting up? / कौन सी कंप्यूटर मेमोरी स्थाई (Non-volatile) है और बूटिंग के लिए आवश्यक BIOS निर्देशों को संग्रहीत रखती है?",
+      "options": [
+        "(A) Cache Memory / कैश मेमोरी",
+        "(B) RAM (Random Access Memory) / रैम",
+        "(C) ROM (Read-Only Memory) / रोम",
+        "(D) Virtual Memory / वर्चुअल मेमोरी"
+      ],
+      "answer": 2,
+      "explanation": "ROM stores permanent system boot code (firmware/BIOS) that is retained even when power is turned off."
+    },
+    {
+      "id": "7576ace9",
+      "question": "37. 'सज्जन' शब्द का सही सन्धि-विच्छेद क्या होगा? / What is the correct Sandhi-Vichchhed of 'Sajjan'?",
+      "options": [
+        "(A) सत् + जन / Sat + Jan (with Halant)",
+        "(B) सः + जन / Sah + Jan",
+        "(C) सत + जन / Sat + Jan",
+        "(D) सज + जन / Saj + Jan"
+      ],
+      "answer": 0,
+      "explanation": "व्यंजन संधि: सत् + जन = सज्जन (त का ज में परिवर्तन)।"
+    },
+    {
+      "id": "185be6d2",
+      "question": "38. Choose the correct indirect speech: He said, \"I have finished my project.\" / अप्रत्यक्ष कथन चुनें:",
+      "options": [
+        "(A) He told that he finished his project.",
+        "(B) He said that I had finished my project.",
+        "(C) He said that he had finished his project.",
+        "(D) He said that he has finished his project."
+      ],
+      "answer": 2,
+      "explanation": "Present perfect ('have finished') changes to past perfect ('had finished') in indirect speech."
+    },
+    {
+      "id": "f763880f",
+      "question": "39. What is 'Empathy' in teacher-student interpersonal relationships? / शिक्षक-छात्र अंतरवैयक्तिक संबंधों में 'सहानुभूति/समानुभूति' (Empathy) क्या है?",
+      "options": [
+        "(A) Understanding student's perspective and feelings from their viewpoint / छात्र के दृष्टिकोण और भावनाओं को समझना",
+        "(B) Sympathizing with tears only / केवल आँसुओं पर दया दिखाना",
+        "(C) Ignoring student's emotional state / छात्र की भावनात्मक स्थिति की उपेक्षा करना",
+        "(D) Giving special standard perks / विशेष छूट देना"
+      ],
+      "answer": 0,
+      "explanation": "Empathy means putting oneself in the student's shoes to understand their thoughts, feelings, and behavioral challenges."
+    },
+    {
+      "id": "719b1e55",
+      "question": "40. Who was appointed as the Chief Justice of India (CJI) succeeding DY Chandrachud? / डीवाई चंद्रचूड़ के बाद भारत के मुख्य न्यायाधीश (CJI) के रूप में किसने पदभार ग्रहण किया?",
+      "options": [
+        "(A) Justice Surya Kant / न्यायमूर्ति सूर्यकांत",
+        "(B) Justice U.U. Lalit / न्यायमूर्ति यू.यू. ललित",
+        "(C) Justice B.R. Gavai / न्यायमूर्ति बी.आर. गवई",
+        "(D) Justice Sanjiv Khanna / न्यायमूर्ति संजीव खन्ना"
+      ],
+      "answer": 3,
+      "explanation": "Justice Sanjiv Khanna assumed office as the 51st Chief Justice of India in November 2024 following CJI D.Y. Chandrachud."
+    },
+    {
+      "id": "23f6089a",
+      "question": "41. 'अनुराग' शब्द का विलोम शब्द क्या है? / What is the antonym of 'Anuraag'?",
+      "options": [
+        "(A) वैराग्य / Vairagya",
+        "(B) विराग / Viraag",
+        "(C) पराग / Paraag",
+        "(D) राग / Raag"
+      ],
+      "answer": 1,
+      "explanation": "'अनुराग' (प्रेम/आसक्ति) का सही विलोम शब्द 'विराग' (उदासीनता) है।"
+    },
+    {
+      "id": "7079bdd0",
+      "question": "42. Pointing to a man, a woman said: 'His mother is the only daughter of my mother.' How is the woman related to the man? / एक पुरुष की ओर इशारा करते हुए एक महिला ने कहा: 'उसकी माँ मेरी माँ की इकलौती बेटी है।' वह महिला उस पुरुष से किस प्रकार संबंधित है?",
+      "options": [
+        "(A) Grandmother / नानी",
+        "(B) Mother / माता",
+        "(C) Sister / बहन",
+        "(D) Aunt / मौसी/चाची"
+      ],
+      "answer": 1,
+      "explanation": "Only daughter of woman's mother is the woman herself. So the woman is the mother of the man."
+    },
+    {
+      "id": "50674a93",
+      "question": "43. A sum of money doubles itself in 8 years at Simple Interest. What is the rate of interest per annum? / साधारण ब्याज पर कोई धन 8 वर्षों में दोगुना हो जाता है। वार्षिक ब्याज दर क्या है?",
+      "options": [
+        "(A) 12.5% / 12.5%",
+        "(B) 15% / 15%",
+        "(C) 8% / 8%",
+        "(D) 10% / 10%"
+      ],
+      "answer": 0,
+      "explanation": "Formula: Rate = (100 * (n - 1)) / Time = (100 * 1) / 8 = 12.5%."
+    },
+    {
+      "id": "f1786776",
+      "question": "44. A person walks 12 m East, turns North and walks 5 m. What is his shortest distance from the starting point? / एक व्यक्ति 12 मीटर पूर्व की ओर चलता है, फिर उत्तर की ओर मुड़कर 5 मीटर चलता है। प्रारंभिक बिंदु से उसकी न्यूनतम दूरी क्या है?",
+      "options": [
+        "(A) 13 m / 13 मीटर",
+        "(B) 7 m / 7 मीटर",
+        "(C) 17 m / 17 मीटर",
+        "(D) 15 m / 15 मीटर"
+      ],
+      "answer": 0,
+      "explanation": "Using Pythagoras theorem: Hypotenuse = sqrt(12^2 + 5^2) = sqrt(144 + 25) = sqrt(169) = 13 m."
+    },
+    {
+      "id": "cc2aa5ff",
+      "question": "45. In inclusive education, how should a teacher address individual differences among learners? / समावेशी शिक्षा में, एक शिक्षक को शिक्षार्थियों की व्यक्तिगत भिन्नताओं को कैसे संबोधित करना चाहिए?",
+      "options": [
+        "(A) Uniform teaching style for all / सभी के लिए एकसमान शिक्षण शैली",
+        "(B) Ignoring individual needs / व्यक्तिगत आवश्यकताओं की अनदेखी",
+        "(C) Labeling and grouping by IQ / आईक्यू के आधार पर नामकरण और समूहन",
+        "(D) Differentiated Instruction and flexible strategies / विभेदित अनुदेशन और लचीली रणनीतियाँ"
+      ],
+      "answer": 3,
+      "explanation": "Differentiated instruction adapts content, process, and products according to diverse learner needs."
+    },
+    {
+      "id": "83441a3a",
+      "question": "46. Which Part of the Constitution of India contains the Fundamental Rights of citizens? / भारत के संविधान के किस भाग में नागरिकों के मौलिक अधिकारों का वर्णन है?",
+      "options": [
+        "(A) Part IV / भाग IV",
+        "(B) Part II / भाग II",
+        "(C) Part V / भाग V",
+        "(D) Part III / भाग III"
+      ],
+      "answer": 3,
+      "explanation": "Part III (Articles 12 to 35) of the Indian Constitution guarantees Fundamental Rights to all citizens."
+    },
+    {
+      "id": "4f34266e",
+      "question": "47. Under UP's 'One District One Product' (ODOP) scheme, which item is designated for Firozabad district? / उत्तर प्रदेश की ODOP योजना के तहत फिरोजाबाद जिले के लिए कौन सा उत्पाद नामित है?",
+      "options": [
+        "(A) Brassware / पीतल के बर्तन",
+        "(B) Leather Goods / चमड़े के सामान",
+        "(C) Wooden Toys / लकड़ी के खिलौने",
+        "(D) Glassware and Bangles / काँच के उत्पाद एवं चूड़ियाँ"
+      ],
+      "answer": 3,
+      "explanation": "Firozabad is globally known as the 'Suhaag Nagari' designated for glass bangles and glassware under ODOP."
+    },
+    {
+      "id": "af7f1df0",
+      "question": "48. 'Project Tiger' was launched in India in which year to conserve the wild tiger population? / बाघों के संरक्षण हेतु भारत में 'प्रोजेक्ट टाइगर' किस वर्ष शुरू किया गया था?",
+      "options": [
+        "(A) 1992 / 1992",
+        "(B) 1971 / 1971",
+        "(C) 1980 / 1980",
+        "(D) 1973 / 1973"
+      ],
+      "answer": 3,
+      "explanation": "Project Tiger was launched on April 1, 1973, from Jim Corbett National Park under the Indira Gandhi government."
+    },
+    {
+      "id": "d8d70c4a",
+      "question": "49. If 15% of a number is 45, what is 40% of that same number? / यदि किसी संख्या का 15% 45 है, तो उसी संख्या का 40% क्या होगा?",
+      "options": [
+        "(A) 100 / 100",
+        "(B) 120 / 120",
+        "(C) 150 / 150",
+        "(D) 90 / 90"
+      ],
+      "answer": 1,
+      "explanation": "Number = 45 / 0.15 = 300. Thus, 40% of 300 = 0.40 * 300 = 120."
+    },
+    {
+      "id": "535c5cec",
+      "question": "50. 'कनक कनक ते सौ गुनी मादकता अधिकाय' में कौन सा अलंकार है? / Which Alankar is present in this verse?",
+      "options": [
+        "(A) अनुप्रास अलंकार / Anupras Alankar",
+        "(B) यमक अलंकार / Yamak Alankar",
+        "(C) रूपक अलंकार / Rupak Alankar",
+        "(D) श्लेष अलंकार / Shlesh Alankar"
+      ],
+      "answer": 1,
+      "explanation": "जहाँ एक ही शब्द एक से अधिक बार आए और हर बार अर्थ भिन्न हो (कनक=सोना, कनक=धतूरा), वहाँ यमक अलंकार होता है।"
+    },
+    {
+      "id": "7f61e839",
+      "question": "51. 'पंचविंशतिः' संख्यायाः कृते कः अङ्कः अस्ति? / Which numeral corresponds to 'Panchavimshati'?",
+      "options": [
+        "(A) 25 / 25",
+        "(B) 35 / 35",
+        "(C) 50 / 50",
+        "(D) 15 / 15"
+      ],
+      "answer": 0,
+      "explanation": "संस्कृत में 'पंचविंशतिः' संख्या 25 (पाँच और बीस) को दर्शाती है।"
+    },
+    {
+      "id": "8b9b3579",
+      "question": "52. 'ईद का चाँद होना' मुहावरे का सही अर्थ क्या है? / What is the correct meaning of idiom 'Eed Ka Chand Hona'?",
+      "options": [
+        "(A) बहुत दिनों बाद दिखाई देना / Very rare to see",
+        "(B) सुंदर होना / Being beautiful",
+        "(C) खुशी मनाना / Expressing joy",
+        "(D) त्यौहार मनाना / Celebrating festival"
+      ],
+      "answer": 0,
+      "explanation": "'ईद का चाँद होना' का अर्थ है - बहुत दिनों बाद या बहुत कम दिखाई देना।"
+    },
+    {
+      "id": "4dc20543",
+      "question": "53. The famous Folk Song form 'Birha' is predominant in which region of UP? / प्रसिद्ध लोकगीत विधा 'बिरहा' उत्तर प्रदेश के किस क्षेत्र में मुख्य रूप से प्रचलित है?",
+      "options": [
+        "(A) Rohilkhand / रोहिलखंड",
+        "(B) Bundelkhand / बुंदेलखंड",
+        "(C) Bhojpur / Purvanchal / पूर्वांचल",
+        "(D) Braj / ब्रज"
+      ],
+      "answer": 2,
+      "explanation": "Birha is a famous traditional narrative folk music genre of eastern Uttar Pradesh (Purvanchal) and western Bihar."
+    },
+    {
+      "id": "ca90cd26",
+      "question": "54. Gas liberated when dilute hydrochloric acid (HCl) reacts with active metals like Zinc is: / जस्ता जैसे सक्रिय धातु पर तनु हाइड्रोक्लोरिक अम्ल की अभिक्रिया से कौन सी गैस निकलती है?",
+      "options": [
+        "(A) Hydrogen gas (H2) / हाइड्रोजन गैस",
+        "(B) Carbon dioxide (CO2) / कार्बन डाइऑक्साइड",
+        "(C) Chlorine gas (Cl2) / क्लोरीन",
+        "(D) Oxygen gas (O2) / ऑक्सीजन"
+      ],
+      "answer": 0,
+      "explanation": "Metal + Acid -> Salt + Hydrogen gas (Zn + 2HCl -> ZnCl2 + H2)."
+    },
+    {
+      "id": "b839612f",
+      "question": "55. निम्नलिखित में से शुद्ध वर्तनी वाला शब्द चुनिए: / Select the word with correct spelling:",
+      "options": [
+        "(A) उज्जवल / Ujjawal",
+        "(B) उज्वल / Ujwal",
+        "(C) ऊज्ज्वल / Uujjwal",
+        "(D) उज्ज्वल / Ujjwal"
+      ],
+      "answer": 3,
+      "explanation": "शुद्ध वर्तनी 'उज्ज्वल' (उत् + ज्वल) है जिसमें दोनों 'ज' आधे (ज्ज्) होते हैं।"
+    },
+    {
+      "id": "fa86a771",
+      "question": "56. In modern child-centered education, what is the primary role of a teacher? / आधुनिक बाल-केंद्रित शिक्षा में शिक्षक की प्राथमिक भूमिका क्या है?",
+      "options": [
+        "(A) Facilitator of learning / अधिगम का सुगमकर्ता (सुविधादाता)",
+        "(B) Strict dictator / सख्त तानाशाह",
+        "(C) Classroom controller / कक्षा नियंत्रक",
+        "(D) Knowledge transmitter only / केवल ज्ञान प्रदाता"
+      ],
+      "answer": 0,
+      "explanation": "As per NCF and modern pedagogy, a teacher's role is a facilitator who creates engaging learning environments."
+    },
+    {
+      "id": "814ea47b",
+      "question": "57. The famous 'Chikankari' embroidery art belongs traditionally to which city of UP? / प्रसिद्ध 'चिकनकारी' कढ़ाई कला पारंपरिक रूप से उत्तर प्रदेश के किस शहर से संबंधित है?",
+      "options": [
+        "(A) Lucknow / लखनऊ",
+        "(B) Varanasi / वाराणसी",
+        "(C) Rampur / रामपुर",
+        "(D) Bareilly / बरेली"
+      ],
+      "answer": 0,
+      "explanation": "Lucknow is world-renowned for its intricate and traditional hand-embroidery art called Chikankari."
+    },
+    {
+      "id": "58a463f4",
+      "question": "58. 'पठ्' धातोः लङ्-लकारस्य (भूतकाल) प्रथमपुरुष-एकवचने किं रूपं भवति? / Lang-Lakar 1st person singular of 'Path'?",
+      "options": [
+        "(A) पठति / Pathati",
+        "(B) अपठत् / Apathat",
+        "(C) अपठन् / Apathan",
+        "(D) पठिष्यति / Pathishyati"
+      ],
+      "answer": 1,
+      "explanation": "लङ्-लकार (अतीत काल) प्रथम पुरुष एकवचन में 'अपठत्' रूप बनता है।"
+    },
+    {
+      "id": "5aa4934b",
+      "question": "59. Find the average of the first five prime numbers. / प्रथम 5 अभाज्य संख्याओं का औसत ज्ञात कीजिए।",
+      "options": [
+        "(A) 6.2 / 6.2",
+        "(B) 7.0 / 7.0",
+        "(C) 5.0 / 5.0",
+        "(D) 5.6 / 5.6"
+      ],
+      "answer": 3,
+      "explanation": "First 5 prime numbers are 2, 3, 5, 7, 11. Sum = 28. Average = 28 / 5 = 5.6."
+    },
+    {
+      "id": "92c7d889",
+      "question": "60. The splitting of white light into its component seven colors when passing through a prism is called: / प्रिज्म से गुजरने पर श्वेत प्रकाश का सात रंगों में विभाजित होना क्या कहलाता है?",
+      "options": [
+        "(A) Total Internal Reflection / पूर्ण आंतरिक परावर्तन",
+        "(B) Reflection / परावर्तन",
+        "(C) Refraction / अपवर्तन",
+        "(D) Dispersion of light / प्रकाश का वर्ण विक्षेपण"
+      ],
+      "answer": 3,
+      "explanation": "Dispersion is the phenomenon of splitting white light into spectrum colors (VIBGYOR) due to different refractive indices."
+    },
+    {
+      "id": "130372ce",
+      "question": "61. The volume of a cube is 512 cm³. Find its total surface area. / एक घन का आयतन 512 सेमी³ है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        "(A) 256 cm² / 256 वर्ग सेमी",
+        "(B) 384 cm² / 384 वर्ग सेमी",
+        "(C) 192 cm² / 192 वर्ग सेमी",
+        "(D) 512 cm² / 512 वर्ग सेमी"
+      ],
+      "answer": 1,
+      "explanation": "Side a = (512)^(1/3) = 8 cm. Total Surface Area = 6 * a^2 = 6 * 64 = 384 cm²."
+    },
+    {
+      "id": "98e9c922",
+      "question": "62. Find the missing number in the series: 3, 7, 16, 35, 74, ? / श्रेणी में लुप्त संख्या ज्ञात कीजिए: 3, 7, 16, 35, 74, ?",
+      "options": [
+        "(A) 148 / 148",
+        "(B) 153 / 153",
+        "(C) 155 / 155",
+        "(D) 150 / 150"
+      ],
+      "answer": 1,
+      "explanation": "Pattern: x*2 + 1, x*2 + 2, x*2 + 3, x*2 + 4. So 74 * 2 + 5 = 148 + 5 = 153."
+    },
+    {
+      "id": "4329997c",
+      "question": "63. Who founded the Brahmo Samaj in Kolkata in 1828? / 1828 में कोलकाता में ब्रह्म समाज की स्थापना किसने की थी?",
+      "options": [
+        "(A) Ishwar Chandra Vidyasagar / ईश्वर चंद्र विद्यासागर",
+        "(B) Swami Dayananda Saraswati / स्वामी दयानंद सरस्वती",
+        "(C) Swami Vivekananda / स्वामी विवेकानंद",
+        "(D) Raja Ram Mohan Roy / राजा राममोहन राय"
+      ],
+      "answer": 3,
+      "explanation": "Raja Ram Mohan Roy founded Brahmo Samaj to fight against social evils like Sati system and idol worship."
+    },
+    {
+      "id": "1beb341d",
+      "question": "64. 'Learning by Doing' and experiential learning are central principles of which educational philosophy? / 'करके सीखना' और अनुभवात्मक अधिगम किस शैक्षिक दर्शन के केंद्रीय सिद्धांत हैं?",
+      "options": [
+        "(A) Idealism / आदर्शवाद",
+        "(B) Realism / यथार्थवाद",
+        "(C) Naturalism / प्रकृतिवाद",
+        "(D) Pragmatism / प्रयोजनवाद"
+      ],
+      "answer": 3,
+      "explanation": "Pragmatism (led by John Dewey) emphasizes activity-based learning, practical experience, and problem-solving."
+    },
+    {
+      "id": "2a6db405",
+      "question": "65. According to Jean Piaget, during which stage does object permanence develop in infants? / जीन पियाजे के अनुसार, शिशुओं में वस्तु स्थायित्व (Object Permanence) का विकास किस अवस्था में होता है?",
+      "options": [
+        "(A) Concrete operational stage (7-11 years) / मूर्त-संक्रियात्मक अवस्था",
+        "(B) Sensorimotor stage (0-2 years) / संवेदी-गामक अवस्था (0-2 वर्ष)",
+        "(C) Pre-operational stage (2-7 years) / पूर्व-संक्रियात्मक अवस्था",
+        "(D) Formal operational stage (11+ years) / औपचारिक-संक्रियात्मक अवस्था"
+      ],
+      "answer": 1,
+      "explanation": "Object permanence (understanding objects exist even when unseen) develops during Piaget's sensorimotor stage."
+    },
+    {
+      "id": "d8b774ad",
+      "question": "66. Which wildlife sanctuary in UP is known for the conservation of the endangered Gharial in the Chambal river? / उत्तर प्रदेश का कौन सा वन्यजीव अभयारण्य चंबल नदी में संकटग्रस्त घड़ियाल के संरक्षण के लिए जाना जाता है?",
+      "options": [
+        "(A) National Chambal Sanctuary / राष्ट्रीय चंबल अभयारण्य",
+        "(B) Suhelwa Sanctuary / सुहेलवा अभयारण्य",
+        "(C) Ranipur Sanctuary / रानीपुर अभयारण्य",
+        "(D) Kishanpur Sanctuary / किशनपुर अभयारण्य"
+      ],
+      "answer": 0,
+      "explanation": "The National Chambal Sanctuary is a tri-state protected area dedicated to preserving the critically endangered gharial."
+    },
+    {
+      "id": "5b446c77",
+      "question": "67. Uttar Pradesh shares its international boundary with which neighboring country? / उत्तर प्रदेश अपनी अंतरराष्ट्रीय सीमा किस पड़ोसी देश के साथ साझा करता है?",
+      "options": [
+        "(A) Bangladesh / बांग्लादेश",
+        "(B) Myanmar / म्यांमार",
+        "(C) Bhutan / भूटान",
+        "(D) Nepal / नेपाल"
+      ],
+      "answer": 3,
+      "explanation": "Uttar Pradesh shares an international border of about 570 km with Nepal along 7 border districts."
+    },
+    {
+      "id": "880c6318",
+      "question": "68. Which atmospheric layer is closest to the Earth's surface where all weather phenomena occur? / पृथ्वी की सतह के सबसे निकटतम वायुमंडलीय परत कौन सी है जिसमें मौसम संबंधी सभी घटनाएं होती हैं?",
+      "options": [
+        "(A) Mesosphere / मध्यमंडल",
+        "(B) Troposphere / क्षोभमंडल",
+        "(C) Thermosphere / आयनमंडल",
+        "(D) Stratosphere / समतापमंडल"
+      ],
+      "answer": 1,
+      "explanation": "Troposphere is the lowest layer of Earth's atmosphere containing 75% of its atmosphere mass and all weather phenomena."
+    },
+    {
+      "id": "debba880",
+      "question": "69. What was India's rank in the Global Innovation Index (GII) published by WIPO? / WIPO द्वारा प्रकाशित वैश्विक नवाचार सूचकांक (GII) में भारत का स्थान क्या है?",
+      "options": [
+        "(A) 40th / 40वां",
+        "(B) 42nd / 42वां",
+        "(C) 45th / 45वां",
+        "(D) 39th / 39वां"
+      ],
+      "answer": 0,
+      "explanation": "India has consistently maintained a position among the top 40 innovative economies globally in recent WIPO GII rankings."
+    },
+    {
+      "id": "1ae71ea1",
+      "question": "70. Which Mahajanapada out of 16 had its capital at Mathura in ancient India? / प्राचीन भारत के 16 महाजनपदों में से किसकी राजधानी मथुरा थी?",
+      "options": [
+        "(A) Kosala / कोसल",
+        "(B) Vatsa / वत्स",
+        "(C) Surasena / शूरसेन",
+        "(D) Kashi / काशी"
+      ],
+      "answer": 2,
+      "explanation": "Surasena Mahajanapada had Mathura as its capital during the 6th century BCE."
+    },
+    {
+      "id": "e028482b",
+      "question": "71. 'तरणि' और 'तरणी' शब्द-युग्म का सही अर्थ-भेद क्या है? / Meaning of word-pair 'Tarani' and 'Taranee'?",
+      "options": [
+        "(A) नाव और सूर्य / Boat and Sun",
+        "(B) स्त्री और युवती / Woman and Girl",
+        "(C) सूर्य और नाव / Sun and Boat",
+        "(D) लहर और नदी / Wave and River"
+      ],
+      "answer": 2,
+      "explanation": "'तरणि' का अर्थ सूर्य तथा 'तरणी' का अर्थ नाव होता है।"
+    },
+    {
+      "id": "40a6bce6",
+      "question": "72. In classroom leadership, which leadership style fosters maximum participation and democratic values? / कक्षा नेतृत्व में कौन सी नेतृत्व शैली अधिकतम सहभागिता और लोकतांत्रिक मूल्यों को बढ़ावा देती है?",
+      "options": [
+        "(A) Autocratic Leadership / निरंकुश नेतृत्व",
+        "(B) Democratic / Participative Leadership / लोकतांत्रिक (सहभागी) नेतृत्व",
+        "(C) Laissez-faire Leadership / अहस्तक्षेपवादी नेतृत्व",
+        "(D) Authoritarian Leadership / सत्तावादी नेतृत्व"
+      ],
+      "answer": 1,
+      "explanation": "Democratic leadership encourages group participation, active discussions, and shared decision-making."
+    },
+    {
+      "id": "4d6dcd30",
+      "question": "73. Which spacecraft successfully collected samples from asteroid Bennu and delivered them to Earth under NASA's mission? / नासा के किस मिशन के तहत अंतरिक्ष यान ने क्षुद्रग्रह बेन्नू से नमूने सफलतापूर्वक एकत्र कर पृथ्वी पर पहुँचाए?",
+      "options": [
+        "(A) Hayabusa-2 / हयाबुसा-2",
+        "(B) Psyche / साइकी",
+        "(C) Lucy / लुसी",
+        "(D) OSIRIS-REx / ओसीरिस-रेक्स"
+      ],
+      "answer": 3,
+      "explanation": "NASA's OSIRIS-REx mission collected samples from near-Earth asteroid Bennu and safely dropped the sample capsule to Earth."
+    },
+    {
+      "id": "6ac2fc2a",
+      "question": "74. A train running at a speed of 90 km/h crosses a pole in 12 seconds. Find the length of the train. / 90 किमी/घंटा की गति से चल रही एक ट्रेन एक खंभे को 12 सेकंड में पार करती है। ट्रेन की लंबाई ज्ञात कीजिए।",
+      "options": [
+        "(A) 250 m / 250 मीटर",
+        "(B) 300 m / 300 मीटर",
+        "(C) 200 m / 200 मीटर",
+        "(D) 360 m / 360 मीटर"
+      ],
+      "answer": 1,
+      "explanation": "Speed in m/s = 90 * (5/18) = 25 m/s. Length = Speed * Time = 25 * 12 = 300 m."
+    },
+    {
+      "id": "d1f99972",
+      "question": "75. What does the abbreviation 'ICT' stand for in modern educational technology? / आधुनिक शैक्षिक प्रौद्योगिकी में 'ICT' का पूर्ण रूप क्या है?",
+      "options": [
+        "(A) International Computer Technique / इंटरनेशनल कंप्यूटर तकनीक",
+        "(B) Integrated Communication Tool / इंटीग्रेटेड कम्युनिकेशन टूल",
+        "(C) Information and Communication Technology / इंफॉर्मेशन एंड कम्युनिकेशन टेक्नोलॉजी",
+        "(D) Information Control Training / इंफॉर्मेशन कंट्रोल ट्रेनिंग"
+      ],
+      "answer": 2,
+      "explanation": "ICT stands for Information and Communication Technology, covering all technologies for handling information and telecommunication."
+    },
+    {
+      "id": "12519a58",
+      "question": "76. In educational assessment, Diagnostic Testing is primarily conducted to: / शैक्षणिक मूल्यांकन में 'निदानात्मक परीक्षण' मुख्य रूप से किसलिए आयोजित किया जाता है?",
+      "options": [
+        "(A) Promote students to the next class / अगली कक्षा में कक्षोन्नति हेतु",
+        "(B) Assign grades and ranks / ग्रेड और रैंक प्रदान करने हेतु",
+        "(C) Evaluate teacher performance / शिक्षक प्रदर्शन मूल्यांकन हेतु",
+        "(D) Identify specific learning difficulties of students / छात्रों की विशिष्ट अधिगम कठिनाइयों की पहचान हेतु"
+      ],
+      "answer": 3,
+      "explanation": "Diagnostic evaluation aims to pinpoint specific learning gaps or weaknesses of learners for remedial teaching."
+    },
+    {
+      "id": "f10c3966",
+      "question": "77. Select the correct synonym of 'CANDID': / 'CANDID' का सही पर्यायवाची शब्द चुनें:",
+      "options": [
+        "(A) Arrogant / घमंडी",
+        "(B) Deceitful / कपटी",
+        "(C) Secretive / गुप्त",
+        "(D) Frank and honest / स्पष्टवादी"
+      ],
+      "answer": 3,
+      "explanation": "'Candid' means truthful, straightforward, and frank."
+    },
+    {
+      "id": "06ee5b10",
+      "question": "78. Identify the part of speech of the underlined word: \"She danced gracefully at the stage performance.\" / वाक्य में 'gracefully' का भेद पहचानिए:",
+      "options": [
+        "(A) Noun / संज्ञा",
+        "(B) Adverb / क्रियाविशेषण",
+        "(C) Verb / क्रिया",
+        "(D) Adjective / विशेषण"
+      ],
+      "answer": 1,
+      "explanation": "'Gracefully' modifies the verb 'danced', describing how she danced, making it an Adverb of manner."
+    },
+    {
+      "id": "7a308cf2",
+      "question": "79. Find the area of a right-angled triangle whose base is 12 cm and hypotenuse is 13 cm. / एक समकोण त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसका आधार 12 सेमी तथा कर्ण 13 सेमी है।",
+      "options": [
+        "(A) 65 cm² / 65 वर्ग सेमी",
+        "(B) 78 cm² / 78 वर्ग सेमी",
+        "(C) 60 cm² / 60 वर्ग सेमी",
+        "(D) 30 cm² / 30 वर्ग सेमी"
+      ],
+      "answer": 3,
+      "explanation": "Height = sqrt(13^2 - 12^2) = sqrt(169 - 144) = 5 cm. Area = (1/2) * 12 * 5 = 30 cm²."
+    },
+    {
+      "id": "dbb79da7",
+      "question": "80. संस्कृत-व्याकरणे व्यञ्जनानि केन नाम्ना ज्ञायन्ते? / What are consonants called in Sanskrit grammar?",
+      "options": [
+        "(A) अलः / Al",
+        "(B) अण् / An",
+        "(C) अच् / Ach",
+        "(D) हलः / Hal"
+      ],
+      "answer": 3,
+      "explanation": "संस्कृत व्याकरण में माहेश्वर सूत्रों के अनुसार अच = स्वर तथा हल = व्यंजन कहलाते हैं।"
+    },
+    {
+      "id": "8297bcae",
+      "question": "81. What is the total compound interest earned on ₹10,000 at 10% per annum for 2 years compounded annually? / ₹10,000 की राशि पर 10% वार्षिक दर से 2 वर्ष का चक्रवृिद्धि ब्याज क्या होगा?",
+      "options": [
+        "(A) ₹2,200 / ₹2,200",
+        "(B) ₹1,210 / ₹1,210",
+        "(C) ₹2,100 / ₹2,100",
+        "(D) ₹2,000 / ₹2,000"
+      ],
+      "answer": 2,
+      "explanation": "Amount = 10000 * (1.1)^2 = 12,100. CI = 12,100 - 10,000 = ₹2,100."
+    },
+    {
+      "id": "e8f29d94",
+      "question": "82. Which organelle is known as the 'Powerhouse of the Cell'? / कोशिका का 'शक्तिगृह' (पावरहाउस) किसे कहा जाता है?",
+      "options": [
+        "(A) Golgi apparatus / गोल्जी काय",
+        "(B) Ribosome / राइबोसोम",
+        "(C) Mitochondria / माइटोकॉन्ड्रिया",
+        "(D) Nucleus / केंद्रक"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondria generate cellular chemical energy in the form of ATP (Adenosine Triphosphate)."
+    },
+    {
+      "id": "35ef03cc",
+      "question": "83. What is the primary purpose of Continuous and Comprehensive Evaluation (CCE)? / सतत एवं व्यापक मूल्यांकन (CCE) का प्राथमिक उद्देश्य क्या है?",
+      "options": [
+        "(A) Segregate slow and fast learners / धीमे और तेज़ शिक्षार्थियों को अलग करना",
+        "(B) Rank students at the end of year / वर्ष के अंत में छात्रों को रैंक देना",
+        "(C) Reduce teacher workload / शिक्षक के कार्यभार को कम करना",
+        "(D) Continuous assessment of holistic personality development / संपूर्ण व्यक्तित्व विकास का निरंतर मूल्यांकन"
+      ],
+      "answer": 3,
+      "explanation": "CCE evaluates all aspects of a student's development (scholastic and co-scholastic) continuously throughout the year."
+    },
+    {
+      "id": "8ea51344",
+      "question": "84. The three angles of a triangle are in the ratio 2:3:4. Find the measure of the largest angle. / किसी त्रिभुज के तीनों कोण 2:3:4 के अनुपात में हैं। सबसे बड़े कोण का मान ज्ञात कीजिए।",
+      "options": [
+        "(A) 90° / 90°",
+        "(B) 60° / 60°",
+        "(C) 80° / 80°",
+        "(D) 70° / 70°"
+      ],
+      "answer": 2,
+      "explanation": "Sum of angles = 180°. 2x + 3x + 4x = 9x = 180° => x = 20°. Largest angle = 4 * 20° = 80°."
+    },
+    {
+      "id": "f8fe2353",
+      "question": "85. Who is considered the pioneer of the 'Kindergarten' method of early childhood education? / प्रारंभिक बाल्यावस्था शिक्षा की 'किंडरगार्टन' प्रणाली के जनक किसे माना जाता है?",
+      "options": [
+        "(A) John Dewey / जॉन डीवी",
+        "(B) Jean Piaget / जीन पियाजे",
+        "(C) Friedrich Froebel / फ्रेडरिक फ्रोबेल",
+        "(D) Maria Montessori / मारिया मोंटेसरी"
+      ],
+      "answer": 2,
+      "explanation": "German pedagogue Friedrich Froebel invented the Kindergarten system placing emphasis on play and creative expression."
+    },
+    {
+      "id": "7b67fe67",
+      "question": "86. हिंदी भाषा की लिपि कौन सी है? / What is the script of Hindi language?",
+      "options": [
+        "(A) रोमन / Roman",
+        "(B) देवनागरी / Devanagari",
+        "(C) ब्राह्मी / Brahmi",
+        "(D) गुरुमुखी / Gurmukhi"
+      ],
+      "answer": 1,
+      "explanation": "भारतीय संविधान के अनुच्छेद 343(1) के अनुसार संघ की राजभाषा हिंदी और लिपि देवनागरी है।"
+    },
+    {
+      "id": "fe7cb0aa",
+      "question": "87. Find the correctly spelt word: / सही वर्तनी वाला शब्द चुनें:",
+      "options": [
+        "(A) Accommodation / Accommodation",
+        "(B) Accomodation / Accomodation",
+        "(C) Acommodation / Acommodation",
+        "(D) Acommodacion / Acommodacion"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is 'Accommodation' (double 'c' and double 'm')."
+    },
+    {
+      "id": "fd295289",
+      "question": "88. \"अक्षिणा काणः\" इत्यत्र केन सूत्रेण तृतीया विभक्तिः अभवत्? / Which Sutra applies in 'Akshina Kanah'?",
+      "options": [
+        "(A) इत्थम्भूतलक्षणे / Itthambhutalaksane",
+        "(B) येनाङ्गविकारः / Yenangavikarah",
+        "(C) सहयुक्तेऽप्रधाने / Sahayukte Apradhane",
+        "(D) साधकतमं करणम् / Sadhakatamam Karanam"
+      ],
+      "answer": 1,
+      "explanation": "जिस अंग के विकार से अंगी का विकार लक्षित हो, उसमें 'येनाङ्गविकारः' सूत्र से तृतीया विभक्ति होती है।"
+    },
+    {
+      "id": "8194a692",
+      "question": "89. Who proposed the 'Social Constructivist' theory of cognitive development emphasizing scaffolding and MKO? / पैड़ बांधना (Scaffolding) और MKO पर बल देने वाले संज्ञानात्मक विकास का 'सामाजिक-सांस्कृतिक सिद्धांत' किसने प्रतिपादित किया?",
+      "options": [
+        "(A) B.F. Skinner / बी.एफ. स्किनर",
+        "(B) Lev Vygotsky / लेव वाइगोत्स्की",
+        "(C) Jerome Bruner / जेरोम ब्रूनर",
+        "(D) Jean Piaget / जीन पियाजे"
+      ],
+      "answer": 1,
+      "explanation": "Vygotsky emphasized that cognitive development is socially mediated through interaction, ZPD, and scaffolding."
+    },
+    {
+      "id": "2bf69cfd",
+      "question": "90. Identify the figure of speech: \"The stars leaned down to listen to her song.\" / काव्य अलंकार पहचानिए:",
+      "options": [
+        "(A) Personification / मानवीकरण",
+        "(B) Metaphor / रूपक",
+        "(C) Hyperbole / अतिशयोक्ति",
+        "(D) Simile / उपमा"
+      ],
+      "answer": 0,
+      "explanation": "Giving human actions ('leaned down to listen') to non-human objects (stars) is Personification."
+    },
+    {
+      "id": "e1fe3977",
+      "question": "91. Find the LCM of fractions: 1/3, 2/9, 5/6, and 4/27. / भिन्नों 1/3, 2/9, 5/6 और 4/27 का ल.स.प. (LCM) ज्ञात कीजिए।",
+      "options": [
+        "(A) 20/27 / 20/27",
+        "(B) 40/3 / 40/3",
+        "(C) 10/3 / 10/3",
+        "(D) 20/3 / 20/3"
+      ],
+      "answer": 3,
+      "explanation": "LCM of fractions = (LCM of numerators 1,2,5,4) / (HCF of denominators 3,9,6,27) = 20 / 3."
+    },
+    {
+      "id": "0ce7c7cc",
+      "question": "92. निम्नलिखित में से 'बादल' का सही पर्यायवाची शब्द कौन सा है? / Which is the correct synonym of 'Cloud' (Baadal)?",
+      "options": [
+        "(A) नीरज / Neeraj",
+        "(B) नीरद / Neerad",
+        "(C) जलज / Jalaj",
+        "(D) सरोज / Saroj"
+      ],
+      "answer": 1,
+      "explanation": "जल देने वाला = नीरद/घन/मेघ (बादल)। नीरज, सरोज, जलज कमल के पर्यायवाची हैं।"
+    },
+    {
+      "id": "87b64173",
+      "question": "93. Which software application is specially designed to present structured slide presentations in classrooms? / कक्षाओं में स्लाइड प्रस्तुतीकरण हेतु विशेष रूप से कौन सा सॉफ्टवेयर अनुप्रयोग बनाया गया है?",
+      "options": [
+        "(A) MS PowerPoint / एमएस पावरपॉइंट",
+        "(B) MS Word / एमएस वर्ड",
+        "(C) MS Excel / एमएस एक्सेल",
+        "(D) MS Access / एमएस एक्सेस"
+      ],
+      "answer": 0,
+      "explanation": "MS PowerPoint is a presentation software used to create interactive multi-slide instructional displays."
+    },
+    {
+      "id": "a20325c2",
+      "question": "94. Select the correct one-word substitute: \"A person who looks at the bright side of things.\" / वाक्यांश के लिए एक शब्द:",
+      "options": [
+        "(A) Introvert / अंतर्मुखी",
+        "(B) Altruist / परोपकारी",
+        "(C) Pessimist / निराशावादी",
+        "(D) Optimist / आशावादी"
+      ],
+      "answer": 3,
+      "explanation": "An 'Optimist' is a person who tends to be hopeful and see the positive outcome of things."
+    },
+    {
+      "id": "a7239c0a",
+      "question": "95. Deficiency of Vitamin C in human diet causes which disease? / मानव आहार में विटामिन C की कमी से कौन सा रोग होता है?",
+      "options": [
+        "(A) Rickets / रिकेट्स",
+        "(B) Beriberi / बेरीबेरी",
+        "(C) Night blindness / रतौंधी",
+        "(D) Scurvy / स्कर्वी"
+      ],
+      "answer": 3,
+      "explanation": "Vitamin C (Ascorbic acid) deficiency leads to Scurvy, characterized by bleeding gums and skin spots."
+    },
+    {
+      "id": "7d5c7fb5",
+      "question": "96. 'Dyslexia' is a specific learning disability primarily related to difficulty in: / 'डिस्लेक्सिया' एक विशिष्ट अधिगम अक्षमता है जो मुख्य रूप से किससे संबंधित है?",
+      "options": [
+        "(A) Speech fluency / वाक् प्रवाह",
+        "(B) Reading and spelling / पठन (पढ़ने) और वर्तनी",
+        "(C) Mathematical calculations / गणितीय गणनाएँ",
+        "(D) Handwriting motor skills / हस्तलेखन"
+      ],
+      "answer": 1,
+      "explanation": "Dyslexia is a neurobiological learning disability characterized by difficulties with accurate reading and word decoding."
+    },
+    {
+      "id": "a888e2e7",
+      "question": "97. \"वृक्ष से पत्ते गिरते हैं।\" — इस वाक्य में 'वृक्ष से' में कौन सा कारक है? / Which Karak is in 'Vriksh Se'?",
+      "options": [
+        "(A) संबंध कारक / Sambandh Karak",
+        "(B) करण कारक / Karan Karak",
+        "(C) अपादान कारक / Apadan Karak",
+        "(D) अधिकरण कारक / Adhikaran Karak"
+      ],
+      "answer": 2,
+      "explanation": "जहाँ किसी वस्तु का किसी स्थान से अलग होने का भाव हो, वहाँ अपादान कारक (से पृथक) होता है।"
+    },
+    {
+      "id": "e30ea68e",
+      "question": "98. If '+' means '÷', '÷' means '×', '×' means '-' and '-' means '+', solve: 20 + 4 ÷ 5 × 6 - 2 = ? / यदि '+' का अर्थ '÷', '÷' का अर्थ '×', '×' का अर्थ '-' और '-' का अर्थ '+' है, तो हल करें: 20 + 4 ÷ 5 × 6 - 2 = ?",
+      "options": [
+        "(A) 19 / 19",
+        "(B) 25 / 25",
+        "(C) 15 / 15",
+        "(D) 21 / 21"
+      ],
+      "answer": 3,
+      "explanation": "Replacing symbols: 20 ÷ 4 × 5 - 6 + 2 = 5 × 5 - 6 + 2 = 25 - 6 + 2 = 21."
+    },
+    {
+      "id": "7eee5aeb",
+      "question": "99. According to professional teacher ethics, a teacher should treat all students: / व्यावसायिक शिक्षक आचार संहिता के अनुसार, शिक्षक को सभी छात्रों के साथ कैसा व्यवहार करना चाहिए?",
+      "options": [
+        "(A) Favoring wealthy family background students / धनी छात्रों का पक्ष लेना",
+        "(B) Favoring high-achieving students / केवल मेधावी छात्रों का पक्ष लेना",
+        "(C) With equity, dignity, and impartiality / समता, गरिमा और निष्पक्षता के साथ",
+        "(D) Indifferently / उदासीनता से"
+      ],
+      "answer": 2,
+      "explanation": "Ethical teaching demands non-discrimination, equal opportunities, and fair treatment regardless of background."
+    },
+    {
+      "id": "f1fbcf63",
+      "question": "100. Which Indian author won the 2025 International Booker Prize nomination for translated fiction? / अनुवादित साहित्य के लिए 2025 में अंतरराष्ट्रीय बुकर पुरस्कार के लिए नामांकित होने वाले भारतीय लेखक कौन हैं?",
+      "options": [
+        "(A) Perumal Murugan / पेरुमल मुरुगन",
+        "(B) Arundhati Roy / अरुंधति रॉय",
+        "(C) Geetanjali Shree / गीतांजलि श्री",
+        "(D) Chetan Bhagat / चेतन भगत"
+      ],
+      "answer": 0,
+      "explanation": "Tamil writer Perumal Murugan's translated work gained major international recognition in literary honors."
+    },
+    {
+      "id": "3f1268f8",
+      "question": "101. Change the voice: \"The committee approved the new guidelines.\" / वाच्य परिवर्तन कीजिए:",
+      "options": [
+        "(A) The new guidelines were approved by the committee.",
+        "(B) The new guidelines are approved by the committee.",
+        "(C) The new guidelines have been approved by the committee.",
+        "(D) The new guidelines had approved by the committee."
+      ],
+      "answer": 0,
+      "explanation": "Simple past active 'approved' changes to 'were approved' in passive voice."
+    },
+    {
+      "id": "d9b1a202",
+      "question": "102. Where is the National Sugar Institute (NSI) located in Uttar Pradesh? / उत्तर प्रदेश में राष्ट्रीय शर्करा संस्थान (NSI) कहाँ स्थित है?",
+      "options": [
+        "(A) Varanasi / वाराणसी",
+        "(B) Kanpur / कानपुर",
+        "(C) Lucknow / लखनऊ",
+        "(D) Meerut / मेरठ"
+      ],
+      "answer": 1,
+      "explanation": "The National Sugar Institute (NSI) under the Ministry of Consumer Affairs is located in Kanpur, UP."
+    },
+    {
+      "id": "20f904fd",
+      "question": "103. In which district of UP is the famous 'Major Dhyan Chand Sports University' being established? / उत्तर प्रदेश के किस जिले में प्रसिद्ध 'मेजर ध्यानचंद खेल विश्वविद्यालय' स्थापित किया जा रहा है?",
+      "options": [
+        "(A) Lucknow / लखनऊ",
+        "(B) Meerut / मेरठ",
+        "(C) Jhansi / झांसी",
+        "(D) Aligarh / अलीगढ़"
+      ],
+      "answer": 1,
+      "explanation": "Uttar Pradesh's first sports university named after Major Dhyan Chand is situated in Salawa, Meerut."
+    },
+    {
+      "id": "fe7a8a85",
+      "question": "104. The famous 'Lathmar Holi' is celebrated in which region of Uttar Pradesh? / प्रसिद्ध 'लठमार होली' उत्तर प्रदेश के किस क्षेत्र में मनाई जाती है?",
+      "options": [
+        "(A) Barsana and Nandgaon / बरसाना और नंदगांव",
+        "(B) Mathura City / मथुरा शहर",
+        "(C) Vrindavan / वृंदावन",
+        "(D) Chitrakoot / चित्रकूट"
+      ],
+      "answer": 0,
+      "explanation": "Lathmar Holi is uniquely celebrated in Barsana and Nandgaon near Mathura ahead of the main Holi festival."
+    },
+    {
+      "id": "d1c1bf31",
+      "question": "105. Which developmental term refers to motor growth proceeding from the center of the body outward? / शरीर के केंद्र से बाहर की ओर होने वाले शारीरिक/पेशीय विकास को किस नियम के रूप में जाना जाता है?",
+      "options": [
+        "(A) Continuous growth principle / सतत विकास",
+        "(B) Cephalocaudal principle / मस्तकाधोमुखी सिद्धांत",
+        "(C) Proximodistal principle / समीप-दूराभिमुख सिद्धांत",
+        "(D) General to specific principle / सामान्य से विशिष्ट"
+      ],
+      "answer": 2,
+      "explanation": "Proximodistal growth pattern states that development proceeds from center of body outwards (trunk before limbs)."
+    },
+    {
+      "id": "93a3067b",
+      "question": "106. Diagnostic evaluation followed by targeted teaching to fill learning gaps is called: / अधिगम अंतरालों को भरने हेतु निदानात्मक मूल्यांकन के बाद किए जाने वाले शिक्षण को क्या कहा जाता है?",
+      "options": [
+        "(A) Micro-teaching / सूक्ष्म शिक्षण",
+        "(B) Summative Evaluation / योगात्मक मूल्यांकन",
+        "(C) Team Teaching / टोली शिक्षण",
+        "(D) Remedial Teaching / उपचारात्मक शिक्षण"
+      ],
+      "answer": 3,
+      "explanation": "Remedial teaching is targeted instructional support provided after identifying learning difficulties through diagnostic tests."
+    },
+    {
+      "id": "4e5faad1",
+      "question": "107. Who was the President of the Constituent Assembly of India that drafted the Indian Constitution? / भारतीय संविधान तैयार करने वाली संविधान सभा के अध्यक्ष कौन थे?",
+      "options": [
+        "(A) Sachchidananda Sinha / सच्चिदानंद सिन्हा",
+        "(B) Dr. B.R. Ambedkar / डॉ. बी.आर. अंबेडकर",
+        "(C) Jawahar Lal Nehru / जवाहरलाल नेहरू",
+        "(D) Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद"
+      ],
+      "answer": 3,
+      "explanation": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly on Dec 11, 1946."
+    },
+    {
+      "id": "4a569142",
+      "question": "108. What is the main functioning purpose of an Operating System (OS) in a computer system? / कंप्यूटर सिस्टम में ऑपरेटिंग सिस्टम (OS) का मुख्य कार्य क्या है?",
+      "options": [
+        "(A) System Resource & Hardware Management / सिस्टम संसाधनों एवं हार्डवेयर का प्रबंधन",
+        "(B) Printing documents / दस्तावेज़ प्रिंट करना",
+        "(C) Virus protection / वायरस सुरक्षा",
+        "(D) Web browsing / वेब ब्राउज़िंग"
+      ],
+      "answer": 0,
+      "explanation": "An Operating System acts as an interface between user and hardware, managing memory, processes, and storage."
+    },
+    {
+      "id": "ed5fdd2a",
+      "question": "109. The radius of a circular garden is 14 m. Find the cost of fencing it at ₹10 per meter. (Use π = 22/7) / एक वृत्ताकार उद्यान की त्रिज्या 14 मीटर है। ₹10 प्रति मीटर की दर से बाड़ लगाने की लागत ज्ञात कीजिए।",
+      "options": [
+        "(A) ₹1,760 / ₹1,760",
+        "(B) ₹616 / ₹616",
+        "(C) ₹880 / ₹880",
+        "(D) ₹440 / ₹440"
+      ],
+      "answer": 2,
+      "explanation": "Circumference = 2 * (22/7) * 14 = 88 m. Total cost = 88 * 10 = ₹880."
+    },
+    {
+      "id": "0b03f507",
+      "question": "110. 'Majuli', the world's largest river island, is located on which river in India? / विश्व का सबसे बड़ा नदी द्वीप 'माजुली' भारत में किस नदी पर स्थित है?",
+      "options": [
+        "(A) Ganga / गंगा",
+        "(B) Godavari / गोदावरी",
+        "(C) Brahmaputra / ब्रह्मपुत्र",
+        "(D) Indus / सिंधु"
+      ],
+      "answer": 2,
+      "explanation": "Majuli is a river island in the Brahmaputra River, Assam, recognized as the world's largest riverine island."
+    },
+    {
+      "id": "69cbe3c1",
+      "question": "111. Find the smallest number which when divided by 12, 15, and 20 leaves a remainder of 5 in each case. / वह छोटी से छोटी संख्या ज्ञात कीजिए जिसे 12, 15 और 20 से विभाजित करने पर प्रत्येक स्थिति में शेषफल 5 बचे।",
+      "options": [
+        "(A) 60 / 60",
+        "(B) 65 / 65",
+        "(C) 70 / 70",
+        "(D) 55 / 55"
+      ],
+      "answer": 1,
+      "explanation": "LCM of (12, 15, 20) = 60. Required number = LCM + Remainder = 60 + 5 = 65."
+    },
+    {
+      "id": "b15f9f6b",
+      "question": "112. When a student makes a repeated error in answering, what is the best pedagogical response? / जब कोई छात्र उत्तर देने में बार-बार त्रुटि करता है, तो सबसे उपयुक्त शिक्षण प्रतिक्रिया क्या है?",
+      "options": [
+        "(A) Ask another student without explanation / बिना स्पष्टीकरण दूसरे छात्र से पूछना",
+        "(B) Scold the student in front of class / कक्षा के सामने छात्र को डांटना",
+        "(C) Analyze the error to clear the misconception / भ्रांति दूर करने के लिए त्रुटि का विश्लेषण करना",
+        "(D) Deduct test marks / परीक्षा के अंक काटना"
+      ],
+      "answer": 2,
+      "explanation": "Errors are essential windows into a student's thinking; teachers should diagnose misconceptions and guide remediation."
+    },
+    {
+      "id": "31271e0b",
+      "question": "113. Under the PM-KISAN scheme, what total annual financial benefit is provided to eligible farmer families? / पीएम-किसान योजना के तहत पात्र किसान परिवारों को कुल कितनी वार्षिक वित्तीय सहायता प्रदान की जाती है?",
+      "options": [
+        "(A) ₹8,000 in 4 installments / ₹8,000 चार किश्तों में",
+        "(B) ₹10,000 in 2 installments / ₹10,000 दो किश्तों में",
+        "(C) ₹5,000 in 2 installments / ₹5,000 दो किश्तों में",
+        "(D) ₹6,000 in 3 installments / ₹6,000 तीन किश्तों में"
+      ],
+      "answer": 3,
+      "explanation": "PM-KISAN provides direct income support of ₹6,000 per year in three equal installments of ₹2,000 directly to bank accounts."
+    },
+    {
+      "id": "59b99ab0",
+      "question": "114. What is the SI unit of electric current? / विद्युत धारा का एसआई (SI) मात्रक क्या है?",
+      "options": [
+        "(A) Ampere (A) / एम्पीयर",
+        "(B) Ohm (Ω) / ओम",
+        "(C) Volt (V) / वोल्ट",
+        "(D) Watt (W) / वाट"
+      ],
+      "answer": 0,
+      "explanation": "The SI unit of electric current is Ampere (A), measured using an Ammeter."
+    },
+    {
+      "id": "f622a1f4",
+      "question": "115. The ratio of two numbers is 4:5 and their LCM is 180. Find the smaller number. / दो संख्याओं का अनुपात 4:5 है और उनका ल.स.प. (LCM) 180 है। छोटी संख्या ज्ञात कीजिए।",
+      "options": [
+        "(A) 45 / 45",
+        "(B) 30 / 30",
+        "(C) 36 / 36",
+        "(D) 40 / 40"
+      ],
+      "answer": 2,
+      "explanation": "Let numbers be 4x and 5x. LCM = 20x = 180 => x = 9. Smaller number = 4 * 9 = 36."
+    },
+    {
+      "id": "51b245ac",
+      "question": "116. According to Lawrence Kohlberg, in which stage of moral development is morality governed by social approval and conformity? / लॉरेंस कोहलबर्ग के अनुसार, नैतिकता सामाजिक स्वीकृति और नियमों के पालन पर आधारित किस स्तर में होती है?",
+      "options": [
+        "(A) Conventional level / पारंपरिक स्तर",
+        "(B) Autonomous level / स्वायत्त स्तर",
+        "(C) Post-conventional level / उत्तर-पारंपरिक स्तर",
+        "(D) Pre-conventional level / पूर्व-पारंपरिक स्तर"
+      ],
+      "answer": 0,
+      "explanation": "Conventional morality stage (Good boy-Nice girl orientation & Law & Order) focuses on social rules and approval."
+    },
+    {
+      "id": "d61d0a3b",
+      "question": "117. Who won the Oscar Award for Best Actor at the 96th Academy Awards? / 96वें अकादमी पुरस्कार (ऑस्कर) में सर्वश्रेष्ठ अभिनेता का पुरस्कार किसने जीता?",
+      "options": [
+        "(A) Robert Downey Jr. / रॉबर्ट डाउनी जूनियर",
+        "(B) Leonardo DiCaprio / लियोनार्डो डिकैप्रियो",
+        "(C) Cillian Murphy / किलियन मर्फी",
+        "(D) Cillian Hiddleston / किलियन हिडलेस्टन"
+      ],
+      "answer": 2,
+      "explanation": "Cillian Murphy won the Best Actor Oscar for his titular role in Christopher Nolan's film 'Oppenheimer'."
+    },
+    {
+      "id": "155e0052",
+      "question": "118. What is the core emphasis of the Foundational Literacy and Numeracy (FLN) mission under NIPUN Bharat? / निपुण भारत के तहत बुनियादी साक्षरता और संख्याज्ञान (FLN) मिशन का मुख्य बल किस पर है?",
+      "options": [
+        "(A) Rote memorization of textbooks / पाठ्यपुस्तकों का रटना",
+        "(B) Achieving foundational reading & math skills by Grade 3 / कक्षा 3 तक बुनियादी पठन व गणितीय कौशल प्राप्त करना",
+        "(C) Standardized homework / मानकीकृत गृहकार्य",
+        "(D) Passing board examinations / बोर्ड परीक्षा उत्तीर्ण करना"
+      ],
+      "answer": 1,
+      "explanation": "NIPUN Bharat aims to ensure every child in India attains foundational literacy and numeracy by the end of Grade 3."
+    },
+    {
+      "id": "c76e0c39",
+      "question": "119. Select the sentence with correct subject-verb agreement: / शुद्ध वाक्य का चयन कीजिए:",
+      "options": [
+        "(A) Neither of the candidates are accepting the offer.",
+        "(B) Neither of the candidates have accepted the offer.",
+        "(C) Neither of the candidates were accepted the offer.",
+        "(D) Neither of the candidates has accepted the offer. / दोनों में से किसी अभ्यर्थी ने प्रस्ताव स्वीकार नहीं किया है।"
+      ],
+      "answer": 3,
+      "explanation": "Distributive pronouns like 'neither of', 'either of', 'each of' take a singular verb ('has')."
+    },
+    {
+      "id": "c4c88201",
+      "question": "120. B.F. Skinner developed which learning theory based on rewards and punishments shaping behavior? / पुरस्कार और दंड द्वारा व्यवहार को ढालने पर आधारित अधिगम का 'क्रियाप्रसूत अनुबंधन सिद्धांत' किसने विकसित किया?",
+      "options": [
+        "(A) Social Learning Theory / सामाजिक अधिगम सिद्धांत",
+        "(B) Operant Conditioning Theory / क्रियाप्रसूत अनुबंधन सिद्धांत",
+        "(C) Insight Learning Theory / सूझ का सिद्धांत",
+        "(D) Classical Conditioning Theory / शास्त्रीय अनुबंधन सिद्धांत"
+      ],
+      "answer": 1,
+      "explanation": "B.F. Skinner formulated Operant Conditioning theory demonstrating reinforcement and punishment in learning."
+    }
+  ]
+}

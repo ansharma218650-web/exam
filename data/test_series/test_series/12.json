@@ -1,0 +1,1448 @@
+{
+  "title": "12",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "c2ca69ad",
+      "question": "1. Which reading technique involves moving eyes rapidly over a text to locate a specific date, name, or number?",
+      "options": [
+        "(A) Critical reading / समालोचनात्मक पठन",
+        "(B) Extensive reading / व्यापक पठन",
+        "(C) Scanning / क्रमवीक्षण",
+        "(D) Skimming / सरसरी पठन"
+      ],
+      "answer": 2,
+      "explanation": "Scanning searches for specific target details without reading every word, whereas skimming grasps the general gist. / विशिष्ट तथ्य खोजने की प्रक्रिया scanning कहलाती है।"
+    },
+    {
+      "id": "49f9aa18",
+      "question": "2. ‘देशभक्ति’ में कौन-सा समास है? / Which compound (Samāsa) is in ‘देशभक्ति’?",
+      "options": [
+        "(A) सम्प्रदान तत्पुरुष / Dative Tatpurusha",
+        "(B) कर्मधारय / Karmadharaya",
+        "(C) करण तत्पुरुष / Instrumental Tatpurusha",
+        "(D) अपादान तत्पुरुष / Ablative Tatpurusha"
+      ],
+      "answer": 0,
+      "explanation": "देश के लिए भक्ति — सम्प्रदान तत्पुरुष समास। / Devotion for the nation: Dative Tatpurusha."
+    },
+    {
+      "id": "10078bf8",
+      "question": "3. ‘जंगम’ का सही विलोम शब्द क्या है? / What is the correct antonym of ‘जंगम’?",
+      "options": [
+        "(A) स्थावर / Sthāvara",
+        "(B) सक्रिय / Sakriya",
+        "(C) चेतन / Chetan",
+        "(D) चंचल / Chanchal"
+      ],
+      "answer": 0,
+      "explanation": "जंगम (चलने योग्य) का सटीक विलोम स्थावर (अचल/स्थिर) होता है। / Sthāvara is the exact antonym of Jangam."
+    },
+    {
+      "id": "6bb8ece2",
+      "question": "4. ‘चिपको आंदोलन’ की शुरुआत 1973 में वर्तमान उत्तराखंड के किस जिले से हुई थी? / The 'Chipko Movement' began in 1973 in which district of present-day Uttarakhand?",
+      "options": [
+        "(A) नैनीताल / Nainital",
+        "(B) चमोली / Chamoli",
+        "(C) अल्मोड़ा / Almora",
+        "(D) हरिद्वार / Haridwar"
+      ],
+      "answer": 1,
+      "explanation": "चमोली जिले के रैणी गाँव से सुंदरलाल बहुगुणा और गौरा देवी के नेतृत्व में वृक्ष संरक्षण हेतु यह आंदोलन प्रारंभ हुआ। / It started in Chamoli district to protect Himalayan forests from commercial logging."
+    },
+    {
+      "id": "caa58201",
+      "question": "5. यदि tan θ + cot θ = 2 है, तो tan²θ + cot²θ का मान क्या होगा? / If tan θ + cot θ = 2, find the value of tan²θ + cot²θ.",
+      "options": [
+        "(A) 2",
+        "(B) 4",
+        "(C) 1",
+        "(D) 0"
+      ],
+      "answer": 0,
+      "explanation": "दोनों पक्षों का वर्ग करने पर: tan²θ + cot²θ + 2(tan θ · cot θ) = 4 ⇒ tan²θ + cot²θ = 4 − 2 = 2। / Squaring both sides gives 4 − 2 = 2."
+    },
+    {
+      "id": "b07a580c",
+      "question": "6. NEP 2020 में '360-डिग्री समग्र प्रगति पत्र' (Holistic Progress Card) की क्या विशेषता है? / What characterizes the '360-degree Holistic Progress Card' recommended in NEP 2020?",
+      "options": [
+        "(A) यह माता-पिता की भागीदारी समाप्त करता है / It eliminates parental involvement",
+        "(B) इसमें स्व-मूल्यांकन, सहपाठी मूल्यांकन और शिक्षक मूल्यांकन सहित संज्ञानात्मक, भावात्मक व मनोगत्यात्मक पक्ष शामिल हैं / It integrates self, peer, and teacher assessments across cognitive, affective, and psychomotor domains",
+        "(C) इसमें केवल वार्षिक लिखित परीक्षा के अंक दर्ज होते हैं / It records only annual written exam marks",
+        "(D) यह केवल कक्षा 12 के लिए अनिवार्य है / It is mandatory only for Grade 12"
+      ],
+      "answer": 1,
+      "explanation": "360-डिग्री प्रगति पत्र बहुआयामी मूल्यांकन द्वारा बच्चे की अद्वितीय क्षमताओं और प्रगति को दर्शाता है। / The holistic progress card captures multidimensional growth using self, peer, and teacher inputs."
+    },
+    {
+      "id": "76237218",
+      "question": "7. ‘सर्वेंट्स ऑफ इंडिया सोसाइटी’ (1905) की स्थापना किसने की थी? / Who founded the 'Servants of India Society' in 1905?",
+      "options": [
+        "(A) बाल गंगाधर तिलक / Bal Gangadhar Tilak",
+        "(B) गोपाल कृष्ण गोखले / Gopal Krishna Gokhale",
+        "(C) लाला लाजपत राय / Lala Lajpat Rai",
+        "(D) विपिन चंद्र पाल / Bipin Chandra Pal"
+      ],
+      "answer": 1,
+      "explanation": "गोपाल कृष्ण गोखले ने पुणे में राष्ट्र सेवा हेतु समर्पित कार्यकर्ताओं को प्रशिक्षित करने के लिए इसकी स्थापना की। / Gopal Krishna Gokhale founded it in Pune in 1905."
+    },
+    {
+      "id": "96634ac8",
+      "question": "8. यदि बहुपद x² − 5x + k के शून्यक α और β इस प्रकार हैं कि α − β = 1, तो k का मान क्या है? / If zeroes α, β of x² − 5x + k satisfy α − β = 1, find k.",
+      "options": [
+        "(A) 5",
+        "(B) 6",
+        "(C) 8",
+        "(D) 4"
+      ],
+      "answer": 1,
+      "explanation": "α + β = 5 तथा α − β = 1 हल करने पर α = 3, β = 2; अतः k = αβ = 6। / Solving α+β=5 and α−β=1 gives α=3, β=2, so k=6."
+    },
+    {
+      "id": "eb8d1dec",
+      "question": "9. ‘रामसर अभिसमय’ (Ramsar Convention) किसके संरक्षण से संबंधित अंतरराष्ट्रीय संधि है? / The Ramsar Convention is an international treaty for the conservation of—",
+      "options": [
+        "(A) प्रवाल भित्तियाँ / Coral reefs",
+        "(B) उष्णकटिबंधीय वर्षावन / Tropical rainforests",
+        "(C) आर्द्रभूमियाँ / Wetlands",
+        "(D) प्रवासी पक्षी मात्र / Migratory birds only"
+      ],
+      "answer": 2,
+      "explanation": "2 फरवरी 1971 को ईरान के रामसर में आर्द्रभूमियों के संरक्षण और विवेकपूर्ण उपयोग हेतु यह संधि अपनाई गई। / Adopted in 1971 in Ramsar, Iran, it protects wetlands of international importance."
+    },
+    {
+      "id": "3184fe56",
+      "question": "10. एक तस्वीर की ओर इशारा करते हुए मोहन ने कहा, 'वह मेरे पिता के इकलौते पुत्र की पुत्री है।' तस्वीर वाली लड़की मोहन से किस प्रकार संबंधित है? / Pointing to a photo, Mohan said, 'She is the daughter of my father's only son.' How is the girl related to Mohan?",
+      "options": [
+        "(A) पुत्री / Daughter",
+        "(B) बहन / Sister",
+        "(C) भतीजी / Niece",
+        "(D) माता / Mother"
+      ],
+      "answer": 0,
+      "explanation": "मोहन के पिता का इकलौता पुत्र स्वयं मोहन है; अतः तस्वीर वाली लड़की मोहन की पुत्री है। / Father's only son is Mohan himself, so she is his daughter."
+    },
+    {
+      "id": "82f2fa45",
+      "question": "11. कंप्यूटर शब्दावली में ‘Cache Memory’ मुख्य रूप से किन दो घटकों के बीच बफर का कार्य करती है? / In computer architecture, 'Cache Memory' primarily acts as a high-speed buffer between—",
+      "options": [
+        "(A) CPU और मुख्य मेमोरी (RAM) / CPU and Main Memory (RAM)",
+        "(B) हार्ड डिस्क और प्रिंटर / Hard Disk and Printer",
+        "(C) मॉडेम और राउटर / Modem and Router",
+        "(D) कीबोर्ड और मॉनिटर / Keyboard and Monitor"
+      ],
+      "answer": 0,
+      "explanation": "कैश मेमोरी बार-बार प्रयुक्त निर्देशों को संग्रहीत कर CPU की प्रसंस्करण गति बढ़ाती है। / Cache bridges the speed gap between the CPU and main RAM."
+    },
+    {
+      "id": "d4f6871a",
+      "question": "12. किसी मानकीकृत उपलब्धि परीक्षण की 'निर्माण वैधता' (Construct Validity) का अर्थ क्या है? / What does 'construct validity' of an achievement test mean?",
+      "options": [
+        "(A) परीक्षण वास्तव में उसी सैद्धांतिक क्षमता या अवधारणा को मापता है जिसके लिए वह बना है / The test accurately measures the theoretical trait or ability it intends to measure",
+        "(B) परीक्षण का प्रशासन बहुत सस्ता है / The test is inexpensive to administer",
+        "(C) अलग-अलग समय पर समान अंक प्राप्त होते हैं / Consistent scores are obtained across administrations",
+        "(D) परीक्षण के प्रश्न दिखने में आकर्षक हैं / The test items look visually appealing"
+      ],
+      "answer": 0,
+      "explanation": "निर्माण वैधता यह सुनिश्चित करती है कि परीक्षण लक्षित मनोवैज्ञानिक या संज्ञानात्मक संप्रत्यय को सटीकता से मापे। / Construct validity verifies that an instrument truly measures the intended underlying construct."
+    },
+    {
+      "id": "246626e4",
+      "question": "13. मानव शरीर में यूरिया का संश्लेषण (ऑर्निथिन चक्र द्वारा) किस अंग में होता है? / In which organ of the human body is urea synthesized via the ornithine cycle?",
+      "options": [
+        "(A) यकृत (लीवर) / Liver",
+        "(B) वृक्क (किडनी) / Kidney",
+        "(C) प्लीहा / Spleen",
+        "(D) अग्न्याशय / Pancreas"
+      ],
+      "answer": 0,
+      "explanation": "यूरिया का निर्माण यकृत में होता है और रक्त से इसका निष्कासन वृक्क (किडनी) द्वारा किया जाता है। / Urea is synthesized in the liver and excreted by the kidneys."
+    },
+    {
+      "id": "3ebee63e",
+      "question": "14. तनाव प्रबंधन में 'समस्या-केंद्रित मुकाबला' (Problem-Focused Coping) किस रणनीति को दर्शाता है? / In stress management, 'Problem-Focused Coping' refers to—",
+      "options": [
+        "(A) समस्या से ध्यान भटकाने के लिए कार्य टालते रहना / Procrastinating to distract oneself from the issue",
+        "(B) दूसरों पर क्रोध व्यक्त करना / Venting anger onto others",
+        "(C) तनाव के मूल कारण को पहचानकर व्यावहारिक समाधान द्वारा उसे हल करने का प्रयास करना / Identifying the root cause of stress and taking practical action to resolve it",
+        "(D) स्थिति को नियति मानकर निष्क्रिय हो जाना / Becoming passive and accepting helplessness"
+      ],
+      "answer": 2,
+      "explanation": "समस्या-केंद्रित मुकाबला सक्रिय योजना और समय प्रबंधन द्वारा तनाव स्रोत को ही समाप्त या कम करता है। / Problem-focused coping directly addresses and alters the stressor."
+    },
+    {
+      "id": "9b13a6e4",
+      "question": "15. 1 से 50 तक की सभी सम संख्याओं का औसत क्या है? / What is the average of all even numbers from 1 to 50?",
+      "options": [
+        "(A) 25.5",
+        "(B) 25",
+        "(C) 27",
+        "(D) 26"
+      ],
+      "answer": 3,
+      "explanation": "प्रथम सम संख्या 2 और अंतिम सम संख्या 50 है। समांतर श्रेणी का औसत = (2 + 50)/2 = 26। / Average = (first + last)/2 = (2 + 50)/2 = 26."
+    },
+    {
+      "id": "be35a2ed",
+      "question": "16. Select the most appropriate antonym of 'PARSIMONIOUS':",
+      "options": [
+        "(A) Frugal / मितव्ययी",
+        "(B) Thrifty / किफायती",
+        "(C) Extravagant / अपव्ययी",
+        "(D) Prudent / विवेकी"
+      ],
+      "answer": 2,
+      "explanation": "'Parsimonious' means extremely unwilling to spend money; its antonym is 'extravagant' or 'generous'. / Parsimonious (कंजूस) का विलोम extravagant (खर्चीला) है।"
+    },
+    {
+      "id": "2b2dea31",
+      "question": "17. पृथ्वी के वायुमंडल में ओज़ोन गैस की सर्वाधिक सांद्रता किस परत में पाई जाती है? / In which layer of Earth's atmosphere is the highest concentration of ozone found?",
+      "options": [
+        "(A) क्षोभमंडल / Troposphere",
+        "(B) मध्यमंडल / Mesosphere",
+        "(C) समतापमंडल / Stratosphere",
+        "(D) बहिर्मंडल / Exosphere"
+      ],
+      "answer": 2,
+      "explanation": "समतापमंडल (15–35 km) में ओज़ोन परत सूर्य की हानिकारक पराबैंगनी (UV) किरणों को अवशोषित करती है। / The stratospheric ozone layer absorbs harmful solar UV radiation."
+    },
+    {
+      "id": "90173de4",
+      "question": "18. यदि 3^(x+y) = 81 और 81^(x−y) = 3 है, तो x का मान क्या है? / If 3^(x+y) = 81 and 81^(x−y) = 3, find x.",
+      "options": [
+        "(A) 9/4",
+        "(B) 7/4",
+        "(C) 15/8",
+        "(D) 17/8"
+      ],
+      "answer": 3,
+      "explanation": "x+y = 4 तथा 4(x−y) = 1 ⇒ x−y = 1/4। दोनों को जोड़ने पर 2x = 17/4 ⇒ x = 17/8। / Adding x+y=4 and x−y=1/4 gives 2x=17/4, so x=17/8."
+    },
+    {
+      "id": "e358ba40",
+      "question": "19. निम्नलिखित में से कौन-सा उदाहरण 'सकारात्मक दंड' (Positive Punishment) को दर्शाता है? / Which example illustrates 'positive punishment' in operant conditioning?",
+      "options": [
+        "(A) कक्षा में नियम तोड़ने पर अतिरिक्त लेखन कार्य सौंपना / Assigning extra writing work for breaking a classroom rule",
+        "(B) अच्छा प्रदर्शन करने पर गृहकार्य माफ करना / Excusing homework for good performance",
+        "(C) सही उत्तर देने पर प्रशंसा पत्र देना / Giving a merit certificate for a correct answer",
+        "(D) अनुशासनहीनता पर खेल का पीरियड छीन लेना / Taking away play period for misbehaviour"
+      ],
+      "answer": 0,
+      "explanation": "सकारात्मक दंड में अवांछित व्यवहार कम करने के लिए कोई अप्रिय उद्दीपक जोड़ा जाता है। / Positive punishment introduces an aversive stimulus to decrease an undesirable behaviour."
+    },
+    {
+      "id": "73b7085b",
+      "question": "20. संवैधानिक मूल्यों के अंतर्गत 'बंधुत्व' (Fraternity) का विद्यालयी जीवन में सबसे सार्थक क्रियान्वयन क्या है? / What is the most meaningful realization of the constitutional value of 'Fraternity' in school life?",
+      "options": [
+        "(A) केवल समान भाषा बोलने वाले समूह बनाना / Forming groups strictly of same-language speakers",
+        "(B) कठोर प्रतिस्पर्धा द्वारा सहयोग समाप्त करना / Eliminating cooperation via extreme competition",
+        "(C) विविध पृष्ठभूमियों के विद्यार्थियों में पारस्परिक सम्मान, सहानुभूति और एकता की भावना विकसित करना / Fostering mutual respect, empathy, and solidarity among learners from diverse backgrounds",
+        "(D) व्यक्तिगत उपलब्धियों को सामाजिक दायित्व से ऊपर रखना / Placing personal gain above community welfare"
+      ],
+      "answer": 2,
+      "explanation": "बंधुत्व प्रत्येक व्यक्ति की गरिमा और राष्ट्र की एकता एवं अखंडता को सुदृढ़ करता है। / Fraternity upholds individual dignity alongside collective solidarity."
+    },
+    {
+      "id": "debe9842",
+      "question": "21. तीन घंटियाँ क्रमशः 12, 18 और 24 मिनट के अंतराल पर बजती हैं। यदि वे प्रातः 8:00 बजे एक साथ बजी हों, तो पुनः एक साथ कब बजेंगी? / Three bells ring at intervals of 12, 18, and 24 minutes. If they ring together at 8:00 AM, when will they ring together next?",
+      "options": [
+        "(A) प्रातः 8:48 बजे / 8:48 AM",
+        "(B) प्रातः 9:12 बजे / 9:12 AM",
+        "(C) प्रातः 9:00 बजे / 9:00 AM",
+        "(D) प्रातः 9:24 बजे / 9:24 AM"
+      ],
+      "answer": 1,
+      "explanation": "LCM(12, 18, 24) = 72 मिनट = 1 घंटा 12 मिनट। अतः 8:00 + 1:12 = 9:12 AM। / LCM is 72 minutes; 8:00 AM + 72 min = 9:12 AM."
+    },
+    {
+      "id": "de7397c1",
+      "question": "22. वह छोटी से छोटी पूर्ण वर्ग संख्या कौन-सी है जो 10, 12 और 15 से पूर्णतः विभाजित होती है? / Find the smallest perfect square number divisible by 10, 12, and 15.",
+      "options": [
+        "(A) 900",
+        "(B) 400",
+        "(C) 1600",
+        "(D) 360"
+      ],
+      "answer": 0,
+      "explanation": "LCM(10, 12, 15) = 60 = 2² × 3 × 5। पूर्ण वर्ग बनाने हेतु 3 × 5 = 15 से गुणा करने पर 60 × 15 = 900। / LCM is 60; multiplying by 15 gives 900."
+    },
+    {
+      "id": "5b2b47e1",
+      "question": "23. 12 वस्तुओं का क्रय मूल्य 15 वस्तुओं के विक्रय मूल्य के बराबर है। हानि प्रतिशत ज्ञात कीजिए। / Cost price of 12 articles equals selling price of 15 articles. Find loss percentage.",
+      "options": [
+        "(A) 16.67%",
+        "(B) 15%",
+        "(C) 20%",
+        "(D) 25%"
+      ],
+      "answer": 2,
+      "explanation": "CP/SP = 15/12 = 5/4। हानि % = [(5 − 4)/5] × 100 = 20%। / Loss of 1 on CP 5 equals 20%."
+    },
+    {
+      "id": "fc91c38e",
+      "question": "24. यदि किसी कूट भाषा में ‘TEACHER’ को ‘VGCEJGT’ लिखा जाता है, तो ‘STUDENT’ को कैसे लिखा जाएगा? / If ‘TEACHER’ is coded as ‘VGCEJGT’, how is ‘STUDENT’ coded?",
+      "options": [
+        "(A) UVWFGPV",
+        "(B) UVWEGPV",
+        "(C) TUWEFPU",
+        "(D) UVWFGPW"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक अक्षर में +2 की वृद्धि: S+2=U, T+2=V, U+2=W, D+2=F, E+2=G, N+2=P, T+2=V → UVWFGPV। / Each letter shifts forward by +2."
+    },
+    {
+      "id": "65e53100",
+      "question": "25. मस्लो के आवश्यकता पदानुक्रम में 'अभाव आवश्यकताएँ' (Deficiency Needs) कौन-सी हैं? / In Maslow's hierarchy of needs, which set comprises 'Deficiency Needs' (D-needs)?",
+      "options": [
+        "(A) केवल संज्ञानात्मक जिज्ञासा / Cognitive curiosity only",
+        "(B) शारीरिक, सुरक्षा, स्नेह/संबंध और सम्मान की आवश्यकताएँ / Physiological, safety, belongingness/love, and esteem needs",
+        "(C) केवल आत्म-सिद्धि और सौंदर्यबोध / Self-actualization and aesthetic needs only",
+        "(D) केवल आत्म-अतिक्रमण / Self-transcendence only"
+      ],
+      "answer": 1,
+      "explanation": "प्रथम चार स्तर अभाव आवश्यकताएँ हैं जिनकी पूर्ति न होने पर अभिप्रेरणा तीव्र होती है; आत्म-सिद्धि विकास आवश्यकता है। / The lower four levels are deficiency needs; self-actualization is a growth need."
+    },
+    {
+      "id": "b0c63104",
+      "question": "26. मॉन्ट्रियल प्रोटोकॉल (1987) मुख्य रूप से किस पर्यावरणीय समस्या के समाधान हेतु हस्ताक्षरित किया गया था? / The Montreal Protocol (1987) was primarily signed to address which environmental issue?",
+      "options": [
+        "(A) मरुस्थलीकरण की रोकथाम / Combating desertification",
+        "(B) आर्द्रभूमियों का संरक्षण / Conservation of wetlands",
+        "(C) समुद्री प्लास्टिक प्रदूषण / Marine plastic pollution",
+        "(D) समतापमंडलीय ओज़ोन परत का क्षरण / Depletion of the stratospheric ozone layer"
+      ],
+      "answer": 3,
+      "explanation": "मॉन्ट्रियल प्रोटोकॉल क्लोरोफ्लोरोकार्बन (CFCs) जैसे ओज़ोन-क्षयकारी पदार्थों को चरणबद्ध समाप्त करने हेतु बनाया गया था। / It phases out ozone-depleting substances such as CFCs."
+    },
+    {
+      "id": "d4debcc5",
+      "question": "27. यदि 2x + 1/3x = 6 है, तो 9x² + 1/4x² का मान क्या होगा? / If 2x + 1/3x = 6, find the value of 9x² + 1/4x².",
+      "options": [
+        "(A) 78",
+        "(B) 81",
+        "(C) 75",
+        "(D) 84"
+      ],
+      "answer": 0,
+      "explanation": "दोनों पक्षों को 3/2 से गुणा करने पर 3x + 1/2x = 9। वर्ग करने पर 9x² + 1/4x² + 3 = 81 ⇒ 78। / Multiply by 3/2 to get 3x + 1/(2x) = 9; square and subtract 3 to get 78."
+    },
+    {
+      "id": "13de25b5",
+      "question": "28. भारत का पहला 'सौर ऊर्जा संचालित गाँव' (24×7 Solar-Powered Village) घोषित होने वाला मोढेरा किस राज्य में स्थित है? / Modhera, declared India's first 24×7 solar-powered village, is located in which state?",
+      "options": [
+        "(A) उत्तर प्रदेश / Uttar Pradesh",
+        "(B) मध्य प्रदेश / Madhya Pradesh",
+        "(C) गुजरात / Gujarat",
+        "(D) राजस्थान / Rajasthan"
+      ],
+      "answer": 2,
+      "explanation": "गुजरात के मेहसाणा जिले में स्थित मोढेरा (प्रसिद्ध सूर्य मंदिर स्थल) भारत का पहला 24×7 सौर ऊर्जा गांव बना। / Modhera in Mehsana district, Gujarat, became India's first round-the-clock solar-powered village."
+    },
+    {
+      "id": "3ff9487b",
+      "question": "29. यदि किसी विद्युत परिपथ में प्रतिरोध दोगुना कर दिया जाए और विभवांतर स्थिर रखा जाए, तो विद्युत धारा पर क्या प्रभाव पड़ेगा? / If resistance in a circuit is doubled while keeping voltage constant, electric current will—",
+      "options": [
+        "(A) चार गुनी हो जाएगी / Quadruple",
+        "(B) दोगुनी हो जाएगी / Double",
+        "(C) अपरिवर्तित रहेगी / Remain unchanged",
+        "(D) आधी हो जाएगी / Become half"
+      ],
+      "answer": 3,
+      "explanation": "ओम के नियम (I = V/R) के अनुसार स्थिर वोल्टता पर धारा प्रतिरोध के व्युत्क्रमानुपाती होती है। / By Ohm's law (I = V/R), doubling R halves I."
+    },
+    {
+      "id": "c420c3da",
+      "question": "30. ‘बिनु पद चलै सुनै बिनु काना, कर बिनु कर्म करै विधि नाना।’ — इस पंक्ति में कौन-सा अलंकार है? / Identify the figure of speech in this verse.",
+      "options": [
+        "(A) भ्रांतिमान अलंकार / Bhrāntimān",
+        "(B) विभावना अलंकार / Vibhāvanā",
+        "(C) संदेह अलंकार / Sandeha",
+        "(D) विशेषोक्ति अलंकार / Viśeṣokti"
+      ],
+      "answer": 1,
+      "explanation": "जहाँ कारण (पैर, कान, हाथ) के अभाव में भी कार्य (चलना, सुनना, कर्म करना) का होना वर्णित हो, वहाँ विभावना अलंकार होता है। / Action occurring without its usual cause defines Vibhāvanā."
+    },
+    {
+      "id": "9426b6c2",
+      "question": "31. एक व्यक्ति अपनी आय का 75% खर्च करता है। यदि उसकी आय 20% बढ़ जाए और व्यय 10% बढ़ जाए, तो उसकी बचत में कितने प्रतिशत वृद्धि होगी? / A person spends 75% of income. If income rises 20% and expenditure rises 10%, find % increase in savings.",
+      "options": [
+        "(A) 35%",
+        "(B) 25%",
+        "(C) 40%",
+        "(D) 50%"
+      ],
+      "answer": 3,
+      "explanation": "माना आय=100, व्यय=75, बचत=25। नई आय=120, नया व्यय=75×1.1=82.5, नई बचत=37.5। वृद्धि=(12.5/25)×100=50%। / Savings rise from 25 to 37.5, a 50% increase."
+    },
+    {
+      "id": "640aceef",
+      "question": "32. ‘पञ्चाशत्’ संख्यायाः कृते कः अङ्कः अस्ति? / Which numeral corresponds to ‘पञ्चाशत्’?",
+      "options": [
+        "(A) 25",
+        "(B) 15",
+        "(C) 500",
+        "(D) 50"
+      ],
+      "answer": 3,
+      "explanation": "संस्कृत में ‘पञ्चाशत्’ का अर्थ 50 (पचास) होता है। / Pañcāśat denotes 50."
+    },
+    {
+      "id": "9a4a8bd9",
+      "question": "33. एक शिक्षक भिन्न (fractions) सिखाते समय 1/4 को 1/3 से बड़ा बताने वाले छात्र की कॉपी जाँचता है। पियाजे के अनुसार यह त्रुटि किस संज्ञानात्मक प्रवृत्ति को दर्शाती है? / A teacher notices a student claiming 1/4 is greater than 1/3. According to Piaget, this reflects which cognitive tendency?",
+      "options": [
+        "(A) अमूर्त निगमनात्मक तर्क / Hypothetico-deductive reasoning",
+        "(B) केन्द्रीकरण (केवल हर के बड़े अंक पर ध्यान) / Centration (focusing only on the larger denominator)",
+        "(C) वस्तु स्थायित्व / Object permanence",
+        "(D) प्रतिवर्ती चिंतन / Reversibility"
+      ],
+      "answer": 1,
+      "explanation": "पूर्व-संक्रियात्मक चिंतन में बच्चा एक ही आयाम (4 > 3) पर केंद्रित होकर भाग-पूर्ण संबंध अनदेखा करता है। / Centration leads learners to focus on one salient dimension (4 > 3) rather than part-whole ratios."
+    },
+    {
+      "id": "3fce5b79",
+      "question": "34. काली मिट्टी (रेगुर मृदा) भारत के किस भौगोलिक क्षेत्र में सर्वाधिक विस्तृत है? / In which physiographic region of India is Black Soil (Regur) most extensively distributed?",
+      "options": [
+        "(A) ब्रह्मपुत्र घाटी / Brahmaputra Valley",
+        "(B) थार मरुस्थल / Thar Desert",
+        "(C) दक्कन का पठार (महाराष्ट्र, गुजरात, मध्य प्रदेश) / Deccan Trap plateau",
+        "(D) सुंदरबन डेल्टा / Sundarbans Delta"
+      ],
+      "answer": 2,
+      "explanation": "ज्वालामुखीय बेसाल्ट चट्टानों के अपक्षय से निर्मित काली मिट्टी दक्कन लावा पठार में प्रमुखता से पाई जाती है। / Formed from weathered Deccan basalt, black soil dominates the Deccan Trap."
+    },
+    {
+      "id": "a11b7abb",
+      "question": "35. निम्नलिखित में से कौन-सा 'मानक-संदर्भित परीक्षण' (Norm-Referenced Test) का मुख्य कार्य है? / What is the primary function of a 'Norm-Referenced Test'?",
+      "options": [
+        "(A) दैनिक गृहकार्य की जांच करना / Checking daily homework",
+        "(B) किसी विद्यार्थी के प्रदर्शन की तुलना समान आयु या कक्षा के समकक्ष समूह से करना / Comparing a learner's performance against a peer reference group",
+        "(C) विशिष्ट अधिगम त्रुटियों का सूक्ष्म निदान करना / Diagnosing micro-level learning errors",
+        "(D) पूर्वनिर्धारित दक्षता मानदंड की प्राप्ति जाँचना / Checking mastery against a pre-set competency standard"
+      ],
+      "answer": 1,
+      "explanation": "मानक-संदर्भित परीक्षण में पर्सेंटाइल या रैंक के माध्यम से समूह में सापेक्ष स्थिति ज्ञात की जाती है। / Norm-referenced tests establish relative standing within a norm group."
+    },
+    {
+      "id": "3ef67486",
+      "question": "36. निम्नलिखित में से कौन-सी नदी भ्रंश घाटी (Rift Valley) से होकर पश्चिम की ओर अरब सागर में गिरती है? / Which of the following rivers flows westward through a rift valley into the Arabian Sea?",
+      "options": [
+        "(A) महानदी और गोदावरी / Mahanadi and Godavari",
+        "(B) कावेरी और कृष्णा / Kaveri and Krishna",
+        "(C) नर्मदा और ताप्ती / Narmada and Tapi",
+        "(D) यमुना और चंबल / Yamuna and Chambal"
+      ],
+      "answer": 2,
+      "explanation": "नर्मदा और ताप्ती प्रायद्वीपीय भारत की प्रमुख पश्चिमवाहिनी नदियाँ हैं जो भ्रंश घाटियों से प्रवाहित होती हैं। / Narmada and Tapi flow westward through structural rift valleys."
+    },
+    {
+      "id": "9943a5bc",
+      "question": "37. In English phonology, how many pure vowels (monophthongs) exist in Received Pronunciation (RP)?",
+      "options": [
+        "(A) 20",
+        "(B) 12",
+        "(C) 8",
+        "(D) 5"
+      ],
+      "answer": 1,
+      "explanation": "RP contains 20 vowel sounds in total: 12 monophthongs (pure vowels) and 8 diphthongs. / अंग्रेजी RP में 12 शुद्ध स्वर और 8 संयुक्त स्वर होते हैं।"
+    },
+    {
+      "id": "55293b68",
+      "question": "38. किस हार्मोन को 'आपातकालीन हार्मोन' (लड़ो या भागो हार्मोन) कहा जाता है? / Which hormone is known as the 'emergency hormone' (fight-or-flight hormone)?",
+      "options": [
+        "(A) मेलाटोनिन / Melatonin",
+        "(B) थायरॉक्सिन / Thyroxine",
+        "(C) ऑक्सीटोसिन / Oxytocin",
+        "(D) एड्रेनालिन (एपिनेफ्रिन) / Adrenaline (Epinephrine)"
+      ],
+      "answer": 3,
+      "explanation": "अधिवृक्क (Adrenal) ग्रंथि से स्रावित एड्रेनालिन तनाव की स्थिति में हृदय गति और ऊर्जा आपूर्ति बढ़ाता है। / Adrenaline secreted by the adrenal medulla prepares the body for rapid stress response."
+    },
+    {
+      "id": "a3b8ba5e",
+      "question": "39. उत्तर प्रदेश सरकार की 'मुख्यमंत्री अभ्युदय योजना' का मुख्य उद्देश्य क्या है? / What is the primary objective of the Uttar Pradesh Government's 'Mukhyamantri Abhyudaya Yojana'?",
+      "options": [
+        "(A) ग्रामीण सड़कों का निर्माण करना / Constructing rural highways",
+        "(B) सिंचाई नहरों का आधुनिकीकरण करना / Modernising irrigation canals",
+        "(C) विद्युत सब-स्टेशन स्थापित करना / Setting up power sub-stations",
+        "(D) प्रतियोगी परीक्षाओं की तैयारी करने वाले युवाओं को निःशुल्क उच्च-गुणवत्ता कोचिंग और मार्गदर्शन प्रदान करना / Providing free, high-quality coaching and mentorship to youth preparing for competitive exams"
+      ],
+      "answer": 3,
+      "explanation": "मुख्यमंत्री अभ्युदय योजना आर्थिक रूप से वंचित अभ्यर्थियों को सिविल सेवा, JEE, NEET आदि हेतु निःशुल्क मार्गदर्शन देती है। / The scheme offers free coaching and mentorship for competitive examinations."
+    },
+    {
+      "id": "96daca1a",
+      "question": "40. ‘उच्छ्वास’ शब्द में कौन-सा उपसर्ग है? / Identify the prefix in ‘उच्छ्वास’.",
+      "options": [
+        "(A) उच् / Uch",
+        "(B) उ / U",
+        "(C) उत् / Ut",
+        "(D) उद् / Ud"
+      ],
+      "answer": 2,
+      "explanation": "व्यंजन संधि के नियम से उत् + श्वास = उच्छ्वास बनता है; मूल उपसर्ग ‘उत्’ है। / Ut + śvāsa yields ucchvāsa."
+    },
+    {
+      "id": "2b3c6783",
+      "question": "41. श्रेणी में लुप्त पद ज्ञात कीजिए: 2, 6, 12, 20, 30, ? / Find the missing term in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "(A) 42",
+        "(B) 40",
+        "(C) 44",
+        "(D) 38"
+      ],
+      "answer": 0,
+      "explanation": "अंतर क्रमशः +4, +6, +8, +10 है; अगला अंतर +12 होगा ⇒ 30 + 12 = 42 (या 6 × 7 = 42)। / Differences increase by 2 (+4,+6,+8,+10,+12); 30+12=42."
+    },
+    {
+      "id": "a23bbd5e",
+      "question": "42. ‘अलं विवादेन’ इत्यत्र ‘विवादेन’ पदे का विभक्तिः अस्ति? / Which case is in ‘विवादेन’ with ‘अलम्’?",
+      "options": [
+        "(A) चतुर्थी विभक्तिः / Dative (Caturthī)",
+        "(B) पञ्चमी विभक्तिः / Ablative (Pañcamī)",
+        "(C) तृतीया विभक्तिः / Instrumental (Tṛtīyā)",
+        "(D) सप्तमी विभक्तिः / Locative (Saptamī)"
+      ],
+      "answer": 2,
+      "explanation": "निषेध (बस करो/रोको) अर्थ में ‘अलम्’ के योग में तृतीया विभक्ति होती है। / Prohibition sense of alam governs instrumental case."
+    },
+    {
+      "id": "39061ffd",
+      "question": "43. कंप्यूटर नेटवर्किंग में ‘IP Address’ (IPv4) की कुल बिट लंबाई कितनी होती है? / What is the bit length of a standard IPv4 address in computer networking?",
+      "options": [
+        "(A) 64 बिट / 64 bits",
+        "(B) 32 बिट / 32 bits",
+        "(C) 128 बिट / 128 bits",
+        "(D) 16 बिट / 16 bits"
+      ],
+      "answer": 1,
+      "explanation": "IPv4 पता 32-बिट (4 बाइट) का होता है, जबकि IPv6 पता 128-बिट का होता है। / IPv4 uses 32 bits; IPv6 uses 128 bits."
+    },
+    {
+      "id": "0fb8e3e2",
+      "question": "44. दो वृत्तों की त्रिज्याएँ 8 cm और 6 cm हैं। उस वृत्त की त्रिज्या क्या होगी जिसका क्षेत्रफल इन दोनों वृत्तों के क्षेत्रफलों के योग के बराबर है? / Radii of two circles are 8 cm and 6 cm. Find the radius of a circle whose area equals the sum of their areas.",
+      "options": [
+        "(A) 12 cm",
+        "(B) 10 cm",
+        "(C) 9 cm",
+        "(D) 14 cm"
+      ],
+      "answer": 1,
+      "explanation": "πR² = π(8² + 6²) = π(64 + 36) = 100π ⇒ R = 10 cm। / R = √(64+36) = 10 cm."
+    },
+    {
+      "id": "be9a1163",
+      "question": "45. डिस्प्रैक्सिया (Dyspraxia) से प्रभावित बालक को मुख्यतः किस क्षेत्र में कठिनाई होती है? / A child with Dyspraxia primarily experiences difficulty in—",
+      "options": [
+        "(A) दृष्टि तीक्ष्णता / Visual acuity",
+        "(B) ध्वनियों के उच्चारण और पठन विकोडन / Phonemic decoding only",
+        "(C) सूक्ष्म एवं स्थूल गामक समन्वय तथा शारीरिक गतिविधियों की योजना / Fine and gross motor coordination and planning physical movements",
+        "(D) संख्यात्मक गणनाओं / Numerical arithmetic only"
+      ],
+      "answer": 2,
+      "explanation": "डिस्प्रैक्सिया (Developmental Coordination Disorder) शरीर की गतियों के समन्वय और नियोजन को प्रभावित करता है। / Dyspraxia affects motor skill planning and physical coordination."
+    },
+    {
+      "id": "46015f69",
+      "question": "46. यदि किसी बंटन का माध्य (Mean) 24 और माध्यिका (Median) 26 है, तो आनुभविक सूत्र से बहुलक (Mode) क्या होगा? / If Mean = 24 and Median = 26, find Mode using the empirical relation.",
+      "options": [
+        "(A) 30",
+        "(B) 25",
+        "(C) 22",
+        "(D) 28"
+      ],
+      "answer": 0,
+      "explanation": "Mode = 3(Median) − 2(Mean) = 3(26) − 2(24) = 78 − 48 = 30। / Empirical formula gives 78 − 48 = 30."
+    },
+    {
+      "id": "1153f79a",
+      "question": "47. कोहलबर्ग के उत्तर-परंपरागत स्तर के चरण 5 (सामाजिक अनुबंध अभिविन्यास) में व्यक्ति किसी कानून को कब बदलने योग्य मानता है? / At Kohlberg's Stage 5 (Social Contract orientation), when is a law considered changeable?",
+      "options": [
+        "(A) जब वह मौलिक मानवाधिकारों या लोकतांत्रिक कल्याण के विरुद्ध हो / When it conflicts with fundamental human rights or democratic welfare",
+        "(B) जब व्यक्तिगत लाभ में बाधा आए / When it hinders personal gain",
+        "(C) जब पकड़े जाने का डर न हो / When there is no fear of getting caught",
+        "(D) जब मित्र समूह उसका विरोध करे / When peers disapprove of it"
+      ],
+      "answer": 0,
+      "explanation": "चरण 5 में कानूनों को सामाजिक कल्याण हेतु निर्मित अनुबंध माना जाता है, जिन्हें मानवाधिकारों की रक्षा हेतु संशोधित किया जा सकता है। / Stage 5 views laws as social contracts that should be revised when they violate basic human rights."
+    },
+    {
+      "id": "3b5d4bb1",
+      "question": "48. प्रभावी अंतर्वैयक्तिक संचार में 'सक्रिय श्रवण' (Active Listening) का मुख्य घटक क्या है? / What is a core component of 'Active Listening' in effective interpersonal communication?",
+      "options": [
+        "(A) वक्ता की बात बीच में काटकर अपनी राय थोपना / Interrupting the speaker to impose one's own opinion",
+        "(B) संचार के दौरान मोबाइल फोन देखना / Checking a mobile phone during conversation",
+        "(C) वक्ता की बात पर पूर्ण ध्यान देना, भावात्मक संकेत समझना और संक्षिप्त प्रतिपुष्टि देना / Giving undivided attention, reading emotional cues, and paraphrasing/reflecting back",
+        "(D) केवल शब्दों को सुनकर अर्थ की अनदेखी करना / Hearing words while ignoring underlying meaning"
+      ],
+      "answer": 2,
+      "explanation": "सक्रिय श्रवण विश्वास निर्मित करता है और शिक्षक-विद्यार्थी तथा अभिभावक संवाद को सार्थक बनाता है। / Active listening builds trust and prevents misunderstandings in educational settings."
+    },
+    {
+      "id": "0ab59fb8",
+      "question": "49. निम्नलिखित में से कौन-सा 'अधिगम के रूप में मूल्यांकन' (Assessment AS Learning) का सटीक उदाहरण है? / Which is an accurate example of 'Assessment AS Learning'?",
+      "options": [
+        "(A) शिक्षक द्वारा बिना प्रतिपुष्टि केवल ग्रेड लिखना / Teacher assigning grades without feedback",
+        "(B) विद्यार्थियों द्वारा रूब्रिक की सहायता से अपने स्वयं के कार्य की समीक्षा और सुधार करना / Learners using a rubric to monitor, reflect on, and revise their own work",
+        "(C) राज्य स्तर पर विद्यालयों की रैंकिंग जारी करना / Publishing state-wide school rankings",
+        "(D) सत्र के अंत में बोर्ड परीक्षा आयोजित करना / Conducting board exams at the end of the term"
+      ],
+      "answer": 1,
+      "explanation": "Assessment AS Learning में शिक्षार्थी स्वयं मेटाकॉग्निटिव रूप से अपनी प्रगति का नियमन करता है। / Assessment as learning centres on student self-monitoring and metacognitive reflection."
+    },
+    {
+      "id": "90a6162f",
+      "question": "50. निम्नलिखित में से शुद्ध वर्तनी वाला शब्द चुनिए— / Choose the word with correct Hindi spelling—",
+      "options": [
+        "(A) अहिल्या / Ahilyā",
+        "(B) अहील्या / Ahīlyā",
+        "(C) अहल्ल्या / Ahallyā",
+        "(D) अहल्या / Ahalyā"
+      ],
+      "answer": 3,
+      "explanation": "मानक हिंदी वर्तनी के अनुसार शुद्ध शब्द ‘अहल्या’ है (न कि अहिल्या)। / Ahalyā is the standard spelling."
+    },
+    {
+      "id": "170169e3",
+      "question": "51. दो संख्याओं का HCF 12 और LCM 360 है। यदि एक संख्या 60 है, तो दूसरी संख्या क्या होगी? / HCF and LCM of two numbers are 12 and 360. If one number is 60, find the other.",
+      "options": [
+        "(A) 48",
+        "(B) 96",
+        "(C) 84",
+        "(D) 72"
+      ],
+      "answer": 3,
+      "explanation": "पहली संख्या × दूसरी संख्या = HCF × LCM ⇒ 60 × दूसरी संख्या = 12 × 360 ⇒ 72। / (12 × 360) / 60 = 72."
+    },
+    {
+      "id": "5565cc37",
+      "question": "52. निम्नलिखित में से ‘अग्नि’ का पर्यायवाची शब्द नहीं है— / Which of the following is NOT a synonym of ‘अग्नि’ (Fire)?",
+      "options": [
+        "(A) वैश्वानर / Vaiśvānara",
+        "(B) अनिल / Anil",
+        "(C) पावक / Pāvak",
+        "(D) कृशानु / Kṛśānu"
+      ],
+      "answer": 1,
+      "explanation": "‘अनिल’ वायु का पर्यायवाची है, जबकि ‘अनल’, पावक, कृशानु और वैश्वानर अग्नि के पर्यायवाची हैं। / Anil means wind; Anal means fire."
+    },
+    {
+      "id": "3ad9e9d9",
+      "question": "53. भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' (Complete Independence) का प्रस्ताव पारित किया गया? / At which session of the Indian National Congress was the resolution of 'Purna Swaraj' passed?",
+      "options": [
+        "(A) कराची अधिवेशन (1931) / Karachi Session (1931)",
+        "(B) लाहौर अधिवेशन (1929) / Lahore Session (1929)",
+        "(C) कलकत्ता अधिवेशन (1928) / Calcutta Session (1928)",
+        "(D) लखनऊ अधिवेशन (1916) / Lucknow Session (1916)"
+      ],
+      "answer": 1,
+      "explanation": "पंडित जवाहरलाल नेहरू की अध्यक्षता में दिसंबर 1929 के लाहौर अधिवेशन में पूर्ण स्वराज का संकल्प लिया गया। / Presided over by Jawaharlal Nehru, the 1929 Lahore Session declared Purna Swaraj."
+    },
+    {
+      "id": "9de35904",
+      "question": "54. एक थैले में 4 लाल, 5 नीली और 6 हरी गेंदें हैं। यादृच्छिक रूप से एक गेंद निकालने पर उसके नीली न होने की प्रायिकता क्या है? / A bag has 4 red, 5 blue, and 6 green balls. Probability that a randomly drawn ball is NOT blue?",
+      "options": [
+        "(A) 1/3",
+        "(B) 2/3",
+        "(C) 2/5",
+        "(D) 3/5"
+      ],
+      "answer": 1,
+      "explanation": "कुल गेंदें = 15; नीली न होने वाली गेंदें = 4 + 6 = 10। प्रायिकता = 10/15 = 2/3। / Non-blue balls = 10 out of 15, giving 2/3."
+    },
+    {
+      "id": "970dfc22",
+      "question": "55. मानव मस्तिष्क का कौन-सा भाग शरीर के संतुलन (balance), मुद्रा और ऐच्छिक पेशियों के समन्वय को नियंत्रित करता है? / Which part of the human brain regulates posture, balance, and coordination of voluntary movements?",
+      "options": [
+        "(A) अनुमस्तिष्क (सेरिबेलम) / Cerebellum",
+        "(B) प्रमस्तिष्क (सेरिब्रम) / Cerebrum",
+        "(C) हाइपोथैलेमस / Hypothalamus",
+        "(D) मेडुला ऑब्लांगेटा / Medulla oblongata"
+      ],
+      "answer": 0,
+      "explanation": "पश्चमस्तिष्क का भाग सेरिबेलम शारीरिक संतुलन और सूक्ष्म पेशीय समन्वय बनाए रखता है। / The cerebellum coordinates voluntary motor precision and equilibrium."
+    },
+    {
+      "id": "0677c38b",
+      "question": "56. किसी परीक्षा में उत्तीर्ण होने के लिए 36% अंक आवश्यक हैं। एक छात्र 113 अंक प्राप्त करता है और 85 अंकों से अनुत्तीर्ण हो जाता है। परीक्षा का पूर्णांक क्या है? / 36% marks are needed to pass. A student gets 113 marks and fails by 85 marks. Find maximum marks.",
+      "options": [
+        "(A) 500",
+        "(B) 450",
+        "(C) 550",
+        "(D) 600"
+      ],
+      "answer": 2,
+      "explanation": "उत्तीर्ण अंक = 113 + 85 = 198। 36% = 198 ⇒ 100% = (198/36) × 100 = 550। / Pass mark 198 is 36%, so full marks = 550."
+    },
+    {
+      "id": "1865776c",
+      "question": "57. Identify the correct passive transformation: 'Someone has stolen my bicycle.'",
+      "options": [
+        "(A) My bicycle has been stolen.",
+        "(B) My bicycle is being stolen.",
+        "(C) My bicycle was stolen by someone.",
+        "(D) My bicycle had been stolen."
+      ],
+      "answer": 0,
+      "explanation": "Present perfect active ('has stolen') becomes 'has been stolen'; vague agent 'by someone' is omitted. / Present perfect passive में has been + V3 प्रयुक्त होता है।"
+    },
+    {
+      "id": "a34779ba",
+      "question": "58. एक समकोण त्रिभुज की समकोण बनाने वाली भुजाएँ 9 cm और 12 cm हैं। इसके परिवृत्त (circumcircle) की त्रिज्या क्या होगी? / Legs of a right triangle are 9 cm and 12 cm. Find the radius of its circumcircle.",
+      "options": [
+        "(A) 6 cm",
+        "(B) 7.5 cm",
+        "(C) 15 cm",
+        "(D) 10.5 cm"
+      ],
+      "answer": 1,
+      "explanation": "कर्ण = √(9² + 12²) = 15 cm। समकोण त्रिभुज की परित्रिज्या कर्ण की आधी होती है = 15/2 = 7.5 cm। / Circumradius of a right triangle is half the hypotenuse: 15/2 = 7.5 cm."
+    },
+    {
+      "id": "ed1c6092",
+      "question": "59. खुले शैक्षिक संसाधनों (OER - Open Educational Resources) की प्रमुख विशेषता क्या है? / What is the defining characteristic of Open Educational Resources (OER)?",
+      "options": [
+        "(A) केवल सशुल्क सदस्यता पर उपलब्धता / Available only via paid subscription",
+        "(B) मुक्त लाइसेंस के तहत निःशुल्क उपयोग, अनुकूलन और पुनर्वितरण की अनुमति / Free access, adaptation, and redistribution permitted under an open license",
+        "(C) केवल ऑफलाइन मुद्रित रूप में उपलब्धता / Available only in print",
+        "(D) संपादन पर पूर्ण प्रतिबंध / Strictly prohibited from editing"
+      ],
+      "answer": 1,
+      "explanation": "OER (जैसे Creative Commons लाइसेंस सामग्री) शिक्षकों को संसाधनों में संशोधन और साझा करने की स्वतंत्रता देते हैं। / OER carry open licenses enabling free reuse, revision, and sharing."
+    },
+    {
+      "id": "21131011",
+      "question": "60. एक प्रश्न का कठिनाई स्तर (Difficulty Index, p-value) 0.88 है और विभेदन सूचकांक (Discrimination Index) 0.05 है। इस प्रश्न के बारे में क्या निष्कर्ष निकलता है? / An item has a difficulty index (p-value) of 0.88 and discrimination index of 0.05. What can be inferred?",
+      "options": [
+        "(A) प्रश्न अत्यंत कठिन है और पाठ्यक्रम से बाहर है / The item is extremely difficult and out of syllabus",
+        "(B) प्रश्न अत्यंत आसान है और उच्च व निम्न उपलब्धि वालों में अंतर नहीं कर पा रहा / The item is very easy and fails to differentiate high and low achievers",
+        "(C) उत्तर कुंजी निश्चित रूप से गलत है / The answer key is definitely incorrect",
+        "(D) यह परीक्षण का सर्वश्रेष्ठ विभेदक प्रश्न है / It is the most discriminating item on the test"
+      ],
+      "answer": 1,
+      "explanation": "उच्च p-value (0.88) का अर्थ है कि 88% छात्रों ने सही उत्तर दिया, जिससे विभेदन क्षमता लगभग शून्य रह गई। / A p-value of 0.88 indicates almost everyone answered correctly, yielding very low discrimination."
+    },
+    {
+      "id": "0a135114",
+      "question": "61. एक शिक्षक कक्षा में 'थिंक-पेयर-शेयर' (Think-Pair-Share) गतिविधि कराता है। इसका प्रमुख शैक्षणिक लाभ क्या है? / A teacher uses the 'Think-Pair-Share' strategy in class. What is its key pedagogical benefit?",
+      "options": [
+        "(A) प्रत्येक विद्यार्थी को व्यक्तिगत चिंतन के बाद सहपाठी संवाद से विचार परिष्कृत करने का अवसर मिलता है / Every learner gets time for individual reflection before refining ideas through peer dialogue",
+        "(B) केवल मेधावी छात्रों को बोलने का अवसर मिलता है / Only high-achieving students get a chance to speak",
+        "(C) शिक्षक का व्याख्यान समय बढ़ जाता है / Teacher lecture time increases significantly",
+        "(D) मूल्यांकन की आवश्यकता समाप्त हो जाती है / It eliminates the need for assessment"
+      ],
+      "answer": 0,
+      "explanation": "थिंक-पेयर-शेयर संज्ञानात्मक प्रसंस्करण समय और सहयोगात्मक अर्थ-निर्माण दोनों को बढ़ावा देता है। / Think-Pair-Share combines individual wait-time with collaborative peer articulation."
+    },
+    {
+      "id": "c2a0b85b",
+      "question": "62. ‘घबराहट’ शब्द में कौन-सा प्रत्यय प्रयुक्त हुआ है? / Which suffix is used in ‘घबराहट’?",
+      "options": [
+        "(A) आहट / āhaṭ",
+        "(B) राहट / rāhaṭ",
+        "(C) हट / haṭ",
+        "(D) अहट / ahaṭ"
+      ],
+      "answer": 0,
+      "explanation": "घबराना क्रिया धातु में ‘आहट’ भाववाचक प्रत्यय जोड़ने से ‘घबराहट’ बनता है। / The suffix is āhaṭ."
+    },
+    {
+      "id": "20a8087a",
+      "question": "63. शिक्षण में 'आगमनात्मक चिंतन मॉडल' (Inductive Thinking Model) किसने विकसित किया? / Who developed the 'Inductive Thinking Model' of teaching?",
+      "options": [
+        "(A) हिल्डा ताबा / Hilda Taba",
+        "(B) बी. एफ. स्किनर / B. F. Skinner",
+        "(C) इवान पावलोव / Ivan Pavlov",
+        "(D) ई. एल. थॉर्नडाइक / E. L. Thorndike"
+      ],
+      "answer": 0,
+      "explanation": "हिल्डा ताबा ने अवधारणा निर्माण, आँकड़ों की व्याख्या और सिद्धांतों के अनुप्रयोग हेतु आगमनात्मक मॉडल विकसित किया। / Hilda Taba designed the inductive thinking model around concept formation and data interpretation."
+    },
+    {
+      "id": "2d8876ca",
+      "question": "64. डिजिटल नागरिकता (Digital Citizenship) में ‘डिजिटल फुटप्रिंट’ से क्या तात्पर्य है? / In digital citizenship, what does 'Digital Footprint' refer to?",
+      "options": [
+        "(A) कंप्यूटर स्क्रीन का रिज़ॉल्यूशन / Resolution of a computer monitor",
+        "(B) इंटरनेट उपयोग के दौरान ऑनलाइन छोड़े गए डेटा और गतिविधियों का स्थायी रिकॉर्ड / The trail of data and online activity left behind while using the Internet",
+        "(C) हार्ड ड्राइव की भंडारण क्षमता / Storage capacity of a hard drive",
+        "(D) बायोमेट्रिक फिंगरप्रिंट स्कैनर / Biometric fingerprint scanner"
+      ],
+      "answer": 1,
+      "explanation": "सक्रिय और निष्क्रिय रूप से ऑनलाइन साझा की गई जानकारी व्यक्ति का डिजिटल फुटप्रिंट बनाती है। / Digital footprints are the traceable records created by online interactions."
+    },
+    {
+      "id": "f12f6ec5",
+      "question": "65. प्रयोगात्मक अनुसंधान में 'बाह्य चर' (Extraneous Variable) को नियंत्रित करना क्यों आवश्यक है? / Why is controlling extraneous variables essential in experimental educational research?",
+      "options": [
+        "(A) ताकि प्रतिदर्श का आकार शून्य हो जाए / So that sample size becomes zero",
+        "(B) ताकि परिकल्पना की आवश्यकता समाप्त हो जाए / So that hypotheses are no longer needed",
+        "(C) ताकि सांख्यिकीय विश्लेषण कठिन हो जाए / So that statistical analysis becomes harder",
+        "(D) ताकि आश्रित चर में होने वाले परिवर्तन का श्रेय केवल स्वतंत्र चर को दिया जा सके / So that changes in the dependent variable can be attributed solely to the independent variable"
+      ],
+      "answer": 3,
+      "explanation": "बाह्य चरों का नियंत्रण आंतरिक वैधता (Internal Validity) सुनिश्चित करता है। / Controlling extraneous variables protects internal validity by ruling out rival explanations."
+    },
+    {
+      "id": "b98929c4",
+      "question": "66. ‘अधिहरि’ इति पदे कः समासः अस्ति? / Which compound is present in ‘अधिहरि’?",
+      "options": [
+        "(A) बहुव्रीहि समासः / Bahuvrīhi",
+        "(B) द्वन्द्व समासः / Dvandva",
+        "(C) तत्पुरुष समासः / Tatpuruṣa",
+        "(D) अव्ययीभाव समासः / Avyayībhāva"
+      ],
+      "answer": 3,
+      "explanation": "हरौ इति अधिहरि (विभक्ति अर्थ में अव्ययीभाव समासः)। / Adhihari is an Avyayībhāva compound."
+    },
+    {
+      "id": "32be9fbd",
+      "question": "67. ‘गन्तुम्’ इत्यत्र कः प्रत्ययः प्रयुक्तः? / Which suffix is used in ‘गन्तुम्’?",
+      "options": [
+        "(A) क्त्वा / Ktvā",
+        "(B) शतृ / Śatṛ",
+        "(C) ल्यप् / Lyap",
+        "(D) तुमुन् / Tumun"
+      ],
+      "answer": 3,
+      "explanation": "‘के लिए’ अर्थ में धातु से तुमुन् प्रत्यय जुड़ता है (गम् + तुमुन् = गन्तुम्)। / Tumun expresses purpose ('to go')."
+    },
+    {
+      "id": "a85b07ed",
+      "question": "68. राहुल उत्तर की ओर 15 m चलता है, फिर बाएँ मुड़कर 20 m चलता है, पुनः बाएँ मुड़कर 15 m चलता है। वह प्रारंभिक बिंदु से कितनी दूर और किस दिशा में है? / Rahul walks 15 m North, turns Left and walks 20 m, then turns Left and walks 15 m. How far and in which direction is he from the start?",
+      "options": [
+        "(A) 15 m दक्षिण / 15 m South",
+        "(B) 20 m पश्चिम / 20 m West",
+        "(C) 20 m पूर्व / 20 m East",
+        "(D) 35 m पश्चिम / 35 m West"
+      ],
+      "answer": 1,
+      "explanation": "उत्तर 15 m और दक्षिण 15 m निरस्त हो जाते हैं; केवल बाएँ (पश्चिम) की ओर 20 m विस्थापन शेष रहता है। / North and South displacements cancel; he ends 20 m West of start."
+    },
+    {
+      "id": "a92432dd",
+      "question": "69. प्रोबिंग प्रश्न (Probing Questions) पूछने का मुख्य उद्देश्य क्या है? / What is the primary purpose of asking probing questions in a classroom?",
+      "options": [
+        "(A) विद्यार्थी को निरुत्तर कर दंडित करना / To silence and embarrass the learner",
+        "(B) पाठ्यक्रम को जल्दी समाप्त करना / To finish the syllabus rapidly",
+        "(C) केवल 'हाँ' या 'नहीं' में उत्तर प्राप्त करना / To elicit strictly 'yes' or 'no' answers",
+        "(D) विद्यार्थी के प्रारंभिक उत्तर से आगे बढ़कर गहन तर्क और अवधारणात्मक स्पष्टता विकसित करना / To push beyond a learner's initial response toward deeper reasoning and conceptual clarity"
+      ],
+      "answer": 3,
+      "explanation": "प्रोबिंग प्रश्न ('ऐसा क्यों हुआ?', 'क्या कोई अपवाद है?') उच्च-स्तरीय चिंतन को प्रेरित करते हैं। / Probing prompts learners to justify, elaborate, and examine assumptions."
+    },
+    {
+      "id": "a7616e3f",
+      "question": "70. एक ठोस गोले को पिघलाकर समान त्रिज्या के 8 छोटे ठोस गोले बनाए जाते हैं। बड़े गोले की त्रिज्या और छोटे गोले की त्रिज्या का अनुपात क्या होगा? / A solid sphere is melted into 8 identical small spheres. Find the ratio of the radius of the large sphere to a small sphere.",
+      "options": [
+        "(A) 2 : 1",
+        "(B) 4 : 1",
+        "(C) 3 : 1",
+        "(D) 8 : 1"
+      ],
+      "answer": 0,
+      "explanation": "(4/3)πR³ = 8 × (4/3)πr³ ⇒ R³ = 8r³ ⇒ R/r = 2/1। / Cube root of 8 gives ratio 2:1."
+    },
+    {
+      "id": "979ff175",
+      "question": "71. ‘अभिराम’ और ‘अविराम’ शब्द-युग्म का सही अर्थ-भेद है— / Correct meaning pair for ‘अभिराम’ and ‘अविराम’—",
+      "options": [
+        "(A) सुंदर और लगातार / Beautiful and continuous",
+        "(B) विश्राम और थकान / Rest and fatigue",
+        "(C) लगातार और सुंदर / Continuous and beautiful",
+        "(D) प्रारंभ और अंत / Beginning and end"
+      ],
+      "answer": 0,
+      "explanation": "‘अभिराम’ का अर्थ मनोहर/सुंदर है, जबकि ‘अविराम’ (बिना रुके) का अर्थ निरंतर/लगातार है। / Abhirāma means pleasing/beautiful; Avirāma means incessant."
+    },
+    {
+      "id": "f6f36c66",
+      "question": "72. एक नाविक धारा के अनुकूल 24 km की दूरी 3 घंटे में और धारा के प्रतिकूल समान दूरी 4 घंटे में तय करता है। शांत जल में नाव की चाल क्या है? / A boat goes 24 km downstream in 3 h and upstream in 4 h. Find boat speed in still water.",
+      "options": [
+        "(A) 8 km/h",
+        "(B) 6 km/h",
+        "(C) 7 km/h",
+        "(D) 1 km/h"
+      ],
+      "answer": 2,
+      "explanation": "अनुकूल चाल = 8 km/h, प्रतिकूल चाल = 6 km/h। शांत जल में चाल = (8 + 6)/2 = 7 km/h। / Still-water speed = (8 + 6)/2 = 7 km/h."
+    },
+    {
+      "id": "e1ea71c9",
+      "question": "73. एक प्रधानाध्यापक शिक्षकों के साथ मिलकर विद्यालय सुधार योजना बनाता है और निर्णय-निर्माण में उनकी सक्रिय भागीदारी सुनिश्चित करता है। यह किस नेतृत्व शैली का उदाहरण है? / A principal co-creates the school improvement plan with teachers, ensuring active participation in decisions. This exemplifies—",
+      "options": [
+        "(A) परिवर्तनकारी एवं सहभागी नेतृत्व / Transformational and participative leadership",
+        "(B) अहस्तक्षेपवादी नेतृत्व / Laissez-faire leadership",
+        "(C) निरंकुश नेतृत्व / Autocratic leadership",
+        "(D) नौकरशाही नियंत्रण मात्र / Purely bureaucratic control"
+      ],
+      "answer": 0,
+      "explanation": "परिवर्तनकारी एवं सहभागी नेतृत्व साझा दृष्टिकोण, व्यावसायिक स्वायत्तता और सामूहिक स्वामित्व को प्रेरित करता है। / Participative leadership builds shared vision and professional ownership."
+    },
+    {
+      "id": "bdf4021b",
+      "question": "74. अधिगम के हस्तांतरण (Transfer of Learning) में 'ऋणात्मक हस्तांतरण' कब होता है? / When does 'negative transfer of learning' occur?",
+      "options": [
+        "(A) जब पूर्व अर्जित ज्ञान या कौशल नए कार्य को सीखने में बाधा उत्पन्न करे / When previously learned knowledge or skill interferes with learning a new task",
+        "(B) जब एक विषय का ज्ञान दूसरे विषय को आसान बनाए / When knowledge in one subject facilitates another",
+        "(C) जब पूर्व अधिगम का नए अधिगम पर कोई प्रभाव न पड़े / When prior learning has zero effect on new learning",
+        "(D) जब छात्र स्व-मूल्यांकन करना बंद कर दे / When a student stops self-assessing"
+      ],
+      "answer": 0,
+      "explanation": "उदाहरणार्थ, दाईं ओर ड्राइविंग की आदत बाईं ओर ड्राइविंग सीखने में प्रारंभिक हस्तक्षेप करती है। / Prior habits interfering with new task acquisition exemplify negative transfer."
+    },
+    {
+      "id": "0aa73b25",
+      "question": "75. ‘अन्वेषण’ शब्द का सही संधि-विच्छेद क्या है? / What is the correct sandhi split of ‘अन्वेषण’?",
+      "options": [
+        "(A) अन्व + एषण / Anva + eṣaṇa",
+        "(B) अन् + वेषण / An + veṣaṇa",
+        "(C) अनु + ऐषण / Anu + aiṣaṇa",
+        "(D) अनु + एषण / Anu + eṣaṇa"
+      ],
+      "answer": 3,
+      "explanation": "यण स्वर संधि (उ + ए = वे): अनु + एषण = अन्वेषण। / U + E becomes Ve under Yana sandhi."
+    },
+    {
+      "id": "d76c34ae",
+      "question": "76. गार्डनर के बहु-बुद्धि सिद्धांत के अनुसार, वनस्पति विज्ञानियों, किसानों और पारिस्थितिकीविदों में कौन-सी बुद्धि प्रमुख होती है? / According to Gardner's Multiple Intelligences, which intelligence is prominent in botanists, farmers, and ecologists?",
+      "options": [
+        "(A) अंतराव्यक्तिगत बुद्धि / Intrapersonal intelligence",
+        "(B) प्रकृतिवादी बुद्धि / Naturalistic intelligence",
+        "(C) स्थानिक बुद्धि / Spatial intelligence",
+        "(D) तार्किक-गणितीय बुद्धि / Logical-mathematical intelligence"
+      ],
+      "answer": 1,
+      "explanation": "प्रकृतिवादी बुद्धि जीवों, वनस्पतियों और प्राकृतिक पर्यावरण के सूक्ष्म पैटर्न को पहचानने एवं वर्गीकृत करने की क्षमता है। / Naturalistic intelligence involves sensitivity to flora, fauna, and ecological patterns."
+    },
+    {
+      "id": "6d6040c8",
+      "question": "77. Choose the correct reported speech: The teacher said, 'Water boils at 100 degrees Celsius.'",
+      "options": [
+        "(A) The teacher said that water boiled at 100 degrees Celsius.",
+        "(B) The teacher said that water boils at 100 degrees Celsius.",
+        "(C) The teacher asked if water boiled at 100 degrees Celsius.",
+        "(D) The teacher told that water had boiled at 100 degrees Celsius."
+      ],
+      "answer": 1,
+      "explanation": "Universal truths and scientific facts do not undergo tense backshift in indirect speech. / सार्वभौमिक सत्य का काल (tense) अप्रत्यक्ष कथन में नहीं बदलता।"
+    },
+    {
+      "id": "336a0beb",
+      "question": "78. Choose the correctly punctuated sentence:",
+      "options": [
+        "(A) However the committee decided, to postpone the meeting.",
+        "(B) However; the committee decided to postpone, the meeting.",
+        "(C) However, the committee decided to postpone the meeting.",
+        "(D) However: the committee decided to postpone the meeting."
+      ],
+      "answer": 2,
+      "explanation": "A conjunctive adverb ('However') introducing an independent clause is followed by a comma. / वाक्य के आरंभ में प्रयुक्त However के बाद अल्पविराम लगता है।"
+    },
+    {
+      "id": "bd188e72",
+      "question": "79. ‘विश्व पर्यावरण दिवस’ प्रतिवर्ष 5 जून को किस ऐतिहासिक सम्मेलन की स्मृति में मनाया जाता है? / 'World Environment Day' is celebrated annually on June 5 to commemorate which landmark conference?",
+      "options": [
+        "(A) रियो पृथ्वी सम्मेलन (1992) / Rio Earth Summit (1992)",
+        "(B) पेरिस जलवायु सम्मेलन (2015) / Paris Climate Conference (2015)",
+        "(C) क्योटो प्रोटोकॉल (1997) / Kyoto Protocol (1997)",
+        "(D) स्टॉकहोम मानव पर्यावरण सम्मेलन (1972) / Stockholm Conference on the Human Environment (1972)"
+      ],
+      "answer": 3,
+      "explanation": "1972 के स्टॉकहोम सम्मेलन के उद्घाटन दिवस की स्मृति में संयुक्त राष्ट्र ने 5 जून को विश्व पर्यावरण दिवस घोषित किया। / June 5 marks the opening day of the 1972 UN Conference on the Human Environment in Stockholm."
+    },
+    {
+      "id": "eb9ec703",
+      "question": "80. भारतीय संविधान की किस अनुसूची में केंद्र और राज्यों के बीच विधायी शक्तियों का विभाजन (संघ, राज्य और समवर्ती सूची) वर्णित है? / Which Schedule of the Indian Constitution deals with the division of powers (Union, State, and Concurrent Lists)?",
+      "options": [
+        "(A) ग्यारहवीं अनुसूची / Eleventh Schedule",
+        "(B) दसवीं अनुसूची / Tenth Schedule",
+        "(C) सातवीं अनुसूची / Seventh Schedule",
+        "(D) आठवीं अनुसूची / Eighth Schedule"
+      ],
+      "answer": 2,
+      "explanation": "सातवीं अनुसूची (अनुच्छेद 246) के अंतर्गत तीन विधायी सूचियाँ प्रदान की गई हैं। / The Seventh Schedule specifies Union, State, and Concurrent legislative lists."
+    },
+    {
+      "id": "b1b0cdf4",
+      "question": "81. ‘वागीशः’ इत्यस्य पदस्य सन्धि-विच्छेदः कः अस्ति? / What is the sandhi split of ‘वागीशः’?",
+      "options": [
+        "(A) वाग् + ईशः / Vāg + īśaḥ",
+        "(B) वाक् + ईशः / Vāk + īśaḥ",
+        "(C) वागी + शः / Vāgī + śaḥ",
+        "(D) वाक + ईशः / Vāka + īśaḥ"
+      ],
+      "answer": 1,
+      "explanation": "जश्त्व सन्धिः (झलां जशोऽन्ते): पदान्त क् के बाद स्वर आने पर क् का ग् हो जाता है (वाक् + ईशः = वागीशः)। / K becomes G by Jaśtva sandhi."
+    },
+    {
+      "id": "e025788e",
+      "question": "82. ₹8,000 पर 10% वार्षिक दर से 1.5 वर्ष का चक्रवृद्धि ब्याज क्या होगा यदि ब्याज अर्धवार्षिक संयोजित हो? / Find CI on ₹8,000 at 10% p.a. for 1.5 years compounded half-yearly.",
+      "options": [
+        "(A) ₹1,200",
+        "(B) ₹1,261",
+        "(C) ₹1,240",
+        "(D) ₹1,320"
+      ],
+      "answer": 1,
+      "explanation": "अर्धवार्षिक दर = 5%, समय = 3 छमाही। मिश्रधन = 8000 × (21/20)³ = 9261; CI = 9261 − 8000 = ₹1,261। / Amount = 8000×(1.05)³ = ₹9,261; CI = ₹1,261."
+    },
+    {
+      "id": "95f6e622",
+      "question": "83. ‘पितृ’ शब्दस्य तृतीया-एकवचने किं रूपं भवति? / What is the instrumental singular form of ‘पितृ’?",
+      "options": [
+        "(A) पित्रे / Pitre",
+        "(B) पित्रा / Pitrā",
+        "(C) पितरि / Pitari",
+        "(D) पितुः / Pituḥ"
+      ],
+      "answer": 1,
+      "explanation": "ऋकारान्त पुल्लिंग ‘पितृ’ शब्द का तृतीया एकवचन रूप ‘पित्रा’ होता है। / Pitrā is instrumental singular."
+    },
+    {
+      "id": "d5f8d88f",
+      "question": "84. ‘जो कठिनाई से समझने योग्य हो’ — इस वाक्यांश के लिए एक शब्द है— / One word for ‘that which is difficult to comprehend’—",
+      "options": [
+        "(A) अगम्य / Agamya",
+        "(B) दुर्बोध / Durbodha",
+        "(C) दुर्गम / Durgama",
+        "(D) दुर्लभ / Durlabha"
+      ],
+      "answer": 1,
+      "explanation": "कठिनाई से समझ में आने वाला ‘दुर्बोध’ कहलाता है; जहाँ पहुँचना कठिन हो वह ‘दुर्गम’ है। / Durbodha means hard to understand."
+    },
+    {
+      "id": "83612bdf",
+      "question": "85. ‘DIKSHA’ डिजिटल प्लेटफॉर्म का मुख्य उद्देश्य क्या है? / What is the primary objective of the ‘DIKSHA’ digital platform?",
+      "options": [
+        "(A) स्कूल बसों की जीपीएस ट्रैकिंग करना / GPS tracking of school buses",
+        "(B) केवल विश्वविद्यालय अनुदान वितरित करना / Disbursing university research grants only",
+        "(C) शिक्षकों और विद्यार्थियों को बहुभाषी ई-सामग्री, क्यूआर-कोड पाठ्यपुस्तकें और प्रशिक्षण उपलब्ध कराना / Providing multilingual e-content, QR-coded textbooks, and teacher training",
+        "(D) केवल परीक्षा शुल्क एकत्र करना / Collecting examination fees only"
+      ],
+      "answer": 2,
+      "explanation": "DIKSHA (Digital Infrastructure for Knowledge Sharing) स्कूली शिक्षा हेतु राष्ट्रीय डिजिटल अवसंरचना है। / DIKSHA is India's national digital platform for school education and teacher development."
+    },
+    {
+      "id": "97cc5745",
+      "question": "86. भारत में संसदीय प्रणाली में मंत्रिपरिषद सामूहिक रूप से किसके प्रति उत्तरदायी होती है? / In India's parliamentary system, the Council of Ministers is collectively responsible to—",
+      "options": [
+        "(A) राज्यसभा / The Rajya Sabha",
+        "(B) लोकसभा / The Lok Sabha",
+        "(C) भारत के राष्ट्रपति / The President of India",
+        "(D) सर्वोच्च न्यायालय / The Supreme Court"
+      ],
+      "answer": 1,
+      "explanation": "अनुच्छेद 75(3) के अनुसार मंत्रिपरिषद सामूहिक रूप से लोकसभा के प्रति उत्तरदायी होती है। / Under Article 75(3), the Council of Ministers is collectively responsible to the Lok Sabha."
+    },
+    {
+      "id": "75faa382",
+      "question": "87. कक्षा में 'प्रतीक्षा समय' (Wait Time) 3 से 5 सेकंड बढ़ाने पर क्या प्रभाव देखा गया है? / Increasing teacher 'wait time' after asking a question to 3–5 seconds typically results in—",
+      "options": [
+        "(A) कक्षा में अनुशासनहीनता बढ़ जाती है / Classroom indiscipline increases sharply",
+        "(B) विद्यार्थियों के उत्तर अधिक विस्तृत, तार्किक और उच्च-स्तरीय होते हैं / Student responses become longer, more reasoned, and higher-order",
+        "(C) कम विद्यार्थी उत्तर देने का प्रयास करते हैं / Fewer students attempt to answer",
+        "(D) शिक्षक की विश्वसनीयता घटती है / Teacher credibility decreases"
+      ],
+      "answer": 1,
+      "explanation": "मेरी बड रो के शोध के अनुसार 3–5 सेकंड का प्रतीक्षा समय संज्ञानात्मक प्रसंस्करण और सहभागिता बढ़ाता है। / Mary Budd Rowe's research shows 3–5 seconds of wait time improves response depth and participation."
+    },
+    {
+      "id": "fdd76656",
+      "question": "88. ‘आँख का अंधा गाँठ का पूरा’ लोकोक्ति का सही अर्थ क्या है? / Meaning of the proverb ‘आँख का अंधा गाँठ का पूरा’—",
+      "options": [
+        "(A) दृष्टिहीन भिक्षुक / Blind beggar",
+        "(B) बुद्धिमान परंतु निर्धन / Wise yet poor",
+        "(C) मूर्ख किंतु धनवान व्यक्ति / Foolish yet wealthy person",
+        "(D) अत्यंत चालाक व्यापारी / Extremely clever merchant"
+      ],
+      "answer": 2,
+      "explanation": "इस लोकोक्ति का अर्थ है वह व्यक्ति जिसके पास धन तो भरपूर है किंतु विवेक या समझ का अभाव है। / It refers to someone who lacks wisdom despite possessing wealth."
+    },
+    {
+      "id": "b1a72be8",
+      "question": "89. किसी चतुर्भुज के कोण 3 : 5 : 9 : 13 के अनुपात में हैं। सबसे छोटे और सबसे बड़े कोण का योग क्या होगा? / Angles of a quadrilateral are in ratio 3:5:9:13. Find the sum of the smallest and largest angles.",
+      "options": [
+        "(A) 168°",
+        "(B) 180°",
+        "(C) 204°",
+        "(D) 192°"
+      ],
+      "answer": 3,
+      "explanation": "30x = 360° ⇒ x = 12°। योग = (3 + 13) × 12° = 16 × 12° = 192°। / 16 × 12° = 192°."
+    },
+    {
+      "id": "9961f2e4",
+      "question": "90. ‘क’ वर्णस्य उच्चारण-स्थानं किम् अस्ति? / What is the place of articulation of ‘क’ in Sanskrit?",
+      "options": [
+        "(A) तालु / Palatal (Tālu)",
+        "(B) कण्ठः / Velar (Kaṇṭha)",
+        "(C) मूर्धा / Retroflex (Mūrdhā)",
+        "(D) दन्ताः / Dental (Dantāḥ)"
+      ],
+      "answer": 1,
+      "explanation": "‘अकुहविसर्जनीयानां कण्ठः’ सूत्र के अनुसार कवर्ग का उच्चारण स्थान कण्ठ है। / Velar stops originate at kaṇṭha."
+    },
+    {
+      "id": "edb0594a",
+      "question": "91. भारतीय संविधान का कौन-सा अनुच्छेद ग्राम पंचायतों के संगठन के लिए राज्य को निर्देश देता है? / Which Article of the Indian Constitution directs the State to organize Village Panchayats?",
+      "options": [
+        "(A) अनुच्छेद 40 / Article 40",
+        "(B) अनुच्छेद 48A / Article 48A",
+        "(C) अनुच्छेद 44 / Article 44",
+        "(D) अनुच्छेद 50 / Article 50"
+      ],
+      "answer": 0,
+      "explanation": "राज्य के नीति निदेशक तत्वों के अंतर्गत अनुच्छेद 40 ग्राम पंचायतों के गठन से संबंधित है। / Article 40 under DPSP directs the organization of village panchayats."
+    },
+    {
+      "id": "cfbd3b0a",
+      "question": "92. यदि कोई विद्यार्थी विद्यालय में बार-बार आक्रामक व्यवहार प्रदर्शित करता है, तो शिक्षक का प्रथम व्यावसायिक कदम क्या होना चाहिए? / If a student repeatedly displays aggressive behaviour at school, what should be the teacher's first professional step?",
+      "options": [
+        "(A) व्यवहार के पूर्ववर्ती कारणों (triggers) का अवलोकन कर परामर्श एवं अभिभावक संवाद करना / Observe behavioural triggers, offer supportive counselling, and engage parents",
+        "(B) पूरी कक्षा के सामने अपमानित करना / Humiliate the child in front of the class",
+        "(C) तत्काल शारीरिक दंड देना / Administer immediate corporal punishment",
+        "(D) बिना जांच विद्यालय से निष्कासित करना / Expel the student without inquiry"
+      ],
+      "answer": 0,
+      "explanation": "व्यवहार के अंतर्निहित भावनात्मक या पर्यावरणीय कारणों को समझना रचनात्मक सुधार की आधारशिला है। / Understanding underlying triggers enables constructive behavioural intervention."
+    },
+    {
+      "id": "4972a7bf",
+      "question": "93. ‘हिमालय से गंगा निकलती है।’ — इस वाक्य में ‘हिमालय से’ में कौन-सा कारक है? / Which case (Kāraka) is in ‘हिमालय से’?",
+      "options": [
+        "(A) करण कारक / Instrumental (Karaṇa)",
+        "(B) संबंध कारक / Genitive (Sambandha)",
+        "(C) अपादान कारक / Ablative (Apādāna)",
+        "(D) अधिकरण कारक / Locative (Adhikaraṇa)"
+      ],
+      "answer": 2,
+      "explanation": "उद्गम या पृथक् होने के भाव में अपादान कारक (‘से’ अलग होने के अर्थ में) प्रयुक्त होता है। / Source of separation takes the ablative case."
+    },
+    {
+      "id": "9bfb2aae",
+      "question": "94. समावेशी कक्षा में 'सार्वभौमिक अधिगम अभिकल्प' (UDL - Universal Design for Learning) किस पर बल देता है? / In an inclusive classroom, Universal Design for Learning (UDL) emphasizes—",
+      "options": [
+        "(A) विशेष आवश्यकता वाले बच्चों को अलग कक्ष में पढ़ाना / Teaching children with special needs in separate rooms",
+        "(B) केवल श्रव्य व्याख्यानों पर निर्भर रहना / Relying solely on auditory lectures",
+        "(C) प्रस्तुति, अभिव्यक्ति और सहभागिता के बहुविध लचीले माध्यम प्रदान करना / Providing multiple flexible means of representation, expression, and engagement",
+        "(D) सभी विद्यार्थियों के लिए एकसमान कठोर पाठ्यपुस्तक और परीक्षा / A single rigid textbook and exam for all learners"
+      ],
+      "answer": 2,
+      "explanation": "UDL पाठ्यक्रम निर्माण के प्रारंभ से ही विविध शिक्षार्थियों की आवश्यकताओं के अनुरूप बहु-संवेदी विकल्प उपलब्ध कराता है। / UDL builds flexible pathways for representation, action/expression, and engagement from the outset."
+    },
+    {
+      "id": "aad4f1b0",
+      "question": "95. Choose the grammatically correct sentence using inversion:",
+      "options": [
+        "(A) Seldom I witnessed have such remarkable dedication.",
+        "(B) Seldom did I witnessed such remarkable dedication.",
+        "(C) Seldom have I witnessed such remarkable dedication.",
+        "(D) Seldom I have witnessed such remarkable dedication."
+      ],
+      "answer": 2,
+      "explanation": "Negative adverbs like 'seldom', 'never', or 'rarely' at the start of a clause trigger subject-auxiliary inversion. / वाक्य के प्रारंभ में seldom आने पर auxiliary verb कर्ता से पहले आती है।"
+    },
+    {
+      "id": "9b5bda28",
+      "question": "96. Fill in the blank with the correct preposition: 'The judge acquitted the accused _____ all charges.'",
+      "options": [
+        "(A) of",
+        "(B) from",
+        "(C) with",
+        "(D) for"
+      ],
+      "answer": 0,
+      "explanation": "The verb 'acquit' is followed by the fixed preposition 'of' (acquit someone of a charge). / Acquit के साथ सदैव of का प्रयोग होता है।"
+    },
+    {
+      "id": "9a93c836",
+      "question": "97. निम्नलिखित में से कौन-सा ऊष्माशोषी (Endothermic) प्रक्रम का उदाहरण है? / Which of the following is an example of an endothermic process?",
+      "options": [
+        "(A) बर्फ का पिघलना और प्रकाश-संश्लेषण / Melting of ice and photosynthesis",
+        "(B) कोयले का दहन / Combustion of coal",
+        "(C) अम्ल और क्षार का उदासीनीकरण / Neutralisation of strong acid and base",
+        "(D) कोशिकीय श्वसन / Cellular respiration"
+      ],
+      "answer": 0,
+      "explanation": "ऊष्माशोषी प्रक्रम परिवेश से ऊष्मा या ऊर्जा अवशोषित करते हैं। / Endothermic processes absorb heat or light energy from surroundings."
+    },
+    {
+      "id": "8f81f061",
+      "question": "98. अम्ल वर्षा (Acid Rain) मुख्यतः वायुमंडल में किन गैसों के उत्सर्जन के कारण होती है? / Acid rain is primarily caused by atmospheric emissions of which gases?",
+      "options": [
+        "(A) मीथेन (CH₄) और अमोनिया (NH₃) / Methane and ammonia",
+        "(B) हीलियम और आर्गन / Helium and argon",
+        "(C) सल्फर डाइऑक्साइड (SO₂) और नाइट्रोजन ऑक्साइड (NOₓ) / Sulphur dioxide and nitrogen oxides",
+        "(D) कार्बन मोनोऑक्साइड और ओज़ोन / Carbon monoxide and ozone"
+      ],
+      "answer": 2,
+      "explanation": "SO₂ और NOₓ वायुमंडलीय जलवाष्प से अभिक्रिया कर सल्फ्यूरिक और नाइट्रिक अम्ल बनाते हैं। / SO₂ and NOₓ react with water vapour to form sulphuric and nitric acids."
+    },
+    {
+      "id": "cc4b0305",
+      "question": "99. गेस्टाल्ट मनोविज्ञान के 'समीपता नियम' (Law of Proximity) का कक्षा शिक्षण में क्या निहितार्थ है? / What is the classroom implication of the Gestalt 'Law of Proximity'?",
+      "options": [
+        "(A) प्रत्येक शब्द को अलग-अलग पृष्ठ पर लिखना चाहिए / Every word should be written on a separate page",
+        "(B) संबंधित अवधारणाओं और आरेखों को एक साथ पास-पास प्रस्तुत करने से समग्र समझ बढ़ती है / Presenting related concepts and diagrams close together enhances holistic comprehension",
+        "(C) शिक्षण हमेशा भागों से पूर्ण की ओर होना चाहिए / Teaching must always move from isolated parts to whole",
+        "(D) दंड और पुरस्कार में लंबा अंतराल होना चाहिए / There should be a long delay between stimulus and response"
+      ],
+      "answer": 1,
+      "explanation": "निकट स्थित तत्वों को मस्तिष्क एक सार्थक समूह के रूप में संगठित कर आसानी से ग्रहण करता है। / Elements placed close together are perceptually grouped as a coherent unit."
+    },
+    {
+      "id": "08c324e5",
+      "question": "100. आवर्त सारणी के किस समूह के तत्वों को 'हैलोजन' कहा जाता है और वे अत्यधिक विद्युत ऋणात्मक होते हैं? / Elements of which group in the periodic table are called 'halogens' and are highly electronegative?",
+      "options": [
+        "(A) समूह 18 / Group 18",
+        "(B) समूह 2 / Group 2",
+        "(C) समूह 1 / Group 1",
+        "(D) समूह 17 / Group 17"
+      ],
+      "answer": 3,
+      "explanation": "फ्लोरीन, क्लोरीन, ब्रोमीन और आयोडीन समूह 17 के हैलोजन तत्व हैं। / Group 17 elements (F, Cl, Br, I) are halogens."
+    },
+    {
+      "id": "13b0b7f5",
+      "question": "101. भारत में 'धन विधेयक' (Money Bill) के संबंध में अंतिम निर्णय कौन करता है कि कोई विधेयक धन विधेयक है या नहीं? / Who decides finally whether a Bill in Parliament is a Money Bill or not?",
+      "options": [
+        "(A) भारत के राष्ट्रपति / President of India",
+        "(B) लोकसभा अध्यक्ष / Speaker of the Lok Sabha",
+        "(C) वित्त मंत्री / Finance Minister",
+        "(D) राज्यसभा के सभापति / Chairman of the Rajya Sabha"
+      ],
+      "answer": 1,
+      "explanation": "अनुच्छेद 110(3) के अनुसार लोकसभा अध्यक्ष का प्रमाणन अंतिम और बाध्यकारी होता है। / Under Article 110(3), the Lok Sabha Speaker's decision is final."
+    },
+    {
+      "id": "afbbb470",
+      "question": "102. ‘रस’ सिद्धांत के प्रवर्तक आचार्य कौन माने जाते हैं? / Who is regarded as the propounder of the ‘Rasa’ theory in Indian poetics?",
+      "options": [
+        "(A) आचार्य कुन्तक / Kuntaka",
+        "(B) आचार्य क्षेमेन्द्र / Kṣemendra",
+        "(C) आचार्य वामन / Vāmana",
+        "(D) आचार्य भरतमुनि / Bharata Muni"
+      ],
+      "answer": 3,
+      "explanation": "भरतमुनि ने अपने ‘नाट्यशास्त्र’ में ‘विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः’ सूत्र द्वारा रस सिद्धांत प्रतिपादित किया। / Bharata Muni formulated the Rasa theory in the Nāṭyaśāstra."
+    },
+    {
+      "id": "d2364100",
+      "question": "103. हिंदी में ‘उत्क्षिप्त व्यंजन’ (द्विगुण व्यंजन) कौन-से हैं? / Which consonants are classified as ‘उत्क्षिप्त’ (retroflex flaps) in Hindi?",
+      "options": [
+        "(A) क्ष, त्र / kṣa, tra",
+        "(B) य, व / ya, va",
+        "(C) ड़, ढ़ / ṛa, ṛha",
+        "(D) श, ष / śa, ṣa"
+      ],
+      "answer": 2,
+      "explanation": "‘ड़’ और ‘ढ़’ के उच्चारण में जीभ झटके से ऊपर उठकर नीचे गिरती है, अतः इन्हें उत्क्षिप्त व्यंजन कहते हैं। / ṛa and ṛha are retroflex flaps."
+    },
+    {
+      "id": "e21a6153",
+      "question": "104. प्रभावी पाठ समापन (Closure) का मुख्य उद्देश्य क्या है? / What is the primary purpose of effective lesson 'closure'?",
+      "options": [
+        "(A) नया कठिन अध्याय प्रारंभ कर देना / Introducing a completely new complex chapter",
+        "(B) केवल अगले दिन की उपस्थिति लेना / Taking attendance for the next day",
+        "(C) मुख्य अवधारणाओं को संश्लेषित कर पूर्व ज्ञान से जोड़ना और समझ की जाँच करना / Consolidating key concepts, linking to prior knowledge, and checking comprehension",
+        "(D) अचानक घंटी बजते ही कक्षा छोड़ देना / Leaving the class abruptly when the bell rings"
+      ],
+      "answer": 2,
+      "explanation": "पाठ समापन विद्यार्थियों को सीखे गए बिंदुओं को व्यवस्थित करने और स्मृति में सुदृढ़ करने में मदद करता है। / Closure helps learners organize and consolidate newly acquired concepts."
+    },
+    {
+      "id": "f1f89e3b",
+      "question": "105. जब कोई प्रकाश किरण सघन माध्यम (काँच) से विरल माध्यम (वायु) में जाती है और आपतन कोण क्रांतिक कोण से अधिक होता है, तो क्या होता है? / When light travels from glass to air at an incidence angle greater than the critical angle, what occurs?",
+      "options": [
+        "(A) वर्ण विक्षेपण / Dispersion",
+        "(B) पूर्ण आंतरिक परावर्तन / Total internal reflection",
+        "(C) ध्रुवण / Polarisation",
+        "(D) विवर्तन / Diffraction"
+      ],
+      "answer": 1,
+      "explanation": "क्रांतिक कोण से अधिक आपतन कोण पर प्रकाश किरण विरल माध्यम में अपवर्तित न होकर उसी सघन माध्यम में परावर्तित हो जाती है। / Total internal reflection occurs when angle of incidence exceeds the critical angle in a denser medium."
+    },
+    {
+      "id": "2fc62383",
+      "question": "106. Identify the figure of speech in: 'The silence was deafening.'",
+      "options": [
+        "(A) Onomatopoeia / ध्वन्यर्थव्यंजना",
+        "(B) Oxymoron / विरोधाभास",
+        "(C) Apostrophe / संबोधन",
+        "(D) Simile / उपमा"
+      ],
+      "answer": 1,
+      "explanation": "Juxtaposing two contradictory terms ('silence' and 'deafening') creates an oxymoron. / दो परस्पर विरोधी शब्दों का एक साथ प्रयोग oxymoron है।"
+    },
+    {
+      "id": "241ae5e1",
+      "question": "107. स्प्रेडशीट (MS Excel) में किसी सेल रेंज A1 से A10 तक का औसत निकालने का सही सूत्र क्या है? / In MS Excel, what is the correct formula to compute the average of cells A1 through A10?",
+      "options": [
+        "(A) =SUM(A1:A10)/10%",
+        "(B) =MEAN(A1-A10)",
+        "(C) =AVG(A1:A10)",
+        "(D) =AVERAGE(A1:A10)"
+      ],
+      "answer": 3,
+      "explanation": "एक्सेल में मानक फ़ंक्शन =AVERAGE(A1:A10) प्रयुक्त होता है। / =AVERAGE(A1:A10) is the standard Excel syntax."
+    },
+    {
+      "id": "bb3fa956",
+      "question": "108. विद्यालय में 'चिंतनशील शिक्षण अभ्यास' (Reflective Teaching Practice) का मुख्य लाभ क्या है? / What is the core benefit of 'Reflective Teaching Practice' in schools?",
+      "options": [
+        "(A) शिक्षण शैली वर्षों तक अपरिवर्तित रहती है / Teaching style remains static over decades",
+        "(B) विद्यार्थियों के फीडबैक की अनदेखी की जाती है / Student feedback is disregarded",
+        "(C) शिक्षक केवल पाठ्यपुस्तक के निर्देशों का यांत्रिक पालन करते हैं / Teachers mechanically follow textbook scripts",
+        "(D) शिक्षक अपने शिक्षण अनुभवों का आलोचनात्मक विश्लेषण कर रणनीतियों में निरंतर सुधार करते हैं / Teachers critically examine their own classroom practices to continuously refine pedagogy"
+      ],
+      "answer": 3,
+      "explanation": "चिंतनशील अभ्यास शिक्षक को 'क्या कारगर रहा और क्यों' का मूल्यांकन कर व्यावसायिक उन्नयन में सक्षम बनाता है। / Reflective practice drives evidence-informed instructional improvement."
+    },
+    {
+      "id": "fb9a030a",
+      "question": "109. रचनात्मक कक्षा में त्रुटियों को किस रूप में देखा जाना चाहिए? / How should errors be viewed in a constructivist classroom?",
+      "options": [
+        "(A) विद्यार्थियों की चिंतन प्रक्रिया को समझने की खिड़की और अधिगम का स्वाभाविक हिस्सा / A window into learners' thinking processes and a natural part of learning",
+        "(B) तुरंत अनदेखा करने योग्य घटना / Events to be ignored immediately",
+        "(C) असफलता और कम बुद्धि का प्रमाण / Proof of failure and low intelligence",
+        "(D) दंडनीय अनुशासनहीनता / Punishable indiscipline"
+      ],
+      "answer": 0,
+      "explanation": "त्रुटियाँ यह दर्शाती हैं कि शिक्षार्थी अवधारणाओं का निर्माण कैसे कर रहा है, जिससे लक्षित मार्गदर्शन संभव होता है। / Errors reveal how learners construct mental models and guide instructional scaffolding."
+    },
+    {
+      "id": "7d3708ab",
+      "question": "110. दिए गए विकल्पों में से असंगत (विषम) शब्द युग्म चुनिए— / Choose the odd pair out from the alternatives—",
+      "options": [
+        "(A) थर्मामीटर : दाब / Thermometer : Pressure",
+        "(B) हाइग्रोमीटर : आर्द्रता / Hygrometer : Humidity",
+        "(C) बैरोमीटर : वायुदाब / Barometer : Atmospheric pressure",
+        "(D) एमीटर : विद्युत धारा / Ammeter : Electric current"
+      ],
+      "answer": 0,
+      "explanation": "थर्मामीटर तापमान मापता है, दाब नहीं; शेष सभी यंत्र-मापन युग्म सुमेलित हैं। / A thermometer measures temperature, not pressure."
+    },
+    {
+      "id": "58d1117c",
+      "question": "111. पौधों में जाइलम (Xylem) ऊतक का मुख्य कार्य क्या है? / What is the primary function of xylem tissue in vascular plants?",
+      "options": [
+        "(A) जड़ों से पत्तियों तक जल और घुले खनिज लवणों का ऊपर की ओर परिवहन / Upward transport of water and dissolved minerals from roots to leaves",
+        "(B) गैसों का विनिमय करना / Exchanging atmospheric gases",
+        "(C) प्रकाश-संश्लेषण करना / Performing photosynthesis",
+        "(D) पत्तियों में बने भोजन का द्विदिशीय परिवहन / Bidirectional transport of synthesised food"
+      ],
+      "answer": 0,
+      "explanation": "जाइलम एकदिशीय रूप से जल व खनिज पहुँचाता है, जबकि फ्लोएम भोजन का परिवहन करता है। / Xylem conducts water and minerals upward; phloem transports sugars."
+    },
+    {
+      "id": "5059b662",
+      "question": "112. ‘दा’ धातोः लोट्-लकारस्य मध्यमपुरुष-एकवचने किं रूपं भवति? / Imperative (Loṭ) 2nd person singular of ‘दा’?",
+      "options": [
+        "(A) देहि / Dehi",
+        "(B) ददातु / Dadātu",
+        "(C) अददात् / Adadāt",
+        "(D) ददाति / Dadāti"
+      ],
+      "answer": 0,
+      "explanation": "‘दा’ धातु लोट् लकार मध्यम पुरुष एकवचन में ‘देहि’ (दो) रूप बनता है। / Dehi is the imperative 2nd person singular."
+    },
+    {
+      "id": "d4f35352",
+      "question": "113. कथन: सभी शिक्षक शोधकर्ता हैं। कोई शोधकर्ता आलसी नहीं है। निष्कर्ष: कोई शिक्षक आलसी नहीं है। / Statements: All teachers are researchers. No researcher is lazy. Conclusion: No teacher is lazy.",
+      "options": [
+        "(A) आँकड़े अपर्याप्त हैं / Data inadequate",
+        "(B) निष्कर्ष अनुसरण नहीं करता / Conclusion does not follow",
+        "(C) निष्कर्ष निश्चित रूप से अनुसरण करता है / Conclusion definitely follows",
+        "(D) केवल आंशिक रूप से सत्य / Only partially true"
+      ],
+      "answer": 2,
+      "explanation": "चूँकि सभी शिक्षक शोधकर्ता वर्ग के भीतर आते हैं और कोई भी शोधकर्ता आलसी नहीं है, अतः कोई शिक्षक आलसी नहीं हो सकता। / Universal affirmative + universal negative yields universal negative conclusion."
+    },
+    {
+      "id": "cee60314",
+      "question": "114. Select the word closest in meaning to 'EPHEMERAL':",
+      "options": [
+        "(A) Enduring / चिरस्थायी",
+        "(B) Perpetual / शाश्वत",
+        "(C) Transitory / क्षणभंगुर",
+        "(D) Immutable / अपरिवर्तनीय"
+      ],
+      "answer": 2,
+      "explanation": "'Ephemeral' means lasting for a very short time; transitory. / Ephemeral का अर्थ अल्पकालिक या क्षणिक होता है।"
+    },
+    {
+      "id": "7a36ef54",
+      "question": "115. अवतल दर्पण में जब वस्तु वक्रता केंद्र (C) पर रखी जाती है, तो प्रतिबिंब की प्रकृति और आकार कैसा होता है? / When an object is placed at the centre of curvature (C) of a concave mirror, the image is—",
+      "options": [
+        "(A) वास्तविक, उल्टा और अत्यधिक छोटा / Real, inverted, and highly diminished",
+        "(B) आभासी और समान आकार का / Virtual and same size",
+        "(C) वास्तविक, उल्टा और वस्तु के समान आकार का / Real, inverted, and of the same size",
+        "(D) आभासी, सीधा और आवर्धित / Virtual, erect, and magnified"
+      ],
+      "answer": 2,
+      "explanation": "वक्रता केंद्र C पर रखी वस्तु का प्रतिबिंब C पर ही वास्तविक, उल्टा और समान आकार का बनता है। / An object at C forms a real, inverted, same-sized image at C."
+    },
+    {
+      "id": "fab99de1",
+      "question": "116. वाइगोत्स्की के अनुसार 'निजी वाक्' (Private Speech) का मुख्य संज्ञानात्मक कार्य क्या है? / According to Vygotsky, what is the primary cognitive function of 'private speech'?",
+      "options": [
+        "(A) अहंकेंद्रवाद और सामाजिक अपरिपक्वता का संकेत / Indication of egocentrism and social immaturity",
+        "(B) दूसरों का ध्यान आकर्षित करना / Attracting others' attention",
+        "(C) स्व-नियमन और समस्या-समाधान में व्यवहार का मार्गदर्शन / Self-regulation and guiding behaviour during problem-solving",
+        "(D) केवल शब्दावली का यांत्रिक अभ्यास / Mechanical rehearsal of vocabulary only"
+      ],
+      "answer": 2,
+      "explanation": "वाइगोत्स्की ने निजी वाक् को आत्म-निर्देशन और विचारों के नियमन का महत्वपूर्ण उपकरण माना है। / Vygotsky viewed private speech as an essential tool for self-guidance and cognitive self-regulation."
+    },
+    {
+      "id": "7dbd9ad0",
+      "question": "117. एक विद्यार्थी परीक्षा में असफल होने पर कहता है, 'प्रश्नपत्र ही अनुचित बनाया गया था।' एट्रिब्यूशन सिद्धांत (Attribution Theory) के अनुसार यह किस प्रकार का आरोपण है? / After failing an exam, a student says, 'The question paper was unfairly constructed.' According to Attribution Theory, this is—",
+      "options": [
+        "(A) आंतरिक एवं नियंत्रणीय आरोपण / Internal and controllable attribution",
+        "(B) मेटाकॉग्निटिव स्व-नियमन / Metacognitive self-regulation",
+        "(C) बाह्य, अस्थिर एवं अनियंत्रित आरोपण / External, unstable, and uncontrollable attribution",
+        "(D) आंतरिक एवं स्थिर योग्यता आरोपण / Internal and stable ability attribution"
+      ],
+      "answer": 2,
+      "explanation": "असफलता का कारण बाहरी कारक (प्रश्नपत्र) पर डालना आत्म-सम्मान रक्षा हेतु बाह्य आरोपण कहलाता है। / Blaming test design reflects an external, uncontrollable attribution."
+    },
+    {
+      "id": "8a1e3b9f",
+      "question": "118. A और B मिलकर किसी कार्य को 12 दिन में, B और C 15 दिन में, तथा C और A 20 दिन में पूरा करते हैं। अकेला A उस कार्य को कितने दिन में करेगा? / A+B finish work in 12 days, B+C in 15 days, C+A in 20 days. In how many days can A alone finish it?",
+      "options": [
+        "(A) 24 दिन / 24 days",
+        "(B) 30 दिन / 30 days",
+        "(C) 20 दिन / 20 days",
+        "(D) 40 दिन / 40 days"
+      ],
+      "answer": 1,
+      "explanation": "कुल कार्य = 60 इकाई। 2(A+B+C) की क्षमता = 5+4+3 = 12 ⇒ A+B+C = 6। A की क्षमता = 6 − 4 = 2 इकाई/दिन ⇒ 60/2 = 30 दिन। / A's daily rate is 2 units; 60/2 = 30 days."
+    },
+    {
+      "id": "e0cbda34",
+      "question": "119. राष्ट्रीय शिक्षा नीति 2020 के अनुसार बुनियादी स्तर पर 'मातृभाषा / स्थानीय भाषा' में शिक्षण को प्राथमिकता देने का प्रमुख मनोवैज्ञानिक आधार क्या है? / According to NEP 2020, what is the key psychological rationale for prioritising mother tongue/local language at the foundational stage?",
+      "options": [
+        "(A) अन्य भाषाएँ सीखना असंभव हो जाता है / Learning additional languages becomes impossible",
+        "(B) पाठ्यपुस्तकों की छपाई सस्ती होती है / Printing textbooks becomes cheaper",
+        "(C) शिक्षकों को प्रशिक्षण की आवश्यकता नहीं रहती / Teachers require no training",
+        "(D) बच्चे परिचित भाषा में अवधारणाओं को अधिक तीव्रता, गहराई और आत्मविश्वास के साथ समझते हैं / Children grasp concepts more rapidly, deeply, and confidently in a familiar home language"
+      ],
+      "answer": 3,
+      "explanation": "संज्ञानात्मक शोध स्पष्ट करता है कि मातृभाषा में मजबूत आधार द्वितीय भाषा अधिगम और वैचारिक समझ को सुदृढ़ करता है। / Cognitive research confirms that strong first-language foundations accelerate conceptual mastery and multilingual transfer."
+    },
+    {
+      "id": "0016fa58",
+      "question": "120. एरिक एरिकसन के अनुसार किशोरावस्था (12–18 वर्ष) में 'पहचान बनाम भूमिका भ्रम' संकट के सफल समाधान से कौन-सा सद्गुण (Virtue) विकसित होता है? / According to Erik Erikson, successful resolution of 'Identity vs. Role Confusion' in adolescence yields which virtue?",
+      "options": [
+        "(A) उद्देश्य / Purpose",
+        "(B) निष्ठा / Fidelity",
+        "(C) बुद्धिमत्ता / Wisdom",
+        "(D) आशा / Hope"
+      ],
+      "answer": 1,
+      "explanation": "एरिकसन के सिद्धांत में पहचान निर्माण के सफल समाधान से 'निष्ठा' (Fidelity) का विकास होता है। / Fidelity—the ability to sustain loyalties freely pledged—emerges from resolving the identity crisis."
+    }
+  ]
+}

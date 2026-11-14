@@ -1,0 +1,2405 @@
+{
+  "subject": "Math1",
+  "questions": [
+    {
+      "id": "825ec209",
+      "question": "Find the unit digit of $(17)^{1999} + (11)^{1999} - (7)^{1999}$.\n$(17)^{1999} + (11)^{1999} - (7)^{1999}$ का इकाई अंक ज्ञात कीजिए।",
+      "options": [
+        "7",
+        "3",
+        "9",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "EN: Unit digit of $17^{1999}$ is same as $7^{1999}$. Since $1999 \\equiv 3 \\pmod 4$, unit digit of $7^3$ is 3. Unit digit of $11^{1999}$ is 1. Thus, $3 + 1 - 3 = 1$.\nHI: $17^{1999}$ का इकाई अंक $7^{1999}$ के समान है। चूँकि $1999 \\equiv 3 \\pmod 4$, $7^3$ का इकाई अंक 3 है। $11^{1999}$ का इकाई अंक 1 है। अतः $3 + 1 - 3 = 1$।"
+    },
+    {
+      "id": "73017bce",
+      "question": "How many prime numbers are there between 1 and 100 that leave a remainder of 1 when divided by 4?\n1 से 100 के बीच ऐसी कितनी अभाज्य संख्याएँ हैं जिन्हें 4 से विभाजित करने पर शेषफल 1 प्राप्त होता है?",
+      "options": [
+        "10",
+        "13",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "EN: Primes of the form $4k+1$ under 100 are: 5, 13, 17, 29, 37, 41, 53, 61, 73, 89, 97. Total = 11.\nHI: 100 से कम $4k+1$ रूप की अभाज्य संख्याएँ हैं: 5, 13, 17, 29, 37, 41, 53, 61, 73, 89, 97। कुल = 11।"
+    },
+    {
+      "id": "7345b7f5",
+      "question": "Find the number of trailing zeros in $125! + 130!$.\n$125! + 130!$ के अंत में शून्यों की संख्या ज्ञात कीजिए।",
+      "options": [
+        "32",
+        "30",
+        "63",
+        "31"
+      ],
+      "answer": 3,
+      "explanation": "EN: Trailing zeros in $125! = \\lfloor 125/5 \rfloor + \\lfloor 125/25 \rfloor + \\lfloor 125/125 \rfloor = 25 + 5 + 1 = 31$. In $130! = 26 + 5 + 1 = 32$. For addition, minimum trailing zeros govern the result, which is 31.\nHI: $125!$ में शून्यों की संख्या = $25 + 5 + 1 = 31$ और $130!$ में = 32। योग में न्यूनतम शून्य ही अंतिम शून्य होते हैं, अतः उत्तर 31 है।"
+    },
+    {
+      "id": "408f8db4",
+      "question": "What is the remainder when $2^{31}$ is divided by 5?\nजब $2^{31}$ को 5 से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "EN: $2^2 = 4 \\equiv -1 \\pmod 5$. So $2^{31} = (2^2)^{15} \\cdot 2 \\equiv (-1)^{15} \\cdot 2 = -2 \\equiv 3 \\pmod 5$.\nHI: $2^2 = 4 \\equiv -1 \\pmod 5$। अतः $2^{31} = (2^2)^{15} \\cdot 2 \\equiv (-1)^{15} \\cdot 2 = -2 \\equiv 3 \\pmod 5$।"
+    },
+    {
+      "id": "e176e5c3",
+      "question": "If the sum of three consecutive odd prime numbers is 83, what is the product of the smallest and largest of them?\nयदि तीन क्रमागत विषम अभाज्य संख्याओं का योग 83 है, तो उनमें से सबसे छोटी और सबसे बड़ी संख्या का गुणनफल क्या है?",
+      "options": [
+        "667",
+        "899",
+        "551",
+        "713"
+      ],
+      "answer": 3,
+      "explanation": "EN: The three consecutive odd primes summing to 83 are 23, 29, and 31 ($23+29+31=83$). Product = $23 \times 31 = 713$.\nHI: 83 योग वाली तीन क्रमागत विषम अभाज्य संख्याएँ 23, 29 और 31 हैं। गुणनफल = $23 \times 31 = 713$।"
+    },
+    {
+      "id": "8ea5cbd7",
+      "question": "Find the total number of factors of 3600 that are multiples of 12.\n3600 के ऐसे कुल कितने गुणनखंड हैं जो 12 के गुणज हैं?",
+      "options": [
+        "18",
+        "30",
+        "24",
+        "36"
+      ],
+      "answer": 0,
+      "explanation": "EN: $3600 / 12 = 300 = 2^2 \times 3^1 \times 5^2$. Number of factors of 300 = $(2+1)(1+1)(2+1) = 3 \times 2 \times 3 = 18$.\nHI: $3600 / 12 = 300 = 2^2 \times 3^1 \times 5^2$। 300 के गुणनखंडों की संख्या = $(2+1)(1+1)(2+1) = 3 \times 2 \times 3 = 18$।"
+    },
+    {
+      "id": "9dd818b3",
+      "question": "What is the sum of all two-digit numbers which when divided by 7 leave a remainder of 3?\nउन सभी दो अंकों की संख्याओं का योग क्या है जिन्हें 7 से विभाजित करने पर शेषफल 3 बचता है?",
+      "options": [
+        "689",
+        "702",
+        "676",
+        "663"
+      ],
+      "answer": 2,
+      "explanation": "EN: Numbers are $10, 17, 24, \\dots, 94$. Here $a=10, d=7, l=94$. $n = (94-10)/7 + 1 = 13$. Sum = $13/2 \times (10 + 94) = 13 \times 52 = 676$.\nHI: संख्याएँ $10, 17, 24, \\dots, 94$ हैं। यहाँ $a=10, d=7, l=94, n=13$। योग = $13/2 \times (10 + 94) = 676$।"
+    },
+    {
+      "id": "31f573de",
+      "question": "If $N = 4^{11} + 4^{12} + 4^{13} + 4^{14}$, then how many positive factors does $N$ have?\nयदि $N = 4^{11} + 4^{12} + 4^{13} + 4^{14}$ है, तो $N$ के कुल कितने धनात्मक गुणनखंड हैं?",
+      "options": [
+        "92",
+        "69",
+        "46",
+        "23"
+      ],
+      "answer": 0,
+      "explanation": "EN: $N = 4^{11}(1 + 4 + 16 + 64) = 2^{22} \times 85 = 2^{22} \times 5^1 \times 17^1$. Total factors = $(22+1)(1+1)(1+1) = 23 \times 2 \times 2 = 92$.\nHI: $N = 4^{11}(1 + 4 + 16 + 64) = 2^{22} \times 85 = 2^{22} \times 5^1 \times 17^1$। कुल गुणनखंड = $(22+1)(1+1)(1+1) = 92$।"
+    },
+    {
+      "id": "2d358673",
+      "question": "Find the remainder when $(1! + 2! + 3! + \\dots + 100!)$ is divided by 12.\nजब $(1! + 2! + 3! + \\dots + 100!)$ को 12 से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+      "options": [
+        "7",
+        "1",
+        "9",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "EN: For $n \\ge 4$, $n!$ is divisible by 12. So we only need remainder of $(1! + 2! + 3!) / 12 = (1 + 2 + 6) / 12 = 9 / 12$, remainder is 9.\nHI: $n \\ge 4$ के लिए $n!$, 12 से पूर्णतः विभाज्य है। अतः $(1! + 2! + 3!) = 1 + 2 + 6 = 9$ को 12 से भाग देने पर शेषफल 9 होगा।"
+    },
+    {
+      "id": "e9ca35f3",
+      "question": "How many digits are required to number the pages of a book containing 350 pages?\n350 पृष्ठों वाली एक पुस्तक के पृष्ठों पर क्रमांक डालने के लिए कुल कितने अंकों की आवश्यकता होगी?",
+      "options": [
+        "945",
+        "939",
+        "936",
+        "942"
+      ],
+      "answer": 3,
+      "explanation": "EN: 1-digit pages (1-9): $9 \times 1 = 9$. 2-digit pages (10-99): $90 \times 2 = 180$. 3-digit pages (100-350): $251 \times 3 = 753$. Total = $9 + 180 + 753 = 942$.\nHI: 1-अंकीय पृष्ठ (1-9): 9; 2-अंकीय पृष्ठ (10-99): $90 \times 2 = 180$; 3-अंकीय पृष्ठ (100-350): $251 \times 3 = 753$। कुल = $9 + 180 + 753 = 942$।"
+    },
+    {
+      "id": "8ee5069b",
+      "question": "The product of two numbers is 2160 and their HCF is 12. How many such pairs of numbers are possible?\nदो संख्याओं का गुणनफल 2160 है और उनका म.स. (HCF) 12 है। ऐसी संख्याओं के कितने जोड़े संभव हैं?",
+      "options": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": 3,
+      "explanation": "EN: Let numbers be $12a$ and $12b$ where $\\gcd(a,b)=1$. $144ab = 2160 \\implies ab = 15$. Coprime pairs $(a,b)$ are $(1,15)$ and $(3,5)$. Thus, 2 pairs.\nHI: माना संख्याएँ $12a$ और $12b$ हैं जहाँ $\\gcd(a,b)=1$। $144ab = 2160 \\implies ab = 15$। सह-अभाज्य जोड़े $(1,15)$ और $(3,5)$ हैं। अतः 2 जोड़े संभव हैं।"
+    },
+    {
+      "id": "61766d2a",
+      "question": "Simplify: $5 \\frac{1}{4} - \\left[ 3 \\frac{1}{2} - \\left\\{ 2 \\frac{1}{3} - \\left( 1 \\frac{1}{2} - \\overline{\\frac{1}{3} - \\frac{1}{4}} \\right) \\right\\} \\right]$\nसरल कीजिए: $5 \\frac{1}{4} - \\left[ 3 \\frac{1}{2} - \\left\\{ 2 \\frac{1}{3} - \\left( 1 \\frac{1}{2} - \\overline{\\frac{1}{3} - \\frac{1}{4}} \\right) \\right\\} \\right]$",
+      "options": [
+        "$3 \\frac{1}{3}$",
+        "$3 \\frac{1}{6}$",
+        "$2 \\frac{2}{3}$",
+        "$2 \\frac{5}{6}$"
+      ],
+      "answer": 2,
+      "explanation": "EN: Vinculum: $1/3 - 1/4 = 1/12$. Parenthesis: $3/2 - 1/12 = 17/12$. Curly: $7/3 - 17/12 = 11/12$. Square: $7/2 - 11/12 = 31/12$. Final: $21/4 - 31/12 = 32/12 = 8/3 = 2\\frac{2}{3}$.\nHI: रेखा कोष्ठक: $1/3 - 1/4 = 1/12$; छोटा कोष्ठक: $3/2 - 1/12 = 17/12$; मझला: $7/3 - 17/12 = 11/12$; बड़ा: $7/2 - 11/12 = 31/12$। अंत में $21/4 - 31/12 = 32/12 = 2\\frac{2}{3}$।"
+    },
+    {
+      "id": "cd2e89d5",
+      "question": "Evaluate: $\\frac{1}{1 \times 4} + \\frac{1}{4 \times 7} + \\frac{1}{7 \times 10} + \\dots + \\frac{1}{28 \times 31}$\nमान ज्ञात कीजिए: $\\frac{1}{1 \times 4} + \\frac{1}{4 \times 7} + \\frac{1}{7 \times 10} + \\dots + \\frac{1}{28 \times 31}$",
+      "options": [
+        "$\\frac{9}{31}$",
+        "$\\frac{11}{31}$",
+        "$\\frac{30}{31}$",
+        "$\\frac{10}{31}$"
+      ],
+      "answer": 3,
+      "explanation": "EN: Sum $= \\frac{1}{3} \\left( 1 - \\frac{1}{31} \\right) = \\frac{1}{3} \times \\frac{30}{31} = \\frac{10}{31}$.\nHI: योग $= \\frac{1}{3} \\left( 1 - \\frac{1}{31} \\right) = \\frac{1}{3} \times \\frac{30}{31} = \\frac{10}{31}$।"
+    },
+    {
+      "id": "ebd69862",
+      "question": "If '+' means '$\\div$', '$-$' means '$\times$', '$\times$' means '$+$', and '$\\div$' means '$-$', then find the value of: $36 \times 12 + 4 \\div 6 + 2 - 3$\nयदि '+' का अर्थ '$\\div$', '$-$' का अर्थ '$\times$', '$\times$' का अर्थ '$+$', और '$\\div$' का अर्थ '$-$' है, तो $36 \times 12 + 4 \\div 6 + 2 - 3$ का मान ज्ञात कीजिए।",
+      "options": [
+        "30",
+        "42",
+        "24",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "EN: Replacing symbols: $36 + 12 \\div 4 - 6 \\div 2 \times 3 = 36 + 3 - 3 \times 3 = 39 - 9 = 30$.\nHI: चिह्न बदलने पर: $36 + 12 \\div 4 - 6 \\div 2 \times 3 = 36 + 3 - 9 = 30$।"
+    },
+    {
+      "id": "f15d1ebd",
+      "question": "Find the value of $\\sqrt{20 + \\sqrt{20 + \\sqrt{20 + \\dots \\infty}}} \\div \\sqrt{12 - \\sqrt{12 - \\sqrt{12 - \\dots \\infty}}}$.\n$\\sqrt{20 + \\sqrt{20 + \\sqrt{20 + \\dots \\infty}}} \\div \\sqrt{12 - \\sqrt{12 - \\sqrt{12 - \\dots \\infty}}}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "$2$",
+        "$\\frac{5}{3}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{4}{3}$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $20 = 5 \times 4 \\implies$ first part $= 5$. $12 = 4 \times 3 \\implies$ second part $= 3$. Ratio $= 5/3$.\nHI: $20 = 5 \times 4 \\implies$ पहला भाग $= 5$। $12 = 4 \times 3 \\implies$ दूसरा भाग $= 3$। अनुपात $= 5/3$।"
+    },
+    {
+      "id": "928bda5c",
+      "question": "Simplify: $\\frac{(0.87)^3 + (0.13)^3}{(0.87)^2 - 0.87 \times 0.13 + (0.13)^2}$\nसरल कीजिए: $\\frac{(0.87)^3 + (0.13)^3}{(0.87)^2 - 0.87 \times 0.13 + (0.13)^2}$",
+      "options": [
+        "0.74",
+        "1.13",
+        "0.87",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "EN: Using $\\frac{a^3 + b^3}{a^2 - ab + b^2} = a + b = 0.87 + 0.13 = 1$.\nHI: $\\frac{a^3 + b^3}{a^2 - ab + b^2} = a + b$ का उपयोग करने पर: $0.87 + 0.13 = 1$।"
+    },
+    {
+      "id": "b7a975dc",
+      "question": "If $a * b = a^2 + b^2 - ab$, then find the value of $(3 * 2) * 4$.\nयदि $a * b = a^2 + b^2 - ab$ है, तो $(3 * 2) * 4$ का मान ज्ञात कीजिए।",
+      "options": [
+        "49",
+        "41",
+        "37",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "EN: $3 * 2 = 3^2 + 2^2 - 6 = 7$. Then $7 * 4 = 7^2 + 4^2 - 28 = 49 + 16 - 28 = 37$.\nHI: $3 * 2 = 3^2 + 2^2 - 6 = 7$। फिर $7 * 4 = 7^2 + 4^2 - 28 = 49 + 16 - 28 = 37$।"
+    },
+    {
+      "id": "4c545f6f",
+      "question": "Evaluate: $999 \\frac{995}{999} \times 999$\nमान ज्ञात कीजिए: $999 \\frac{995}{999} \times 999$",
+      "options": [
+        "998004",
+        "999896",
+        "998999",
+        "998996"
+      ],
+      "answer": 3,
+      "explanation": "EN: $(999 + \\frac{995}{999}) \times 999 = 999^2 + 995 = (1000 - 1)^2 + 995 = 1000000 - 2000 + 1 + 995 = 998996$.\nHI: $(999 + \\frac{995}{999}) \times 999 = 999^2 + 995 = 998001 + 995 = 998996$।"
+    },
+    {
+      "id": "bd1cf82d",
+      "question": "Find the value of $\\left(1 - \\frac{1}{2^2}\\right)\\left(1 - \\frac{1}{3^2}\\right)\\left(1 - \\frac{1}{4^2}\\right)\\dots\\left(1 - \\frac{1}{20^2}\\right)$.\n$\\left(1 - \\frac{1}{2^2}\\right)\\left(1 - \\frac{1}{3^2}\\right)\\left(1 - \\frac{1}{4^2}\\right)\\dots\\left(1 - \\frac{1}{20^2}\\right)$ का मान ज्ञात कीजिए।",
+      "options": [
+        "$\\frac{21}{40}$",
+        "$\\frac{19}{40}$",
+        "$\\frac{21}{20}$",
+        "$\\frac{11}{20}$"
+      ],
+      "answer": 0,
+      "explanation": "EN: Using $\\prod_{k=2}^n \\frac{k-1}{k} \\cdot \\frac{k+1}{k} = \\frac{1}{2} \\cdot \\frac{21}{20} = \\frac{21}{40}$.\nHI: सूत्र $\\frac{n+1}{2n}$ से, $n=20$ रखने पर $\\frac{20+1}{2 \times 20} = \\frac{21}{40}$।"
+    },
+    {
+      "id": "c75c1a8a",
+      "question": "What is the value of $\\frac{3 \\div 3 \text{ of } 3 + 3}{3 \\div 3 \times 3 + 3}$?\n$\\frac{3 \\div 3 \text{ का } 3 + 3}{3 \\div 3 \times 3 + 3}$ का मान क्या है?",
+      "options": [
+        "$\\frac{5}{9}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{4}{9}$",
+        "$1$"
+      ],
+      "answer": 0,
+      "explanation": "EN: Numerator: $3 \\div 9 + 3 = 1/3 + 3 = 10/3$. Denominator: $1 \times 3 + 3 = 6$. Result $= \\frac{10/3}{6} = \\frac{10}{18} = \\frac{5}{9}$.\nHI: अंश: $3 \\div 9 + 3 = 10/3$। हर: $1 \times 3 + 3 = 6$। परिणाम $= \\frac{10}{18} = \\frac{5}{9}$।"
+    },
+    {
+      "id": "3fbaa9ad",
+      "question": "If $\\sqrt{1 + \\frac{x}{144}} = \\frac{13}{12}$, then what is the value of $x$?\nयदि $\\sqrt{1 + \\frac{x}{144}} = \\frac{13}{12}$ है, तो $x$ का मान क्या है?",
+      "options": [
+        "25",
+        "27",
+        "1",
+        "13"
+      ],
+      "answer": 0,
+      "explanation": "EN: Squaring both sides: $1 + \\frac{x}{144} = \\frac{169}{144} \\implies x = 169 - 144 = 25$.\nHI: दोनों पक्षों का वर्ग करने पर: $1 + \\frac{x}{144} = \\frac{169}{144} \\implies x = 25$।"
+    },
+    {
+      "id": "46914119",
+      "question": "Find the value of $\\frac{2^{n+4} - 2 \\cdot 2^n}{2 \\cdot 2^{n+3}} + 2^{-3}$.\n$\\frac{2^{n+4} - 2 \\cdot 2^n}{2 \\cdot 2^{n+3}} + 2^{-3}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "$\\frac{7}{8}$",
+        "0",
+        "$\\frac{9}{8}$",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{2^n(16 - 2)}{2^n \\cdot 16} + \\frac{1}{8} = \\frac{14}{16} + \\frac{1}{8} = \\frac{7}{8} + \\frac{1}{8} = 1$.\nHI: $\\frac{2^n(16 - 2)}{2^n \\cdot 16} + \\frac{1}{8} = \\frac{7}{8} + \\frac{1}{8} = 1$।"
+    },
+    {
+      "id": "3b973f7e",
+      "question": "Express $0.4\\overline{23}$ as a vulgar fraction in its simplest form.\n$0.4\\overline{23}$ को सरलतम साधारण भिन्न के रूप में व्यक्त कीजिए।",
+      "options": [
+        "$\\frac{419}{999}$",
+        "$\\frac{423}{900}$",
+        "$\\frac{419}{990}$",
+        "$\\frac{423}{990}$"
+      ],
+      "answer": 2,
+      "explanation": "EN: $0.4\\overline{23} = \\frac{423 - 4}{990} = \\frac{419}{990}$.\nHI: $0.4\\overline{23} = \\frac{423 - 4}{990} = \\frac{419}{990}$।"
+    },
+    {
+      "id": "4ed36688",
+      "question": "Find the value of $3.\\overline{36} - 2.\\overline{05} + 1.\\overline{33}$.\n$3.\\overline{36} - 2.\\overline{05} + 1.\\overline{33}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "$2.64$",
+        "$2.\\overline{64}$",
+        "$2.\\overline{60}$",
+        "$2.\\overline{54}$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $(3 + 36/99) - (2 + 5/99) + (1 + 33/99) = (3 - 2 + 1) + \\frac{36 - 5 + 33}{99} = 2 + \\frac{64}{99} = 2.\\overline{64}$.\nHI: $(3 - 2 + 1) + \\frac{36 - 5 + 33}{99} = 2 + \\frac{64}{99} = 2.\\overline{64}$।"
+    },
+    {
+      "id": "4221df56",
+      "question": "If $\\frac{1}{3.718} = 0.2689$, then find the value of $\\frac{1}{0.0003718}$.\nयदि $\\frac{1}{3.718} = 0.2689$ है, तो $\\frac{1}{0.0003718}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "268.9",
+        "0.00002689",
+        "2689",
+        "26890"
+      ],
+      "answer": 2,
+      "explanation": "EN: $\\frac{1}{0.0003718} = \\frac{10000}{3.718} = 10000 \times 0.2689 = 2689$.\nHI: $\\frac{1}{0.0003718} = \\frac{10000}{3.718} = 10000 \times 0.2689 = 2689$।"
+    },
+    {
+      "id": "922a58cd",
+      "question": "Find the square root of $0.\\overline{4}$.\n$0.\\overline{4}$ का वर्गमूल ज्ञात कीजिए।",
+      "options": [
+        "$0.6$",
+        "$0.2$",
+        "$0.\\overline{2}$",
+        "$0.\\overline{6}$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $0.\\overline{4} = \\frac{4}{9}$. $\\sqrt{\\frac{4}{9}} = \\frac{2}{3} = 0.\\overline{6}$.\nHI: $0.\\overline{4} = \\frac{4}{9}$। $\\sqrt{\\frac{4}{9}} = \\frac{2}{3} = 0.\\overline{6}$।"
+    },
+    {
+      "id": "7e583690",
+      "question": "Simplify: $\\frac{0.05 \times 0.05 \times 0.05 - 0.04 \times 0.04 \times 0.04}{0.05 \times 0.05 + 0.05 \times 0.04 + 0.04 \times 0.04}$\nसरल कीजिए: $\\frac{0.05 \times 0.05 \times 0.05 - 0.04 \times 0.04 \times 0.04}{0.05 \times 0.05 + 0.05 \times 0.04 + 0.04 \times 0.04}$",
+      "options": [
+        "0.09",
+        "0.1",
+        "0.01",
+        "0.001"
+      ],
+      "answer": 2,
+      "explanation": "EN: Using $\\frac{a^3 - b^3}{a^2 + ab + b^2} = a - b = 0.05 - 0.04 = 0.01$.\nHI: $\\frac{a^3 - b^3}{a^2 + ab + b^2} = a - b = 0.05 - 0.04 = 0.01$।"
+    },
+    {
+      "id": "9ad8daee",
+      "question": "What is the HCF of $0.36, 1.2,$ and $4.8$?\n$0.36, 1.2,$ और $4.8$ का म.स. (HCF) क्या है?",
+      "options": [
+        "0.36",
+        "0.012",
+        "0.12",
+        "1.2"
+      ],
+      "answer": 2,
+      "explanation": "EN: Converting to hundredths: $0.36, 1.20, 4.80$. HCF of $36, 120, 480$ is $12$. Dividing by 100 gives $0.12$.\nHI: दशमलव बराबर करने पर: $0.36, 1.20, 4.80$। $36, 120, 480$ का म.स. 12 है, अतः उत्तर $0.12$ है।"
+    },
+    {
+      "id": "d2705917",
+      "question": "Which of the following decimals is the largest: $0.\\overline{9}, (0.9)^2, \\sqrt{0.9}, 0.9$?\nनिम्नलिखित दशमलव संख्याओं में से कौन-सी सबसे बड़ी है: $0.\\overline{9}, (0.9)^2, \\sqrt{0.9}, 0.9$?",
+      "options": [
+        "$0.\\overline{9}$",
+        "$\\sqrt{0.9}$",
+        "$(0.9)^2$",
+        "$0.9$"
+      ],
+      "answer": 0,
+      "explanation": "EN: $0.\\overline{9} = 9/9 = 1$, $\\sqrt{0.9} \\approx 0.948$, $0.9 = 0.9$, $(0.9)^2 = 0.81$. Largest is $0.\\overline{9}$.\nHI: $0.\\overline{9} = 1$, $\\sqrt{0.9} \\approx 0.948$, $0.9 = 0.9$, $(0.9)^2 = 0.81$। सबसे बड़ी संख्या $0.\\overline{9}$ है।"
+    },
+    {
+      "id": "588b057d",
+      "question": "Evaluate: $\\frac{0.009 \times 0.036 \times 0.016 \times 0.08}{0.002 \times 0.0008 \times 0.0002}$\nमान ज्ञात कीजिए: $\\frac{0.009 \times 0.036 \times 0.016 \times 0.08}{0.002 \times 0.0008 \times 0.0002}$",
+      "options": [
+        "12.96",
+        "1296",
+        "12960",
+        "129.6"
+      ],
+      "answer": 1,
+      "explanation": "EN: Numerator has $3+4+3+2 = 12$ decimal places. Denominator has $3+4+4 = 11$ decimal places. $\\frac{9 \times 36 \times 16 \times 8}{2 \times 8 \times 2 \times 10} = \\frac{12960}{10} = 1296$.\nHI: अंश में 12 दशमलव स्थान और हर में 11 दशमलव स्थान हैं। हल करने पर $\\frac{9 \times 36 \times 16 \times 8}{2 \times 8 \times 2 \times 10} = 1296$।"
+    },
+    {
+      "id": "6b2481c8",
+      "question": "The product of two decimals is $1.8576$. If one of them is $0.54$, find the other.\nदो दशमलव संख्याओं का गुणनफल $1.8576$ है। यदि उनमें से एक $0.54$ है, तो दूसरी संख्या ज्ञात कीजिए।",
+      "options": [
+        "3.44",
+        "3.42",
+        "3.54",
+        "3.24"
+      ],
+      "answer": 0,
+      "explanation": "EN: $1.8576 \\div 0.54 = 185.76 \\div 54 = 3.44$.\nHI: $1.8576 \\div 0.54 = 185.76 \\div 54 = 3.44$।"
+    },
+    {
+      "id": "643c3148",
+      "question": "What is the value of $0.\\overline{2} + 0.\\overline{3} + 0.\\overline{4} + 0.\\overline{9} + 0.\\overline{39}$?\n$0.\\overline{2} + 0.\\overline{3} + 0.\\overline{4} + 0.\\overline{9} + 0.\\overline{39}$ का मान क्या है?",
+      "options": [
+        "$2 \\frac{13}{33}$",
+        "$2 \\frac{1}{3}$",
+        "$2 \\frac{11}{33}$",
+        "$2 \\frac{4}{11}$"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\\frac{2}{9} + \\frac{3}{9} + \\frac{4}{9} + \\frac{9}{9} + \\frac{39}{99} = \\frac{18}{9} + \\frac{13}{33} = 2 + \\frac{13}{33} = 2\\frac{13}{33}$.\nHI: $\\frac{2}{9} + \\frac{3}{9} + \\frac{4}{9} + \\frac{9}{9} + \\frac{39}{99} = 2 + \\frac{13}{33} = 2\\frac{13}{33}$।"
+    },
+    {
+      "id": "8a3b8c90",
+      "question": "Find the difference between the place value and face value of 7 in $48,76,923$.\n$48,76,923$ में 7 के स्थानीय मान और जातीय मान के बीच का अंतर ज्ञात कीजिए।",
+      "options": [
+        "70007",
+        "69997",
+        "69993",
+        "6993"
+      ],
+      "answer": 2,
+      "explanation": "EN: Place value of 7 = 70,000. Face value = 7. Difference = $70,000 - 7 = 69,993$.\nHI: 7 का स्थानीय मान = 70,000, जातीय मान = 7। अंतर = $70,000 - 7 = 69,993$।"
+    },
+    {
+      "id": "9c21c711",
+      "question": "What is the sum of the place values of 5 in $54.358$?\n$54.358$ में 5 के स्थानीय मानों का योग क्या है?",
+      "options": [
+        "50.5",
+        "5.05",
+        "50.05",
+        "50.005"
+      ],
+      "answer": 2,
+      "explanation": "EN: First 5 is at tens place = 50. Second 5 is at hundredths place = 0.05. Sum = 50.05.\nHI: पहला 5 दहाई के स्थान पर (50) और दूसरा शतांश के स्थान पर (0.05) है। योग = 50.05।"
+    },
+    {
+      "id": "126ca042",
+      "question": "If $(12345)_{10}$ is expanded in powers of 10, what is the product of the place value of 2 and the face value of 4?\nयदि $(12345)_{10}$ को 10 की घातों में विस्तारित किया जाए, तो 2 के स्थानीय मान और 4 के जातीय मान का गुणनफल क्या होगा?",
+      "options": [
+        "80000",
+        "800",
+        "80",
+        "8000"
+      ],
+      "answer": 3,
+      "explanation": "EN: Place value of 2 = 2000. Face value of 4 = 4. Product = $2000 \times 4 = 8000$.\nHI: 2 का स्थानीय मान = 2000, 4 का जातीय मान = 4। गुणनफल = $2000 \times 4 = 8000$।"
+    },
+    {
+      "id": "de8dfcbc",
+      "question": "In the number $39.468$, how many times is the place value of 6 compared to the place value of 8?\nसंख्या $39.468$ में 6 का स्थानीय मान, 8 के स्थानीय मान का कितना गुना है?",
+      "options": [
+        "75",
+        "7.5",
+        "0.75",
+        "60"
+      ],
+      "answer": 1,
+      "explanation": "EN: Place value of 6 = 0.06. Place value of 8 = 0.008. Ratio = $0.06 / 0.008 = 60 / 8 = 7.5$.\nHI: 6 का स्थानीय मान = 0.06 और 8 का स्थानीय मान = 0.008। अनुपात = $0.06 / 0.008 = 7.5$ गुना।"
+    },
+    {
+      "id": "74520691",
+      "question": "Find the sum of the place values of all even digits in the number $78,43,295$.\nसंख्या $78,43,295$ में सभी सम अंकों के स्थानीय मानों का योग ज्ञात कीजिए।",
+      "options": [
+        "840200",
+        "804200",
+        "842000",
+        "840020"
+      ],
+      "answer": 0,
+      "explanation": "EN: Even digits are 8, 4, and 2. Place values: $800000 + 40000 + 200 = 840200$.\nHI: सम अंक 8, 4 और 2 हैं। स्थानीय मानों का योग = $800000 + 40000 + 200 = 840200$।"
+    },
+    {
+      "id": "6680a94e",
+      "question": "If the digits at the ten-thousands place and hundreds place of $6,54,892$ are interchanged, by how much does the place value of 5 change?\nयदि $6,54,892$ के दस-हज़ारवें और सैकड़े के स्थान के अंकों को आपस में बदल दिया जाए, तो 5 के स्थानीय मान में कितना परिवर्तन होगा?",
+      "options": [
+        "49950",
+        "49500",
+        "45000",
+        "50500"
+      ],
+      "answer": 1,
+      "explanation": "EN: Original place value of 5 = 50,000. After interchanging, 5 moves to hundreds place = 500. Change = $50000 - 500 = 49500$.\nHI: 5 का प्रारंभिक स्थानीय मान = 50,000। बदलने के बाद 5 सैकड़े के स्थान पर (500) आ जाता है। परिवर्तन = $50000 - 500 = 49500$।"
+    },
+    {
+      "id": "33b2d5ae",
+      "question": "What is the ratio of the place value of 3 in $13,456$ to the place value of 3 in $45.032$?\n$13,456$ में 3 के स्थानीय मान और $45.032$ में 3 के स्थानीय मान का अनुपात क्या है?",
+      "options": [
+        "$1000000 : 1$",
+        "$10000 : 1$",
+        "$1000 : 1$",
+        "$100000 : 1$"
+      ],
+      "answer": 3,
+      "explanation": "EN: Place value in 13,456 is 3000. Place value in 45.032 is 0.03. Ratio = $3000 : 0.03 = 300000 : 3 = 100000 : 1$.\nHI: 13,456 में 3 का स्थानीय मान 3000 और 45.032 में 0.03 है। अनुपात = $3000 : 0.03 = 100000 : 1$।"
+    },
+    {
+      "id": "a84fcc65",
+      "question": "How many thousandths are there in $4.35$?\n$4.35$ में कितने हज़ारवें (thousandths) हैं?",
+      "options": [
+        "43500",
+        "435",
+        "4350",
+        "43.5"
+      ],
+      "answer": 2,
+      "explanation": "EN: $4.35 \\div 0.001 = 4350$.\nHI: $4.35 \\div 0.001 = 4350$।"
+    },
+    {
+      "id": "1f9df377",
+      "question": "If $4 \times 10^4 + 7 \times 10^2 + 9 \times 10^0 + 3 \times 10^{-2} + 6 \times 10^{-3}$ is written as a decimal number, what is the digit at the tenths place?\nयदि $4 \times 10^4 + 7 \times 10^2 + 9 \times 10^0 + 3 \times 10^{-2} + 6 \times 10^{-3}$ को दशमलव संख्या के रूप में लिखा जाए, तो दशांश (tenths) के स्थान पर कौन-सा अंक होगा?",
+      "options": [
+        "6",
+        "3",
+        "0",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "EN: Number = $40709.036$. The digit at the tenths ($10^{-1}$) place is 0.\nHI: संख्या = $40709.036$ है। दशांश ($10^{-1}$) के स्थान पर अंक 0 है।"
+    },
+    {
+      "id": "b5ff3dac",
+      "question": "Find the product of the place value of 9 in $29,451$ and the place value of 4 in $0.145$.\n$29,451$ में 9 के स्थानीय मान और $0.145$ में 4 के स्थानीय मान का गुणनफल ज्ञात कीजिए।",
+      "options": [
+        "3600",
+        "36",
+        "3.6",
+        "360"
+      ],
+      "answer": 3,
+      "explanation": "EN: Place value of 9 = 9000. Place value of 4 = 0.04. Product = $9000 \times 0.04 = 360$.\nHI: 9 का स्थानीय मान = 9000, 4 का स्थानीय मान = 0.04। गुणनफल = $9000 \times 0.04 = 360$।"
+    },
+    {
+      "id": "04b7c058",
+      "question": "Arrange the following fractions in ascending order: $\\frac{7}{11}, \\frac{16}{20}, \\frac{21}{22}, \\frac{13}{15}$.\nनिम्नलिखित भिन्नों को आरोही क्रम में व्यवस्थित कीजिए: $\\frac{7}{11}, \\frac{16}{20}, \\frac{21}{22}, \\frac{13}{15}$।",
+      "options": [
+        "$\\frac{7}{11} < \\frac{16}{20} < \\frac{21}{22} < \\frac{13}{15}$",
+        "$\\frac{7}{11} < \\frac{16}{20} < \\frac{13}{15} < \\frac{21}{22}$",
+        "$\\frac{16}{20} < \\frac{7}{11} < \\frac{13}{15} < \\frac{21}{22}$",
+        "$\\frac{7}{11} < \\frac{13}{15} < \\frac{16}{20} < \\frac{21}{22}$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $7/11 \\approx 0.636$, $16/20 = 0.800$, $13/15 \\approx 0.867$, $21/22 \\approx 0.954$.\nHI: $7/11 \\approx 0.636$, $16/20 = 0.800$, $13/15 \\approx 0.867$, $21/22 \\approx 0.954$।"
+    },
+    {
+      "id": "f40a55ca",
+      "question": "If $\\frac{1}{1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{x}}}} = \\frac{5}{8}$, then what is the value of $x$?\nयदि $\\frac{1}{1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{x}}}} = \\frac{5}{8}$ है, तो $x$ का मान क्या है?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "EN: Inverting repeatedly: $1 + \\frac{1}{1 + \\frac{1}{1 + 1/x}} = \\frac{8}{5} \\implies \\frac{1}{1 + \\frac{1}{1 + 1/x}} = \\frac{3}{5} \\implies 1 + \\frac{1}{1 + 1/x} = \\frac{5}{3} \\implies \\frac{1}{1 + 1/x} = \\frac{2}{3} \\implies 1 + \\frac{1}{x} = \\frac{3}{2} \\implies x = 2$.\nHI: क्रमशः व्युत्क्रम लेने पर: $1 + \\frac{1}{x} = \\frac{3}{2} \\implies \\frac{1}{x} = \\frac{1}{2} \\implies x = 2$।"
+    },
+    {
+      "id": "11d0bb2b",
+      "question": "A student was asked to multiply a number by $\\frac{3}{2}$ but divided it by $\\frac{3}{2}$ instead. His result was 10 less than the correct answer. Find the number.\nएक छात्र को किसी संख्या को $\\frac{3}{2}$ से गुणा करने के लिए कहा गया, लेकिन उसने गलती से इसे $\\frac{3}{2}$ से भाग दे दिया। उसका परिणाम सही उत्तर से 10 कम था। संख्या ज्ञात कीजिए।",
+      "options": [
+        "18",
+        "12",
+        "24",
+        "15"
+      ],
+      "answer": 1,
+      "explanation": "EN: $\\frac{3}{2}x - \\frac{2}{3}x = 10 \\implies \\frac{5}{6}x = 10 \\implies x = 12$.\nHI: $\\frac{3}{2}x - \\frac{2}{3}x = 10 \\implies \\frac{5}{6}x = 10 \\implies x = 12$।"
+    },
+    {
+      "id": "92d7247f",
+      "question": "Find the LCM of $\\frac{2}{3}, \\frac{4}{9}, \\frac{5}{6},$ and $\\frac{7}{12}$.\n$\\frac{2}{3}, \\frac{4}{9}, \\frac{5}{6},$ और $\\frac{7}{12}$ का ल.स. (LCM) ज्ञात कीजिए।",
+      "options": [
+        "$\\frac{70}{3}$",
+        "$\\frac{140}{36}$",
+        "$\\frac{1}{36}$",
+        "$\\frac{140}{3}$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\text{LCM of fractions} = \\frac{\text{LCM}(2, 4, 5, 7)}{\text{HCF}(3, 9, 6, 12)} = \\frac{140}{3}$.\nHI: भिन्नों का ल.स. $= \\frac{\text{अंशों का ल.स. }(2,4,5,7)}{\text{हरों का म.स. }(3,9,6,12)} = \\frac{140}{3}$।"
+    },
+    {
+      "id": "d609a355",
+      "question": "If the numerator of a fraction is increased by 200% and the denominator is increased by 350%, the resultant fraction is $\\frac{5}{12}$. What was the original fraction?\nयदि किसी भिन्न के अंश में 200% की वृद्धि की जाए और हर में 350% की वृद्धि की जाए, तो परिणामी भिन्न $\\frac{5}{12}$ प्राप्त होती है। मूल भिन्न क्या थी?",
+      "options": [
+        "$\\frac{5}{9}$",
+        "$\\frac{3}{8}$",
+        "$\\frac{5}{8}$",
+        "$\\frac{7}{12}$"
+      ],
+      "answer": 2,
+      "explanation": "EN: $\\frac{3x}{4.5y} = \\frac{5}{12} \\implies \\frac{x}{y} = \\frac{5}{12} \times \\frac{4.5}{3} = \\frac{5}{12} \times \\frac{3}{2} = \\frac{5}{8}$.\nHI: $\\frac{3x}{4.5y} = \\frac{5}{12} \\implies \\frac{x}{y} = \\frac{5}{12} \times \\frac{3}{2} = \\frac{5}{8}$।"
+    },
+    {
+      "id": "6c6ebd19",
+      "question": "A man spends $\\frac{1}{3}$ of his income on food, $\\frac{2}{5}$ of the remaining on house rent, and $\\frac{1}{4}$ of the still remaining on clothes. If he still has ₹ 900 left with him, find his total income.\nएक व्यक्ति अपनी आय का $\\frac{1}{3}$ भोजन पर, शेष का $\\frac{2}{5}$ घर के किराए पर और फिर शेष का $\\frac{1}{4}$ कपड़ों पर खर्च करता है। यदि उसके पास अभी भी ₹ 900 बचे हैं, तो उसकी कुल आय ज्ञात कीजिए।",
+      "options": [
+        "₹ 4500",
+        "₹ 3000",
+        "₹ 3600",
+        "₹ 2700"
+      ],
+      "answer": 1,
+      "explanation": "EN: $x \times \\frac{2}{3} \times \\frac{3}{5} \times \\frac{3}{4} = 900 \\implies \\frac{3}{10}x = 900 \\implies x = 3000$.\nHI: $x \times \\frac{2}{3} \times \\frac{3}{5} \times \\frac{3}{4} = 900 \\implies \\frac{3}{10}x = 900 \\implies x = 3000$।"
+    },
+    {
+      "id": "91ef28f9",
+      "question": "Find the sum: $\\frac{1}{2} + \\frac{1}{6} + \\frac{1}{12} + \\frac{1}{20} + \\frac{1}{30} + \\frac{1}{42} + \\frac{1}{56} + \\frac{1}{72} + \\frac{1}{90}$.\nयोग ज्ञात कीजिए: $\\frac{1}{2} + \\frac{1}{6} + \\frac{1}{12} + \\frac{1}{20} + \\frac{1}{30} + \\frac{1}{42} + \\frac{1}{56} + \\frac{1}{72} + \\frac{1}{90}$।",
+      "options": [
+        "$\\frac{10}{11}$",
+        "$\\frac{8}{9}$",
+        "$\\frac{11}{12}$",
+        "$\\frac{9}{10}$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\sum_{k=1}^9 \\frac{1}{k(k+1)} = 1 - \\frac{1}{10} = \\frac{9}{10}$.\nHI: $\\left(1 - \\frac{1}{2}\\right) + \\left(\\frac{1}{2} - \\frac{1}{3}\\right) + \\dots + \\left(\\frac{1}{9} - \\frac{1}{10}\\right) = 1 - \\frac{1}{10} = \\frac{9}{10}$।"
+    },
+    {
+      "id": "6c4484fe",
+      "question": "If $\\frac{45}{53} = \\frac{1}{a + \\frac{1}{b + \\frac{1}{c - \\frac{2}{5}}}}$, where $a, b, c$ are positive integers, find $(a + b + c)$.\nयदि $\\frac{45}{53} = \\frac{1}{a + \\frac{1}{b + \\frac{1}{c - \\frac{2}{5}}}}$ है, जहाँ $a, b, c$ धनात्मक पूर्णांक हैं, तो $(a + b + c)$ ज्ञात कीजिए।",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "8"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{53}{45} = 1 + \\frac{8}{45} \\implies a=1$. $\\frac{45}{8} = 5 + \\frac{5}{8} \\implies b=5$. $\\frac{8}{5} = c - \\frac{2}{5} \\implies c = 2$. Sum $= 1 + 5 + 2 = 8$.\nHI: $\\frac{53}{45} = 1 + \\frac{8}{45} \\implies a=1$, $\\frac{45}{8} = 5 + \\frac{5}{8} \\implies b=5$, $\\frac{8}{5} = c - \\frac{2}{5} \\implies c=2$। योग $= 1 + 5 + 2 = 8$।"
+    },
+    {
+      "id": "b9c51ca3",
+      "question": "How many $\\frac{1}{8}$'s are there in $37 \\frac{1}{2}$?\n$37 \\frac{1}{2}$ में कुल कितने $\\frac{1}{8}$ हैं?",
+      "options": [
+        "300",
+        "350",
+        "250",
+        "400"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\\frac{75}{2} \\div \\frac{1}{8} = \\frac{75}{2} \times 8 = 300$.\nHI: $\\frac{75}{2} \\div \\frac{1}{8} = \\frac{75}{2} \times 8 = 300$।"
+    },
+    {
+      "id": "03ac405a",
+      "question": "A fraction becomes $\\frac{2}{3}$ when 1 is added to both its numerator and denominator, and it becomes $\\frac{1}{2}$ when 1 is subtracted from both. Find the fraction.\nएक भिन्न के अंश और हर दोनों में 1 जोड़ने पर वह $\\frac{2}{3}$ हो जाती है, और दोनों में से 1 घटाने पर वह $\\frac{1}{2}$ हो जाती है। भिन्न ज्ञात कीजिए।",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{7}$",
+        "$\\frac{5}{8}$",
+        "$\\frac{2}{3}$"
+      ],
+      "answer": 0,
+      "explanation": "EN: Testing $\\frac{3}{5}$: $\\frac{3+1}{5+1} = \\frac{4}{6} = \\frac{2}{3}$, and $\\frac{3-1}{5-1} = \\frac{2}{4} = \\frac{1}{2}$.\nHI: $\\frac{3}{5}$ की जाँच करने पर: $\\frac{3+1}{5+1} = \\frac{2}{3}$ और $\\frac{3-1}{5-1} = \\frac{1}{2}$।"
+    },
+    {
+      "id": "6c22456a",
+      "question": "What is the difference between the largest and smallest fractions among $\\frac{5}{6}, \\frac{6}{7}, \\frac{7}{8}, \\frac{8}{9}$?\n$\\frac{5}{6}, \\frac{6}{7}, \\frac{7}{8}, \\frac{8}{9}$ में सबसे बड़ी और सबसे छोटी भिन्न के बीच का अंतर क्या है?",
+      "options": [
+        "$\\frac{1}{36}$",
+        "$\\frac{1}{18}$",
+        "$\\frac{1}{72}$",
+        "$\\frac{1}{54}$"
+      ],
+      "answer": 1,
+      "explanation": "EN: Largest = $\\frac{8}{9}$, Smallest = $\\frac{5}{6}$. Difference = $\\frac{8}{9} - \\frac{5}{6} = \\frac{16 - 15}{18} = \\frac{1}{18}$.\nHI: सबसे बड़ी = $\\frac{8}{9}$, सबसे छोटी = $\\frac{5}{6}$। अंतर = $\\frac{8}{9} - \\frac{5}{6} = \\frac{1}{18}$।"
+    },
+    {
+      "id": "213d787c",
+      "question": "A sum of money becomes 3 times itself in 16 years at simple interest. In how many years will it become 5 times itself at the same rate?\nएक धनराशि साधारण ब्याज पर 16 वर्षों में स्वयं की 3 गुनी हो जाती है। समान दर पर यह कितने वर्षों में स्वयं की 5 गुनी हो जाएगी?",
+      "options": [
+        "32 years / वर्ष",
+        "28 years / वर्ष",
+        "24 years / वर्ष",
+        "40 years / वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\\frac{n_1 - 1}{t_1} = \\frac{n_2 - 1}{t_2} \\implies \\frac{3 - 1}{16} = \\frac{5 - 1}{t_2} \\implies \\frac{2}{16} = \\frac{4}{t_2} \\implies t_2 = 32$ years.\nHI: $\\frac{n_1 - 1}{t_1} = \\frac{n_2 - 1}{t_2} \\implies \\frac{3 - 1}{16} = \\frac{5 - 1}{t_2} \\implies t_2 = 32$ वर्ष।"
+    },
+    {
+      "id": "fed48949",
+      "question": "A sum of ₹ 15,500 is lent out in two parts, one at 8% and another at 6% per annum simple interest. If the total annual income is ₹ 1,060, find the money lent at 8%.\n₹ 15,500 की राशि को दो भागों में उधार दिया जाता है, एक भाग 8% वार्षिक और दूसरा 6% वार्षिक साधारण ब्याज पर। यदि कुल वार्षिक आय ₹ 1,060 है, तो 8% पर उधार दी गई राशि ज्ञात कीजिए।",
+      "options": [
+        "₹ 6,500",
+        "₹ 9,000",
+        "₹ 7,500",
+        "₹ 8,000"
+      ],
+      "answer": 0,
+      "explanation": "EN: Let $x$ be lent at 8%. $0.08x + 0.06(15500 - x) = 1060 \\implies 0.02x + 930 = 1060 \\implies 0.02x = 130 \\implies x = 6500$.\nHI: माना 8% पर ₹ $x$ दिए गए। $0.08x + 0.06(15500 - x) = 1060 \\implies 0.02x = 130 \\implies x = 6500$।"
+    },
+    {
+      "id": "b67406bb",
+      "question": "The simple interest on a sum of money is $\\frac{9}{16}$ of the principal. If the number of years is numerically equal to the rate percent per annum, find the rate percent.\nकिसी धनराशि पर साधारण ब्याज मूलधन का $\\frac{9}{16}$ है। यदि वर्षों की संख्या वार्षिक ब्याज दर के संख्यात्मक मान के बराबर है, तो वार्षिक दर ज्ञात कीजिए।",
+      "options": [
+        "$6.5\\%$",
+        "$8\\%$",
+        "$9\\%$",
+        "$7.5\\%$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{9}{16}P = \\frac{P \times R \times R}{100} \\implies R^2 = \\frac{900}{16} \\implies R = \\frac{30}{4} = 7.5\\%$.\nHI: $\\frac{9}{16}P = \\frac{P \times R^2}{100} \\implies R = \\frac{30}{4} = 7.5\\%$।"
+    },
+    {
+      "id": "ef2f9941",
+      "question": "A sum of money at simple interest amounts to ₹ 815 in 3 years and to ₹ 854 in 4 years. What is the principal sum?\nसाधारण ब्याज पर कोई धनराशि 3 वर्षों में ₹ 815 और 4 वर्षों में ₹ 854 हो जाती है। मूलधन क्या है?",
+      "options": [
+        "₹ 700",
+        "₹ 712",
+        "₹ 690",
+        "₹ 698"
+      ],
+      "answer": 3,
+      "explanation": "EN: SI for 1 year = $854 - 815 = 39$. SI for 3 years = $39 \times 3 = 117$. Principal = $815 - 117 = ₹ 698$.\nHI: 1 वर्ष का ब्याज = $854 - 815 = 39$। 3 वर्षों का ब्याज = $117$। मूलधन = $815 - 117 = ₹ 698$।"
+    },
+    {
+      "id": "b395468a",
+      "question": "At what rate percent per annum will the simple interest on a sum of money be $\\frac{2}{5}$ of the amount in 10 years?\nकिस वार्षिक दर प्रतिशत पर किसी धनराशि का साधारण ब्याज 10 वर्षों में मिश्रधन का $\\frac{2}{5}$ होगा?",
+      "options": [
+        "$6\\%$",
+        "$6\\frac{2}{3}\\%$",
+        "$5\\%$",
+        "$4\\%$"
+      ],
+      "answer": 1,
+      "explanation": "EN: Let Amount $= 5$, SI $= 2$, so Principal $= 5 - 2 = 3$. $R = \\frac{2 \times 100}{3 \times 10} = \\frac{20}{3} = 6\\frac{2}{3}\\%$.\nHI: माना मिश्रधन $= 5$, ब्याज $= 2$, अतः मूलधन $= 3$। दर $= \\frac{2 \times 100}{3 \times 10} = 6\\frac{2}{3}\\%$।"
+    },
+    {
+      "id": "a70bd6f7",
+      "question": "A man invested ₹ 12,000 at 5% SI and ₹ 18,000 at 8% SI. What is the average rate of interest per annum on the whole investment?\nएक व्यक्ति ने ₹ 12,000 को 5% साधारण ब्याज पर और ₹ 18,000 को 8% साधारण ब्याज पर निवेश किया। पूरे निवेश पर वार्षिक औसत ब्याज दर क्या है?",
+      "options": [
+        "$6.5\\%$",
+        "$7.0\\%$",
+        "$6.2\\%$",
+        "$6.8\\%$"
+      ],
+      "answer": 3,
+      "explanation": "EN: Total SI = $12000 \times 0.05 + 18000 \times 0.08 = 600 + 1440 = 2040$. Total P = $30000$. Rate = $\\frac{2040}{30000} \times 100 = 6.8\\%$.\nHI: कुल ब्याज = $600 + 1440 = 2040$, कुल मूलधन = $30000$। औसत दर = $\\frac{2040}{30000} \times 100 = 6.8\\%$।"
+    },
+    {
+      "id": "8fc85b27",
+      "question": "If the simple interest on a certain sum for 15 months at $7.5\\%$ per annum exceeds the simple interest on the same sum for 8 months at $12.5\\%$ per annum by ₹ 32.50, find the sum.\nयदि एक निश्चित राशि पर $7.5\\%$ वार्षिक दर से 15 महीनों का साधारण ब्याज, उसी राशि पर $12.5\\%$ वार्षिक दर से 8 महीनों के साधारण ब्याज से ₹ 32.50 अधिक है, तो राशि ज्ञात कीजिए।",
+      "options": [
+        "₹ 3180",
+        "₹ 3250",
+        "₹ 3120",
+        "₹ 3000"
+      ],
+      "answer": 2,
+      "explanation": "EN: $P \\left( \\frac{15}{12} \times 7.5 - \\frac{8}{12} \times 12.5 \\right) / 100 = 32.50 \\implies P \\left( \\frac{112.5 - 100}{1200} \\right) = 32.50 \\implies P = \\frac{32.50 \times 1200}{12.5} = 3120$.\nHI: $P \\left( \\frac{112.5 - 100}{1200} \\right) = 32.50 \\implies P = \\frac{32.50 \times 1200}{12.5} = ₹ 3120$।"
+    },
+    {
+      "id": "440755f2",
+      "question": "A sum of ₹ 2,600 is lent out in two parts in such a way that the interest on one part at 10% for 5 years is equal to that on another part at 9% for 6 years. Find the sum lent at 10%.\n₹ 2,600 की राशि को दो भागों में इस प्रकार उधार दिया जाता है कि पहले भाग पर 10% की दर से 5 वर्षों का ब्याज, दूसरे भाग पर 9% की दर से 6 वर्षों के ब्याज के बराबर है। 10% पर दी गई राशि ज्ञात कीजिए।",
+      "options": [
+        "₹ 1250",
+        "₹ 1200",
+        "₹ 1350",
+        "₹ 1400"
+      ],
+      "answer": 2,
+      "explanation": "EN: $50\\% \text{ of } P_1 = 54\\% \text{ of } P_2 \\implies P_1 : P_2 = 54 : 50 = 27 : 25$. $P_1 = \\frac{27}{52} \times 2600 = ₹ 1350$.\nHI: $P_1 \times 50\\% = P_2 \times 54\\% \\implies P_1 : P_2 = 27 : 25$। $P_1 = \\frac{27}{52} \times 2600 = ₹ 1350$।"
+    },
+    {
+      "id": "ffdebebe",
+      "question": "A person borrows ₹ 5,000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at $6\\frac{1}{4}\\%$ p.a. for 2 years. Find his gain in the transaction per year.\nएक व्यक्ति 4% वार्षिक साधारण ब्याज पर 2 वर्षों के लिए ₹ 5,000 उधार लेता है। वह तुरंत इसे दूसरे व्यक्ति को 2 वर्षों के लिए $6\\frac{1}{4}\\%$ वार्षिक दर पर उधार दे देता है। इस लेन-देन में उसका प्रति वर्ष लाभ ज्ञात कीजिए।",
+      "options": [
+        "₹ 112.50",
+        "₹ 225",
+        "₹ 150",
+        "₹ 125"
+      ],
+      "answer": 0,
+      "explanation": "EN: Net rate gain per year $= 6.25\\% - 4\\% = 2.25\\%$. Gain per year $= 5000 \times 2.25\\% = ₹ 112.50$.\nHI: प्रति वर्ष शुद्ध लाभ दर $= 6.25\\% - 4\\% = 2.25\\%$। प्रति वर्ष लाभ $= 5000 \times 2.25\\% = ₹ 112.50$।"
+    },
+    {
+      "id": "7f9d2296",
+      "question": "What annual installment will discharge a debt of ₹ 6,450 due in 4 years at 5% simple interest?\n5% साधारण ब्याज पर 4 वर्षों में देय ₹ 6,450 के ऋण को चुकता करने के लिए वार्षिक किस्त क्या होगी?",
+      "options": [
+        "₹ 1550",
+        "₹ 1500",
+        "₹ 1450",
+        "₹ 1600"
+      ],
+      "answer": 1,
+      "explanation": "EN: Let installment $= x$. $x + (x + 0.05x) + (x + 0.10x) + (x + 0.15x) = 6450 \\implies 4.30x = 6450 \\implies x = ₹ 1500$.\nHI: माना किस्त $= x$। $x + 1.05x + 1.10x + 1.15x = 6450 \\implies 4.30x = 6450 \\implies x = ₹ 1500$।"
+    },
+    {
+      "id": "4a09891c",
+      "question": "Simple interest on a certain sum is ₹ 1,200 for 3 years. If the principal is trebled after 1 year, what will be the total interest at the end of 3 years?\nएक निश्चित राशि पर 3 वर्षों का साधारण ब्याज ₹ 1,200 है। यदि 1 वर्ष के बाद मूलधन को तीन गुना कर दिया जाए, तो 3 वर्षों के अंत में कुल ब्याज कितना होगा?",
+      "options": [
+        "₹ 3600",
+        "₹ 2400",
+        "₹ 2800",
+        "₹ 3200"
+      ],
+      "answer": 2,
+      "explanation": "EN: SI for 1 year $= 1200 / 3 = ₹ 400$. For next 2 years, principal is trebled, so SI per year $= 400 \times 3 = 1200$. Total SI $= 400 + 1200 + 1200 = ₹ 2800$.\nHI: 1 वर्ष का ब्याज $= ₹ 400$। अगले 2 वर्षों के लिए प्रति वर्ष ब्याज $= 400 \times 3 = 1200$। कुल ब्याज $= 400 + 2400 = ₹ 2800$।"
+    },
+    {
+      "id": "1e057a9f",
+      "question": "A dishonest dealer professes to sell his goods at cost price, but uses a weight of 850 grams for a kilogram weight. Find his gain percent.\nएक बेईमान दुकानदार अपनी वस्तुओं को क्रय मूल्य पर बेचने का दावा करता है, लेकिन 1 किलोग्राम के बाट के स्थान पर 850 ग्राम के बाट का उपयोग करता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "$15\\%$",
+        "$17\\frac{9}{17}\\%$",
+        "$17\\frac{11}{17}\\%$",
+        "$18\\%$"
+      ],
+      "answer": 2,
+      "explanation": "EN: Gain% $= \\frac{150}{850} \times 100 = \\frac{300}{17}\\% = 17\\frac{11}{17}\\%$.\nHI: लाभ% $= \\frac{150}{850} \times 100 = \\frac{300}{17}\\% = 17\\frac{11}{17}\\%$।"
+    },
+    {
+      "id": "1e8ba979",
+      "question": "A man sold two houses for ₹ 9,90,000 each. On one he gained 10% and on the other he lost 10%. What is his overall gain or loss in rupees?\nएक व्यक्ति ने दो मकान प्रत्येक ₹ 9,90,000 में बेचे। एक पर उसे 10% का लाभ हुआ और दूसरे पर 10% की हानि हुई। उसका कुल लाभ या हानि रुपये में क्या है?",
+      "options": [
+        "Loss of ₹ 19,800 / ₹ 19,800 की हानि",
+        "No profit, no loss / न लाभ, न हानि",
+        "Gain of ₹ 20,000 / ₹ 20,000 का लाभ",
+        "Loss of ₹ 20,000 / ₹ 20,000 की हानि"
+      ],
+      "answer": 3,
+      "explanation": "EN: Overall loss% $= \\frac{10^2}{100} = 1\\%$. Total SP $= 19,80,000$, which is $99\\%$ of Total CP. Total CP $= 20,00,000$. Loss $= ₹ 20,000$.\nHI: कुल हानि% $= 1\\%$। कुल विक्रय मूल्य $= 19,80,000$ ($99\\%$), अतः कुल क्रय मूल्य $= 20,00,000$। हानि $= ₹ 20,000$।"
+    },
+    {
+      "id": "a883fc87",
+      "question": "By selling 33 meters of cloth, a shopkeeper gains the selling price of 11 meters. Find his gain percent.\n33 मीटर कपड़ा बेचने पर एक दुकानदार को 11 मीटर कपड़े के विक्रय मूल्य के बराबर लाभ होता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "50%",
+        "40%",
+        "33.33%",
+        "25%"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\text{SP}_{33} - \text{CP}_{33} = \text{SP}_{11} \\implies \text{SP}_{22} = \text{CP}_{33}$. Gain% $= \\frac{11}{22} \times 100 = 50\\%$.\nHI: $\text{SP}_{33} - \text{CP}_{33} = \text{SP}_{11} \\implies \text{SP}_{22} = \text{CP}_{33}$। लाभ% $= \\frac{11}{22} \times 100 = 50\\%$।"
+    },
+    {
+      "id": "19b4bb1f",
+      "question": "A shopkeeper marks his goods 40% above cost price and allows a discount of 25%. If he still makes a profit of ₹ 45, find the cost price of the article.\nएक दुकानदार अपनी वस्तुओं का मूल्य क्रय मूल्य से 40% अधिक अंकित करता है और 25% की छूट देता है। यदि उसे फिर भी ₹ 45 का लाभ होता है, तो वस्तु का क्रय मूल्य ज्ञात कीजिए।",
+      "options": [
+        "₹ 850",
+        "₹ 900",
+        "₹ 950",
+        "₹ 1000"
+      ],
+      "answer": 1,
+      "explanation": "EN: Let CP $= 100$. MP $= 140$. SP $= 140 \times 0.75 = 105$. Profit $= 5\\%$. Since $5\\% = 45$, CP $= \\frac{45}{5} \times 100 = ₹ 900$.\nHI: माना CP $= 100$, MP $= 140$, SP $= 140 \times 0.75 = 105$। लाभ $= 5\\% = 45 \\implies \text{CP} = ₹ 900$।"
+    },
+    {
+      "id": "c28070bc",
+      "question": "A man buys oranges at 11 for ₹ 10 and sells them at 10 for ₹ 11. Find his profit percentage.\nएक व्यक्ति ₹ 10 में 11 संतरे खरीदता है और उन्हें ₹ 11 में 10 की दर से बेचता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "18%",
+        "20%",
+        "22%",
+        "21%"
+      ],
+      "answer": 3,
+      "explanation": "EN: CP of 110 oranges $= ₹ 100$. SP of 110 oranges $= ₹ 121$. Profit% $= 21\\%$.\nHI: 110 संतरों का क्रय मूल्य $= ₹ 100$, विक्रय मूल्य $= ₹ 121$। लाभ प्रतिशत $= 21\\%$।"
+    },
+    {
+      "id": "f56dfcf3",
+      "question": "An article is sold at a profit of 20%. If both the cost price and selling price were ₹ 100 less, the profit would be 4% more. Find the cost price.\nएक वस्तु को 20% के लाभ पर बेचा जाता है। यदि क्रय मूल्य और विक्रय मूल्य दोनों ₹ 100 कम होते, तो लाभ 4% अधिक होता। क्रय मूल्य ज्ञात कीजिए।",
+      "options": [
+        "₹ 500",
+        "₹ 650",
+        "₹ 600",
+        "₹ 750"
+      ],
+      "answer": 2,
+      "explanation": "EN: $\text{CP} = \\frac{\text{Initial Profit\\%} + \text{Increase\\%}}{\text{Increase\\%}} \times \text{Reduction} = \\frac{20 + 4}{4} \times 100 = 6 \times 100 = ₹ 600$.\nHI: $\text{CP} = \\frac{20 + 4}{4} \times 100 = 6 \times 100 = ₹ 600$।"
+    },
+    {
+      "id": "cfb65d7f",
+      "question": "A single discount equivalent to three successive discounts of 20%, 15%, and 10% is:\n20%, 15% और 10% की तीन क्रमिक छूटों के समतुल्य एकल छूट क्या है?",
+      "options": [
+        "40.2%",
+        "36.5%",
+        "38.8%",
+        "45%"
+      ],
+      "answer": 2,
+      "explanation": "EN: Net SP $= 100 \times 0.80 \times 0.85 \times 0.90 = 61.2$. Discount $= 100 - 61.2 = 38.8\\%$.\nHI: शुद्ध विक्रय मूल्य $= 100 \times 0.80 \times 0.85 \times 0.90 = 61.2$। एकल छूट $= 100 - 61.2 = 38.8\\%$।"
+    },
+    {
+      "id": "3f965a18",
+      "question": "If the cost price of 15 articles is equal to the selling price of 12 articles, and the discount on 10 articles is equal to the profit on 5 articles, find the discount percentage.\nयदि 15 वस्तुओं का क्रय मूल्य 12 वस्तुओं के विक्रय मूल्य के बराबर है, और 10 वस्तुओं पर छूट 5 वस्तुओं के लाभ के बराबर है, तो छूट प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "$14.28\\%$",
+        "$9.09\\%$",
+        "$12.5\\%$",
+        "$10\\%$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $15\text{CP} = 12\text{SP} \\implies \text{CP}:\text{SP} = 4:5$. Let $\text{CP}=4, \text{SP}=5 \\implies \text{Profit}=1$. $10D = 5P = 5 \\implies D = 0.5$. $\text{MP} = \text{SP} + D = 5.5$. Discount% $= \\frac{0.5}{5.5} \times 100 = \\frac{100}{11}\\% \\approx 9.09\\%$.\nHI: $\text{CP}:\text{SP} = 4:5 \\implies \text{लाभ}=1$। $10D = 5P \\implies D = 0.5$। $\text{MP} = 5.5$। छूट% $= \\frac{0.5}{5.5} \times 100 = 9.09\\%$।"
+    },
+    {
+      "id": "5ed9143d",
+      "question": "A vendor bought lemons at 6 for a rupee. How many for a rupee must he sell to gain 20%?\nएक विक्रेता ने 1 रुपये में 6 नींबू खरीदे। 20% का लाभ कमाने के लिए उसे 1 रुपये में कितने नींबू बेचने चाहिए?",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "5"
+      ],
+      "answer": 3,
+      "explanation": "EN: CP of 6 lemons $= ₹ 1$. SP of 6 lemons $= ₹ 1.20$. For ₹ 1, he must sell $6 / 1.2 = 5$ lemons.\nHI: 6 नींबुओं का CP $= ₹ 1$, SP $= ₹ 1.20$। अतः ₹ 1 में वह $6 / 1.2 = 5$ नींबू बेचेगा।"
+    },
+    {
+      "id": "1cdd3d65",
+      "question": "A trader sells two varieties of rice mixed in the ratio $3:2$. The first variety costs ₹ 40/kg and the second costs ₹ 50/kg. If he sells the mixture at ₹ 48.40/kg, find his profit percentage.\nएक व्यापारी $3:2$ के अनुपात में मिलाकर चावल की दो किस्में बेचता है। पहली किस्म की कीमत ₹ 40/किग्रा और दूसरी की कीमत ₹ 50/किग्रा है। यदि वह मिश्रण को ₹ 48.40/किग्रा पर बेचता है, तो उसका लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "12%",
+        "15%",
+        "8%",
+        "10%"
+      ],
+      "answer": 3,
+      "explanation": "EN: Mean CP $= \\frac{3 \times 40 + 2 \times 50}{5} = \\frac{220}{5} = ₹ 44$/kg. Profit% $= \\frac{48.40 - 44}{44} \times 100 = 10\\%$.\nHI: औसत क्रय मूल्य $= \\frac{3 \times 40 + 2 \times 50}{5} = ₹ 44$/किग्रा। लाभ% $= \\frac{4.40}{44} \times 100 = 10\\%$।"
+    },
+    {
+      "id": "0d83e824",
+      "question": "The profit earned after selling an article for ₹ 1,754 is the same as the loss incurred after selling the article for ₹ 1,492. What is the cost price of the article?\nएक वस्तु को ₹ 1,754 में बेचने पर अर्जित लाभ, उस वस्तु को ₹ 1,492 में बेचने पर हुई हानि के बराबर है। वस्तु का क्रय मूल्य क्या है?",
+      "options": [
+        "₹ 1523",
+        "₹ 1689",
+        "₹ 1589",
+        "₹ 1623"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\text{CP} = \\frac{1754 + 1492}{2} = \\frac{3246}{2} = ₹ 1623$.\nHI: $\text{CP} = \\frac{1754 + 1492}{2} = ₹ 1623$।"
+    },
+    {
+      "id": "63dedb92",
+      "question": "The price of sugar is increased by 25%. By what percentage must a family reduce its consumption so that the expenditure on sugar increases by only 10%?\nचीनी की कीमत में 25% की वृद्धि हुई है। एक परिवार को अपनी खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि चीनी पर खर्च केवल 10% ही बढ़े?",
+      "options": [
+        "12%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": 0,
+      "explanation": "EN: Initial Expenditure $= 100$. New Price $= 125$, Desired Expenditure $= 110$. Reduction $= \\frac{125 - 110}{125} \times 100 = \\frac{15}{125} \times 100 = 12\\%$.\nHI: नया मूल्य $= 125$, वांछित खर्च $= 110$। खपत में कमी $= \\frac{125 - 110}{125} \times 100 = 12\\%$।"
+    },
+    {
+      "id": "8c9246f2",
+      "question": "In an election between two candidates, 10% of the voters did not cast their votes and 10% of the votes polled were declared invalid. The successful candidate got 54% of the valid votes and won by a majority of 1620 votes. Find the total number of voters enrolled.\nदो उम्मीदवारों के बीच एक चुनाव में, 10% मतदाताओं ने अपना मत नहीं डाला और डाले गए मतों में से 10% अवैध घोषित कर दिए गए। सफल उम्मीदवार को वैध मतों का 54% प्राप्त हुआ और वह 1620 मतों के बहुमत से जीत गया। नामांकित मतदाताओं की कुल संख्या ज्ञात कीजिए।",
+      "options": [
+        "30000",
+        "25000",
+        "22500",
+        "20000"
+      ],
+      "answer": 1,
+      "explanation": "EN: Let total voters $= V$. Valid votes $= V \times 0.9 \times 0.9 = 0.81V$. Winner margin $= (54\\% - 46\\%) = 8\\%$ of valid votes. $0.08 \times 0.81V = 1620 \\implies 0.0648V = 1620 \\implies V = 25000$.\nHI: वैध मत $= 0.81V$। जीत का अंतर $= 0.81V$ का $8\\% = 1620 \\implies 0.0648V = 1620 \\implies V = 25000$।"
+    },
+    {
+      "id": "637a7149",
+      "question": "In an examination, a student scored 30% marks and failed by 45 marks. Another student scored 42% marks and got 45 marks more than the minimum passing marks. Find the maximum marks and passing percentage.\nएक परीक्षा में एक छात्र ने 30% अंक प्राप्त किए और 45 अंकों से अनुत्तीर्ण हो गया। दूसरे छात्र ने 42% अंक प्राप्त किए और न्यूनतम उत्तीर्ण अंकों से 45 अंक अधिक प्राप्त किए। अधिकतम अंक और उत्तीर्ण प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "800, 36%",
+        "750, 36%",
+        "700, 38%",
+        "750, 35%"
+      ],
+      "answer": 1,
+      "explanation": "EN: $42\\% - 30\\% = 12\\% = 45 + 45 = 90 \\implies 100\\% = 750$. Pass marks $= 0.30(750) + 45 = 270$. Pass% $= \\frac{270}{750} \times 100 = 36\\%$.\nHI: $12\\% = 90 \\implies \text{अधिकतम अंक} = 750$। उत्तीर्ण अंक $= 225 + 45 = 270 \\implies 36\\%$।"
+    },
+    {
+      "id": "254b8cd0",
+      "question": "Fresh fruit contains 68% water and dry fruit contains 20% water. How much dry fruit can be obtained from 100 kg of fresh fruits?\nताजे फल में 68% पानी होता है और सूखे मेवे में 20% पानी होता है। 100 किग्रा ताजे फलों से कितना सूखा मेवा प्राप्त किया जा सकता है?",
+      "options": [
+        "40 kg / किग्रा",
+        "52 kg / किग्रा",
+        "32 kg / किग्रा",
+        "45 kg / किग्रा"
+      ],
+      "answer": 0,
+      "explanation": "EN: Pulp in 100 kg fresh fruit $= 32\\%$ of $100 = 32$ kg. In dry fruit, pulp is $80\\%$. So $80\\%$ of $D = 32 \\implies D = 40$ kg.\nHI: ताजे फल में गूदा $= 32$ किग्रा, जो सूखे मेवे का $80\\%$ है। अतः $0.80 \times D = 32 \\implies D = 40$ किग्रा।"
+    },
+    {
+      "id": "6283f0da",
+      "question": "The population of a town increases by 10% in the first year, decreases by 20% in the second year, and increases by 30% in the third year. If the present population is 57,200, what was the population 3 years ago?\nएक कस्बे की जनसंख्या पहले वर्ष में 10% बढ़ती है, दूसरे वर्ष में 20% घटती है और तीसरे वर्ष में 30% बढ़ती है। यदि वर्तमान जनसंख्या 57,200 है, तो 3 वर्ष पहले जनसंख्या कितनी थी?",
+      "options": [
+        "50000",
+        "55000",
+        "48000",
+        "52000"
+      ],
+      "answer": 0,
+      "explanation": "EN: $P \times 1.1 \times 0.8 \times 1.3 = 57200 \\implies P \times 1.144 = 57200 \\implies P = 50000$.\nHI: $P \times 1.1 \times 0.8 \times 1.3 = 57200 \\implies P = 50000$।"
+    },
+    {
+      "id": "3844e81d",
+      "question": "If A's income is 60% less than B's income, then by what percentage is B's income more than A's income?\nयदि A की आय B की आय से 60% कम है, तो B की आय A की आय से कितने प्रतिशत अधिक है?",
+      "options": [
+        "120%",
+        "75%",
+        "150%",
+        "60%"
+      ],
+      "answer": 2,
+      "explanation": "EN: Let $B = 100$, then $A = 40$. B is more than A by $\\frac{60}{40} \times 100 = 150\\%$.\nHI: माना $B = 100$, तो $A = 40$। B, A से $\\frac{60}{40} \times 100 = 150\\%$ अधिक है।"
+    },
+    {
+      "id": "293d5ac7",
+      "question": "A number is first increased by 20% and then decreased by 20%. The net change in the number is:\nएक संख्या में पहले 20% की वृद्धि की जाती है और फिर 20% की कमी की जाती है। संख्या में शुद्ध परिवर्तन है:",
+      "options": [
+        "2% decrease / 2% की कमी",
+        "4% increase / 4% की वृद्धि",
+        "4% decrease / 4% की कमी",
+        "No change / कोई परिवर्तन नहीं"
+      ],
+      "answer": 2,
+      "explanation": "EN: Net change $= +20 - 20 - \\frac{20 \times 20}{100} = -4\\%$ (4% decrease).\nHI: शुद्ध परिवर्तन $= +20 - 20 - \\frac{400}{100} = -4\\%$ (4% की कमी)।"
+    },
+    {
+      "id": "06ffff3a",
+      "question": "In a class, 65% of students passed in Mathematics, 55% passed in Science, and 30% passed in both. If 40 students failed in both subjects, find the total number of students in the class.\nएक कक्षा में, 65% छात्र गणित में उत्तीर्ण हुए, 55% विज्ञान में उत्तीर्ण हुए और 30% दोनों में उत्तीर्ण हुए। यदि 40 छात्र दोनों विषयों में अनुत्तीर्ण हुए, तो कक्षा में छात्रों की कुल संख्या ज्ञात कीजिए।",
+      "options": [
+        "300",
+        "350",
+        "400",
+        "500"
+      ],
+      "answer": 2,
+      "explanation": "EN: Passed in at least one $= 65 + 55 - 30 = 90\\%$. Failed in both $= 10\\% = 40 \\implies 100\\% = 400$.\nHI: कम से कम एक विषय में उत्तीर्ण $= 65 + 55 - 30 = 90\\%$। दोनों में अनुत्तीर्ण $= 10\\% = 40 \\implies 100\\% = 400$।"
+    },
+    {
+      "id": "10e0f119",
+      "question": "When the price of a ticket was reduced by 20%, the sale of tickets increased by 80%. What was the net percentage effect on the revenue?\nजब एक टिकट की कीमत में 20% की कमी की गई, तो टिकटों की बिक्री में 80% की वृद्धि हुई। राजस्व पर शुद्ध प्रतिशत प्रभाव क्या पड़ा?",
+      "options": [
+        "60% increase / 60% की वृद्धि",
+        "44% increase / 44% की वृद्धि",
+        "36% increase / 36% की वृद्धि",
+        "40% increase / 40% की वृद्धि"
+      ],
+      "answer": 1,
+      "explanation": "EN: Net effect $= -20 + 80 - \\frac{20 \times 80}{100} = 60 - 16 = +44\\%$.\nHI: शुद्ध प्रभाव $= -20 + 80 - 16 = +44\\%$ (44% की वृद्धि)।"
+    },
+    {
+      "id": "8f799f4a",
+      "question": "If $x\\%$ of $y$ is $150$ and $y\\%$ of $z$ is $300$, then find the relation between $x$ and $z$.\nयदि $y$ का $x\\%$, $150$ है और $z$ का $y\\%$, $300$ है, तो $x$ और $z$ के बीच संबंध ज्ञात कीजिए।",
+      "options": [
+        "$x = 2z$",
+        "$x = 3z$",
+        "$z = 3x$",
+        "$z = 2x$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{xy}{100} = 150$ and $\\frac{yz}{100} = 300$. Dividing the two equations gives $\\frac{z}{x} = \\frac{300}{150} = 2 \\implies z = 2x$.\nHI: $\\frac{xy}{100} = 150$ और $\\frac{yz}{100} = 300$। भाग देने पर $\\frac{z}{x} = 2 \\implies z = 2x$।"
+    },
+    {
+      "id": "613c6adf",
+      "question": "A man saves 20% of his monthly salary. If on account of dearness of things he has to increase his monthly expenses by 20%, he is only able to save ₹ 200 per month. What is his monthly salary?\nएक व्यक्ति अपने मासिक वेतन का 20% बचाता है। यदि महंगाई के कारण उसे अपने मासिक खर्च में 20% की वृद्धि करनी पड़ती है, तो वह प्रति माह केवल ₹ 200 ही बचा पाता है। उसका मासिक वेतन क्या है?",
+      "options": [
+        "₹ 4500",
+        "₹ 6000",
+        "₹ 5000",
+        "₹ 4000"
+      ],
+      "answer": 2,
+      "explanation": "EN: Let Salary $= 100$. Old Expense $= 80$. New Expense $= 80 \times 1.2 = 96$. New Saving $= 4\\%$. Since $4\\% = 200$, Salary $= ₹ 5000$.\nHI: माना वेतन $= 100$, पुराना खर्च $= 80$, नया खर्च $= 96$, नई बचत $= 4\\% = ₹ 200 \\implies \text{वेतन} = ₹ 5000$।"
+    },
+    {
+      "id": "80eaff24",
+      "question": "If the 9-digit number $708x6y8z9$ is divisible by 99, what is the value of $x + y + z$?\nयदि 9-अंकीय संख्या $708x6y8z9$, 99 से विभाज्य है, तो $x + y + z$ का मान क्या है?",
+      "options": [
+        "9",
+        "16",
+        "18",
+        "27"
+      ],
+      "answer": 1,
+      "explanation": "EN: Divisible by 9: $(7+0+8+x+6+y+8+z+9) = 38 + x + y + z$ is multiple of 9 $\\implies x+y+z \\in \\{7, 16, 25\\}$. Divisible by 11: $(7+8+6+8+9) - (0+x+y+z) = 38 - (x+y+z)$ is multiple of 11 $\\implies x+y+z \\in \\{5, 16, 27\\}$. Common value is 16.\nHI: 9 से विभाज्यता: $38+x+y+z$, 9 का गुणज $\\implies x+y+z \\in \\{7, 16, 25\\}$। 11 से विभाज्यता: $38-(x+y+z)$, 11 का गुणज $\\implies x+y+z \\in \\{5, 16, 27\\}$। उभयनिष्ठ मान = 16।"
+    },
+    {
+      "id": "d23bbf03",
+      "question": "Find the largest 4-digit number which when divided by 12, 15, 18, and 27 leaves a remainder of 7 in each case.\n4 अंकों की वह सबसे बड़ी संख्या ज्ञात कीजिए जिसे 12, 15, 18 और 27 से विभाजित करने पर प्रत्येक स्थिति में शेषफल 7 प्राप्त होता है।",
+      "options": [
+        "9647",
+        "9727",
+        "9937",
+        "9720"
+      ],
+      "answer": 1,
+      "explanation": "EN: LCM(12, 15, 18, 27) = 540. Largest 4-digit multiple of 540: $9999 \\div 540 \\implies 18 \times 540 = 9720$. Required number $= 9720 + 7 = 9727$.\nHI: LCM(12, 15, 18, 27) = 540। 4 अंकों का सबसे बड़ा गुणज = $540 \times 18 = 9720$। अभीष्ट संख्या $= 9720 + 7 = 9727$।"
+    },
+    {
+      "id": "2c0428ba",
+      "question": "If the 7-digit number $54x29y6$ ($x > y$) is divisible by 72, what is the value of $(2x + 3y)$?\nयदि 7-अंकीय संख्या $54x29y6$ ($x > y$), 72 से विभाज्य है, तो $(2x + 3y)$ का मान क्या है?",
+      "options": [
+        "19",
+        "32",
+        "13",
+        "23"
+      ],
+      "answer": 3,
+      "explanation": "EN: For divisibility by 8, $9y6$ must be divisible by 8 $\\implies y \\in \\{3, 7\\}$. For divisibility by 9, $26 + x + y$ is multiple of 9. If $y=3 \\implies 29+x=36 \\implies x=7$ ($7>3$, valid). If $y=7 \\implies 33+x=36 \\implies x=3$ ($3<7$, invalid). So $x=7, y=3 \\implies 2(7)+3(3) = 23$.\nHI: 8 से विभाज्यता के लिए $9y6$ विभाज्य होना चाहिए $\\implies y=3$ या $7$। $x > y$ के लिए $y=3, x=7$ मान्य है। अतः $2(7) + 3(3) = 23$।"
+    },
+    {
+      "id": "28df5ac0",
+      "question": "When a positive integer $n$ is divided by 12, the remainder is 5. What will be the remainder if $8n^2 + 7$ is divided by 12?\nजब एक धनात्मक पूर्णांक $n$ को 12 से विभाजित किया जाता है, तो शेषफल 5 बचता है। यदि $8n^2 + 7$ को 12 से विभाजित किया जाए तो शेषफल क्या होगा?",
+      "options": [
+        "1",
+        "5",
+        "3",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "EN: Take $n = 5$. $8(5^2) + 7 = 207$. $207 \\div 12 = 17 \times 12 + 3$. Remainder = 3.\nHI: $n = 5$ लेने पर, $8(5^2) + 7 = 207$। $207$ को 12 से भाग देने पर शेषफल $= 3$।"
+    },
+    {
+      "id": "06ab06bc",
+      "question": "Which of the following numbers completely divides $4^{61} + 4^{62} + 4^{63} + 4^{64}$?\nनिम्नलिखित में से कौन-सी संख्या $4^{61} + 4^{62} + 4^{63} + 4^{64}$ को पूर्णतः विभाजित करती है?",
+      "options": [
+        "17",
+        "13",
+        "3",
+        "11"
+      ],
+      "answer": 0,
+      "explanation": "EN: $4^{61}(1 + 4 + 16 + 64) = 4^{61} \times 85 = 4^{61} \times 5 \times 17$. Clearly divisible by 17.\nHI: $4^{61}(1 + 4 + 16 + 64) = 4^{61} \times 85 = 4^{61} \times 5 \times 17$, जो 17 से पूर्णतः विभाज्य है।"
+    },
+    {
+      "id": "5bcc47b8",
+      "question": "What is the least value of $*$ so that the number $457643*4$ is divisible by 18?\n$*$ का न्यूनतम मान क्या हो ताकि संख्या $457643*4$, 18 से पूर्णतः विभाज्य हो?",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "9"
+      ],
+      "answer": 0,
+      "explanation": "EN: The number is even, so it is divisible by 2. For divisibility by 9, sum of digits $= 4+5+7+6+4+3+*+4 = 33 + *$. Nearest multiple of 9 is 36, so $* = 3$.\nHI: संख्या सम है अतः 2 से विभाज्य है। 9 से विभाज्यता के लिए अंकों का योग $= 33 + *$। निकटतम गुणज 36 है, अतः $* = 3$।"
+    },
+    {
+      "id": "52aacc8a",
+      "question": "A six-digit number is formed by repeating a three-digit number (for example, 347347). Any number of this form is always exactly divisible by:\nएक तीन-अंकीय संख्या को दोहराकर एक छह-अंकीय संख्या बनाई जाती है (जैसे 347347)। इस रूप की कोई भी संख्या सदैव किससे पूर्णतः विभाज्य होती है?",
+      "options": [
+        "111",
+        "1001",
+        "101",
+        "10001"
+      ],
+      "answer": 1,
+      "explanation": "EN: $abcabc = 1000 \times abc + abc = 1001 \times abc$. Thus always divisible by 1001 ($7 \times 11 \times 13$).\nHI: $abcabc = 1001 \times abc$, अतः यह सदैव 1001 ($7 \times 11 \times 13$) से विभाज्य होती है।"
+    },
+    {
+      "id": "ad763cf1",
+      "question": "Find the remainder when $7^{84}$ is divided by 342.\nजब $7^{84}$ को 342 से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+      "options": [
+        "49",
+        "341",
+        "7",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "EN: $7^{84} = (7^3)^{28} = (343)^{28}$. Since $343 \\equiv 1 \\pmod{342}$, remainder $= 1^{28} = 1$.\nHI: $7^{84} = (7^3)^{28} = (343)^{28}$। चूँकि $343 \\equiv 1 \\pmod{342}$, शेषफल $= 1$।"
+    },
+    {
+      "id": "c5ced843",
+      "question": "If $x$ and $y$ are the two digits of the number $653xy$ such that this number is divisible by 80, then what is $x + y$?\nयदि संख्या $653xy$ के दो अंक $x$ और $y$ इस प्रकार हैं कि यह संख्या 80 से विभाज्य है, तो $x + y$ का मान क्या है?",
+      "options": [
+        "4",
+        "2",
+        "8",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "EN: Divisible by 80 means divisible by 10 and 8 $\\implies y = 0$. Now $3x0$ must be divisible by 8 $\\implies x \\in \\{2, 6\\}$. Wait: let's check $65320 \\div 80 = 816.5$ (not divisible! Because $6532 / 8 = 816.5$). $65360 \\div 80 = 817$ (divisible!). So $x = 6, y = 0 \\implies x + y = 6$.\nHI: 80 से विभाज्य होने के लिए $y = 0$ होना चाहिए और $653x$, 8 से विभाज्य होना चाहिए। $6536 \\div 8 = 817$, अतः $x = 6, y = 0 \\implies x + y = 6$।"
+    },
+    {
+      "id": "78f6d73b",
+      "question": "How many numbers between 200 and 800 are divisible by both 5 and 7?\n200 और 800 के बीच ऐसी कितनी संख्याएँ हैं जो 5 और 7 दोनों से विभाज्य हैं?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": 2,
+      "explanation": "EN: LCM(5, 7) = 35. Multiples of 35 up to 800: $\\lfloor 800/35 \rfloor = 22$. Up to 200: $\\lfloor 200/35 \rfloor = 5$. Between 200 and 800: $22 - 5 = 17$.\nHI: LCM(5, 7) = 35। 800 तक 35 के गुणज $= 22$ और 200 तक $= 5$। बीच में $= 22 - 5 = 17$।"
+    },
+    {
+      "id": "950f16b5",
+      "question": "What is the remainder when $19^{35}$ is divided by 18?\nजब $19^{35}$ को 18 से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+      "options": [
+        "0",
+        "17",
+        "9",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "EN: $19 \\equiv 1 \\pmod{18} \\implies 19^{35} \\equiv 1^{35} = 1 \\pmod{18}$.\nHI: $19 \\equiv 1 \\pmod{18} \\implies 19^{35} \\equiv 1^{35} = 1 \\pmod{18}$।"
+    },
+    {
+      "id": "84dc85a0",
+      "question": "Factorize completely: $x^4 + 4y^4$.\nपूर्णतः गुणनखंड कीजिए: $x^4 + 4y^4$।",
+      "options": [
+        "$(x + 2y)^2(x - 2y)^2$",
+        "$(x^2 - 2y^2)(x^2 + 2y^2)$",
+        "$(x^2 + 2y^2 - 2xy)(x^2 + 2y^2 + 2xy)$",
+        "$(x^2 + 2xy - 2y^2)(x^2 - 2xy - 2y^2)$"
+      ],
+      "answer": 2,
+      "explanation": "EN: Sophie Germain identity: $x^4 + 4y^4 = (x^2 + 2y^2)^2 - (2xy)^2 = (x^2 + 2y^2 - 2xy)(x^2 + 2y^2 + 2xy)$.\nHI: सोफी जर्मेन सर्वसमिका: $x^4 + 4y^4 = (x^2 + 2y^2)^2 - (2xy)^2 = (x^2 + 2y^2 - 2xy)(x^2 + 2y^2 + 2xy)$।"
+    },
+    {
+      "id": "49724d3d",
+      "question": "One of the factors of $(a^2 - b^2)(c^2 - d^2) - 4abcd$ is:\n$(a^2 - b^2)(c^2 - d^2) - 4abcd$ का एक गुणनखंड है:",
+      "options": [
+        "$(ac + bd + ad + bc)$",
+        "$(ac - bd + ad + bc)$",
+        "$(ac + bd - ad - bc)$",
+        "$(ac - bd - ad + bc)$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $a^2c^2 - a^2d^2 - b^2c^2 + b^2d^2 - 2abcd - 2abcd = (ac - bd)^2 - (ad + bc)^2 = (ac - bd + ad + bc)(ac - bd - ad - bc)$.\nHI: $(ac - bd)^2 - (ad + bc)^2 = (ac - bd + ad + bc)(ac - bd - ad - bc)$।"
+    },
+    {
+      "id": "c750f3e8",
+      "question": "Find the factors of $x^3 - 6x^2 + 11x - 6$.\n$x^3 - 6x^2 + 11x - 6$ के गुणनखंड ज्ञात कीजिए।",
+      "options": [
+        "$(x + 1)(x - 2)(x - 3)$",
+        "$(x - 1)(x - 2)(x - 3)$",
+        "$(x + 1)(x + 2)(x + 3)$",
+        "$(x - 1)(x + 2)(x - 3)$"
+      ],
+      "answer": 1,
+      "explanation": "EN: Roots are $x = 1, 2, 3$ as $1 + 2 + 3 = 6$, $1(2)+2(3)+3(1) = 11$, $1 \\cdot 2 \\cdot 3 = 6$. Factors: $(x-1)(x-2)(x-3)$.\nHI: मूल $x = 1, 2, 3$ हैं, अतः गुणनखंड $(x - 1)(x - 2)(x - 3)$ हैं।"
+    },
+    {
+      "id": "b917cece",
+      "question": "If $(x - 2)$ is a factor of $x^3 + kx^2 - 2x - 24$, find the value of $k$.\nयदि $(x - 2)$, बहुपद $x^3 + kx^2 - 2x - 24$ का एक गुणनखंड है, तो $k$ का मान ज्ञात कीजिए।",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "EN: By Factor Theorem, $P(2) = 0 \\implies 8 + 4k - 4 - 24 = 0 \\implies 4k = 20 \\implies k = 5$.\nHI: गुणनखंड प्रमेय से, $P(2) = 0 \\implies 8 + 4k - 4 - 24 = 0 \\implies 4k = 20 \\implies k = 5$।"
+    },
+    {
+      "id": "6781fd27",
+      "question": "Factorize: $8x^3 + 27y^3 + 36x^2y + 54xy^2$.\nगुणनखंड कीजिए: $8x^3 + 27y^3 + 36x^2y + 54xy^2$।",
+      "options": [
+        "$(2x - 3y)^3$",
+        "$(2x + 3y)(4x^2 - 6xy + 9y^2)$",
+        "$(3x + 2y)^3$",
+        "$(2x + 3y)^3$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $(2x)^3 + (3y)^3 + 3(2x)(3y)(2x + 3y) = (2x + 3y)^3$.\nHI: $(2x)^3 + (3y)^3 + 3(2x)(3y)(2x + 3y) = (2x + 3y)^3$।"
+    },
+    {
+      "id": "04962f9f",
+      "question": "What is the HCF of $(x^3 - 1)$ and $(x^4 + x^2 + 1)$?\n$(x^3 - 1)$ और $(x^4 + x^2 + 1)$ का म.स. (HCF) क्या है?",
+      "options": [
+        "$x + 1$",
+        "$x^2 + x + 1$",
+        "$x^2 - x + 1$",
+        "$x - 1$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $x^3 - 1 = (x - 1)(x^2 + x + 1)$ and $x^4 + x^2 + 1 = (x^2 + x + 1)(x^2 - x + 1)$. HCF $= x^2 + x + 1$.\nHI: $x^3 - 1 = (x - 1)(x^2 + x + 1)$ और $x^4 + x^2 + 1 = (x^2 + x + 1)(x^2 - x + 1)$। म.स. $= x^2 + x + 1$।"
+    },
+    {
+      "id": "1b8aa4e7",
+      "question": "Factorize: $a^3(b - c) + b^3(c - a) + c^3(a - b)$.\nगुणनखंड कीजिए: $a^3(b - c) + b^3(c - a) + c^3(a - b)$।",
+      "options": [
+        "$-(a - b)(b - c)(c - a)$",
+        "$(a - b)(b - c)(c - a)(a + b + c)$",
+        "$-(a - b)(b - c)(c - a)(a + b + c)$",
+        "$(a + b)(b + c)(c + a)(a + b + c)$"
+      ],
+      "answer": 2,
+      "explanation": "EN: Standard cyclic symmetric polynomial identity: $a^3(b - c) + b^3(c - a) + c^3(a - b) = -(a - b)(b - c)(c - a)(a + b + c)$.\nHI: चक्रीय सममित बहुपद सर्वसमिका से: $-(a - b)(b - c)(c - a)(a + b + c)$।"
+    },
+    {
+      "id": "49e926d0",
+      "question": "Find the sum of all prime factors of $210^4$.\n$210^4$ के सभी अभाज्य गुणनखंडों का योग ज्ञात कीजिए।",
+      "options": [
+        "15",
+        "17",
+        "68",
+        "21"
+      ],
+      "answer": 1,
+      "explanation": "EN: $210 = 2 \times 3 \times 5 \times 7$. Distinct prime factors of $210^4$ are $2, 3, 5, 7$. Sum $= 2 + 3 + 5 + 7 = 17$.\nHI: $210 = 2 \times 3 \times 5 \times 7$। अभाज्य गुणनखंड $2, 3, 5, 7$ हैं। योग $= 2 + 3 + 5 + 7 = 17$।"
+    },
+    {
+      "id": "5d0032e5",
+      "question": "Factorize: $x^2 + \\frac{1}{x^2} - 2 - 3x + \\frac{3}{x}$.\nगुणनखंड कीजिए: $x^2 + \\frac{1}{x^2} - 2 - 3x + \\frac{3}{x}$।",
+      "options": [
+        "$\\left(x - \\frac{1}{x} + 3\\right)\\left(x - \\frac{1}{x} - 1\\right)$",
+        "$\\left(x + \\frac{1}{x}\\right)\\left(x - \\frac{1}{x} - 3\\right)$",
+        "$\\left(x - \\frac{1}{x}\\right)\\left(x + \\frac{1}{x} + 3\\right)$",
+        "$\\left(x - \\frac{1}{x}\\right)\\left(x - \\frac{1}{x} - 3\\right)$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\left(x - \\frac{1}{x}\\right)^2 - 3\\left(x - \\frac{1}{x}\\right) = \\left(x - \\frac{1}{x}\\right)\\left(x - \\frac{1}{x} - 3\\right)$.\nHI: $\\left(x - \\frac{1}{x}\\right)^2 - 3\\left(x - \\frac{1}{x}\\right) = \\left(x - \\frac{1}{x}\\right)\\left(x - \\frac{1}{x} - 3\\right)$।"
+    },
+    {
+      "id": "78b2aad7",
+      "question": "For what value of $m$ is $x^3 - 2mx^2 + 16$ divisible by $(x + 2)$?\n$m$ के किस मान के लिए $x^3 - 2mx^2 + 16$, $(x + 2)$ से विभाज्य है?",
+      "options": [
+        "2",
+        "0",
+        "1",
+        "-1"
+      ],
+      "answer": 2,
+      "explanation": "EN: Put $x = -2$: $(-2)^3 - 2m(-2)^2 + 16 = 0 \\implies -8 - 8m + 16 = 0 \\implies 8m = 8 \\implies m = 1$.\nHI: $x = -2$ रखने पर: $-8 - 8m + 16 = 0 \\implies 8m = 8 \\implies m = 1$।"
+    },
+    {
+      "id": "f0cd5296",
+      "question": "If 12 men or 18 women can finish a piece of work in 14 days, in how many days will 8 men and 16 women finish the same work?\nयदि 12 पुरुष या 18 महिलाएँ किसी कार्य को 14 दिनों में पूरा कर सकते हैं, तो 8 पुरुष और 16 महिलाएँ उसी कार्य को कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "12 days / दिन",
+        "8 days / दिन",
+        "9 days / दिन",
+        "10 days / दिन"
+      ],
+      "answer": 2,
+      "explanation": "EN: $12M = 18W \\implies 2M = 3W \\implies 8M = 12W$. Total workforce $= 12W + 16W = 28W$. Days $= \\frac{18 \times 14}{28} = 9$ days.\nHI: $12M = 18W \\implies 8M = 12W$। कुल $= 28W$। दिन $= \\frac{18 \times 14}{28} = 9$ दिन।"
+    },
+    {
+      "id": "1013f9c9",
+      "question": "A garrison of 3300 men has provisions for 32 days when given at a rate of 850 grams per head. At the end of 7 days, a reinforcement arrives and it was found that the provisions will last 17 days more when given at the rate of 825 grams per head. What is the strength of the reinforcement?\n3300 सैनिकों की एक छावनी में प्रति व्यक्ति 850 ग्राम की दर से 32 दिनों की रसद है। 7 दिनों के बाद, कुछ और सैनिक आ जाते हैं और यह पाया जाता है कि प्रति व्यक्ति 825 ग्राम की दर से रसद केवल 17 दिन और चलेगी। नए आए सैनिकों की संख्या कितनी है?",
+      "options": [
+        "1700",
+        "2000",
+        "1800",
+        "1500"
+      ],
+      "answer": 0,
+      "explanation": "EN: Remaining food $= 3300 \times 25 \times 850$. Let reinforcement be $x$. $(3300 + x) \times 17 \times 825 = 3300 \times 25 \times 850 \\implies 3300 + x = \\frac{3300 \times 25 \times 850}{17 \times 825} = 4 \times 25 \times 50 = 5000 \\implies x = 1700$.\nHI: शेष रसद $= 3300 \times 25 \times 850 = (3300 + x) \times 17 \times 825 \\implies 3300 + x = 5000 \\implies x = 1700$।"
+    },
+    {
+      "id": "54b11b43",
+      "question": "If 20 pumps working 7 hours a day can empty a reservoir in 18 days, how many hours a day must 21 pumps work to empty the same reservoir in 15 days?\nयदि 20 पंप प्रतिदिन 7 घंटे काम करके एक जलाशय को 18 दिनों में खाली कर सकते हैं, तो 21 पंपों को उसी जलाशय को 15 दिनों में खाली करने के लिए प्रतिदिन कितने घंटे काम करना होगा?",
+      "options": [
+        "9 hours / घंटे",
+        "8 hours / घंटे",
+        "7.5 hours / घंटे",
+        "10 hours / घंटे"
+      ],
+      "answer": 1,
+      "explanation": "EN: $M_1 D_1 H_1 = M_2 D_2 H_2 \\implies 20 \times 18 \times 7 = 21 \times 15 \times H_2 \\implies H_2 = \\frac{20 \times 18 \times 7}{21 \times 15} = 8$ hours.\nHI: $20 \times 18 \times 7 = 21 \times 15 \times H_2 \\implies H_2 = 8$ घंटे।"
+    },
+    {
+      "id": "b2862d51",
+      "question": "A contractor undertook to complete a project in 90 days and employed 60 men on it. After 60 days, he found that $\\frac{3}{4}$ of the work has already been completed. How many men can he discharge so that the project may be completed exactly on time?\nएक ठेकेदार ने 90 दिनों में एक परियोजना को पूरा करने का ठेका लिया और उस पर 60 पुरुषों को नियुक्त किया। 60 दिनों के बाद, उसने पाया कि $\\frac{3}{4}$ काम पहले ही पूरा हो चुका है। वह कितने पुरुषों को काम से हटा सकता है ताकि परियोजना ठीक समय पर पूरी हो जाए?",
+      "options": [
+        "15",
+        "25",
+        "30",
+        "20"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{60 \times 60}{3/4} = \\frac{M_2 \times 30}{1/4} \\implies 60 \times 60 = 3 \times M_2 \times 30 \\implies M_2 = 40$. Discharged $= 60 - 40 = 20$ men.\nHI: $\\frac{60 \times 60}{3} = \\frac{M_2 \times 30}{1} \\implies M_2 = 40$। हटाए गए पुरुष $= 60 - 40 = 20$।"
+    },
+    {
+      "id": "e8f1d63b",
+      "question": "If 18 binders bind 900 books in 10 days, how many binders will be required to bind 660 books in 12 days?\nयदि 18 जिल्दसाज 10 दिनों में 900 पुस्तकों की जिल्द बांधते हैं, तो 12 दिनों में 660 पुस्तकों की जिल्द बांधने के लिए कितने जिल्दसाजों की आवश्यकता होगी?",
+      "options": [
+        "13",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{18 \times 10}{900} = \\frac{M_2 \times 12}{660} \\implies \\frac{1}{5} = \\frac{M_2}{55} \\implies M_2 = 11$.\nHI: $\\frac{18 \times 10}{900} = \\frac{M_2 \times 12}{660} \\implies M_2 = 11$।"
+    },
+    {
+      "id": "54dffbf2",
+      "question": "A rope makes 70 rounds of the circumference of a cylinder whose radius of the base is 14 cm. How many times can it go round a cylinder with radius 20 cm?\nएक रस्सी 14 सेमी आधार त्रिज्या वाले बेलन की परिधि के 70 चक्कर लगाती है। यह 20 सेमी त्रिज्या वाले बेलन के कितने चक्कर लगा सकती है?",
+      "options": [
+        "50",
+        "56",
+        "49",
+        "42"
+      ],
+      "answer": 2,
+      "explanation": "EN: Length of rope is constant: $n_1 r_1 = n_2 r_2 \\implies 70 \times 14 = n_2 \times 20 \\implies n_2 = \\frac{980}{20} = 49$.\nHI: $n_1 r_1 = n_2 r_2 \\implies 70 \times 14 = n_2 \times 20 \\implies n_2 = 49$।"
+    },
+    {
+      "id": "ead6461a",
+      "question": "15 cows eat as much as 21 buffaloes. How many cows will eat as much as 35 buffaloes?\n15 गायें उतना ही खाती हैं जितना 21 भैंसें। 35 भैंसों के बराबर कितनी गायें खाएंगी?",
+      "options": [
+        "30",
+        "25",
+        "24",
+        "28"
+      ],
+      "answer": 1,
+      "explanation": "EN: $\\frac{15}{21} \times 35 = 5 \times 5 = 25$ cows.\nHI: $\\frac{15}{21} \times 35 = 25$ गायें।"
+    },
+    {
+      "id": "1076614f",
+      "question": "If 6 engines consume 15 metric tonnes of coal when each is running 9 hours a day, how much coal will be needed for 8 engines, each running 10 hours a day, it being given that 3 engines of the former type consume as much as 4 engines of the latter type?\nयदि 6 इंजन प्रतिदिन 9 घंटे चलने पर 15 मीट्रिक टन कोयले की खपत करते हैं, तो प्रतिदिन 10 घंटे चलने वाले 8 इंजनों के लिए कितने कोयले की आवश्यकता होगी, यह देखते हुए कि पहले प्रकार के 3 इंजन दूसरे प्रकार के 4 इंजनों के बराबर खपत करते हैं?",
+      "options": [
+        "$18$ tonnes / टन",
+        "$20$ tonnes / टन",
+        "$16\\frac{2}{3}$ tonnes / टन",
+        "$15\\frac{1}{3}$ tonnes / टन"
+      ],
+      "answer": 2,
+      "explanation": "EN: Efficiency ratio $E_1 : E_2 = 4 : 3$. $\\frac{6 \times 4 \times 9}{15} = \\frac{8 \times 3 \times 10}{W_2} \\implies \\frac{216}{15} = \\frac{240}{W_2} \\implies W_2 = \\frac{240 \times 15}{216} = \\frac{50}{3} = 16\\frac{2}{3}$ tonnes.\nHI: क्षमता अनुपात $E_1 : E_2 = 4 : 3$। $\\frac{6 \times 4 \times 9}{15} = \\frac{8 \times 3 \times 10}{W_2} \\implies W_2 = 16\\frac{2}{3}$ टन।"
+    },
+    {
+      "id": "25b75842",
+      "question": "A wheel that has 6 cogs is meshed with a larger wheel of 14 cogs. When the smaller wheel has made 21 revolutions, how many revolutions has the larger wheel made?\n6 दांतों वाला एक पहिया 14 दांतों वाले एक बड़े पहिये के साथ जुड़ा हुआ है। जब छोटा पहिया 21 चक्कर लगा चुका है, तो बड़े पहिये ने कितने चक्कर लगाए हैं?",
+      "options": [
+        "7",
+        "49",
+        "12",
+        "9"
+      ],
+      "answer": 3,
+      "explanation": "EN: $6 \times 21 = 14 \times R_2 \\implies R_2 = \\frac{126}{14} = 9$.\nHI: $6 \times 21 = 14 \times R_2 \\implies R_2 = 9$।"
+    },
+    {
+      "id": "328186ea",
+      "question": "If the cost of 15 kg of rice is ₹ 720 and the cost of 12 kg of wheat is ₹ 384, what is the total cost of 8 kg of rice and 15 kg of wheat?\nयदि 15 किग्रा चावल का मूल्य ₹ 720 है और 12 किग्रा गेहूँ का मूल्य ₹ 384 है, तो 8 किग्रा चावल और 15 किग्रा गेहूँ का कुल मूल्य क्या है?",
+      "options": [
+        "₹ 852",
+        "₹ 880",
+        "₹ 864",
+        "₹ 840"
+      ],
+      "answer": 2,
+      "explanation": "EN: Rice rate $= 720/15 = ₹ 48$/kg. Wheat rate $= 384/12 = ₹ 32$/kg. Total $= 8(48) + 15(32) = 384 + 480 = ₹ 864$.\nHI: चावल की दर $= ₹ 48$/किग्रा, गेहूँ की दर $= ₹ 32$/किग्रा। कुल मूल्य $= 8(48) + 15(32) = ₹ 864$।"
+    },
+    {
+      "id": "4a9541d4",
+      "question": "If the roots of the quadratic equation $(b - c)x^2 + (c - a)x + (a - b) = 0$ are equal, then which of the following is true?\nयदि द्विघात समीकरण $(b - c)x^2 + (c - a)x + (a - b) = 0$ के मूल बराबर हैं, तो निम्नलिखित में से कौन-सा सत्य है?",
+      "options": [
+        "$2c = a + b$",
+        "$2b = a + c$",
+        "$b^2 = ac$",
+        "$2a = b + c$"
+      ],
+      "answer": 1,
+      "explanation": "EN: Sum of coefficients $(b-c)+(c-a)+(a-b) = 0 \\implies x = 1$ is a root. Since roots are equal, product of roots $= 1 \times 1 = \\frac{a-b}{b-c} = 1 \\implies a - b = b - c \\implies 2b = a + c$.\nHI: गुणांकों का योग 0 है अतः $x = 1$ एक मूल है। दोनों मूल बराबर हैं, अतः मूलों का गुणनफल $\\frac{a-b}{b-c} = 1 \\implies 2b = a + c$।"
+    },
+    {
+      "id": "8b87acb5",
+      "question": "For what value of $k$ does the system of equations $3x + 5y = 0$ and $kx + 10y = 0$ have a non-zero solution?\n$k$ के किस मान के लिए समीकरण निकाय $3x + 5y = 0$ और $kx + 10y = 0$ का एक शून्येतर (non-zero) हल है?",
+      "options": [
+        "6",
+        "10",
+        "3",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "EN: For homogeneous system to have non-trivial solutions, $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\implies \\frac{3}{k} = \\frac{5}{10} \\implies k = 6$.\nHI: शून्येतर हल के लिए $\\frac{3}{k} = \\frac{5}{10} \\implies k = 6$।"
+    },
+    {
+      "id": "c1e05a7d",
+      "question": "If $\\alpha$ and $\\beta$ are the roots of $2x^2 - 5x + 7 = 0$, find the value of $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$.\nयदि $\\alpha$ और $\\beta$ समीकरण $2x^2 - 5x + 7 = 0$ के मूल हैं, तो $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "$\\frac{3}{14}$",
+        "$-\\frac{3}{14}$",
+        "$-\\frac{25}{14}$",
+        "$\\frac{11}{14}$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $\\alpha + \\beta = 5/2$, $\\alpha\\beta = 7/2$. $\\frac{\\alpha^2 + \\beta^2}{\\alpha\\beta} = \\frac{(\\alpha+\\beta)^2 - 2\\alpha\\beta}{\\alpha\\beta} = \\frac{25/4 - 7}{7/2} = \\frac{-3/4}{7/2} = -\\frac{3}{14}$.\nHI: $\\alpha + \\beta = 5/2, \\alpha\\beta = 7/2$। $\\frac{(\\alpha+\\beta)^2 - 2\\alpha\\beta}{\\alpha\\beta} = \\frac{25/4 - 7}{7/2} = -\\frac{3}{14}$।"
+    },
+    {
+      "id": "f9c2dfc7",
+      "question": "Solve for $x$ ($x > 2$): $\\sqrt{3x + 1} - \\sqrt{x - 1} = 2$.\n$x$ ($x > 2$) के लिए हल कीजिए: $\\sqrt{3x + 1} - \\sqrt{x - 1} = 2$।",
+      "options": [
+        "8",
+        "4",
+        "5",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "EN: For $x = 5 > 2$: $\\sqrt{16} - \\sqrt{4} = 4 - 2 = 2$.\nHI: $x = 5$ रखने पर: $\\sqrt{16} - \\sqrt{4} = 4 - 2 = 2$।"
+    },
+    {
+      "id": "88117e80",
+      "question": "If $3^{x - y} = 27$ and $3^{x + y} = 243$, then what is the value of $x^2 - y^2$?\nयदि $3^{x - y} = 27$ और $3^{x + y} = 243$ है, तो $x^2 - y^2$ का मान क्या है?",
+      "options": [
+        "16",
+        "20",
+        "15",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "EN: $3^{x-y} = 3^3 \\implies x - y = 3$. $3^{x+y} = 3^5 \\implies x + y = 5$. Thus $x^2 - y^2 = (x-y)(x+y) = 3 \times 5 = 15$.\nHI: $x - y = 3$ और $x + y = 5$। अतः $x^2 - y^2 = (x-y)(x+y) = 3 \times 5 = 15$।"
+    },
+    {
+      "id": "a2c92103",
+      "question": "Find the sum of the infinite geometric series: $1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots \\infty$.\nअनंत गुणोत्तर श्रेणी का योग ज्ञात कीजिए: $1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{27} + \\dots \\infty$।",
+      "options": [
+        "$\\frac{5}{3}$",
+        "$\\frac{3}{2}$",
+        "$2$",
+        "$\\frac{4}{3}$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $S_\\infty = \\frac{a}{1 - r} = \\frac{1}{1 - 1/3} = \\frac{3}{2}$.\nHI: $S_\\infty = \\frac{a}{1 - r} = \\frac{1}{1 - 1/3} = \\frac{3}{2}$।"
+    },
+    {
+      "id": "a2c0abb3",
+      "question": "If $x = \\frac{\\sqrt{5} + 1}{\\sqrt{5} - 1}$ and $y = \\frac{\\sqrt{5} - 1}{\\sqrt{5} + 1}$, find the value of $x^2 + y^2 - 4$.\nयदि $x = \\frac{\\sqrt{5} + 1}{\\sqrt{5} - 1}$ और $y = \\frac{\\sqrt{5} - 1}{\\sqrt{5} + 1}$ है, तो $x^2 + y^2 - 4$ का मान ज्ञात कीजिए।",
+      "options": [
+        "1",
+        "7",
+        "3",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "EN: $x + y = \\frac{(\\sqrt{5}+1)^2 + (\\sqrt{5}-1)^2}{5 - 1} = \\frac{12}{4} = 3$, and $xy = 1$. So $x^2 + y^2 - 4 = (x+y)^2 - 2xy - 4 = 9 - 2 - 4 = 3$.\nHI: $x + y = \\frac{12}{4} = 3, xy = 1$। अतः $x^2 + y^2 - 4 = 3^2 - 2(1) - 4 = 3$।"
+    },
+    {
+      "id": "47618233",
+      "question": "The sum of a number and its reciprocal is $\\frac{10}{3}$. Find the number if it is greater than 1.\nएक संख्या और उसके व्युत्क्रम का योग $\\frac{10}{3}$ है। यदि संख्या 1 से बड़ी है, तो संख्या ज्ञात कीजिए।",
+      "options": [
+        "3",
+        "2",
+        "$\\frac{1}{3}$",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "EN: $x + \\frac{1}{x} = \\frac{10}{3} \\implies 3 + \\frac{1}{3} = \\frac{10}{3}$. Since $x > 1$, $x = 3$.\nHI: $x + \\frac{1}{x} = \\frac{10}{3} \\implies x = 3$ (चूँकि $x > 1$)।"
+    },
+    {
+      "id": "67b65f64",
+      "question": "For what value of $k$ will the lines $2x + 3y = 7$ and $(k - 1)x + (k + 2)y = 3k$ have infinitely many solutions?\n$k$ के किस मान के लिए रेखाओं $2x + 3y = 7$ और $(k - 1)x + (k + 2)y = 3k$ के अपरिमित रूप से अनेक हल होंगे?",
+      "options": [
+        "8",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{2}{k-1} = \\frac{3}{k+2} \\implies 2k + 4 = 3k - 3 \\implies k = 7$. Checking third ratio: $\\frac{7}{21} = \\frac{1}{3} = \\frac{2}{6}$, valid.\nHI: $\\frac{2}{k-1} = \\frac{3}{k+2} \\implies 2k + 4 = 3k - 3 \\implies k = 7$।"
+    },
+    {
+      "id": "15e923d3",
+      "question": "If $\\log_{10} 2 = 0.3010$, find the number of digits in $2^{64}$.\nयदि $\\log_{10} 2 = 0.3010$ है, तो $2^{64}$ में अंकों की संख्या ज्ञात कीजिए।",
+      "options": [
+        "20",
+        "19",
+        "21",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\\log_{10}(2^{64}) = 64 \times 0.3010 = 19.264$. Number of digits $= \\lfloor 19.264 \rfloor + 1 = 20$.\nHI: $\\log_{10}(2^{64}) = 64 \times 0.3010 = 19.264$। अंकों की संख्या $= 19 + 1 = 20$।"
+    },
+    {
+      "id": "33632edc",
+      "question": "If the 5th term of an Arithmetic Progression is 19 and the 9th term is 35, find the 15th term.\nयदि किसी समांतर श्रेणी (AP) का 5वाँ पद 19 है और 9वाँ पद 35 है, तो 15वाँ पद ज्ञात कीजिए।",
+      "options": [
+        "63",
+        "55",
+        "51",
+        "59"
+      ],
+      "answer": 3,
+      "explanation": "EN: $4d = 35 - 19 = 16 \\implies d = 4$. $a_{15} = a_9 + 6d = 35 + 24 = 59$.\nHI: $4d = 16 \\implies d = 4$। $a_{15} = 35 + 6(4) = 59$।"
+    },
+    {
+      "id": "54458e66",
+      "question": "The length of a rectangular field is increased by 20% and its breadth is decreased by 10%. What is the percentage change in its area?\nएक आयताकार मैदान की लंबाई में 20% की वृद्धि की जाती है और इसकी चौड़ाई में 10% की कमी की जाती है। इसके क्षेत्रफल में कितने प्रतिशत परिवर्तन होगा?",
+      "options": [
+        "8% increase / 8% की वृद्धि",
+        "12% increase / 12% की वृद्धि",
+        "8% decrease / 8% की कमी",
+        "10% increase / 10% की वृद्धि"
+      ],
+      "answer": 0,
+      "explanation": "EN: Net change $= +20 - 10 - \\frac{20 \times 10}{100} = 10 - 2 = +8\\%$.\nHI: शुद्ध परिवर्तन $= +20 - 10 - 2 = +8\\%$ (8% की वृद्धि)।"
+    },
+    {
+      "id": "d0e2c9f2",
+      "question": "A horse is tethered to one corner of a square grass field of side 20 m by means of a 14 m long rope. Find the area of the field that the horse cannot graze. ($\\pi = \\frac{22}{7}$)\n20 मीटर भुजा वाले एक वर्गाकार घास के मैदान के एक कोने पर 14 मीटर लंबी रस्सी से एक घोड़ा बंधा हुआ है। मैदान के उस भाग का क्षेत्रफल ज्ञात कीजिए जहाँ घोड़ा चर नहीं सकता। ($\\pi = \\frac{22}{7}$)",
+      "options": [
+        "$256\text{ m}^2$",
+        "$154\text{ m}^2$",
+        "$236\text{ m}^2$",
+        "$246\text{ m}^2$"
+      ],
+      "answer": 3,
+      "explanation": "EN: Area of square $= 20^2 = 400\text{ m}^2$. Grazed quadrant area $= \\frac{1}{4} \times \\frac{22}{7} \times 14^2 = 154\text{ m}^2$. Ungrazed area $= 400 - 154 = 246\text{ m}^2$.\nHI: वर्ग का क्षेत्रफल $= 400\text{ m}^2$, चरा गया क्षेत्र $= \\frac{1}{4} \times \\frac{22}{7} \times 14^2 = 154\text{ m}^2$। शेष क्षेत्रफल $= 400 - 154 = 246\text{ m}^2$।"
+    },
+    {
+      "id": "e4b71fa0",
+      "question": "The sides of a triangle are in the ratio $3 : 4 : 5$ and its area is $216\text{ cm}^2$. Find its perimeter.\nएक त्रिभुज की भुजाएँ $3 : 4 : 5$ के अनुपात में हैं और इसका क्षेत्रफल $216\text{ cm}^2$ है। इसका परिमाप ज्ञात कीजिए।",
+      "options": [
+        "72 cm / सेमी",
+        "60 cm / सेमी",
+        "96 cm / सेमी",
+        "84 cm / सेमी"
+      ],
+      "answer": 0,
+      "explanation": "EN: It's a right triangle: $\\frac{1}{2}(3x)(4x) = 216 \\implies 6x^2 = 216 \\implies x^2 = 36 \\implies x = 6$. Perimeter $= 12x = 72$ cm.\nHI: समकोण त्रिभुज का क्षेत्रफल $= \\frac{1}{2}(3x)(4x) = 216 \\implies x = 6$। परिमाप $= 12 \times 6 = 72$ सेमी।"
+    },
+    {
+      "id": "3a2cd7d7",
+      "question": "A rectangular lawn $60\text{ m} \times 40\text{ m}$ has two roads each $5\text{ m}$ wide running in the middle of it, one parallel to length and the other parallel to breadth. Find the cost of gravelling the roads at ₹ 60 per sq. meter.\n$60\text{ मी} \times 40\text{ मी}$ के एक आयताकार लॉन के बीच में $5\text{ मी}$ चौड़ी दो सड़कें एक-दूसरे को काटती हुई बनी हैं, एक लंबाई के समानांतर और दूसरी चौड़ाई के समानांतर। ₹ 60 प्रति वर्ग मीटर की दर से सड़कों पर बजरी बिछाने की लागत ज्ञात कीजिए।",
+      "options": [
+        "₹ 30,000",
+        "₹ 28,500",
+        "₹ 27,000",
+        "₹ 29,500"
+      ],
+      "answer": 1,
+      "explanation": "EN: Area of roads $= w(l + b - w) = 5(60 + 40 - 5) = 5 \times 95 = 475\text{ m}^2$. Cost $= 475 \times 60 = ₹ 28,500$.\nHI: सड़कों का क्षेत्रफल $= 5(60 + 40 - 5) = 475\text{ m}^2$। लागत $= 475 \times 60 = ₹ 28,500$।"
+    },
+    {
+      "id": "95178efe",
+      "question": "The perimeter of a rhombus is 100 cm and one of its diagonals is 48 cm. Find the area of the rhombus.\nएक समचतुर्भुज का परिमाप 100 सेमी है और इसका एक विकर्ण 48 सेमी है। समचतुर्भुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        "$672\text{ cm}^2$",
+        "$336\text{ cm}^2$",
+        "$480\text{ cm}^2$",
+        "$384\text{ cm}^2$"
+      ],
+      "answer": 1,
+      "explanation": "EN: Side $a = 100/4 = 25$ cm. Half-diagonal $d_1/2 = 24$ cm. Other half-diagonal $d_2/2 = \\sqrt{25^2 - 24^2} = 7$ cm $\\implies d_2 = 14$ cm. Area $= \\frac{1}{2} \times 48 \times 14 = 336\text{ cm}^2$.\nHI: भुजा $= 25$ सेमी। दूसरा विकर्ण $= 2\\sqrt{25^2 - 24^2} = 14$ सेमी। क्षेत्रफल $= \\frac{1}{2} \times 48 \times 14 = 336\text{ cm}^2$।"
+    },
+    {
+      "id": "f2723327",
+      "question": "Three circles of radius 7 cm each are placed in such a way that each circle touches the other two. Find the area of the region enclosed between the three circles. ($\\pi = \\frac{22}{7}$, $\\sqrt{3} = 1.732$)\n7 सेमी त्रिज्या वाले तीन वृत्त इस प्रकार रखे गए हैं कि प्रत्येक वृत्त अन्य दो वृत्तों को स्पर्श करता है। तीनों वृत्तों के बीच घिरे क्षेत्र का क्षेत्रफल ज्ञात कीजिए। ($\\pi = \\frac{22}{7}$, $\\sqrt{3} = 1.732$)",
+      "options": [
+        "$9.12\text{ cm}^2$",
+        "$8.42\text{ cm}^2$",
+        "$7.87\text{ cm}^2$",
+        "$6.95\text{ cm}^2$"
+      ],
+      "answer": 2,
+      "explanation": "EN: Equilateral triangle of side $14$ cm: Area $= \\frac{\\sqrt{3}}{4}(14)^2 = 49 \times 1.732 = 84.868\text{ cm}^2$. Three $60^\\circ$ sectors $= \\frac{1}{2} \\pi r^2 = \\frac{1}{2} \times \\frac{22}{7} \times 49 = 77\text{ cm}^2$. Enclosed area $= 84.868 - 77 \\approx 7.87\text{ cm}^2$.\nHI: समबाहु त्रिभुज का क्षेत्रफल $= 49\\sqrt{3} \\approx 84.868\text{ cm}^2$। तीन त्रिज्यखंडों का क्षेत्रफल $= 77\text{ cm}^2$। शेष क्षेत्रफल $= 84.868 - 77 \\approx 7.87\text{ cm}^2$।"
+    },
+    {
+      "id": "33b0a26c",
+      "question": "If the circumference of a circle is increased by 50%, then its area will be increased by:\nयदि किसी वृत्त की परिधि में 50% की वृद्धि की जाती है, तो उसके क्षेत्रफल में कितने प्रतिशत वृद्धि होगी?",
+      "options": [
+        "100%",
+        "75%",
+        "150%",
+        "125%"
+      ],
+      "answer": 3,
+      "explanation": "EN: Radius increases by 50%. Area increase $= 50 + 50 + \\frac{50 \times 50}{100} = 125\\%$.\nHI: त्रिज्या 50% बढ़ती है, अतः क्षेत्रफल में वृद्धि $= 50 + 50 + 25 = 125\\%$।"
+    },
+    {
+      "id": "fdbc1840",
+      "question": "The parallel sides of a trapezium are 25 cm and 11 cm, while its non-parallel sides are 15 cm and 13 cm. Find the area of the trapezium.\nएक समलंब चतुर्भुज की समानांतर भुजाएँ 25 सेमी और 11 सेमी हैं, जबकि इसकी असमानांतर भुजाएँ 15 सेमी और 13 सेमी हैं। समलंब चतुर्भुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        "$252\text{ cm}^2$",
+        "$216\text{ cm}^2$",
+        "$240\text{ cm}^2$",
+        "$196\text{ cm}^2$"
+      ],
+      "answer": 1,
+      "explanation": "EN: Triangle formed has sides $15, 13,$ and $25 - 11 = 14$ cm. Semi-perimeter $s = 21$. Area of triangle $= \\sqrt{21 \times 6 \times 8 \times 7} = 84\text{ cm}^2$. Height $h = \\frac{2 \times 84}{14} = 12$ cm. Area of trapezium $= \\frac{1}{2}(25 + 11) \times 12 = 216\text{ cm}^2$.\nHI: त्रिभुज की भुजाएँ $15, 13, 14 \\implies$ ऊँचाई $= 12$ सेमी। समलंब का क्षेत्रफल $= \\frac{1}{2}(25 + 11) \times 12 = 216\text{ cm}^2$।"
+    },
+    {
+      "id": "2c90066e",
+      "question": "The ratio of the areas of an equilateral triangle and a regular hexagon having the same perimeter is:\nसमान परिमाप वाले एक समबाहु त्रिभुज और एक समषट्भुज के क्षेत्रफलों का अनुपात क्या है?",
+      "options": [
+        "$2 : 3$",
+        "$3 : 4$",
+        "$4 : 5$",
+        "$1 : 2$"
+      ],
+      "answer": 0,
+      "explanation": "EN: Let perimeter $= 6a$. Triangle side $= 2a$, Area $= \\frac{\\sqrt{3}}{4}(4a^2) = \\sqrt{3}a^2$. Hexagon side $= a$, Area $= 6 \times \\frac{\\sqrt{3}}{4}a^2 = \\frac{3\\sqrt{3}}{2}a^2$. Ratio $= 1 : \\frac{3}{2} = 2 : 3$.\nHI: माना परिमाप $= 6a$। त्रिभुज का क्षेत्रफल $= \\sqrt{3}a^2$, षट्भुज का क्षेत्रफल $= \\frac{3\\sqrt{3}}{2}a^2$। अनुपात $= 2 : 3$।"
+    },
+    {
+      "id": "78b324c7",
+      "question": "A circular wire of radius 42 cm is bent in the form of a rectangle whose sides are in the ratio $6 : 5$. Find the smaller side of the rectangle. ($\\pi = \\frac{22}{7}$)\n42 सेमी त्रिज्या वाले एक वृत्ताकार तार को एक आयत के रूप में मोड़ा जाता है जिसकी भुजाएँ $6 : 5$ के अनुपात में हैं। आयत की छोटी भुजा ज्ञात कीजिए। ($\\pi = \\frac{22}{7}$)",
+      "options": [
+        "66 cm / सेमी",
+        "72 cm / सेमी",
+        "50 cm / सेमी",
+        "60 cm / सेमी"
+      ],
+      "answer": 3,
+      "explanation": "EN: Perimeter $= 2 \times \\frac{22}{7} \times 42 = 264$ cm. $2(6x + 5x) = 264 \\implies 22x = 264 \\implies x = 12$. Smaller side $= 5 \times 12 = 60$ cm.\nHI: परिमाप $= 2 \times \\frac{22}{7} \times 42 = 264$ सेमी। $22x = 264 \\implies x = 12$। छोटी भुजा $= 5 \times 12 = 60$ सेमी।"
+    },
+    {
+      "id": "8086440a",
+      "question": "Find the area of the largest triangle that can be inscribed in a semi-circle of radius $r$ cm.\n$r$ सेमी त्रिज्या वाले अर्धवृत्त के अंदर बनाए जा सकने वाले सबसे बड़े त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        "$r^2\text{ cm}^2$",
+        "$\\frac{1}{2}r^2\text{ cm}^2$",
+        "$\\sqrt{2}r^2\text{ cm}^2$",
+        "$2r^2\text{ cm}^2$"
+      ],
+      "answer": 0,
+      "explanation": "EN: Base $=$ diameter $= 2r$, maximum height $=$ radius $= r$. Area $= \\frac{1}{2} \times 2r \times r = r^2\text{ cm}^2$.\nHI: आधार $= 2r$ और अधिकतम ऊँचाई $= r$। क्षेत्रफल $= \\frac{1}{2} \times 2r \times r = r^2\text{ cm}^2$।"
+    },
+    {
+      "id": "f6d3d2b0",
+      "question": "The average weight of 24 students in a class is 35 kg. If the weight of the teacher is included, the average rises by 400 grams. What is the weight of the teacher?\nएक कक्षा के 24 छात्रों का औसत भार 35 किग्रा है। यदि शिक्षक का भार भी शामिल कर लिया जाए, तो औसत 400 ग्राम बढ़ जाता है। शिक्षक का भार क्या है?",
+      "options": [
+        "45 kg / किग्रा",
+        "46 kg / किग्रा",
+        "44.6 kg / किग्रा",
+        "45.4 kg / किग्रा"
+      ],
+      "answer": 0,
+      "explanation": "EN: Teacher's weight $= 35 + 25 \times 0.4 = 35 + 10 = 45$ kg.\nHI: शिक्षक का भार $= 35 + 25 \times 0.4 = 35 + 10 = 45$ किग्रा।"
+    },
+    {
+      "id": "ca48fc6f",
+      "question": "A batsman makes a score of 87 runs in the 17th inning and thus increases his average by 3. Find his average after the 17th inning.\nएक बल्लेबाज 17वीं पारी में 87 रन बनाता है और इस प्रकार अपना औसत 3 बढ़ा लेता है। 17वीं पारी के बाद उसका औसत ज्ञात कीजिए।",
+      "options": [
+        "42",
+        "38",
+        "39",
+        "36"
+      ],
+      "answer": 2,
+      "explanation": "EN: Old average (16 innings) $= 87 - 17 \times 3 = 87 - 51 = 36$. New average $= 36 + 3 = 39$.\nHI: 16 पारियों का पुराना औसत $= 87 - 17 \times 3 = 36$। नया औसत $= 36 + 3 = 39$।"
+    },
+    {
+      "id": "25b53577",
+      "question": "The average of 11 numbers is 50. If the average of the first 6 numbers is 49 and that of the last 6 numbers is 52, find the 6th number.\n11 संख्याओं का औसत 50 है। यदि पहली 6 संख्याओं का औसत 49 है और अंतिम 6 संख्याओं का औसत 52 है, तो छठी संख्या ज्ञात कीजिए।",
+      "options": [
+        "55",
+        "56",
+        "54",
+        "50"
+      ],
+      "answer": 1,
+      "explanation": "EN: 6th number $= (6 \times 49 + 6 \times 52) - (11 \times 50) = (294 + 312) - 550 = 606 - 550 = 56$.\nHI: छठी संख्या $= (6 \times 49 + 6 \times 52) - (11 \times 50) = 606 - 550 = 56$।"
+    },
+    {
+      "id": "0105c3a3",
+      "question": "The average age of a husband, wife, and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:\n3 वर्ष पहले एक पति, पत्नी और उनके बच्चे की औसत आयु 27 वर्ष थी और 5 वर्ष पहले पत्नी और बच्चे की औसत आयु 20 वर्ष थी। पति की वर्तमान आयु क्या है?",
+      "options": [
+        "38 years / वर्ष",
+        "40 years / वर्ष",
+        "35 years / वर्ष",
+        "42 years / वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "EN: Present sum of $(H + W + C) = 27 \times 3 + 9 = 90$. Present sum of $(W + C) = 20 \times 2 + 10 = 50$. Husband's present age $= 90 - 50 = 40$ years.\nHI: वर्तमान में $(H+W+C) = 81+9 = 90$ वर्ष, और $(W+C) = 40+10 = 50$ वर्ष। पति की वर्तमान आयु $= 90 - 50 = 40$ वर्ष।"
+    },
+    {
+      "id": "69770246",
+      "question": "The average marks of 50 students in a class was found to be 64. If the marks of two students were incorrectly entered as 38 and 42 instead of 83 and 24 respectively, find the correct average.\nएक कक्षा के 50 छात्रों के औसत अंक 64 पाए गए। यदि दो छात्रों के अंक क्रमशः 83 और 24 के स्थान पर गलती से 38 और 42 दर्ज कर लिए गए थे, तो सही औसत ज्ञात कीजिए।",
+      "options": [
+        "65.12",
+        "64.54",
+        "63.46",
+        "64.27"
+      ],
+      "answer": 1,
+      "explanation": "EN: Net difference $= (83 + 24) - (38 + 42) = 107 - 80 = +27$. Correct average $= 64 + \\frac{27}{50} = 64 + 0.54 = 64.54$.\nHI: शुद्ध अंतर $= 107 - 80 = +27$। सही औसत $= 64 + \\frac{27}{50} = 64.54$।"
+    },
+    {
+      "id": "b94a86bd",
+      "question": "A motorist travels to a place 150 km away at an average speed of 50 km/hr and returns at 30 km/hr. His average speed for the whole journey in km/hr is:\nएक मोटर चालक 150 किमी दूर एक स्थान पर 50 किमी/घंटा की औसत गति से जाता है और 30 किमी/घंटा की गति से वापस लौटता है। पूरी यात्रा के लिए उसकी औसत गति किमी/घंटा में क्या है?",
+      "options": [
+        "37.5",
+        "40",
+        "35",
+        "42.5"
+      ],
+      "answer": 0,
+      "explanation": "EN: Average speed $= \\frac{2xy}{x+y} = \\frac{2 \times 50 \times 30}{50 + 30} = \\frac{3000}{80} = 37.5$ km/hr.\nHI: औसत गति $= \\frac{2 \times 50 \times 30}{50 + 30} = 37.5$ किमी/घंटा।"
+    },
+    {
+      "id": "8b13c754",
+      "question": "The average of 9 consecutive odd numbers is 53. What is the difference between the largest and the smallest of these numbers?\n9 क्रमागत विषम संख्याओं का औसत 53 है। इन संख्याओं में सबसे बड़ी और सबसे छोटी संख्या के बीच का अंतर क्या है?",
+      "options": [
+        "16",
+        "14",
+        "18",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "EN: For $n$ consecutive odd numbers, difference between largest and smallest $= 2(n - 1) = 2(9 - 1) = 16$.\nHI: $n$ क्रमागत विषम संख्याओं में सबसे बड़ी और सबसे छोटी का अंतर $= 2(n - 1) = 2(8) = 16$।"
+    },
+    {
+      "id": "136d30a3",
+      "question": "In a hostel, there were 35 students. If the number of students increases by 7, the expenses of the mess increase by ₹ 42 per day while the average expenditure per head diminishes by ₹ 1. Find the original expenditure of the mess.\nएक छात्रावास में 35 छात्र थे। यदि छात्रों की संख्या 7 बढ़ जाती है, तो भोजनालय का खर्च प्रतिदिन ₹ 42 बढ़ जाता है जबकि प्रति व्यक्ति औसत खर्च ₹ 1 कम हो जाता है। भोजनालय का मूल खर्च ज्ञात कीजिए।",
+      "options": [
+        "₹ 420",
+        "₹ 380",
+        "₹ 450",
+        "₹ 400"
+      ],
+      "answer": 0,
+      "explanation": "EN: Let original average $= x$. $42(x - 1) - 35x = 42 \\implies 7x - 42 = 42 \\implies 7x = 84 \\implies x = 12$. Original expenditure $= 35 \times 12 = ₹ 420$.\nHI: माना मूल औसत $= x$। $42(x - 1) - 35x = 42 \\implies 7x = 84 \\implies x = 12$। मूल खर्च $= 35 \times 12 = ₹ 420$।"
+    },
+    {
+      "id": "854c3b26",
+      "question": "The average of first 25 multiples of 7 is:\n7 के प्रथम 25 गुणजों का औसत क्या है?",
+      "options": [
+        "84",
+        "91",
+        "94.5",
+        "87.5"
+      ],
+      "answer": 1,
+      "explanation": "EN: Average $= \\frac{7 \times 1 + 7 \times 25}{2} = \\frac{7 \times 26}{2} = 7 \times 13 = 91$.\nHI: औसत $= \\frac{7 \times 1 + 7 \times 25}{2} = 7 \times 13 = 91$।"
+    },
+    {
+      "id": "f303c05d",
+      "question": "The average temperature of Monday, Tuesday, Wednesday, and Thursday was $38^\\circ\text{C}$ and that of Tuesday, Wednesday, Thursday, and Friday was $40^\\circ\text{C}$. If the temperature on Monday was $30^\\circ\text{C}$, what was the temperature on Friday?\nसोमवार, मंगलवार, बुधवार और गुरुवार का औसत तापमान $38^\\circ\text{C}$ था तथा मंगलवार, बुधवार, गुरुवार और शुक्रवार का औसत तापमान $40^\\circ\text{C}$ था। यदि सोमवार का तापमान $30^\\circ\text{C}$ था, तो शुक्रवार का तापमान क्या था?",
+      "options": [
+        "$38^\\circ\text{C}$",
+        "$36^\\circ\text{C}$",
+        "$32^\\circ\text{C}$",
+        "$40^\\circ\text{C}$"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\text{Friday} - \text{Monday} = 4 \times (40 - 38) = 8^\\circ\text{C}$. Friday $= 30 + 8 = 38^\\circ\text{C}$.\nHI: $\text{शुक्रवार} - \text{सोमवार} = 4 \times (40 - 38) = 8^\\circ\text{C}$। शुक्रवार $= 30 + 8 = 38^\\circ\text{C}$।"
+    },
+    {
+      "id": "c5057a58",
+      "question": "A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:\nएक पुस्तकालय में रविवार को औसतन 510 आगंतुक और अन्य दिनों में औसतन 240 आगंतुक आते हैं। रविवार से शुरू होने वाले 30 दिनों के महीने में प्रति दिन आगंतुकों की औसत संख्या क्या है?",
+      "options": [
+        "280",
+        "276",
+        "290",
+        "285"
+      ],
+      "answer": 3,
+      "explanation": "EN: A 30-day month starting on Sunday has 5 Sundays and 25 other days. Average $= \\frac{5 \times 510 + 25 \times 240}{30} = \\frac{2550 + 6000}{30} = \\frac{8550}{30} = 285$.\nHI: रविवार से शुरू होने वाले 30 दिनों के महीने में 5 रविवार और 25 अन्य दिन होते हैं। औसत $= \\frac{5 \times 510 + 25 \times 240}{30} = 285$।"
+    },
+    {
+      "id": "11db3d90",
+      "question": "A solid metallic sphere of radius 10.5 cm is melted and recast into a number of smaller cones, each of radius 3.5 cm and height 3 cm. Find the number of cones so formed.\n10.5 सेमी त्रिज्या वाले एक ठोस धात्विक गोले को पिघलाकर 3.5 सेमी त्रिज्या और 3 सेमी ऊँचाई वाले कई छोटे शंकु बनाए जाते हैं। इस प्रकार बने शंकुओं की संख्या ज्ञात कीजिए।",
+      "options": [
+        "114",
+        "132",
+        "126",
+        "120"
+      ],
+      "answer": 2,
+      "explanation": "EN: $N = \\frac{\\frac{4}{3}\\pi R^3}{\\frac{1}{3}\\pi r^2 h} = \\frac{4 \times (10.5)^3}{(3.5)^2 \times 3} = \\frac{4 \times 27 \times 3.5}{3} = 4 \times 9 \times 3.5 = 126$.\nHI: $N = \\frac{\\frac{4}{3}\\pi (10.5)^3}{\\frac{1}{3}\\pi (3.5)^2 \times 3} = \\frac{4 \times 27 \times 3.5}{3} = 126$।"
+    },
+    {
+      "id": "611515ee",
+      "question": "The radii of two cylinders are in the ratio $2 : 3$ and their heights are in the ratio $5 : 3$. What is the ratio of their volumes?\nदो बेलनों की त्रिज्याएँ $2 : 3$ के अनुपात में हैं और उनकी ऊँचाइयाँ $5 : 3$ के अनुपात में हैं। उनके आयतनों का अनुपात क्या है?",
+      "options": [
+        "$10 : 9$",
+        "$27 : 20$",
+        "$4 : 9$",
+        "$20 : 27$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\\frac{V_1}{V_2} = \\left(\\frac{r_1}{r_2}\\right)^2 \\left(\\frac{h_1}{h_2}\\right) = \\left(\\frac{2}{3}\\right)^2 \times \\frac{5}{3} = \\frac{4}{9} \times \\frac{5}{3} = \\frac{20}{27}$.\nHI: $\\frac{V_1}{V_2} = \\left(\\frac{2}{3}\\right)^2 \times \\frac{5}{3} = \\frac{20}{27}$।"
+    },
+    {
+      "id": "1f94923e",
+      "question": "A well of inner diameter 14 m is dug to a depth of 15 m. Earth taken out of it has been evenly spread all around it to a width of 7 m to form an embankment. Find the height of the embankment.\n14 मीटर आंतरिक व्यास वाला एक कुआँ 15 मीटर की गहराई तक खोदा जाता है। इससे निकाली गई मिट्टी को कुएँ के चारों ओर 7 मीटर की चौड़ाई में समान रूप से फैलाकर एक चबूतरा बनाया जाता है। चबूतरे की ऊँचाई ज्ञात कीजिए।",
+      "options": [
+        "4.5 m / मीटर",
+        "5 m / मीटर",
+        "6 m / मीटर",
+        "3.5 m / मीटर"
+      ],
+      "answer": 1,
+      "explanation": "EN: Inner radius $r = 7$ m, Outer radius $R = 7 + 7 = 14$ m. $\\pi r^2 h = \\pi (R^2 - r^2) H \\implies 49 \times 15 = (196 - 49) H \\implies 49 \times 15 = 147 H \\implies H = 5$ m.\nHI: $\\pi (7)^2 \times 15 = \\pi (14^2 - 7^2) H \\implies 49 \times 15 = 147 H \\implies H = 5$ मीटर।"
+    },
+    {
+      "id": "77033a40",
+      "question": "If the length, breadth, and height of a cuboid are in the ratio $6 : 5 : 4$ and its total surface area is $33,300\text{ cm}^2$, find its volume.\nयदि एक घनाभ की लंबाई, चौड़ाई और ऊँचाई $6 : 5 : 4$ के अनुपात में हैं और इसका कुल पृष्ठीय क्षेत्रफल $33,300\text{ cm}^2$ है, तो इसका आयतन ज्ञात कीजिए।",
+      "options": [
+        "$4,50,000\text{ cm}^3$",
+        "$4,05,000\text{ cm}^3$",
+        "$3,60,000\text{ cm}^3$",
+        "$3,24,000\text{ cm}^3$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $2(30x^2 + 20x^2 + 24x^2) = 148x^2 = 33300 \\implies x^2 = 225 \\implies x = 15$. Sides: $90, 75, 60$. Volume $= 90 \times 75 \times 60 = 4,05,000\text{ cm}^3$.\nHI: $148x^2 = 33300 \\implies x = 15$। भुजाएँ: $90, 75, 60$। आयतन $= 90 \times 75 \times 60 = 4,05,000\text{ cm}^3$।"
+    },
+    {
+      "id": "30798c3f",
+      "question": "A cone, a hemisphere, and a cylinder stand on equal bases and have the same height. What is the ratio of their volumes?\nएक शंकु, एक अर्धगोला और एक बेलन समान आधार पर खड़े हैं और उनकी ऊँचाई समान है। उनके आयतनों का अनुपात क्या है?",
+      "options": [
+        "$1 : 2 : 3$",
+        "$2 : 3 : 1$",
+        "$1 : 3 : 2$",
+        "$3 : 2 : 1$"
+      ],
+      "answer": 0,
+      "explanation": "EN: Here $h = r$. Volumes: $\\frac{1}{3}\\pi r^3 : \\frac{2}{3}\\pi r^3 : \\pi r^3 = 1 : 2 : 3$.\nHI: यहाँ $h = r$। आयतनों का अनुपात $= \\frac{1}{3}\\pi r^3 : \\frac{2}{3}\\pi r^3 : \\pi r^3 = 1 : 2 : 3$।"
+    },
+    {
+      "id": "ad8ccb7e",
+      "question": "Water flows through a cylindrical pipe of internal diameter 7 cm at the rate of 5 m/sec. How much time will it take to fill a rectangular tank of dimensions $4\text{ m} \times 3\text{ m} \times 2.31\text{ m}$? ($\\pi = \\frac{22}{7}$)\n7 सेमी आंतरिक व्यास वाले एक बेलनाकार पाइप से 5 मी/सेकंड की दर से पानी बहता है। $4\text{ मी} \times 3\text{ मी} \times 2.31\text{ मी}$ विमाओं वाले एक आयताकार टैंक को भरने में कितना समय लगेगा? ($\\pi = \\frac{22}{7}$)",
+      "options": [
+        "18 minutes / मिनट",
+        "28 minutes / मिनट",
+        "24 minutes / मिनट",
+        "20 minutes / मिनट"
+      ],
+      "answer": 2,
+      "explanation": "EN: Volume of tank $= 4 \times 3 \times 2.31 = 27.72\text{ m}^3$. Flow per sec $= \\frac{22}{7} \times (0.035)^2 \times 5 = 0.01925\text{ m}^3$/s. Time $= \\frac{27.72}{0.01925} = 1440\text{ sec} = 24$ minutes.\nHI: टैंक का आयतन $= 27.72\text{ m}^3$। प्रति सेकंड प्रवाह $= 0.01925\text{ m}^3$। समय $= \\frac{27.72}{0.01925} = 1440\text{ सेकंड} = 24$ मिनट।"
+    },
+    {
+      "id": "c5c390b9",
+      "question": "The longest diagonal of a cube is $8\\sqrt{3}$ cm. Find its volume and total surface area.\nएक घन का सबसे लंबा विकर्ण $8\\sqrt{3}$ सेमी है। इसका आयतन और कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "options": [
+        "$216\text{ cm}^3, 216\text{ cm}^2$",
+        "$343\text{ cm}^3, 294\text{ cm}^2$",
+        "$512\text{ cm}^3, 256\text{ cm}^2$",
+        "$512\text{ cm}^3, 384\text{ cm}^2$"
+      ],
+      "answer": 3,
+      "explanation": "EN: Diagonal $a\\sqrt{3} = 8\\sqrt{3} \\implies a = 8$ cm. Volume $= 8^3 = 512\text{ cm}^3$. TSA $= 6 \times 8^2 = 384\text{ cm}^2$.\nHI: विकर्ण $a\\sqrt{3} = 8\\sqrt{3} \\implies a = 8$ सेमी। आयतन $= 512\text{ cm}^3$, कुल पृष्ठीय क्षेत्रफल $= 384\text{ cm}^2$।"
+    },
+    {
+      "id": "0ef3d9a7",
+      "question": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs $8\text{ g/cm}^3$, find the weight of the pipe. ($\\pi = \\frac{22}{7}$)\nएक खोखला लोहे का पाइप 21 सेमी लंबा है और इसका बाहरी व्यास 8 सेमी है। यदि पाइप की मोटाई 1 सेमी है और लोहे का भार $8\text{ ग्राम/सेमी}^3$ है, तो पाइप का भार ज्ञात कीजिए। ($\\pi = \\frac{22}{7}$)",
+      "options": [
+        "3.696 kg / किग्रा",
+        "3.96 kg / किग्रा",
+        "36.96 kg / किग्रा",
+        "3.6 kg / किग्रा"
+      ],
+      "answer": 0,
+      "explanation": "EN: Outer radius $R = 4$ cm, Inner radius $r = 3$ cm. Volume $= \\frac{22}{7}(4^2 - 3^2) \times 21 = 22 \times 7 \times 3 = 462\text{ cm}^3$. Weight $= 462 \times 8 = 3696\text{ g} = 3.696$ kg.\nHI: आयतन $= \\frac{22}{7}(4^2 - 3^2) \times 21 = 462\text{ cm}^3$। भार $= 462 \times 8 = 3696\text{ ग्राम} = 3.696$ किग्रा।"
+    },
+    {
+      "id": "54e2fd31",
+      "question": "If the radius of a sphere is doubled, what is the percentage increase in its volume?\nयदि किसी गोले की त्रिज्या दोगुनी कर दी जाए, तो उसके आयतन में कितने प्रतिशत की वृद्धि होगी?",
+      "options": [
+        "800%",
+        "300%",
+        "400%",
+        "700%"
+      ],
+      "answer": 3,
+      "explanation": "EN: New volume $= 2^3 = 8$ times original volume. Percentage increase $= (8 - 1) \times 100 = 700\\%$.\nHI: नया आयतन $= 2^3 = 8$ गुना हो जाता है। प्रतिशत वृद्धि $= (8 - 1) \times 100 = 700\\%$।"
+    },
+    {
+      "id": "d86010c5",
+      "question": "The radii of the circular ends of a frustum of a cone of height 6 cm are 14 cm and 6 cm respectively. Find the slant height of the frustum.\n6 सेमी ऊँचाई वाले एक शंकु के छिन्नक के वृत्ताकार सिरों की त्रिज्याएँ क्रमशः 14 सेमी और 6 सेमी हैं। छिन्नक की तिर्यक ऊँचाई ज्ञात कीजिए।",
+      "options": [
+        "12 cm / सेमी",
+        "9 cm / सेमी",
+        "8 cm / सेमी",
+        "10 cm / सेमी"
+      ],
+      "answer": 3,
+      "explanation": "EN: $l = \\sqrt{h^2 + (R - r)^2} = \\sqrt{6^2 + (14 - 6)^2} = \\sqrt{36 + 64} = 10$ cm.\nHI: $l = \\sqrt{6^2 + (14 - 6)^2} = \\sqrt{36 + 64} = 10$ सेमी।"
+    },
+    {
+      "id": "818ac38a",
+      "question": "If $A : B = 2 : 3$, $B : C = 4 : 5$, and $C : D = 6 : 7$, find $A : D$.\nयदि $A : B = 2 : 3$, $B : C = 4 : 5$, और $C : D = 6 : 7$ है, तो $A : D$ ज्ञात कीजिए।",
+      "options": [
+        "$16 : 35$",
+        "$12 : 35$",
+        "$8 : 15$",
+        "$24 : 35$"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\\frac{A}{D} = \\frac{2}{3} \times \\frac{4}{5} \times \\frac{6}{7} = \\frac{16}{35}$.\nHI: $\\frac{A}{D} = \\frac{2}{3} \times \\frac{4}{5} \times \\frac{6}{7} = \\frac{16}{35}$।"
+    },
+    {
+      "id": "c81f3f7f",
+      "question": "A bag contains ₹ 1, 50 paise, and 25 paise coins in the ratio $5 : 6 : 8$. If the total amount in the bag is ₹ 210, find the number of 25 paise coins.\nएक थैले में ₹ 1, 50 पैसे और 25 पैसे के सिक्के $5 : 6 : 8$ के अनुपात में हैं। यदि थैले में कुल राशि ₹ 210 है, तो 25 पैसे के सिक्कों की संख्या ज्ञात कीजिए।",
+      "options": [
+        "168",
+        "126",
+        "105",
+        "144"
+      ],
+      "answer": 0,
+      "explanation": "EN: Value ratio $= 5(1) : 6(0.5) : 8(0.25) = 5 : 3 : 2$. Sum of parts $= 10$. Value of 25p coins $= \\frac{2}{10} \times 210 = ₹ 42$. Number of 25p coins $= 42 \times 4 = 168$.\nHI: मूल्य अनुपात $= 5 : 3 : 2$। 25 पैसे के सिक्कों का मूल्य $= \\frac{2}{10} \times 210 = ₹ 42$। सिक्कों की संख्या $= 42 \times 4 = 168$।"
+    },
+    {
+      "id": "88bdf21c",
+      "question": "The ratio of incomes of A and B is $5 : 4$ and the ratio of their expenditures is $3 : 2$. If at the end of the year, each saves ₹ 1,600, then what is the income of A?\nA और B की आय का अनुपात $5 : 4$ है और उनके व्यय का अनुपात $3 : 2$ है। यदि वर्ष के अंत में प्रत्येक ₹ 1,600 बचाता है, तो A की आय क्या है?",
+      "options": [
+        "₹ 4,800",
+        "₹ 3,200",
+        "₹ 4,000",
+        "₹ 3,600"
+      ],
+      "answer": 2,
+      "explanation": "EN: Difference in units is equal: $5 - 3 = 2$ and $4 - 2 = 2$. $2\text{ units} = 1600 \\implies 1\text{ unit} = 800$. Income of A $= 5 \times 800 = ₹ 4,000$.\nHI: बचत इकाइयाँ समान हैं ($5-3=2$ और $4-2=2$)। $2\text{ इकाई} = 1600 \\implies 1\text{ इकाई} = 800$। A की आय $= 5 \times 800 = ₹ 4,000$।"
+    },
+    {
+      "id": "f622fab2",
+      "question": "What number must be added to each of the numbers $7, 16, 43,$ and $79$ so that they become proportional?\nसंख्याओं $7, 16, 43,$ और $79$ में से प्रत्येक में कौन-सी संख्या जोड़ी जानी चाहिए ताकि वे समानुपाती हो जाएँ?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "EN: Checking $x = 5$: $\\frac{7+5}{16+5} = \\frac{12}{21} = \\frac{4}{7}$, and $\\frac{43+5}{79+5} = \\frac{48}{84} = \\frac{4}{7}$.\nHI: $x = 5$ जोड़ने पर: $\\frac{12}{21} = \\frac{4}{7}$ और $\\frac{48}{84} = \\frac{4}{7}$।"
+    },
+    {
+      "id": "446317ad",
+      "question": "A mixture of 60 litres contains milk and water in the ratio $2 : 1$. How much water must be added to this mixture so that the ratio of milk and water becomes $1 : 2$?\n60 लीटर के एक मिश्रण में दूध और पानी का अनुपात $2 : 1$ है। इस मिश्रण में कितना पानी और मिलाया जाना चाहिए ताकि दूध और पानी का अनुपात $1 : 2$ हो जाए?",
+      "options": [
+        "60 litres / लीटर",
+        "40 litres / लीटर",
+        "50 litres / लीटर",
+        "30 litres / लीटर"
+      ],
+      "answer": 0,
+      "explanation": "EN: Initially: Milk $= 40$ L, Water $= 20$ L. To make ratio $1 : 2$ keeping Milk $= 40$ L, Water must be $80$ L. Water added $= 80 - 20 = 60$ litres.\nHI: प्रारंभ में दूध $= 40$ ली, पानी $= 20$ ली। $1:2$ अनुपात के लिए पानी $= 80$ ली होना चाहिए। मिलाया गया पानी $= 80 - 20 = 60$ लीटर।"
+    },
+    {
+      "id": "3d1f64d5",
+      "question": "If $(a + b) : (b + c) : (c + a) = 6 : 7 : 8$ and $a + b + c = 14$, find the value of $c$.\nयदि $(a + b) : (b + c) : (c + a) = 6 : 7 : 8$ और $a + b + c = 14$ है, तो $c$ का मान ज्ञात कीजिए।",
+      "options": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "EN: $2(a + b + c) = (6 + 7 + 8)k = 21k \\implies 28 = 21k \\implies k = \\frac{4}{3}$. $a + b = 6k = 8 \\implies c = 14 - 8 = 6$.\nHI: $2(a+b+c) = 21k \\implies 28 = 21k \\implies k = \\frac{4}{3}$। $a + b = 6k = 8 \\implies c = 14 - 8 = 6$।"
+    },
+    {
+      "id": "4c88c73c",
+      "question": "Find the ratio between the third proportional to 12 and 30, and the mean proportional between 9 and 25.\n12 और 30 के तृतीयानुपाती तथा 9 और 25 के मध्यानुपाती के बीच अनुपात ज्ञात कीजिए।",
+      "options": [
+        "$3 : 1$",
+        "$15 : 1$",
+        "$25 : 3$",
+        "$5 : 1$"
+      ],
+      "answer": 3,
+      "explanation": "EN: Third proportional $= \\frac{30^2}{12} = 75$. Mean proportional $= \\sqrt{9 \times 25} = 15$. Ratio $= 75 : 15 = 5 : 1$.\nHI: तृतीयानुपाती $= \\frac{30^2}{12} = 75$, मध्यानुपाती $= \\sqrt{9 \times 25} = 15$। अनुपात $= 75 : 15 = 5 : 1$।"
+    },
+    {
+      "id": "72b81765",
+      "question": "Two vessels A and B contain spirit and water in the ratios $5 : 2$ and $7 : 6$ respectively. Find the ratio in which these mixtures be mixed to obtain a new mixture in vessel C containing spirit and water in the ratio $8 : 5$.\nदो बर्तनों A और B में स्पिरिट और पानी का अनुपात क्रमशः $5 : 2$ और $7 : 6$ है। बर्तन C में स्पिरिट और पानी का अनुपात $8 : 5$ प्राप्त करने के लिए इन मिश्रणों को किस अनुपात में मिलाया जाना चाहिए?",
+      "options": [
+        "$7 : 9$",
+        "$5 : 7$",
+        "$3 : 4$",
+        "$9 : 7$"
+      ],
+      "answer": 0,
+      "explanation": "EN: By Alligation on spirit fraction: Vessel A $= 5/7$, Vessel B $= 7/13$, Mean $= 8/13$. Ratio $= \\left(\\frac{8}{13} - \\frac{7}{13}\\right) : \\left(\\frac{5}{7} - \\frac{8}{13}\\right) = \\frac{1}{13} : \\frac{9}{91} = 7 : 9$.\nHI: मिश्रण नियम से: $\\left(\\frac{8}{13} - \\frac{7}{13}\\right) : \\left(\\frac{5}{7} - \\frac{8}{13}\\right) = \\frac{1}{13} : \\frac{9}{91} = 7 : 9$।"
+    },
+    {
+      "id": "0290c560",
+      "question": "A sum of ₹ 4,270 is divided among A, B, and C such that 3 times A's share, 4 times B's share, and 7 times C's share are all equal. Find the share of C.\n₹ 4,270 की राशि को A, B और C के बीच इस प्रकार विभाजित किया जाता है कि A के हिस्से का 3 गुना, B के हिस्से का 4 गुना और C के हिस्से का 7 गुना सभी बराबर हैं। C का हिस्सा ज्ञात कीजिए।",
+      "options": [
+        "₹ 1,470",
+        "₹ 840",
+        "₹ 960",
+        "₹ 1,960"
+      ],
+      "answer": 1,
+      "explanation": "EN: $3A = 4B = 7C \\implies A : B : C = \\frac{1}{3} : \\frac{1}{4} : \\frac{1}{7} = 28 : 21 : 12$. Sum $= 61$. Share of C $= \\frac{12}{61} \times 4270 = 12 \times 70 = ₹ 840$.\nHI: $A : B : C = 28 : 21 : 12$। C का हिस्सा $= \\frac{12}{61} \times 4270 = ₹ 840$।"
+    },
+    {
+      "id": "5e8b992e",
+      "question": "The ratio of the ages of a father and his son 10 years ago was $5 : 3$. Which of the following CANNOT be the ratio of their ages 10 years hence?\n10 वर्ष पहले एक पिता और उसके पुत्र की आयु का अनुपात $5 : 3$ था। निम्नलिखित में से कौन-सा 10 वर्ष बाद उनकी आयु का अनुपात नहीं हो सकता है?",
+      "options": [
+        "$3 : 2$",
+        "$2 : 1$",
+        "$7 : 5$",
+        "$8 : 5$"
+      ],
+      "answer": 1,
+      "explanation": "EN: As time passes, the ratio of ages decreases towards $1 : 1$. Since initial ratio is $5/3 \\approx 1.67$, future ratio must be less than $1.67$. Thus $2 : 1$ ($2.0$) is impossible.\nHI: समय बीतने के साथ आयु का अनुपात $1.67$ ($5/3$) से कम होता जाएगा। अतः $2 : 1$ ($2.0$) असंभव है।"
+    },
+    {
+      "id": "f196f47b",
+      "question": "If $x + \\frac{1}{x} = 3$, find the value of $x^5 + \\frac{1}{x^5}$.\nयदि $x + \\frac{1}{x} = 3$ है, तो $x^5 + \\frac{1}{x^5}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "118",
+        "132",
+        "123",
+        "126"
+      ],
+      "answer": 2,
+      "explanation": "EN: $x^2 + \\frac{1}{x^2} = 3^2 - 2 = 7$. $x^3 + \\frac{1}{x^3} = 3^3 - 3(3) = 18$. $x^5 + \\frac{1}{x^5} = (x^2 + \\frac{1}{x^2})(x^3 + \\frac{1}{x^3}) - (x + \\frac{1}{x}) = 7 \times 18 - 3 = 126 - 3 = 123$.\nHI: $x^2 + \\frac{1}{x^2} = 7$ और $x^3 + \\frac{1}{x^3} = 18$। $x^5 + \\frac{1}{x^5} = 7 \times 18 - 3 = 123$।"
+    },
+    {
+      "id": "0be676a1",
+      "question": "If $a + b + c = 9$ and $ab + bc + ca = 26$, find the value of $a^3 + b^3 + c^3 - 3abc$.\nयदि $a + b + c = 9$ और $ab + bc + ca = 26$ है, तो $a^3 + b^3 + c^3 - 3abc$ का मान ज्ञात कीजिए।",
+      "options": [
+        "27",
+        "54",
+        "81",
+        "9"
+      ],
+      "answer": 0,
+      "explanation": "EN: $a^3 + b^3 + c^3 - 3abc = (a + b + c)[(a + b + c)^2 - 3(ab + bc + ca)] = 9[81 - 78] = 9 \times 3 = 27$.\nHI: $a^3 + b^3 + c^3 - 3abc = 9[9^2 - 3(26)] = 9 \times 3 = 27$।"
+    },
+    {
+      "id": "737b26bf",
+      "question": "If $a = 2025, b = 2026,$ and $c = 2027$, find the value of $a^2 + b^2 + c^2 - ab - bc - ca$.\nयदि $a = 2025, b = 2026,$ और $c = 2027$ है, तो $a^2 + b^2 + c^2 - ab - bc - ca$ का मान ज्ञात कीजिए।",
+      "options": [
+        "1",
+        "0",
+        "3",
+        "6"
+      ],
+      "answer": 2,
+      "explanation": "EN: $\\frac{1}{2}[(a-b)^2 + (b-c)^2 + (c-a)^2] = \\frac{1}{2}[(-1)^2 + (-1)^2 + 2^2] = \\frac{1}{2}(1 + 1 + 4) = 3$.\nHI: $\\frac{1}{2}[(a-b)^2 + (b-c)^2 + (c-a)^2] = \\frac{1}{2}(1 + 1 + 4) = 3$।"
+    },
+    {
+      "id": "61976e2f",
+      "question": "If $x^2 - 3x + 1 = 0$, find the value of $x^4 + \\frac{1}{x^4}$.\nयदि $x^2 - 3x + 1 = 0$ है, तो $x^4 + \\frac{1}{x^4}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "51",
+        "47",
+        "49",
+        "45"
+      ],
+      "answer": 1,
+      "explanation": "EN: Dividing by $x$: $x + \\frac{1}{x} = 3 \\implies x^2 + \\frac{1}{x^2} = 7 \\implies x^4 + \\frac{1}{x^4} = 7^2 - 2 = 47$.\nHI: $x + \\frac{1}{x} = 3 \\implies x^2 + \\frac{1}{x^2} = 7 \\implies x^4 + \\frac{1}{x^4} = 47$।"
+    },
+    {
+      "id": "4bb49d09",
+      "question": "If $(2x - 3y)^3 + (3y - 4z)^3 + (4z - 2x)^3 = k(2x - 3y)(3y - 4z)(4z - 2x)$, then what is the value of $k$?\nयदि $(2x - 3y)^3 + (3y - 4z)^3 + (4z - 2x)^3 = k(2x - 3y)(3y - 4z)(4z - 2x)$ है, तो $k$ का मान क्या है?",
+      "options": [
+        "1",
+        "3",
+        "0",
+        "-3"
+      ],
+      "answer": 1,
+      "explanation": "EN: Since $(2x - 3y) + (3y - 4z) + (4z - 2x) = 0$, $A^3 + B^3 + C^3 = 3ABC \\implies k = 3$.\nHI: चूँकि $A + B + C = 0$, इसलिए $A^3 + B^3 + C^3 = 3ABC \\implies k = 3$।"
+    },
+    {
+      "id": "805c2aa4",
+      "question": "If $x - \\frac{1}{x} = 4$, find the value of $x^3 - \\frac{1}{x^3}$.\nयदि $x - \\frac{1}{x} = 4$ है, तो $x^3 - \\frac{1}{x^3}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "76",
+        "68",
+        "52",
+        "64"
+      ],
+      "answer": 0,
+      "explanation": "EN: $x^3 - \\frac{1}{x^3} = \\left(x - \\frac{1}{x}\\right)^3 + 3\\left(x - \\frac{1}{x}\\right) = 4^3 + 3(4) = 64 + 12 = 76$.\nHI: $x^3 - \\frac{1}{x^3} = 4^3 + 3(4) = 64 + 12 = 76$।"
+    },
+    {
+      "id": "736973d7",
+      "question": "If $x + y + z = 0$, then find the value of $\\frac{x^2}{yz} + \\frac{y^2}{zx} + \\frac{z^2}{xy}$.\nयदि $x + y + z = 0$ है, तो $\\frac{x^2}{yz} + \\frac{y^2}{zx} + \\frac{z^2}{xy}$ का मान ज्ञात कीजिए।",
+      "options": [
+        "0",
+        "3",
+        "1",
+        "-3"
+      ],
+      "answer": 1,
+      "explanation": "EN: $\\frac{x^3 + y^3 + z^3}{xyz} = \\frac{3xyz}{xyz} = 3$.\nHI: $\\frac{x^3 + y^3 + z^3}{xyz} = \\frac{3xyz}{xyz} = 3$।"
+    },
+    {
+      "id": "113dde99",
+      "question": "If $x^2 + y^2 + z^2 + 3 = 2(x + y + z)$, find the value of $x^3 + y^3 + z^3$.\nयदि $x^2 + y^2 + z^2 + 3 = 2(x + y + z)$ है, तो $x^3 + y^3 + z^3$ का मान ज्ञात कीजिए।",
+      "options": [
+        "0",
+        "6",
+        "3",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "EN: $(x - 1)^2 + (y - 1)^2 + (z - 1)^2 = 0 \\implies x = y = z = 1$. Thus $x^3 + y^3 + z^3 = 1 + 1 + 1 = 3$.\nHI: $(x - 1)^2 + (y - 1)^2 + (z - 1)^2 = 0 \\implies x = y = z = 1$। अतः $x^3 + y^3 + z^3 = 3$।"
+    },
+    {
+      "id": "b2ef608d",
+      "question": "If $x + \\frac{1}{x} = \\sqrt{3}$, find the value of $x^{18} + x^{12} + x^6 + 1$.\nयदि $x + \\frac{1}{x} = \\sqrt{3}$ है, तो $x^{18} + x^{12} + x^6 + 1$ का मान ज्ञात कीजिए।",
+      "options": [
+        "2",
+        "0",
+        "1",
+        "-1"
+      ],
+      "answer": 1,
+      "explanation": "EN: When $x + \\frac{1}{x} = \\sqrt{3}$, $x^6 = -1$. So $(-1)^3 + (-1)^2 + (-1) + 1 = -1 + 1 - 1 + 1 = 0$.\nHI: जब $x + \\frac{1}{x} = \\sqrt{3}$, तब $x^6 = -1$। अतः $-1 + 1 - 1 + 1 = 0$।"
+    },
+    {
+      "id": "15ada447",
+      "question": "If $4x^2 + y^2 = 40$ and $xy = 6$, find the value of $2x + y$ (given $x, y > 0$).\nयदि $4x^2 + y^2 = 40$ और $xy = 6$ है, तो $2x + y$ का मान ज्ञात कीजिए (दिया है $x, y > 0$)।",
+      "options": [
+        "8",
+        "10",
+        "6",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "EN: $(2x + y)^2 = 4x^2 + y^2 + 4xy = 40 + 4(6) = 64 \\implies 2x + y = 8$.\nHI: $(2x + y)^2 = 40 + 4(6) = 64 \\implies 2x + y = 8$।"
+    },
+    {
+      "id": "7721e360",
+      "question": "In $\triangle ABC$, the internal bisectors of $\\angle B$ and $\\angle C$ meet at point $O$. If $\\angle A = 72^\\circ$, what is the measure of $\\angle BOC$?\n$\triangle ABC$ में, $\\angle B$ और $\\angle C$ के आंतरिक समद्विभाजक बिंदु $O$ पर मिलते हैं। यदि $\\angle A = 72^\\circ$ है, तो $\\angle BOC$ का माप क्या है?",
+      "options": [
+        "$144^\\circ$",
+        "$126^\\circ$",
+        "$116^\\circ$",
+        "$108^\\circ$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $\\angle BOC = 90^\\circ + \\frac{\\angle A}{2} = 90^\\circ + \\frac{72^\\circ}{2} = 90^\\circ + 36^\\circ = 126^\\circ$.\nHI: $\\angle BOC = 90^\\circ + \\frac{\\angle A}{2} = 90^\\circ + 36^\\circ = 126^\\circ$।"
+    },
+    {
+      "id": "3c596b17",
+      "question": "Two chords $AB$ and $CD$ of a circle intersect each other internally at point $P$. If $AP = 6$ cm, $PB = 4$ cm, and $CP = 3$ cm, find the length of $CD$.\nएक वृत्त की दो जीवाएँ $AB$ और $CD$ एक-दूसरे को बिंदु $P$ पर आंतरिक रूप से प्रतिच्छेद करती हैं। यदि $AP = 6$ सेमी, $PB = 4$ सेमी और $CP = 3$ सेमी है, तो $CD$ की लंबाई ज्ञात कीजिए।",
+      "options": [
+        "9 cm / सेमी",
+        "10 cm / सेमी",
+        "8 cm / सेमी",
+        "11 cm / सेमी"
+      ],
+      "answer": 3,
+      "explanation": "EN: $AP \times PB = CP \times PD \\implies 6 \times 4 = 3 \times PD \\implies PD = 8$ cm. Total length $CD = CP + PD = 3 + 8 = 11$ cm.\nHI: $6 \times 4 = 3 \times PD \\implies PD = 8$ सेमी। अतः $CD = 3 + 8 = 11$ सेमी।"
+    },
+    {
+      "id": "802b05ad",
+      "question": "Each interior angle of a regular polygon is $144^\\circ$. How many diagonals does this polygon have?\nएक समबहुभुज का प्रत्येक आंतरिक कोण $144^\\circ$ है। इस बहुभुज में कितने विकर्ण हैं?",
+      "options": [
+        "20",
+        "27",
+        "44",
+        "35"
+      ],
+      "answer": 3,
+      "explanation": "EN: Exterior angle $= 180^\\circ - 144^\\circ = 36^\\circ \\implies n = \\frac{360}{36} = 10$. Number of diagonals $= \\frac{n(n-3)}{2} = \\frac{10 \times 7}{2} = 35$.\nHI: बाह्य कोण $= 36^\\circ \\implies n = 10$। विकर्णों की संख्या $= \\frac{10 \times 7}{2} = 35$।"
+    },
+    {
+      "id": "84b93da8",
+      "question": "Two circles of radii 10 cm and 8 cm intersect and the length of the common chord is 12 cm. Find the distance between their centres.\n10 सेमी और 8 सेमी त्रिज्या वाले दो वृत्त प्रतिच्छेद करते हैं और उभयनिष्ठ जीवा की लंबाई 12 सेमी है। उनके केंद्रों के बीच की दूरी ज्ञात कीजिए।",
+      "options": [
+        "$14\text{ cm}$",
+        "$(8 + 2\\sqrt{7})\text{ cm}$",
+        "$(8 + \\sqrt{7})\text{ cm}$",
+        "$(6 + 2\\sqrt{7})\text{ cm}$"
+      ],
+      "answer": 1,
+      "explanation": "EN: Half-chord $= 6$ cm. Distance $= \\sqrt{10^2 - 6^2} + \\sqrt{8^2 - 6^2} = 8 + \\sqrt{28} = (8 + 2\\sqrt{7})$ cm.\nHI: अर्ध-जीवा $= 6$ सेमी। केंद्रों के बीच की दूरी $= \\sqrt{10^2 - 6^2} + \\sqrt{8^2 - 6^2} = (8 + 2\\sqrt{7})$ सेमी।"
+    },
+    {
+      "id": "20fb2f5a",
+      "question": "In $\triangle ABC$, $DE \\parallel BC$ where $D$ and $E$ lie on $AB$ and $AC$ respectively. If $AD : DB = 3 : 4$, find the ratio of the area of $\triangle ADE$ to the area of trapezium $DBCE$.\n$\triangle ABC$ में, $DE \\parallel BC$ जहाँ $D$ और $E$ क्रमशः $AB$ और $AC$ पर स्थित हैं। यदि $AD : DB = 3 : 4$ है, तो $\triangle ADE$ के क्षेत्रफल और समलंब $DBCE$ के क्षेत्रफल का अनुपात ज्ञात कीजिए।",
+      "options": [
+        "$3 : 7$",
+        "$9 : 16$",
+        "$9 : 49$",
+        "$9 : 40$"
+      ],
+      "answer": 3,
+      "explanation": "EN: $AD : AB = 3 : 7 \\implies \text{Area}(\triangle ADE) : \text{Area}(\triangle ABC) = 9 : 49$. Area of trapezium $DBCE = 49 - 9 = 40$. Ratio $= 9 : 40$.\nHI: $AD : AB = 3 : 7 \\implies \text{क्षेत्रफल}(\triangle ADE) : \text{क्षेत्रफल}(\triangle ABC) = 9 : 49$। समलंब $DBCE = 40$, अतः अनुपात $= 9 : 40$।"
+    },
+    {
+      "id": "5cc4b053",
+      "question": "From an external point $P$, a tangent $PT$ and a secant $PAB$ are drawn to a circle. If $PT = 12$ cm and $PA = 8$ cm, find the length of chord $AB$.\nएक बाह्य बिंदु $P$ से, एक वृत्त पर एक स्पर्श रेखा $PT$ और एक छेदक रेखा $PAB$ खींची जाती है। यदि $PT = 12$ सेमी और $PA = 8$ सेमी है, तो जीवा $AB$ की लंबाई ज्ञात कीजिए।",
+      "options": [
+        "6 cm / सेमी",
+        "18 cm / सेमी",
+        "10 cm / सेमी",
+        "14 cm / सेमी"
+      ],
+      "answer": 2,
+      "explanation": "EN: $PT^2 = PA \times PB \\implies 144 = 8 \times PB \\implies PB = 18$ cm. Chord $AB = PB - PA = 18 - 8 = 10$ cm.\nHI: $PT^2 = PA \times PB \\implies 144 = 8 \times PB \\implies PB = 18$ सेमी। जीवा $AB = 18 - 8 = 10$ सेमी।"
+    },
+    {
+      "id": "2883f88a",
+      "question": "In a cyclic quadrilateral $ABCD$, $AB$ is a diameter of the circle. If $\\angle ADC = 130^\\circ$, find $\\angle BAC$.\nएक चक्रीय चतुर्भुज $ABCD$ में, $AB$ वृत्त का व्यास है। यदि $\\angle ADC = 130^\\circ$ है, तो $\\angle BAC$ ज्ञात कीजिए।",
+      "options": [
+        "$40^\\circ$",
+        "$35^\\circ$",
+        "$50^\\circ$",
+        "$60^\\circ$"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\\angle ABC = 180^\\circ - 130^\\circ = 50^\\circ$. Since $AB$ is diameter, $\\angle ACB = 90^\\circ$. In $\triangle ABC$, $\\angle BAC = 180^\\circ - 90^\\circ - 50^\\circ = 40^\\circ$.\nHI: $\\angle ABC = 180^\\circ - 130^\\circ = 50^\\circ$ और अर्धवृत्त का कोण $\\angle ACB = 90^\\circ$। अतः $\\angle BAC = 40^\\circ$।"
+    },
+    {
+      "id": "27c8696e",
+      "question": "The length of the direct common tangent to two circles of radii 12 cm and 4 cm whose centres are 17 cm apart is:\n12 सेमी और 4 सेमी त्रिज्या वाले दो वृत्तों, जिनके केंद्र 17 सेमी दूर हैं, की उभयनिष्ठ अनुस्पर्श रेखा (direct common tangent) की लंबाई क्या है?",
+      "options": [
+        "15 cm / सेमी",
+        "12 cm / सेमी",
+        "16 cm / सेमी",
+        "13 cm / सेमी"
+      ],
+      "answer": 0,
+      "explanation": "EN: Length $= \\sqrt{d^2 - (R - r)^2} = \\sqrt{17^2 - (12 - 4)^2} = \\sqrt{289 - 64} = \\sqrt{225} = 15$ cm.\nHI: लंबाई $= \\sqrt{17^2 - (12 - 4)^2} = \\sqrt{289 - 64} = 15$ सेमी।"
+    },
+    {
+      "id": "5dba3c2d",
+      "question": "In $\triangle ABC$, $G$ is the centroid and $AD$ is a median of length 18 cm. Find the length of $AG$.\n$\triangle ABC$ में, $G$ केंद्रक है और $AD$, 18 सेमी लंबाई की एक माध्यिका है। $AG$ की लंबाई ज्ञात कीजिए।",
+      "options": [
+        "9 cm / सेमी",
+        "15 cm / सेमी",
+        "6 cm / सेमी",
+        "12 cm / सेमी"
+      ],
+      "answer": 3,
+      "explanation": "EN: Centroid divides median in $2 : 1$ ratio from vertex. $AG = \\frac{2}{3} \times 18 = 12$ cm.\nHI: केंद्रक माध्यिका को $2 : 1$ के अनुपात में विभाजित करता है। $AG = \\frac{2}{3} \times 18 = 12$ सेमी।"
+    },
+    {
+      "id": "607dc750",
+      "question": "If the angles of a triangle are in the ratio $2 : 3 : 4$, what is the difference between the largest and smallest exterior angles of the triangle?\nयदि किसी त्रिभुज के कोण $2 : 3 : 4$ के अनुपात में हैं, तो त्रिभुज के सबसे बड़े और सबसे छोटे बाह्य कोणों के बीच का अंतर क्या है?",
+      "options": [
+        "$20^\\circ$",
+        "$80^\\circ$",
+        "$60^\\circ$",
+        "$40^\\circ$"
+      ],
+      "answer": 3,
+      "explanation": "EN: Interior angles: $40^\\circ, 60^\\circ, 80^\\circ$. Exterior angles: $140^\\circ, 120^\\circ, 100^\\circ$. Difference $= 140^\\circ - 100^\\circ = 40^\\circ$.\nHI: आंतरिक कोण: $40^\\circ, 60^\\circ, 80^\\circ$। बाह्य कोण: $140^\\circ, 120^\\circ, 100^\\circ$। अंतर $= 140^\\circ - 100^\\circ = 40^\\circ$।"
+    },
+    {
+      "id": "21012261",
+      "question": "If the mean of a frequency distribution is 24.6 and its median is 25.1, find its mode using the empirical relationship.\nयदि किसी बारंबारता बंटन का माध्य 24.6 है और इसकी माध्यिका 25.1 है, तो आनुभविक संबंध का उपयोग करके इसका बहुलक ज्ञात कीजिए।",
+      "options": [
+        "25.6",
+        "26.6",
+        "24.1",
+        "26.1"
+      ],
+      "answer": 3,
+      "explanation": "EN: $\text{Mode} = 3(\text{Median}) - 2(\text{Mean}) = 3(25.1) - 2(24.6) = 75.3 - 49.2 = 26.1$.\nHI: $\text{बहुलक} = 3(\text{माध्यिका}) - 2(\text{माध्य}) = 3(25.1) - 2(24.6) = 26.1$।"
+    },
+    {
+      "id": "7d677709",
+      "question": "Find the variance of the first 7 natural numbers: $1, 2, 3, 4, 5, 6, 7$.\nप्रथम 7 प्राकृतिक संख्याओं $1, 2, 3, 4, 5, 6, 7$ का प्रसरण (variance) ज्ञात कीजिए।",
+      "options": [
+        "2",
+        "16",
+        "3.5",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "EN: Variance of first $n$ natural numbers $= \\frac{n^2 - 1}{12} = \\frac{49 - 1}{12} = \\frac{48}{12} = 4$.\nHI: प्रथम $n$ प्राकृतिक संख्याओं का प्रसरण $= \\frac{n^2 - 1}{12} = \\frac{49 - 1}{12} = 4$।"
+    },
+    {
+      "id": "474f51cf",
+      "question": "If the standard deviation of a dataset is 4.5, what will be the new variance if each observation is multiplied by 2 and then increased by 5?\nयदि किसी डेटासेट का मानक विचलन 4.5 है, तो प्रत्येक प्रेक्षण को 2 से गुणा करने और फिर 5 बढ़ाने पर नया प्रसरण (variance) क्या होगा?",
+      "options": [
+        "40.5",
+        "86",
+        "20.25",
+        "81"
+      ],
+      "answer": 3,
+      "explanation": "EN: Adding a constant does not change SD; multiplying by 2 doubles SD to $4.5 \times 2 = 9$. New Variance $= 9^2 = 81$.\nHI: अचर जोड़ने से मानक विचलन नहीं बदलता; 2 से गुणा करने पर नया मानक विचलन $= 9$। नया प्रसरण $= 9^2 = 81$।"
+    },
+    {
+      "id": "7a351f6a",
+      "question": "Find the median of the following observations arranged in ascending order: $11, 13, 15, 19, x + 2, x + 4, 30, 35, 39, 46$, if their median is 25.\nआरोही क्रम में व्यवस्थित प्रेक्षणों $11, 13, 15, 19, x + 2, x + 4, 30, 35, 39, 46$ की माध्यिका 25 है, तो $x$ का मान ज्ञात कीजिए।",
+      "options": [
+        "21",
+        "24",
+        "22",
+        "23"
+      ],
+      "answer": 2,
+      "explanation": "EN: There are 10 observations. Median is average of 5th and 6th terms: $\\frac{(x + 2) + (x + 4)}{2} = 25 \\implies x + 3 = 25 \\implies x = 22$.\nHI: 10 प्रेक्षण हैं। माध्यिका $= \\frac{(x + 2) + (x + 4)}{2} = 25 \\implies x + 3 = 25 \\implies x = 22$।"
+    },
+    {
+      "id": "6f0caf51",
+      "question": "The mean of 20 observations is 15. On checking, it was found that two observations were wrongly copied as 3 and 6 instead of 8 and 11. Find the correct mean.\n20 प्रेक्षणों का माध्य 15 है। जाँच करने पर पाया गया कि दो प्रेक्षणों को 8 और 11 के स्थान पर गलती से 3 और 6 लिख लिया गया था। सही माध्य ज्ञात कीजिए।",
+      "options": [
+        "15.25",
+        "16",
+        "14.5",
+        "15.5"
+      ],
+      "answer": 3,
+      "explanation": "EN: Difference $= (8 + 11) - (3 + 6) = 19 - 9 = +10$. Correct mean $= 15 + \\frac{10}{20} = 15.5$.\nHI: अंतर $= 19 - 9 = +10$। सही माध्य $= 15 + \\frac{10}{20} = 15.5$।"
+    },
+    {
+      "id": "0b3ad98c",
+      "question": "If the coefficient of variation of a distribution is 45% and the mean is 20, find its standard deviation.\nयदि किसी बंटन का विचरण गुणांक (coefficient of variation) 45% है और माध्य 20 है, तो इसका मानक विचलन ज्ञात कीजिए।",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "4.5"
+      ],
+      "answer": 0,
+      "explanation": "EN: $\text{CV} = \\frac{\text{SD}}{\text{Mean}} \times 100 \\implies 45 = \\frac{\text{SD}}{20} \times 100 \\implies \text{SD} = 9$.\nHI: $\text{CV} = \\frac{\text{SD}}{\text{माध्य}} \times 100 \\implies 45 = \\frac{\text{SD}}{20} \times 100 \\implies \text{SD} = 9$।"
+    },
+    {
+      "id": "d0506e43",
+      "question": "Find the mean deviation about the median for the data: $13, 17, 16, 14, 11, 13, 10, 16, 11, 18, 12, 17$.\nआँकड़ों $13, 17, 16, 14, 11, 13, 10, 16, 11, 18, 12, 17$ के लिए माध्यिका के सापेक्ष माध्य विचलन ज्ञात कीजिए।",
+      "options": [
+        "2.50",
+        "2.67",
+        "2.33",
+        "2.15"
+      ],
+      "answer": 2,
+      "explanation": "EN: Sorted: $10, 11, 11, 12, 13, 13, 14, 16, 16, 17, 17, 18$. Median $= \\frac{13 + 14}{2} = 13.5$. Sum of $|x_i - 13.5| = 3.5+2.5+2.5+1.5+0.5+0.5+0.5+2.5+2.5+3.5+3.5+4.5 = 28$. Mean deviation $= \\frac{28}{12} = 2.33$.\nHI: माध्यिका $= 13.5$। विचलनों का योग $= 28$। माध्य विचलन $= \\frac{28}{12} \\approx 2.33$।"
+    },
+    {
+      "id": "81df1563",
+      "question": "In a frequency distribution, the mid-values of classes are $10, 20, 30, 40, 50$ and their corresponding frequencies are $5, 8, 15, 12, 10$. Find the arithmetic mean.\nएक बारंबारता बंटन में, वर्गों के मध्य-मान $10, 20, 30, 40, 50$ हैं और उनकी संगत बारंबारताएँ $5, 8, 15, 12, 10$ हैं। समांतर माध्य ज्ञात कीजिए।",
+      "options": [
+        "33.2",
+        "32.8",
+        "30.8",
+        "31.5"
+      ],
+      "answer": 1,
+      "explanation": "EN: $\\sum f_i x_i = 50 + 160 + 450 + 480 + 500 = 1640$. $\\sum f_i = 50$. Mean $= \\frac{1640}{50} = 32.8$.\nHI: $\\sum f_i x_i = 1640$ और $\\sum f_i = 50$। समांतर माध्य $= \\frac{1640}{50} = 32.8$।"
+    },
+    {
+      "id": "c4db11cf",
+      "question": "What is the range of the following dataset: $-12, -5, 0, 8, 14, -19, 23, 7$?\nनिम्नलिखित डेटासेट का परिसर (range) क्या है: $-12, -5, 0, 8, 14, -19, 23, 7$?",
+      "options": [
+        "31",
+        "4",
+        "35",
+        "42"
+      ],
+      "answer": 3,
+      "explanation": "EN: Range $= \text{Max} - \text{Min} = 23 - (-19) = 42$.\nHI: परिसर $= \text{अधिकतम} - \text{न्यूनतम} = 23 - (-19) = 42$।"
+    },
+    {
+      "id": "3a671124",
+      "question": "If the sum of deviations of $n$ observations from 30 is 20 and the sum of deviations from 40 is $-30$, find the number of observations $n$ and their mean.\nयदि 30 से $n$ प्रेक्षणों के विचलनों का योग 20 है और 40 से विचलनों का योग $-30$ है, तो प्रेक्षणों की संख्या $n$ और उनका माध्य ज्ञात कीजिए।",
+      "options": [
+        "$n = 5, \text{Mean} = 36$",
+        "$n = 5, \text{Mean} = 34$",
+        "$n = 10, \text{Mean} = 32$",
+        "$n = 6, \text{Mean} = 35$"
+      ],
+      "answer": 1,
+      "explanation": "EN: $\\sum x_i - 30n = 20$ and $\\sum x_i - 40n = -30$. Subtracting gives $10n = 50 \\implies n = 5$. Then $\\sum x_i = 150 + 20 = 170 \\implies \text{Mean} = \\frac{170}{5} = 34$.\nHI: घटाने पर $10n = 50 \\implies n = 5$। $\\sum x_i = 170 \\implies \text{माध्य} = \\frac{170}{5} = 34$।"
+    }
+  ]
+}

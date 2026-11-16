@@ -1,0 +1,2405 @@
+{
+  "subject": "Science 2",
+  "questions": [
+    {
+      "id": "148cba0a",
+      "question": "A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "28 m/s",
+        "22.5 m/s",
+        "24 m/s",
+        "25 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s।"
+    },
+    {
+      "id": "33ce7a2b",
+      "question": "Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of angular momentum",
+        "Conservation of mechanical energy",
+        "Conservation of momentum",
+        "Conservation of total energy"
+      ],
+      "answer": 1,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती।"
+    },
+    {
+      "id": "546668ae",
+      "question": "An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "10 m",
+        "20 m",
+        "15 m",
+        "40 m"
+      ],
+      "answer": 1,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m।"
+    },
+    {
+      "id": "e1094c24",
+      "question": "What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It is doubled",
+        "It remains unchanged",
+        "It increases by a factor of 4",
+        "It increases by a factor of 8"
+      ],
+      "answer": 2,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है।"
+    },
+    {
+      "id": "2eb35a6b",
+      "question": "A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "40 m",
+        "80 m",
+        "100 m",
+        "20 m"
+      ],
+      "answer": 0,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है।"
+    },
+    {
+      "id": "3c332f60",
+      "question": "Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Diffraction",
+        "Interference",
+        "Refraction",
+        "Polarization"
+      ],
+      "answer": 0,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है।"
+    },
+    {
+      "id": "a5579b21",
+      "question": "Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Brewster angle",
+        "90 degrees",
+        "Angle of zero deviation",
+        "Critical angle"
+      ],
+      "answer": 3,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर।"
+    },
+    {
+      "id": "f79d5325",
+      "question": "Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Ozone refraction",
+        "Rayleigh scattering",
+        "Mie scattering",
+        "Nitrogen absorption"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन।"
+    },
+    {
+      "id": "c55fe790",
+      "question": "Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "340 m",
+        "170 m",
+        "1020 m",
+        "510 m"
+      ],
+      "answer": 3,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है।"
+    },
+    {
+      "id": "de3e99f9",
+      "question": "State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Supercritical fluid",
+        "Plasma",
+        "Amorphous solid",
+        "Bose-Einstein Condensate"
+      ],
+      "answer": 1,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है।"
+    },
+    {
+      "id": "3bc7048a",
+      "question": "Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+6",
+        "+3",
+        "+4",
+        "+7"
+      ],
+      "answer": 0,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6।"
+    },
+    {
+      "id": "fecca3a5",
+      "question": "Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Multiple Proportions",
+        "Avogadro's Law",
+        "Law of Conservation of Mass",
+        "Law of Definite Proportions"
+      ],
+      "answer": 2,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम।"
+    },
+    {
+      "id": "54aa55ae",
+      "question": "pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "answer": 3,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2।"
+    },
+    {
+      "id": "f0af5caf",
+      "question": "Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Hydrogen",
+        "Chlorine",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "answer": 0,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है।"
+    },
+    {
+      "id": "0d2d0ec3",
+      "question": "Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "NaOH",
+        "NaHCO3",
+        "NaCl",
+        "Na2CO3"
+      ],
+      "answer": 1,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट।"
+    },
+    {
+      "id": "3a2324e1",
+      "question": "Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin A"
+      ],
+      "answer": 0,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी।"
+    },
+    {
+      "id": "1ef3a4ed",
+      "question": "Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Alimentary canal",
+        "Neuron",
+        "Nephron",
+        "Alveolus"
+      ],
+      "answer": 2,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन।"
+    },
+    {
+      "id": "6ffe029f",
+      "question": "Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Adrenaline",
+        "Thyroxine",
+        "Glucagon",
+        "Insulin"
+      ],
+      "answer": 3,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन।"
+    },
+    {
+      "id": "80b2ff45",
+      "question": "Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Ozone (O3)",
+        "Carbon dioxide",
+        "Methane",
+        "Nitrous oxide"
+      ],
+      "answer": 0,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत।"
+    },
+    {
+      "id": "cab9f01e",
+      "question": "Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Biomagnification",
+        "Bioaccumulation",
+        "Greenhouse effect",
+        "Eutrophication"
+      ],
+      "answer": 0,
+      "explanation": "Biomagnification. / जैविक आवर्धन।"
+    },
+    {
+      "id": "fd78d89b",
+      "question": "[2] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "25 m/s",
+        "24 m/s",
+        "22.5 m/s",
+        "28 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 2)"
+    },
+    {
+      "id": "6eb6e3fc",
+      "question": "[2] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of mechanical energy",
+        "Conservation of angular momentum",
+        "Conservation of total energy",
+        "Conservation of momentum"
+      ],
+      "answer": 0,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 2)"
+    },
+    {
+      "id": "75cff2e3",
+      "question": "[2] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "20 m",
+        "10 m",
+        "40 m",
+        "15 m"
+      ],
+      "answer": 0,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 2)"
+    },
+    {
+      "id": "22860779",
+      "question": "[2] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It increases by a factor of 8",
+        "It remains unchanged",
+        "It increases by a factor of 4",
+        "It is doubled"
+      ],
+      "answer": 2,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 2)"
+    },
+    {
+      "id": "d73a7910",
+      "question": "[2] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "20 m",
+        "80 m",
+        "40 m",
+        "100 m"
+      ],
+      "answer": 2,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 2)"
+    },
+    {
+      "id": "d5e91b41",
+      "question": "[2] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Interference",
+        "Refraction",
+        "Diffraction",
+        "Polarization"
+      ],
+      "answer": 2,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 2)"
+    },
+    {
+      "id": "790a4d78",
+      "question": "[2] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Brewster angle",
+        "Angle of zero deviation",
+        "90 degrees",
+        "Critical angle"
+      ],
+      "answer": 3,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 2)"
+    },
+    {
+      "id": "01b7beb6",
+      "question": "[2] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Mie scattering",
+        "Rayleigh scattering",
+        "Nitrogen absorption",
+        "Ozone refraction"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 2)"
+    },
+    {
+      "id": "329c9abf",
+      "question": "[2] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "170 m",
+        "340 m",
+        "1020 m",
+        "510 m"
+      ],
+      "answer": 3,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 2)"
+    },
+    {
+      "id": "26d8cb25",
+      "question": "[2] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Plasma",
+        "Bose-Einstein Condensate",
+        "Amorphous solid",
+        "Supercritical fluid"
+      ],
+      "answer": 0,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 2)"
+    },
+    {
+      "id": "1310e0ae",
+      "question": "[2] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+4",
+        "+6",
+        "+3",
+        "+7"
+      ],
+      "answer": 1,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 2)"
+    },
+    {
+      "id": "48eccff6",
+      "question": "[2] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Definite Proportions",
+        "Avogadro's Law",
+        "Law of Conservation of Mass",
+        "Law of Multiple Proportions"
+      ],
+      "answer": 2,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 2)"
+    },
+    {
+      "id": "adc8504d",
+      "question": "[2] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "answer": 3,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 2)"
+    },
+    {
+      "id": "54b5801f",
+      "question": "[2] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Chlorine",
+        "Oxygen"
+      ],
+      "answer": 1,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 2)"
+    },
+    {
+      "id": "7e7510ff",
+      "question": "[2] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "NaOH",
+        "NaHCO3",
+        "NaCl",
+        "Na2CO3"
+      ],
+      "answer": 1,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 2)"
+    },
+    {
+      "id": "77380dc9",
+      "question": "[2] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin A",
+        "Vitamin C"
+      ],
+      "answer": 3,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 2)"
+    },
+    {
+      "id": "ddad1cd8",
+      "question": "[2] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Alveolus",
+        "Neuron",
+        "Nephron",
+        "Alimentary canal"
+      ],
+      "answer": 2,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 2)"
+    },
+    {
+      "id": "fa6d8f8f",
+      "question": "[2] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": 0,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 2)"
+    },
+    {
+      "id": "38bff9e7",
+      "question": "[2] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Ozone (O3)",
+        "Methane",
+        "Carbon dioxide",
+        "Nitrous oxide"
+      ],
+      "answer": 0,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 2)"
+    },
+    {
+      "id": "c0f29953",
+      "question": "[2] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Biomagnification",
+        "Eutrophication",
+        "Greenhouse effect",
+        "Bioaccumulation"
+      ],
+      "answer": 0,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 2)"
+    },
+    {
+      "id": "cef08297",
+      "question": "[3] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "24 m/s",
+        "22.5 m/s",
+        "25 m/s",
+        "28 m/s"
+      ],
+      "answer": 0,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 3)"
+    },
+    {
+      "id": "8da7b30f",
+      "question": "[3] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of total energy",
+        "Conservation of angular momentum",
+        "Conservation of mechanical energy",
+        "Conservation of momentum"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 3)"
+    },
+    {
+      "id": "7d04ac28",
+      "question": "[3] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "40 m",
+        "15 m",
+        "20 m",
+        "10 m"
+      ],
+      "answer": 2,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 3)"
+    },
+    {
+      "id": "03cdf562",
+      "question": "[3] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It increases by a factor of 8",
+        "It remains unchanged",
+        "It increases by a factor of 4",
+        "It is doubled"
+      ],
+      "answer": 2,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 3)"
+    },
+    {
+      "id": "4c575670",
+      "question": "[3] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "100 m",
+        "20 m",
+        "40 m",
+        "80 m"
+      ],
+      "answer": 2,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 3)"
+    },
+    {
+      "id": "0e58a1b4",
+      "question": "[3] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Refraction",
+        "Polarization",
+        "Interference",
+        "Diffraction"
+      ],
+      "answer": 3,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 3)"
+    },
+    {
+      "id": "d0316e85",
+      "question": "[3] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Brewster angle",
+        "Angle of zero deviation",
+        "Critical angle",
+        "90 degrees"
+      ],
+      "answer": 2,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 3)"
+    },
+    {
+      "id": "842c2025",
+      "question": "[3] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Ozone refraction",
+        "Mie scattering",
+        "Rayleigh scattering",
+        "Nitrogen absorption"
+      ],
+      "answer": 2,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 3)"
+    },
+    {
+      "id": "e57d7b30",
+      "question": "[3] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "510 m",
+        "1020 m",
+        "340 m",
+        "170 m"
+      ],
+      "answer": 0,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 3)"
+    },
+    {
+      "id": "a0feae6f",
+      "question": "[3] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Amorphous solid",
+        "Supercritical fluid",
+        "Plasma",
+        "Bose-Einstein Condensate"
+      ],
+      "answer": 2,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 3)"
+    },
+    {
+      "id": "aa13fbf5",
+      "question": "[3] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+4",
+        "+6",
+        "+3",
+        "+7"
+      ],
+      "answer": 1,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 3)"
+    },
+    {
+      "id": "80e09ac2",
+      "question": "[3] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Conservation of Mass",
+        "Law of Definite Proportions",
+        "Law of Multiple Proportions",
+        "Avogadro's Law"
+      ],
+      "answer": 0,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 3)"
+    },
+    {
+      "id": "b7615e10",
+      "question": "[3] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 3)"
+    },
+    {
+      "id": "07f8675c",
+      "question": "[3] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Chlorine",
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": 3,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 3)"
+    },
+    {
+      "id": "67df33b9",
+      "question": "[3] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "NaHCO3",
+        "Na2CO3",
+        "NaOH",
+        "NaCl"
+      ],
+      "answer": 0,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 3)"
+    },
+    {
+      "id": "8074b4d1",
+      "question": "[3] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A"
+      ],
+      "answer": 1,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 3)"
+    },
+    {
+      "id": "c013fffd",
+      "question": "[3] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Alimentary canal",
+        "Alveolus",
+        "Nephron",
+        "Neuron"
+      ],
+      "answer": 2,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 3)"
+    },
+    {
+      "id": "2061fe19",
+      "question": "[3] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline"
+      ],
+      "answer": 1,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 3)"
+    },
+    {
+      "id": "5b16fce2",
+      "question": "[3] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Methane",
+        "Nitrous oxide",
+        "Carbon dioxide",
+        "Ozone (O3)"
+      ],
+      "answer": 3,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 3)"
+    },
+    {
+      "id": "549a666d",
+      "question": "[3] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Biomagnification",
+        "Greenhouse effect",
+        "Eutrophication",
+        "Bioaccumulation"
+      ],
+      "answer": 0,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 3)"
+    },
+    {
+      "id": "7e334351",
+      "question": "[4] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "22.5 m/s",
+        "24 m/s",
+        "25 m/s",
+        "28 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 4)"
+    },
+    {
+      "id": "64a80f62",
+      "question": "[4] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of momentum",
+        "Conservation of mechanical energy",
+        "Conservation of total energy",
+        "Conservation of angular momentum"
+      ],
+      "answer": 1,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 4)"
+    },
+    {
+      "id": "7438dea6",
+      "question": "[4] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "20 m",
+        "40 m",
+        "10 m",
+        "15 m"
+      ],
+      "answer": 0,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 4)"
+    },
+    {
+      "id": "971b7a36",
+      "question": "[4] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It increases by a factor of 8",
+        "It increases by a factor of 4",
+        "It remains unchanged",
+        "It is doubled"
+      ],
+      "answer": 1,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 4)"
+    },
+    {
+      "id": "6af7ef54",
+      "question": "[4] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "40 m",
+        "100 m",
+        "80 m",
+        "20 m"
+      ],
+      "answer": 0,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 4)"
+    },
+    {
+      "id": "d8f9fb5c",
+      "question": "[4] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Interference",
+        "Polarization",
+        "Refraction",
+        "Diffraction"
+      ],
+      "answer": 3,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 4)"
+    },
+    {
+      "id": "1dbaa126",
+      "question": "[4] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Critical angle",
+        "Angle of zero deviation",
+        "90 degrees",
+        "Brewster angle"
+      ],
+      "answer": 0,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 4)"
+    },
+    {
+      "id": "352cc318",
+      "question": "[4] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Nitrogen absorption",
+        "Rayleigh scattering",
+        "Mie scattering",
+        "Ozone refraction"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 4)"
+    },
+    {
+      "id": "3482c703",
+      "question": "[4] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "340 m",
+        "170 m",
+        "510 m",
+        "1020 m"
+      ],
+      "answer": 2,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 4)"
+    },
+    {
+      "id": "e89b85c2",
+      "question": "[4] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Amorphous solid",
+        "Bose-Einstein Condensate",
+        "Plasma",
+        "Supercritical fluid"
+      ],
+      "answer": 2,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 4)"
+    },
+    {
+      "id": "d337d693",
+      "question": "[4] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+4",
+        "+7",
+        "+3",
+        "+6"
+      ],
+      "answer": 3,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 4)"
+    },
+    {
+      "id": "e9194358",
+      "question": "[4] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Avogadro's Law",
+        "Law of Definite Proportions",
+        "Law of Conservation of Mass",
+        "Law of Multiple Proportions"
+      ],
+      "answer": 2,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 4)"
+    },
+    {
+      "id": "8a6d5867",
+      "question": "[4] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 4)"
+    },
+    {
+      "id": "a9528b41",
+      "question": "[4] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Carbon dioxide",
+        "Chlorine",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "answer": 2,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 4)"
+    },
+    {
+      "id": "254d2cbd",
+      "question": "[4] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "Na2CO3",
+        "NaCl",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "answer": 2,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 4)"
+    },
+    {
+      "id": "059bfbf4",
+      "question": "[4] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C"
+      ],
+      "answer": 3,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 4)"
+    },
+    {
+      "id": "f71dbb18",
+      "question": "[4] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Nephron",
+        "Alveolus",
+        "Neuron",
+        "Alimentary canal"
+      ],
+      "answer": 0,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 4)"
+    },
+    {
+      "id": "4e71761e",
+      "question": "[4] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Thyroxine",
+        "Glucagon",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "answer": 2,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 4)"
+    },
+    {
+      "id": "d1b5d790",
+      "question": "[4] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrous oxide",
+        "Ozone (O3)",
+        "Methane"
+      ],
+      "answer": 2,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 4)"
+    },
+    {
+      "id": "54b6a9d4",
+      "question": "[4] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Eutrophication",
+        "Greenhouse effect",
+        "Biomagnification",
+        "Bioaccumulation"
+      ],
+      "answer": 2,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 4)"
+    },
+    {
+      "id": "0595cf51",
+      "question": "[5] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "22.5 m/s",
+        "28 m/s",
+        "24 m/s",
+        "25 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 5)"
+    },
+    {
+      "id": "9a022d51",
+      "question": "[5] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of total energy",
+        "Conservation of momentum",
+        "Conservation of mechanical energy",
+        "Conservation of angular momentum"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 5)"
+    },
+    {
+      "id": "bb4cb28f",
+      "question": "[5] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "20 m",
+        "15 m",
+        "10 m",
+        "40 m"
+      ],
+      "answer": 0,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 5)"
+    },
+    {
+      "id": "2cd999da",
+      "question": "[5] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It increases by a factor of 8",
+        "It remains unchanged",
+        "It is doubled",
+        "It increases by a factor of 4"
+      ],
+      "answer": 3,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 5)"
+    },
+    {
+      "id": "e26c428b",
+      "question": "[5] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "80 m",
+        "20 m",
+        "100 m",
+        "40 m"
+      ],
+      "answer": 3,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 5)"
+    },
+    {
+      "id": "8ba9573d",
+      "question": "[5] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Refraction",
+        "Polarization",
+        "Interference",
+        "Diffraction"
+      ],
+      "answer": 3,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 5)"
+    },
+    {
+      "id": "bf4bf736",
+      "question": "[5] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Critical angle",
+        "Angle of zero deviation",
+        "Brewster angle",
+        "90 degrees"
+      ],
+      "answer": 0,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 5)"
+    },
+    {
+      "id": "ba8044a1",
+      "question": "[5] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Ozone refraction",
+        "Mie scattering",
+        "Nitrogen absorption",
+        "Rayleigh scattering"
+      ],
+      "answer": 3,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 5)"
+    },
+    {
+      "id": "a208ccca",
+      "question": "[5] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "510 m",
+        "170 m",
+        "340 m",
+        "1020 m"
+      ],
+      "answer": 0,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 5)"
+    },
+    {
+      "id": "c35c0d03",
+      "question": "[5] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Supercritical fluid",
+        "Amorphous solid",
+        "Plasma",
+        "Bose-Einstein Condensate"
+      ],
+      "answer": 2,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 5)"
+    },
+    {
+      "id": "2d5a3a02",
+      "question": "[5] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+6",
+        "+4",
+        "+7",
+        "+3"
+      ],
+      "answer": 0,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 5)"
+    },
+    {
+      "id": "e8a30eff",
+      "question": "[5] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Definite Proportions",
+        "Avogadro's Law",
+        "Law of Multiple Proportions",
+        "Law of Conservation of Mass"
+      ],
+      "answer": 3,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 5)"
+    },
+    {
+      "id": "58ef6ad3",
+      "question": "[5] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 5)"
+    },
+    {
+      "id": "a90ace69",
+      "question": "[5] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Hydrogen",
+        "Chlorine",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "answer": 0,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 5)"
+    },
+    {
+      "id": "7e4d5274",
+      "question": "[5] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH",
+        "NaCl"
+      ],
+      "answer": 1,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 5)"
+    },
+    {
+      "id": "2dae217a",
+      "question": "[5] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C"
+      ],
+      "answer": 3,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 5)"
+    },
+    {
+      "id": "42fa8b5d",
+      "question": "[5] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Alimentary canal",
+        "Neuron",
+        "Nephron",
+        "Alveolus"
+      ],
+      "answer": 2,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 5)"
+    },
+    {
+      "id": "ce039af5",
+      "question": "[5] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Thyroxine",
+        "Glucagon",
+        "Adrenaline",
+        "Insulin"
+      ],
+      "answer": 3,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 5)"
+    },
+    {
+      "id": "048a5c85",
+      "question": "[5] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Methane",
+        "Nitrous oxide",
+        "Carbon dioxide",
+        "Ozone (O3)"
+      ],
+      "answer": 3,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 5)"
+    },
+    {
+      "id": "63482e79",
+      "question": "[5] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Bioaccumulation",
+        "Eutrophication",
+        "Biomagnification",
+        "Greenhouse effect"
+      ],
+      "answer": 2,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 5)"
+    },
+    {
+      "id": "863fb57b",
+      "question": "[6] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "25 m/s",
+        "28 m/s",
+        "24 m/s",
+        "22.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 6)"
+    },
+    {
+      "id": "87a550f3",
+      "question": "[6] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of angular momentum",
+        "Conservation of total energy",
+        "Conservation of momentum",
+        "Conservation of mechanical energy"
+      ],
+      "answer": 3,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 6)"
+    },
+    {
+      "id": "40f68efc",
+      "question": "[6] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "10 m",
+        "20 m",
+        "40 m",
+        "15 m"
+      ],
+      "answer": 1,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 6)"
+    },
+    {
+      "id": "1e9b0577",
+      "question": "[6] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It is doubled",
+        "It increases by a factor of 4",
+        "It increases by a factor of 8",
+        "It remains unchanged"
+      ],
+      "answer": 1,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 6)"
+    },
+    {
+      "id": "c9a13162",
+      "question": "[6] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "80 m",
+        "100 m",
+        "20 m",
+        "40 m"
+      ],
+      "answer": 3,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 6)"
+    },
+    {
+      "id": "654427b6",
+      "question": "[6] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Diffraction",
+        "Interference",
+        "Polarization",
+        "Refraction"
+      ],
+      "answer": 0,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 6)"
+    },
+    {
+      "id": "7f3603d4",
+      "question": "[6] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "90 degrees",
+        "Critical angle",
+        "Angle of zero deviation",
+        "Brewster angle"
+      ],
+      "answer": 1,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 6)"
+    },
+    {
+      "id": "08a93a14",
+      "question": "[6] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Ozone refraction",
+        "Nitrogen absorption",
+        "Rayleigh scattering",
+        "Mie scattering"
+      ],
+      "answer": 2,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 6)"
+    },
+    {
+      "id": "93b7cad8",
+      "question": "[6] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "1020 m",
+        "170 m",
+        "340 m",
+        "510 m"
+      ],
+      "answer": 3,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 6)"
+    },
+    {
+      "id": "f7739709",
+      "question": "[6] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Plasma",
+        "Supercritical fluid",
+        "Bose-Einstein Condensate",
+        "Amorphous solid"
+      ],
+      "answer": 0,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 6)"
+    },
+    {
+      "id": "42011109",
+      "question": "[6] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+3",
+        "+7",
+        "+6",
+        "+4"
+      ],
+      "answer": 2,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 6)"
+    },
+    {
+      "id": "fd49d8ff",
+      "question": "[6] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Definite Proportions",
+        "Law of Multiple Proportions",
+        "Avogadro's Law",
+        "Law of Conservation of Mass"
+      ],
+      "answer": 3,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 6)"
+    },
+    {
+      "id": "b05d8cd5",
+      "question": "[6] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 6)"
+    },
+    {
+      "id": "66ecb74d",
+      "question": "[6] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Chlorine",
+        "Carbon dioxide"
+      ],
+      "answer": 1,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 6)"
+    },
+    {
+      "id": "6ad376b5",
+      "question": "[6] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "NaHCO3",
+        "NaCl",
+        "Na2CO3",
+        "NaOH"
+      ],
+      "answer": 0,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 6)"
+    },
+    {
+      "id": "1a22c93f",
+      "question": "[6] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A"
+      ],
+      "answer": 1,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 6)"
+    },
+    {
+      "id": "ed7deab2",
+      "question": "[6] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Alveolus",
+        "Neuron",
+        "Alimentary canal",
+        "Nephron"
+      ],
+      "answer": 3,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 6)"
+    },
+    {
+      "id": "3347ceb0",
+      "question": "[6] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Glucagon",
+        "Adrenaline",
+        "Thyroxine",
+        "Insulin"
+      ],
+      "answer": 3,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 6)"
+    },
+    {
+      "id": "00e29fe2",
+      "question": "[6] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Ozone (O3)",
+        "Nitrous oxide",
+        "Methane",
+        "Carbon dioxide"
+      ],
+      "answer": 0,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 6)"
+    },
+    {
+      "id": "11bda0af",
+      "question": "[6] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Bioaccumulation",
+        "Eutrophication",
+        "Biomagnification",
+        "Greenhouse effect"
+      ],
+      "answer": 2,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 6)"
+    },
+    {
+      "id": "42703242",
+      "question": "[7] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "24 m/s",
+        "28 m/s",
+        "25 m/s",
+        "22.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 7)"
+    },
+    {
+      "id": "d2800a0a",
+      "question": "[7] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of momentum",
+        "Conservation of angular momentum",
+        "Conservation of mechanical energy",
+        "Conservation of total energy"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 7)"
+    },
+    {
+      "id": "879b5ca0",
+      "question": "[7] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "15 m",
+        "40 m",
+        "20 m",
+        "10 m"
+      ],
+      "answer": 2,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 7)"
+    },
+    {
+      "id": "6c697e80",
+      "question": "[7] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It is doubled",
+        "It increases by a factor of 4",
+        "It remains unchanged",
+        "It increases by a factor of 8"
+      ],
+      "answer": 1,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 7)"
+    },
+    {
+      "id": "73d1a0b9",
+      "question": "[7] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "20 m",
+        "100 m",
+        "40 m",
+        "80 m"
+      ],
+      "answer": 2,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 7)"
+    },
+    {
+      "id": "da30be5f",
+      "question": "[7] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Refraction",
+        "Interference",
+        "Polarization",
+        "Diffraction"
+      ],
+      "answer": 3,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 7)"
+    },
+    {
+      "id": "f53fc4f7",
+      "question": "[7] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Critical angle",
+        "90 degrees",
+        "Angle of zero deviation",
+        "Brewster angle"
+      ],
+      "answer": 0,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 7)"
+    },
+    {
+      "id": "d961796c",
+      "question": "[7] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Ozone refraction",
+        "Rayleigh scattering",
+        "Nitrogen absorption",
+        "Mie scattering"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 7)"
+    },
+    {
+      "id": "f62ea99d",
+      "question": "[7] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "510 m",
+        "1020 m",
+        "340 m",
+        "170 m"
+      ],
+      "answer": 0,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 7)"
+    },
+    {
+      "id": "b952a3a7",
+      "question": "[7] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Plasma",
+        "Supercritical fluid",
+        "Amorphous solid",
+        "Bose-Einstein Condensate"
+      ],
+      "answer": 0,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 7)"
+    },
+    {
+      "id": "4f53e078",
+      "question": "[7] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+4",
+        "+3",
+        "+7",
+        "+6"
+      ],
+      "answer": 3,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 7)"
+    },
+    {
+      "id": "ecd6fde4",
+      "question": "[7] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Conservation of Mass",
+        "Law of Multiple Proportions",
+        "Avogadro's Law",
+        "Law of Definite Proportions"
+      ],
+      "answer": 0,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 7)"
+    },
+    {
+      "id": "ea922550",
+      "question": "[7] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 7)"
+    },
+    {
+      "id": "de7544a5",
+      "question": "[7] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Chlorine",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "answer": 2,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 7)"
+    },
+    {
+      "id": "fa5214ca",
+      "question": "[7] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH",
+        "NaCl"
+      ],
+      "answer": 1,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 7)"
+    },
+    {
+      "id": "d2cc588a",
+      "question": "[7] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "answer": 1,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 7)"
+    },
+    {
+      "id": "d20a66d3",
+      "question": "[7] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Neuron",
+        "Alimentary canal",
+        "Nephron",
+        "Alveolus"
+      ],
+      "answer": 2,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 7)"
+    },
+    {
+      "id": "c8cb768a",
+      "question": "[7] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Glucagon",
+        "Thyroxine",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "answer": 2,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 7)"
+    },
+    {
+      "id": "75549f61",
+      "question": "[7] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Carbon dioxide",
+        "Ozone (O3)",
+        "Methane",
+        "Nitrous oxide"
+      ],
+      "answer": 1,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 7)"
+    },
+    {
+      "id": "b1fd261e",
+      "question": "[7] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Eutrophication",
+        "Bioaccumulation",
+        "Greenhouse effect",
+        "Biomagnification"
+      ],
+      "answer": 3,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 7)"
+    },
+    {
+      "id": "eccd1685",
+      "question": "[8] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "28 m/s",
+        "22.5 m/s",
+        "24 m/s",
+        "25 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 8)"
+    },
+    {
+      "id": "3a694909",
+      "question": "[8] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of total energy",
+        "Conservation of mechanical energy",
+        "Conservation of angular momentum",
+        "Conservation of momentum"
+      ],
+      "answer": 1,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 8)"
+    },
+    {
+      "id": "13c24a89",
+      "question": "[8] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "10 m",
+        "15 m",
+        "40 m",
+        "20 m"
+      ],
+      "answer": 3,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 8)"
+    },
+    {
+      "id": "1a6db66b",
+      "question": "[8] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It increases by a factor of 4",
+        "It increases by a factor of 8",
+        "It is doubled",
+        "It remains unchanged"
+      ],
+      "answer": 0,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 8)"
+    },
+    {
+      "id": "36675d92",
+      "question": "[8] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "40 m",
+        "80 m",
+        "20 m",
+        "100 m"
+      ],
+      "answer": 0,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 8)"
+    },
+    {
+      "id": "d80ba04f",
+      "question": "[8] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Diffraction",
+        "Interference",
+        "Polarization",
+        "Refraction"
+      ],
+      "answer": 0,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 8)"
+    },
+    {
+      "id": "ae809e7f",
+      "question": "[8] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Angle of zero deviation",
+        "Critical angle",
+        "90 degrees",
+        "Brewster angle"
+      ],
+      "answer": 1,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 8)"
+    },
+    {
+      "id": "a6d92adf",
+      "question": "[8] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Ozone refraction",
+        "Rayleigh scattering",
+        "Mie scattering",
+        "Nitrogen absorption"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 8)"
+    },
+    {
+      "id": "8166c218",
+      "question": "[8] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "340 m",
+        "510 m",
+        "1020 m",
+        "170 m"
+      ],
+      "answer": 1,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 8)"
+    },
+    {
+      "id": "7af9b111",
+      "question": "[8] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Plasma",
+        "Bose-Einstein Condensate",
+        "Amorphous solid",
+        "Supercritical fluid"
+      ],
+      "answer": 0,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 8)"
+    },
+    {
+      "id": "ae8be9d1",
+      "question": "[8] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+3",
+        "+6",
+        "+4",
+        "+7"
+      ],
+      "answer": 1,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 8)"
+    },
+    {
+      "id": "00d2e076",
+      "question": "[8] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Conservation of Mass",
+        "Avogadro's Law",
+        "Law of Definite Proportions",
+        "Law of Multiple Proportions"
+      ],
+      "answer": 0,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 8)"
+    },
+    {
+      "id": "c00be0c4",
+      "question": "[8] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 8)"
+    },
+    {
+      "id": "199d5a8d",
+      "question": "[8] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Chlorine",
+        "Carbon dioxide"
+      ],
+      "answer": 1,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 8)"
+    },
+    {
+      "id": "b124c0df",
+      "question": "[8] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "Na2CO3",
+        "NaHCO3",
+        "NaCl",
+        "NaOH"
+      ],
+      "answer": 1,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 8)"
+    },
+    {
+      "id": "77d53a53",
+      "question": "[8] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin A",
+        "Vitamin D"
+      ],
+      "answer": 0,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 8)"
+    },
+    {
+      "id": "c3d94f42",
+      "question": "[8] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Alveolus",
+        "Alimentary canal",
+        "Nephron",
+        "Neuron"
+      ],
+      "answer": 2,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 8)"
+    },
+    {
+      "id": "99d211d1",
+      "question": "[8] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Thyroxine",
+        "Adrenaline"
+      ],
+      "answer": 0,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 8)"
+    },
+    {
+      "id": "ba14c941",
+      "question": "[8] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Ozone (O3)",
+        "Nitrous oxide",
+        "Methane",
+        "Carbon dioxide"
+      ],
+      "answer": 0,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 8)"
+    },
+    {
+      "id": "ffcab730",
+      "question": "[8] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Eutrophication",
+        "Greenhouse effect",
+        "Biomagnification",
+        "Bioaccumulation"
+      ],
+      "answer": 2,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 8)"
+    },
+    {
+      "id": "c21da4c3",
+      "question": "[9] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "24 m/s",
+        "28 m/s",
+        "25 m/s",
+        "22.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 9)"
+    },
+    {
+      "id": "27f77b16",
+      "question": "[9] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of angular momentum",
+        "Conservation of momentum",
+        "Conservation of mechanical energy",
+        "Conservation of total energy"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 9)"
+    },
+    {
+      "id": "1a8af3d2",
+      "question": "[9] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "20 m",
+        "40 m",
+        "15 m",
+        "10 m"
+      ],
+      "answer": 0,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 9)"
+    },
+    {
+      "id": "0b614a35",
+      "question": "[9] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It increases by a factor of 4",
+        "It is doubled",
+        "It remains unchanged",
+        "It increases by a factor of 8"
+      ],
+      "answer": 0,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 9)"
+    },
+    {
+      "id": "9d3324d7",
+      "question": "[9] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "100 m",
+        "80 m",
+        "20 m",
+        "40 m"
+      ],
+      "answer": 3,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 9)"
+    },
+    {
+      "id": "80c2aee8",
+      "question": "[9] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Polarization",
+        "Diffraction",
+        "Interference",
+        "Refraction"
+      ],
+      "answer": 1,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 9)"
+    },
+    {
+      "id": "4d06b647",
+      "question": "[9] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Angle of zero deviation",
+        "Brewster angle",
+        "90 degrees",
+        "Critical angle"
+      ],
+      "answer": 3,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 9)"
+    },
+    {
+      "id": "acbe9687",
+      "question": "[9] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Mie scattering",
+        "Rayleigh scattering",
+        "Ozone refraction",
+        "Nitrogen absorption"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 9)"
+    },
+    {
+      "id": "cb267d7b",
+      "question": "[9] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "170 m",
+        "1020 m",
+        "340 m",
+        "510 m"
+      ],
+      "answer": 3,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 9)"
+    },
+    {
+      "id": "13f6ddf9",
+      "question": "[9] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Supercritical fluid",
+        "Amorphous solid",
+        "Bose-Einstein Condensate",
+        "Plasma"
+      ],
+      "answer": 3,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 9)"
+    },
+    {
+      "id": "62749816",
+      "question": "[9] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+7",
+        "+6",
+        "+4",
+        "+3"
+      ],
+      "answer": 1,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 9)"
+    },
+    {
+      "id": "79cf5d94",
+      "question": "[9] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Law of Conservation of Mass",
+        "Law of Definite Proportions",
+        "Avogadro's Law",
+        "Law of Multiple Proportions"
+      ],
+      "answer": 0,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 9)"
+    },
+    {
+      "id": "7594278e",
+      "question": "[9] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 9)"
+    },
+    {
+      "id": "271fecf7",
+      "question": "[9] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Hydrogen",
+        "Carbon dioxide",
+        "Chlorine",
+        "Oxygen"
+      ],
+      "answer": 0,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 9)"
+    },
+    {
+      "id": "926797bf",
+      "question": "[9] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "NaCl",
+        "NaOH",
+        "Na2CO3",
+        "NaHCO3"
+      ],
+      "answer": 3,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 9)"
+    },
+    {
+      "id": "c4687bce",
+      "question": "[9] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin A"
+      ],
+      "answer": 2,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 9)"
+    },
+    {
+      "id": "dff7e5d3",
+      "question": "[9] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alimentary canal",
+        "Alveolus"
+      ],
+      "answer": 1,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 9)"
+    },
+    {
+      "id": "9fa21a62",
+      "question": "[9] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Glucagon",
+        "Thyroxine"
+      ],
+      "answer": 0,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 9)"
+    },
+    {
+      "id": "6b89f075",
+      "question": "[9] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Ozone (O3)",
+        "Nitrous oxide",
+        "Carbon dioxide",
+        "Methane"
+      ],
+      "answer": 0,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 9)"
+    },
+    {
+      "id": "bfe75460",
+      "question": "[9] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Biomagnification",
+        "Greenhouse effect",
+        "Eutrophication",
+        "Bioaccumulation"
+      ],
+      "answer": 0,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 9)"
+    },
+    {
+      "id": "cd112a1c",
+      "question": "[10] A body covers half the distance with a speed of 20 m/s and the other half with 30 m/s. What is the average speed? / एक पिंड आधी दूरी 20 m/s और शेष आधी 30 m/s की चाल से तय करता है। औसत चाल क्या है?",
+      "options": [
+        "22.5 m/s",
+        "28 m/s",
+        "25 m/s",
+        "24 m/s"
+      ],
+      "answer": 3,
+      "explanation": "Average speed = 2v1v2 / (v1 + v2) = 24 m/s. / औसत चाल = 2v1v2 / (v1 + v2) = 24 m/s। (Set 10)"
+    },
+    {
+      "id": "714db7ba",
+      "question": "[10] Which of the following conservation laws is fundamentally violated in a non-conservative force field like friction? / घर्षण जैसे असंरक्षी बल क्षेत्र में कौन सा संरक्षण नियम मौलिक रूप से टूटता है?",
+      "options": [
+        "Conservation of momentum",
+        "Conservation of total energy",
+        "Conservation of mechanical energy",
+        "Conservation of angular momentum"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical energy is not conserved in non-conservative forces. / यांत्रिक ऊर्जा असंरक्षी बलों में संरक्षित नहीं रहती। (Set 10)"
+    },
+    {
+      "id": "398f8954",
+      "question": "[10] An object of mass 5 kg is thrown vertically upwards with an initial velocity of 20 m/s. Max height? (g = 10 m/s^2) / 5 kg द्रव्यमान की वस्तु को 20 m/s से ऊपर फेंका गया। अधिकतम ऊँचाई? (g = 10 m/s^2)",
+      "options": [
+        "10 m",
+        "20 m",
+        "40 m",
+        "15 m"
+      ],
+      "answer": 1,
+      "explanation": "h = u^2 / (2g) = 400 / 20 = 20 m. / h = u^2 / (2g) = 20 m। (Set 10)"
+    },
+    {
+      "id": "3a14983a",
+      "question": "[10] What happens to kinetic energy if momentum is doubled at constant mass? / यदि संवेग दोगुना कर दिया जाए, तो गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+      "options": [
+        "It remains unchanged",
+        "It is doubled",
+        "It increases by a factor of 4",
+        "It increases by a factor of 8"
+      ],
+      "answer": 2,
+      "explanation": "KE = p^2 / (2m), so quadruples when p is doubled. / KE = p^2 / (2m), अतः p दोगुना होने पर 4 गुना हो जाती है। (Set 10)"
+    },
+    {
+      "id": "0288836e",
+      "question": "[10] A force of 50 N acts on a 10 kg body at rest for 4 s. Displacement? / 10 kg की वस्तु पर 50 N का बल 4 सेकंड तक लगा। विस्थापन?",
+      "options": [
+        "100 m",
+        "20 m",
+        "40 m",
+        "80 m"
+      ],
+      "answer": 2,
+      "explanation": "s = ut + 0.5*a*t^2 = 0 + 0.5 * 5 * 16 = 40 m. / विस्थापन 40 m है। (Set 10)"
+    },
+    {
+      "id": "455fc565",
+      "question": "[10] Which wave phenomenon explains sound around corners? / कौन सी तरंग घटना कोनों के आसपास ध्वनि को समझाती है?",
+      "options": [
+        "Polarization",
+        "Interference",
+        "Diffraction",
+        "Refraction"
+      ],
+      "answer": 2,
+      "explanation": "Diffraction is the bending around obstacles. / विवर्तन बाधाओं के चारों ओर मुड़ना है। (Set 10)"
+    },
+    {
+      "id": "73639bd2",
+      "question": "[10] Total internal reflection occurs when light enters rarer medium at angle greater than? / पूर्ण आंतरिक परावर्तन कब होता है?",
+      "options": [
+        "Brewster angle",
+        "Angle of zero deviation",
+        "Critical angle",
+        "90 degrees"
+      ],
+      "answer": 2,
+      "explanation": "Angle greater than critical angle. / क्रांतिक कोण से अधिक कोण पर। (Set 10)"
+    },
+    {
+      "id": "fcc8be27",
+      "question": "[10] Primary reason for blue color of clear sky? / स्वच्छ आकाश के नीले रंग का मुख्य कारण?",
+      "options": [
+        "Rayleigh scattering",
+        "Nitrogen absorption",
+        "Ozone refraction",
+        "Mie scattering"
+      ],
+      "answer": 0,
+      "explanation": "Rayleigh scattering of short wavelengths. / लघु तरंगदैर्ध्य का रेleigh प्रकीर्णन। (Set 10)"
+    },
+    {
+      "id": "f597cc52",
+      "question": "[10] Echo heard after 3s with sound speed 340 m/s. Distance to surface? / 3 सेकंड बाद प्रतिध्वनि, ध्वनि चाल 340 m/s। दूरी?",
+      "options": [
+        "340 m",
+        "170 m",
+        "510 m",
+        "1020 m"
+      ],
+      "answer": 2,
+      "explanation": "Distance = (340 * 3) / 2 = 510 m. / दूरी 510 m है। (Set 10)"
+    },
+    {
+      "id": "0917a9b8",
+      "question": "[10] State of matter consisting of ionized gas at extremely high temperatures? / उच्च तापमान पर आयनीकृत गैस वाली अवस्था?",
+      "options": [
+        "Amorphous solid",
+        "Supercritical fluid",
+        "Bose-Einstein Condensate",
+        "Plasma"
+      ],
+      "answer": 3,
+      "explanation": "Plasma is the fourth state. / प्लाज्मा चौथी अवस्था है। (Set 10)"
+    },
+    {
+      "id": "fb4b4035",
+      "question": "[10] Oxidation number of Cr in K2Cr2O7? / K2Cr2O7 में Cr की ऑक्सीकरण संख्या?",
+      "options": [
+        "+7",
+        "+6",
+        "+4",
+        "+3"
+      ],
+      "answer": 1,
+      "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => Cr = +6. / Cr = +6। (Set 10)"
+    },
+    {
+      "id": "339c8437",
+      "question": "[10] Law stating mass is neither created nor destroyed? / द्रव्यमान संरक्षण नियम?",
+      "options": [
+        "Avogadro's Law",
+        "Law of Conservation of Mass",
+        "Law of Multiple Proportions",
+        "Law of Definite Proportions"
+      ],
+      "answer": 1,
+      "explanation": "Lavoisier's Law of Conservation of Mass. / लावोइज़ियर का द्रव्यमान संरक्षण नियम। (Set 10)"
+    },
+    {
+      "id": "10c3f14e",
+      "question": "[10] pH of 0.01 M HCl solution? / 0.01 M HCl विलयन का pH?",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "answer": 3,
+      "explanation": "pH = -log(10^-2) = 2. / pH = 2। (Set 10)"
+    },
+    {
+      "id": "248c28d5",
+      "question": "[10] Gas liberated when dilute HCl reacts with zinc? / तनु HCl और जिंक की प्रतिक्रिया से गैस?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Chlorine",
+        "Hydrogen"
+      ],
+      "answer": 3,
+      "explanation": "Hydrogen gas (H2) is evolved. / हाइड्रोजन गैस निकलती है। (Set 10)"
+    },
+    {
+      "id": "d19b332e",
+      "question": "[10] Chemical formula of baking soda? / बेकिंग सोडा का रासायनिक सूत्र?",
+      "options": [
+        "NaHCO3",
+        "NaCl",
+        "Na2CO3",
+        "NaOH"
+      ],
+      "answer": 0,
+      "explanation": "Sodium bicarbonate (NaHCO3). / सोडियम बाइकार्बोनेट। (Set 10)"
+    },
+    {
+      "id": "a70b6726",
+      "question": "[10] Vitamin deficiency causing scurvy? / स्कर्वी किस विटामिन की कमी से होता है?",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin A"
+      ],
+      "answer": 2,
+      "explanation": "Vitamin C deficiency causes scurvy. / विटामिन सी की कमी। (Set 10)"
+    },
+    {
+      "id": "eb426a1d",
+      "question": "[10] Functional filtering unit of human kidney? / मानव वृक्क की निस्पंदन इकाई?",
+      "options": [
+        "Alveolus",
+        "Neuron",
+        "Alimentary canal",
+        "Nephron"
+      ],
+      "answer": 3,
+      "explanation": "Nephron is the filtering unit. / नेफ्रॉन। (Set 10)"
+    },
+    {
+      "id": "cd9b97c1",
+      "question": "[10] Hormone regulating blood glucose? / रक्त शर्करा को नियंत्रित करने वाला हार्मोन?",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Glucagon"
+      ],
+      "answer": 2,
+      "explanation": "Insulin lowers blood glucose. / इंसुलिन। (Set 10)"
+    },
+    {
+      "id": "408f3269",
+      "question": "[10] Stratospheric gas absorbing UV rays? / पराबैंगनी किरणों को अवशोषित करने वाली गैस?",
+      "options": [
+        "Ozone (O3)",
+        "Carbon dioxide",
+        "Nitrous oxide",
+        "Methane"
+      ],
+      "answer": 0,
+      "explanation": "Ozone layer protects Earth. / ओजोन परत। (Set 10)"
+    },
+    {
+      "id": "ab8c1370",
+      "question": "[10] Accumulation of toxins at trophic levels? / पोषण स्तरों पर विषाक्त पदार्थों का संचय?",
+      "options": [
+        "Eutrophication",
+        "Biomagnification",
+        "Bioaccumulation",
+        "Greenhouse effect"
+      ],
+      "answer": 1,
+      "explanation": "Biomagnification. / जैविक आवर्धन। (Set 10)"
+    }
+  ]
+}
